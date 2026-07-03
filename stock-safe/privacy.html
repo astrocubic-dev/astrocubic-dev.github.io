@@ -3,45 +3,65 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="주식 증권 금고 개인정보 처리방침입니다.">
   <title>주식 증권 금고 개인정보 처리방침</title>
-  <style>
-    :root { color-scheme: light; }
-    body { margin: 0; background: #f7f1e6; color: #17251f; font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Noto Sans KR", sans-serif; line-height: 1.68; }
-    main { max-width: 820px; margin: 0 auto; padding: 48px 22px 72px; }
-    h1 { font-size: clamp(28px, 5vw, 42px); line-height: 1.18; margin: 0 0 24px; }
-    h2 { font-size: 22px; margin: 34px 0 10px; }
-    p, li { font-size: 16px; }
-    ul { padding-left: 22px; }
-    .card { background: rgba(255,255,255,.62); border: 1px solid #d3c3a3; border-radius: 16px; padding: 26px; box-shadow: 0 16px 40px rgba(43,33,22,.10); }
-  </style>
+  <link rel="stylesheet" href="styles.css">
 </head>
-<body><main><section class="card">
-<h1>주식 증권 금고 개인정보 처리방침</h1>
-<p>시행일: 2026-06-24</p>
-<p>주식 증권 금고는 사용자가 보유 주식 정보를 종이 주권 형태로 기록하고 관리하는 개인 보관용 앱입니다.</p>
-<h2>수집하는 정보</h2>
-<p>앱은 다음 정보를 사용자의 기기 안에 저장할 수 있습니다.</p>
-<ul>
-<li>종목명, 종목코드, 시장 구분</li>
-<li>보유 수량, 평균 단가, 현재가, 통화, 환율</li>
-<li>사용자가 직접 입력한 메모</li>
-<li>사용자가 직접 입력한 매매 기록</li>
-</ul>
-<h2>저장 위치</h2>
-<p>위 정보는 기본적으로 사용자의 기기 로컬 저장소에 저장됩니다. 앱은 자체 회원 계정, 자체 서버 저장소, 실제 증권 계좌 연동을 초기 버전에서 제공하지 않습니다.</p>
-<h2>네트워크 사용</h2>
-<p>앱은 사용자가 현재가 갱신을 실행하거나 앱 실행 중 자동 갱신이 동작할 때 공개 시세 정보를 조회할 수 있습니다.</p>
-<ul>
-<li>국내 상장 종목: 외부 공개 시세를 기준으로 현재가 갱신을 시도합니다.</li>
-<li>해외 또는 비상장 종목: 공개 시세가 제공되지 않으면 사용자가 입력한 가격을 유지합니다.</li>
-</ul>
-<p>외부 시세 제공자의 응답 형식, 지연, 장애, 제한에 따라 가격 갱신이 실패할 수 있습니다.</p>
-<h2>향후 앱 내 구입 기능 후보</h2>
-<p>앱 잠금, Face ID 잠금 해제, 배당 로컬 알림, 글래스 UI, 주권 위치 보정은 향후 앱 내 구입 기능으로 분리될 수 있습니다. 이 기능을 제공하는 버전에서는 앱 안에서 별도로 안내합니다. Face ID 생체 인증 데이터는 Apple의 기기 보안 영역에서 처리되며 앱이 직접 수집하거나 저장하지 않습니다.</p>
-<h2>금융 자문 아님</h2>
-<p>주식 증권 금고는 투자 기록 및 보관용 앱입니다. 앱 안의 평가금, 수익률, 현재가는 투자 자문, 매수 또는 매도 추천, 수익 보장으로 해석되어서는 안 됩니다.</p>
-<h2>제3자 제공</h2>
-<p>앱은 사용자의 보유 주식 기록을 개발자 서버로 전송하거나 제3자에게 판매하지 않습니다. 단, 현재가 조회를 위해 외부 시세 서비스에 종목코드가 요청될 수 있습니다.</p>
-<h2>문의</h2>
-<p>개인정보 처리방침 문의는 App Store Connect에 등록된 개발자 연락처 또는 지원 URL을 통해 접수합니다.</p>
-</section></main></body></html>
+<body>
+  <main class="site">
+    <nav class="nav" aria-label="주식 증권 금고">
+      <a class="brand" href="marketing.html"><span class="mark">▣</span><span>주식 증권 금고</span></a>
+      <div class="nav-links">
+        <a href="marketing.html">앱 소개</a>
+        <a href="support.html">지원</a>
+      </div>
+    </nav>
+
+    <header class="page-title">
+      <div class="eyebrow">Privacy Policy</div>
+      <h1>개인정보 처리방침</h1>
+      <p class="lead">시행일: 2026-06-24</p>
+    </header>
+
+    <section class="panel">
+      <p>주식 증권 금고는 사용자가 보유 주식 정보를 종이 주권 형태로 기록하고 관리하는 개인 보관용 앱입니다.</p>
+
+      <h2>수집하는 정보</h2>
+      <p>앱은 다음 정보를 사용자의 기기 안에 저장할 수 있습니다.</p>
+      <ul class="meta-list">
+        <li>종목명, 종목코드, 시장 구분</li>
+        <li>보유 수량, 평균 단가, 현재가, 통화, 환율</li>
+        <li>사용자가 직접 입력한 메모</li>
+        <li>사용자가 직접 입력한 매매 기록</li>
+      </ul>
+
+      <h2>저장 위치</h2>
+      <p>위 정보는 기본적으로 사용자의 기기 로컬 저장소에 저장됩니다. 앱은 자체 회원 계정, 자체 서버 저장소, 실제 증권 계좌 연동을 초기 버전에서 제공하지 않습니다.</p>
+
+      <h2>네트워크 사용</h2>
+      <p>앱은 사용자가 현재가 갱신을 실행하거나 앱 실행 중 자동 갱신이 동작할 때 공개 시세 정보를 조회할 수 있습니다.</p>
+      <ul class="meta-list">
+        <li>국내 상장 종목: 외부 공개 시세를 기준으로 현재가 갱신을 시도합니다.</li>
+        <li>해외 또는 비상장 종목: 공개 시세가 제공되지 않으면 사용자가 입력한 가격을 유지합니다.</li>
+      </ul>
+      <p>외부 시세 제공자의 응답 형식, 지연, 장애, 제한에 따라 가격 갱신이 실패할 수 있습니다.</p>
+
+      <h2>향후 앱 내 구입 기능 후보</h2>
+      <p>앱 잠금, Face ID 잠금 해제, 배당 로컬 알림, 글래스 UI, 주권 위치 보정은 향후 앱 내 구입 기능으로 분리될 수 있습니다. 이 기능을 제공하는 버전에서는 앱 안에서 별도로 안내합니다. Face ID 생체 인증 데이터는 Apple의 기기 보안 영역에서 처리되며 앱이 직접 수집하거나 저장하지 않습니다.</p>
+
+      <h2>금융 자문 아님</h2>
+      <p>주식 증권 금고는 투자 기록 및 보관용 앱입니다. 앱 안의 평가금, 수익률, 현재가는 투자 자문, 매수 또는 매도 추천, 수익 보장으로 해석되어서는 안 됩니다.</p>
+
+      <h2>제3자 제공</h2>
+      <p>앱은 사용자의 보유 주식 기록을 개발자 서버로 전송하거나 제3자에게 판매하지 않습니다. 단, 현재가 조회를 위해 외부 시세 서비스에 종목코드가 요청될 수 있습니다.</p>
+
+      <h2>문의</h2>
+      <p>개인정보 처리방침 문의는 <a href="mailto:astrocubic@icloud.com">astrocubic@icloud.com</a>으로 접수합니다.</p>
+    </section>
+
+    <footer class="footer">
+      <p><a href="marketing.html">앱 소개</a> · <a href="support.html">지원</a></p>
+    </footer>
+  </main>
+</body>
+</html>
