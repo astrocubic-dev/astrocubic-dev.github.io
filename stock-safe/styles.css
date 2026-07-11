@@ -225,6 +225,27 @@ li {
   padding: 22px;
 }
 
+.steps-grid {
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+}
+
+.step-card {
+  padding: 18px;
+}
+
+.step-number {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  margin-bottom: 12px;
+  border-radius: 999px;
+  background: var(--brass);
+  color: #10251e;
+  font-weight: 900;
+}
+
 .certificate-preview {
   margin: 26px 0 0;
   padding: 8px;
@@ -304,5 +325,11 @@ li {
 
   .grid {
     grid-template-columns: 1fr;
+  }
+}
+
+@media (min-width: 761px) and (max-width: 980px) {
+  .steps-grid {
+    grid-template-columns: repeat(2, 1fr);
   }
 }
