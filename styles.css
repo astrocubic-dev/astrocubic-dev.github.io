@@ -234,6 +234,12 @@ h3{margin-bottom:12px;font-size:28px;line-height:1.1;letter-spacing:-.04em}
     flex-direction: column;
   }
 
+  .official-footer .footer-brand-block,
+  .footer-links {
+    flex: none;
+    width: 100%;
+  }
+
   .footer-links {
     justify-content: flex-start;
   }
