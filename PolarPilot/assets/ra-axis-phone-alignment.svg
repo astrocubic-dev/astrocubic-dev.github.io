@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+  <title id="title">Portrait iPhone top-edge alignment with the mount RA axis</title>
+  <desc id="desc">Three black and red panels compare correct mounting, where the portrait device plus Y top-edge arrow is parallel to the RA-axis line, with incorrect pitch or yaw and an unstable twisted or slipping clamp.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#ff3b30"/>
+    </marker>
+    <marker id="muted-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#a52a24"/>
+    </marker>
+    <style>
+      .panel { fill: #000000; stroke: #5a1512; stroke-width: 2; }
+      .axis { fill: none; stroke: #ff3b30; stroke-width: 6; marker-end: url(#arrow); }
+      .axis-muted { fill: none; stroke: #a52a24; stroke-width: 5; stroke-dasharray: 12 10; marker-end: url(#muted-arrow); }
+      .phone { fill: #090000; stroke: #ff3b30; stroke-width: 4; }
+      .screen { fill: #000000; stroke: #7a1d18; stroke-width: 2; }
+      .plus-y { fill: none; stroke: #ff3b30; stroke-width: 5; marker-end: url(#arrow); }
+      .guide { fill: none; stroke: #7a1d18; stroke-width: 3; stroke-dasharray: 8 8; }
+      .error { fill: none; stroke: #ff3b30; stroke-width: 7; stroke-linecap: round; }
+      .label { fill: #ff3b30; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 24px; font-weight: 500; }
+      .small { fill: #c62d27; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 18px; font-weight: 500; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="620" fill="#000000"/>
+  <rect class="panel" x="20" y="20" width="360" height="580" rx="18"/>
+  <rect class="panel" x="420" y="20" width="360" height="580" rx="18"/>
+  <rect class="panel" x="820" y="20" width="360" height="580" rx="18"/>
+
+  <text class="label" x="200" y="58" text-anchor="middle">CORRECT · PARALLEL</text>
+  <line class="axis" x1="88" y1="520" x2="318" y2="138"/>
+  <text class="small" x="82" y="552">RA AXIS</text>
+  <g transform="translate(202 330) rotate(31)">
+    <rect class="phone" x="-62" y="-118" width="124" height="236" rx="20"/>
+    <rect class="screen" x="-50" y="-94" width="100" height="184" rx="10"/>
+    <circle cx="0" cy="-105" r="5" fill="#ff3b30"/>
+    <line class="plus-y" x1="0" y1="28" x2="0" y2="-154"/>
+    <text class="label" x="16" y="-132">+Y</text>
+  </g>
+  <text class="small" x="200" y="582" text-anchor="middle">top edge ∥ rotating RA line</text>
+
+  <text class="label" x="600" y="58" text-anchor="middle">WRONG · PITCH / YAW</text>
+  <line class="axis-muted" x1="488" y1="520" x2="718" y2="138"/>
+  <text class="small" x="482" y="552">RA AXIS</text>
+  <g transform="translate(604 330) rotate(-7)">
+    <rect class="phone" x="-62" y="-118" width="124" height="236" rx="20"/>
+    <rect class="screen" x="-50" y="-94" width="100" height="184" rx="10"/>
+    <circle cx="0" cy="-105" r="5" fill="#ff3b30"/>
+    <line class="plus-y" x1="0" y1="28" x2="0" y2="-154"/>
+    <text class="label" x="16" y="-132">+Y</text>
+  </g>
+  <line class="error" x1="548" y1="470" x2="664" y2="514"/>
+  <line class="error" x1="664" y1="470" x2="548" y2="514"/>
+  <text class="small" x="600" y="582" text-anchor="middle">top edge crosses the RA line</text>
+
+  <text class="label" x="1000" y="58" text-anchor="middle">WRONG · TWIST / SLIP</text>
+  <line class="axis-muted" x1="888" y1="520" x2="1118" y2="138"/>
+  <g transform="translate(1000 330) rotate(31)" opacity="0.35">
+    <rect class="guide" x="-62" y="-118" width="124" height="236" rx="20"/>
+    <line class="guide" x1="0" y1="25" x2="0" y2="-145"/>
+  </g>
+  <g transform="translate(1016 340) rotate(58)">
+    <rect class="phone" x="-62" y="-118" width="124" height="236" rx="20"/>
+    <rect class="screen" x="-50" y="-94" width="100" height="184" rx="10"/>
+    <circle cx="0" cy="-105" r="5" fill="#ff3b30"/>
+    <line class="plus-y" x1="0" y1="28" x2="0" y2="-154"/>
+    <text class="label" x="16" y="-132">+Y</text>
+  </g>
+  <path class="axis" d="M 904 286 A 108 108 0 0 1 1060 205"/>
+  <rect x="917" y="463" width="164" height="28" rx="8" fill="#240000" stroke="#ff3b30" stroke-width="3"/>
+  <path class="error" d="M 982 468 l 36 18 M 1018 468 l -36 18"/>
+  <text class="small" x="1000" y="582" text-anchor="middle">indexed clamp moved during sweep</text>
+</svg>

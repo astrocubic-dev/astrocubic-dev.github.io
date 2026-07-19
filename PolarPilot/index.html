@@ -3,73 +3,109 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="PolarPilot은 iPhone 센서를 이용해 적도의식 마운트의 북극 정렬 과정을 안내하는 극축 정렬 보조 앱입니다.">
+  <meta name="description" content="PolarPilot은 iPhone을 적도의식 마운트에 고정해 수평, RA축 회전, 고도와 방위각 조정 방향을 단계별로 안내하는 극축 정렬 보조 앱입니다.">
   <title>PolarPilot - iPhone 극축 정렬 안내</title>
   <link rel="icon" type="image/png" href="assets/polarpilot-app-icon.png">
   <link rel="apple-touch-icon" href="assets/polarpilot-app-icon.png">
-  <link rel="stylesheet" href="styles.css?v=20260719b">
+  <link rel="stylesheet" href="styles.css?v=20260719c">
 </head>
 <body>
   <main class="site">
     <nav class="nav" aria-label="PolarPilot">
       <a class="brand" href="index.html"><img class="brand-icon" src="assets/polarpilot-app-icon.png" alt=""><span>PolarPilot</span></a>
       <div class="nav-links">
-        <a href="#features" data-i18n-ko="주요 기능" data-i18n-en="Features">주요 기능</a>
-        <a href="#how" data-i18n-ko="사용 방법" data-i18n-en="How to use">사용 방법</a>
-        <a href="/" data-i18n-ko="AstroCubic" data-i18n-en="AstroCubic">AstroCubic</a>
+        <a href="#mounting" data-i18n-ko="장착 방법" data-i18n-en="Mounting">장착 방법</a>
+        <a href="#screens" data-i18n-ko="화면 안내" data-i18n-en="On-screen guide">화면 안내</a>
+        <a href="#workflow" data-i18n-ko="측정 순서" data-i18n-en="Workflow">측정 순서</a>
+        <a href="#questions" data-i18n-ko="자주 묻는 질문" data-i18n-en="Questions">자주 묻는 질문</a>
         <button type="button" class="lang-button active" data-lang-button="ko">KO</button>
         <button type="button" class="lang-button" data-lang-button="en">EN</button>
       </div>
     </nav>
 
-    <section class="app-hero">
-      <div>
-        <div class="eyebrow">iPhone polar alignment guide</div>
-        <h1>PolarPilot</h1>
-        <p class="lead" data-i18n-ko="망원경 위 iPhone의 센서를 이용해, 적도의식 마운트를 북쪽 하늘 방향으로 차분하게 조정하도록 돕습니다." data-i18n-en="Use your iPhone on the telescope to guide a calm, practical polar-alignment setup for an equatorial mount.">망원경 위 iPhone의 센서를 이용해, 적도의식 마운트를 북쪽 하늘 방향으로 차분하게 조정하도록 돕습니다.</p>
+    <section class="app-hero" aria-labelledby="page-title">
+      <div class="hero-copy">
+        <p class="eyebrow">iPhone polar alignment guide</p>
+        <h1 id="page-title">PolarPilot</h1>
+        <p class="lead" data-i18n-ko="망원경에 고정한 iPhone으로 수평과 RA축 회전을 확인하고, 마운트를 어느 방향으로 얼마나 조정할지 차례대로 안내합니다." data-i18n-en="With an iPhone secured to the telescope, PolarPilot checks level and RA-axis motion, then guides each mount adjustment in order.">망원경에 고정한 iPhone으로 수평과 RA축 회전을 확인하고, 마운트를 어느 방향으로 얼마나 조정할지 차례대로 안내합니다.</p>
         <div class="actions">
-          <a class="button primary" href="#how" data-i18n-ko="사용 방법 보기" data-i18n-en="See how it works">사용 방법 보기</a>
-          <a class="button secondary" href="mailto:contact@astrocubic.com?subject=PolarPilot" data-i18n-ko="출시 문의" data-i18n-en="Ask about release">출시 문의</a>
+          <a class="button primary" href="#mounting" data-i18n-ko="장착 방법 보기" data-i18n-en="See mounting">장착 방법 보기</a>
+          <a class="button secondary" href="#workflow" data-i18n-ko="측정 순서 보기" data-i18n-en="See workflow">측정 순서 보기</a>
         </div>
       </div>
-      <img class="hero-icon" src="assets/polarpilot-app-icon.png" alt="PolarPilot app icon">
-    </section>
-
-    <section class="pilot-preview" aria-label="PolarPilot workflow summary">
-      <div class="preview-header"><span data-i18n-ko="POLAR ALIGNMENT" data-i18n-en="POLAR ALIGNMENT">POLAR ALIGNMENT</span><span class="status-dot" aria-label="Ready"></span></div>
-      <div class="preview-reticle" aria-hidden="true"><span class="reticle-star">✦</span></div>
-      <div class="preview-readout">
-        <strong data-i18n-ko="북쪽 하늘 방향 안내" data-i18n-en="North sky guidance">북쪽 하늘 방향 안내</strong>
-        <span data-i18n-ko="수평 · 회전 · 고도 조정" data-i18n-en="Level · rotation · altitude adjustment">수평 · 회전 · 고도 조정</span>
+      <div class="hero-product">
+        <img class="hero-icon" src="assets/polarpilot-app-icon.png" alt="PolarPilot app icon">
+        <p data-i18n-ko="적도의식 마운트용 iPhone 안내 도구" data-i18n-en="An iPhone guide for equatorial mounts">적도의식 마운트용 iPhone 안내 도구</p>
       </div>
     </section>
 
-    <section id="features" class="panel" aria-label="주요 기능">
-      <h2 data-i18n-ko="주요 기능" data-i18n-en="Features">주요 기능</h2>
-      <div class="grid">
-        <article class="card"><h3 data-i18n-ko="간편 모드" data-i18n-en="Simple mode">간편 모드</h3><p data-i18n-ko="좌우 수평계, 조정 방향, 예상 하늘 방향을 한 화면에 표시해 북쪽 기준을 빠르게 잡습니다." data-i18n-en="See lateral level, adjustment direction, and an expected sky reference on one focused screen.">좌우 수평계, 조정 방향, 예상 하늘 방향을 한 화면에 표시해 북쪽 기준을 빠르게 잡습니다.</p></article>
-        <article class="card"><h3 data-i18n-ko="상세 측정" data-i18n-en="Detailed measurement">상세 측정</h3><p data-i18n-ko="RA축의 반복 자세와 센서 상태를 확인해 장착 상태와 조정 근거를 더 자세히 살핍니다." data-i18n-en="Review repeated RA-axis positions and sensor state for a more detailed mounting check.">RA축의 반복 자세와 센서 상태를 확인해 장착 상태와 조정 근거를 더 자세히 살핍니다.</p></article>
-        <article class="card"><h3 data-i18n-ko="음성·햅틱 안내" data-i18n-en="Voice and haptic guidance">음성·햅틱 안내</h3><p data-i18n-ko="원할 때만 현재 조정 방향을 듣고 느낄 수 있어, 화면을 계속 보지 않아도 됩니다." data-i18n-en="When enabled, hear and feel direction changes without needing to keep watching the display.">원할 때만 현재 조정 방향을 듣고 느낄 수 있어, 화면을 계속 보지 않아도 됩니다.</p></article>
-      </div>
-      <p class="note" data-i18n-ko="PolarPilot은 iPhone 센서 기반 안내 도구입니다. 실제 별 관측, 정밀 극축 정렬 완료, 촬영 성공을 보증하지 않습니다." data-i18n-en="PolarPilot is an iPhone sensor guidance tool. It does not verify live stars, certify a precision alignment, or guarantee imaging results.">PolarPilot은 iPhone 센서 기반 안내 도구입니다. 실제 별 관측, 정밀 극축 정렬 완료, 촬영 성공을 보증하지 않습니다.</p>
+    <section class="summary-strip" aria-label="PolarPilot summary">
+      <div><strong data-i18n-ko="수평 확인" data-i18n-en="Level check">수평 확인</strong><span data-i18n-ko="좌우 기울기부터 맞춥니다." data-i18n-en="Set lateral level first.">좌우 기울기부터 맞춥니다.</span></div>
+      <div><strong data-i18n-ko="RA축 측정" data-i18n-en="RA-axis measurement">RA축 측정</strong><span data-i18n-ko="다섯 정지 자세로 장착 상태를 확인합니다." data-i18n-en="Check the mounting across five stops.">다섯 정지 자세로 장착 상태를 확인합니다.</span></div>
+      <div><strong data-i18n-ko="마운트 조정" data-i18n-en="Mount adjustment">마운트 조정</strong><span data-i18n-ko="고도와 방위각 조정 방향을 알려 줍니다." data-i18n-en="Follow altitude and azimuth guidance.">고도와 방위각 조정 방향을 알려 줍니다.</span></div>
     </section>
 
-    <section id="how" class="panel" aria-label="사용 방법">
-      <h2 data-i18n-ko="사용 방법" data-i18n-en="How to use">사용 방법</h2>
-      <div class="grid steps-grid">
-        <article class="card step-card"><span class="step-number">1</span><h3 data-i18n-ko="iPhone 올리기" data-i18n-en="Place the iPhone">iPhone 올리기</h3><p data-i18n-ko="경통 또는 브래킷에 iPhone을 안정적으로 올리고 좌우 수평을 먼저 맞춥니다." data-i18n-en="Place the iPhone securely on the tube or bracket and level it laterally first.">경통 또는 브래킷에 iPhone을 안정적으로 올리고 좌우 수평을 먼저 맞춥니다.</p></article>
-        <article class="card step-card"><span class="step-number">2</span><h3 data-i18n-ko="모드 선택" data-i18n-en="Choose a mode">모드 선택</h3><p data-i18n-ko="빠른 안내는 간편 모드, 장착 상태 확인은 상세 모드를 선택합니다." data-i18n-en="Use Simple mode for a quick guide or Detailed mode to inspect the mounted setup.">빠른 안내는 간편 모드, 장착 상태 확인은 상세 모드를 선택합니다.</p></article>
-        <article class="card step-card"><span class="step-number">3</span><h3 data-i18n-ko="RA축 측정" data-i18n-en="Measure the RA axis">RA축 측정</h3><p data-i18n-ko="가능한 범위에서 RA축을 다섯 정지 자세로 움직여 회전 일관성을 확인합니다." data-i18n-en="Move through five available RA-axis stops to check rotation consistency.">가능한 범위에서 RA축을 다섯 정지 자세로 움직여 회전 일관성을 확인합니다.</p></article>
-        <article class="card step-card"><span class="step-number">4</span><h3 data-i18n-ko="마운트 조정" data-i18n-en="Adjust the mount">마운트 조정</h3><p data-i18n-ko="화면 안내를 보며 방위각과 고도 조정 나사를 조금씩 움직입니다." data-i18n-en="Use the on-screen guide to make small azimuth and altitude adjustments.">화면 안내를 보며 방위각과 고도 조정 나사를 조금씩 움직입니다.</p></article>
+    <section id="mounting" class="section-block mounting-section">
+      <div class="section-heading">
+        <p class="eyebrow" data-i18n-ko="먼저 장착합니다" data-i18n-en="Mount first">먼저 장착합니다</p>
+        <h2 data-i18n-ko="휴대폰은 경통 또는 RA축과 함께 움직이는 브래킷 위에 올립니다." data-i18n-en="Place the phone on the tube or a bracket that moves with the RA axis.">휴대폰은 경통 또는 RA축과 함께 움직이는 브래킷 위에 올립니다.</h2>
+        <p data-i18n-ko="세로로 세우는 뜻이 아닙니다. 휴대폰을 경통 위에 수평으로 얹을 수 있습니다. 중요한 것은 세로 방향으로 놓인 iPhone의 화면 상단과 RA축 선이 나란해야 한다는 점입니다." data-i18n-en="The phone does not need to stand upright. It may lie flat on the tube. What matters is that the portrait phone's top edge runs parallel to the RA-axis line.">세로로 세우는 뜻이 아닙니다. 휴대폰을 경통 위에 수평으로 얹을 수 있습니다. 중요한 것은 세로 방향으로 놓인 iPhone의 화면 상단과 RA축 선이 나란해야 한다는 점입니다.</p>
+      </div>
+      <figure class="mounting-figure">
+        <img src="assets/ra-axis-phone-alignment.svg" alt="iPhone 화면 상단과 RA축이 평행한 올바른 장착, 기울거나 비틀려 잘못된 장착을 비교한 도식">
+        <figcaption data-i18n-ko="왼쪽처럼 iPhone 화면 상단(+Y)과 RA축이 평행해야 합니다. 가운데처럼 두 선이 교차하거나, 오른쪽처럼 클램프가 비틀리거나 미끄러지면 다시 고정한 뒤 처음부터 측정합니다." data-i18n-en="The left panel is correct: the phone's top edge (+Y) is parallel to the RA axis. If the lines cross or the clamp twists or slips, reseat the phone and restart the measurement.">왼쪽처럼 iPhone 화면 상단(+Y)과 RA축이 평행해야 합니다. 가운데처럼 두 선이 교차하거나, 오른쪽처럼 클램프가 비틀리거나 미끄러지면 다시 고정한 뒤 처음부터 측정합니다.</figcaption>
+      </figure>
+      <div class="mounting-notes">
+        <div><strong data-i18n-ko="화면 상단의 방향" data-i18n-en="Phone top direction">화면 상단의 방향</strong><p data-i18n-ko="화면 상단은 북극성 쪽, 즉 극축이 향하는 쪽으로 둡니다. 반대로 올리면 하늘 방향 안내가 반대로 표시됩니다." data-i18n-en="Aim the phone's top edge toward the pole-facing end of the polar axis. Reversing it flips the sky-direction guidance.">화면 상단은 북극성 쪽, 즉 극축이 향하는 쪽으로 둡니다. 반대로 올리면 하늘 방향 안내가 반대로 표시됩니다.</p></div>
+        <div><strong data-i18n-ko="좌우 수평" data-i18n-en="Lateral level">좌우 수평</strong><p data-i18n-ko="앞뒤 기울기는 극축의 고도 때문에 생길 수 있습니다. 처음에는 좌우 기울기만 수평계로 맞추고, 앞뒤 각도는 마운트 고도 조정으로 다룹니다." data-i18n-en="Fore-aft tilt can come from the polar-axis altitude. Start by leveling only side to side; use the mount's altitude adjustment for the fore-aft angle.">앞뒤 기울기는 극축의 고도 때문에 생길 수 있습니다. 처음에는 좌우 기울기만 수평계로 맞추고, 앞뒤 각도는 마운트 고도 조정으로 다룹니다.</p></div>
+        <div><strong data-i18n-ko="흔들리지 않게" data-i18n-en="Keep it fixed">흔들리지 않게</strong><p data-i18n-ko="측정 중에는 케이스, 케이블, 클램프 위치를 바꾸지 않습니다. 휴대폰이 미끄러졌다면 앞에서 기록한 자세는 사용하지 않고 새 측정을 시작합니다." data-i18n-en="Do not change the case, cables, or clamp position during measurement. If the phone slips, start a new measurement instead of reusing earlier stops.">측정 중에는 케이스, 케이블, 클램프 위치를 바꾸지 않습니다. 휴대폰이 미끄러졌다면 앞에서 기록한 자세는 사용하지 않고 새 측정을 시작합니다.</p></div>
       </div>
     </section>
 
-    <section class="panel availability" aria-label="출시 현황">
-      <div>
-        <h2 data-i18n-ko="iPhone용으로 개발 중입니다." data-i18n-en="In development for iPhone.">iPhone용으로 개발 중입니다.</h2>
-        <p data-i18n-ko="현재 실제 장비와 iPhone에서 검증을 진행하고 있습니다. 배포 준비가 되면 이 페이지에서 안내합니다." data-i18n-en="We are currently validating the experience on real equipment and iPhone hardware. Release information will appear here when it is ready.">현재 실제 장비와 iPhone에서 검증을 진행하고 있습니다. 배포 준비가 되면 이 페이지에서 안내합니다.</p>
+    <section id="screens" class="section-block screen-section">
+      <div class="section-heading">
+        <p class="eyebrow" data-i18n-ko="화면으로 확인합니다" data-i18n-en="Read the screen">화면으로 확인합니다</p>
+        <h2 data-i18n-ko="한 번에 한 가지 조정만 보여 줍니다." data-i18n-en="The app presents one adjustment at a time.">한 번에 한 가지 조정만 보여 줍니다.</h2>
+        <p data-i18n-ko="상세 모드는 RA축 측정이 끝난 뒤, 지금 무엇을 돌려야 하는지와 남은 조정량을 큼직하게 보여 줍니다. 숫자를 보며 휴대폰을 움직이는 방식이 아니라, 휴대폰은 고정한 채 마운트의 조정 나사를 움직이는 흐름입니다." data-i18n-en="After RA-axis measurement, Detailed mode shows what to adjust and how much remains. Keep the phone fixed and adjust the mount, rather than moving the phone to chase the number.">상세 모드는 RA축 측정이 끝난 뒤, 지금 무엇을 돌려야 하는지와 남은 조정량을 큼직하게 보여 줍니다. 숫자를 보며 휴대폰을 움직이는 방식이 아니라, 휴대폰은 고정한 채 마운트의 조정 나사를 움직이는 흐름입니다.</p>
       </div>
-      <a class="button dark-button" href="mailto:contact@astrocubic.com?subject=PolarPilot" data-i18n-ko="문의하기" data-i18n-en="Contact AstroCubic">문의하기</a>
+      <div class="screen-explainer">
+        <figure class="phone-shot">
+          <img src="assets/mount-adjustment-screen.png" alt="PolarPilot 상세 모드에서 고도를 높이라고 안내하고 남은 조정량을 보여 주는 화면 예시">
+          <figcaption data-i18n-ko="상세 모드 예시 화면. 표시값은 장착 위치와 센서 상태에 따라 달라집니다." data-i18n-en="Detailed-mode example. Values vary with the mounting position and sensor state.">상세 모드 예시 화면. 표시값은 장착 위치와 센서 상태에 따라 달라집니다.</figcaption>
+        </figure>
+        <div class="screen-points">
+          <article><span>01</span><div><h3 data-i18n-ko="우선 조정 축" data-i18n-en="Priority adjustment axis">우선 조정 축</h3><p data-i18n-ko="‘고도를 높이세요’가 보이면 마운트의 고도 조정 나사를 사용합니다. ‘왼쪽으로 돌리세요’처럼 표시되면 방위각 조정 나사를 사용합니다." data-i18n-en="When the screen says to raise altitude, use the mount's altitude adjustment. When it says to turn left or right, use the azimuth adjustment.">‘고도를 높이세요’가 보이면 마운트의 고도 조정 나사를 사용합니다. ‘왼쪽으로 돌리세요’처럼 표시되면 방위각 조정 나사를 사용합니다.</p></div></article>
+          <article><span>02</span><div><h3 data-i18n-ko="남은 조정량" data-i18n-en="Remaining adjustment">남은 조정량</h3><p data-i18n-ko="각분 단위로 표시되는 값은 현재 조정이 얼마나 남았는지 알려 줍니다. 조정 나사를 조금씩 움직이고, 마운트가 멈춘 뒤 다음 안내를 확인합니다." data-i18n-en="The arcminute value indicates how much adjustment remains. Turn the adjustment screw in small steps, let the mount settle, then read the next instruction.">각분 단위로 표시되는 값은 현재 조정이 얼마나 남았는지 알려 줍니다. 조정 나사를 조금씩 움직이고, 마운트가 멈춘 뒤 다음 안내를 확인합니다.</p></div></article>
+          <article><span>03</span><div><h3 data-i18n-ko="휴대폰은 그대로" data-i18n-en="Keep the phone still">휴대폰은 그대로</h3><p data-i18n-ko="이 안내가 나오는 동안 휴대폰을 손으로 밀거나 다시 얹지 않습니다. 고정이 풀렸다면 재시작 버튼으로 새 측정을 시작합니다." data-i18n-en="Do not push or reseat the phone while this guidance is shown. If the mount has shifted, restart the measurement.">이 안내가 나오는 동안 휴대폰을 손으로 밀거나 다시 얹지 않습니다. 고정이 풀렸다면 재시작 버튼으로 새 측정을 시작합니다.</p></div></article>
+        </div>
+      </div>
+    </section>
+
+    <section id="workflow" class="section-block workflow-section">
+      <div class="section-heading">
+        <p class="eyebrow" data-i18n-ko="측정 순서" data-i18n-en="Measurement workflow">측정 순서</p>
+        <h2 data-i18n-ko="360°를 돌릴 필요는 없습니다." data-i18n-en="A 360-degree rotation is not required.">360°를 돌릴 필요는 없습니다.</h2>
+        <p data-i18n-ko="케이블과 장비 간섭을 피하기 위해, PolarPilot은 가능한 범위에서 -90° → 0° → +90° → 0° → -90°의 다섯 정지 자세를 기록합니다. 정확히 90°를 맞출 필요는 없지만, 각 자세의 차이가 충분히 나야 합니다." data-i18n-en="To avoid cable and equipment interference, PolarPilot records five stops: -90° → 0° → +90° → 0° → -90°. Exact 90-degree marks are not required, but the positions must be sufficiently different.">케이블과 장비 간섭을 피하기 위해, PolarPilot은 가능한 범위에서 -90° → 0° → +90° → 0° → -90°의 다섯 정지 자세를 기록합니다. 정확히 90°를 맞출 필요는 없지만, 각 자세의 차이가 충분히 나야 합니다.</p>
+      </div>
+      <ol class="workflow-list">
+        <li><span>1</span><div><strong data-i18n-ko="기준 자세에서 고정 확인" data-i18n-en="Confirm the reference pose">기준 자세에서 고정 확인</strong><p data-i18n-ko="RA축을 기준 0° 근처에 두고, 휴대폰과 클램프가 움직이지 않는지 확인합니다." data-i18n-en="Park the RA axis near its 0-degree reference and confirm the phone and clamp cannot move.">RA축을 기준 0° 근처에 두고, 휴대폰과 클램프가 움직이지 않는지 확인합니다.</p></div></li>
+        <li><span>2</span><div><strong data-i18n-ko="-90°와 0° 기록" data-i18n-en="Record -90° and 0°">-90°와 0° 기록</strong><p data-i18n-ko="가능한 범위 안에서 왼쪽으로 돌려 멈춘 뒤 기록하고, 기준 자세로 돌아와 다시 기록합니다." data-i18n-en="Turn toward the available negative side, stop and record it, then return to the reference pose and record again.">가능한 범위 안에서 왼쪽으로 돌려 멈춘 뒤 기록하고, 기준 자세로 돌아와 다시 기록합니다.</p></div></li>
+        <li><span>3</span><div><strong data-i18n-ko="+90°와 돌아온 자세 기록" data-i18n-en="Record +90° and the return poses">+90°와 돌아온 자세 기록</strong><p data-i18n-ko="반대쪽 자세도 기록한 뒤 0°와 -90°로 다시 돌아와, 처음과 같은 장착 상태인지 확인합니다." data-i18n-en="Record the opposite side, then return through 0° and -90° to verify that the mount and phone returned consistently.">반대쪽 자세도 기록한 뒤 0°와 -90°로 다시 돌아와, 처음과 같은 장착 상태인지 확인합니다.</p></div></li>
+        <li><span>4</span><div><strong data-i18n-ko="마운트만 조정" data-i18n-en="Adjust only the mount">마운트만 조정</strong><p data-i18n-ko="측정이 끝나면 휴대폰은 그대로 두고, 앱이 알려 주는 고도 또는 방위각 조정 나사만 움직입니다." data-i18n-en="After measurement, leave the phone in place and move only the altitude or azimuth adjustment indicated by the app.">측정이 끝나면 휴대폰은 그대로 두고, 앱이 알려 주는 고도 또는 방위각 조정 나사만 움직입니다.</p></div></li>
+      </ol>
+    </section>
+
+    <section id="questions" class="section-block questions-section">
+      <div class="section-heading"><p class="eyebrow" data-i18n-ko="자주 묻는 질문" data-i18n-en="Questions">자주 묻는 질문</p><h2 data-i18n-ko="처음 사용할 때 알아두면 좋은 점" data-i18n-en="Useful points for the first setup">처음 사용할 때 알아두면 좋은 점</h2></div>
+      <div class="questions">
+        <details open><summary data-i18n-ko="휴대폰을 경통에 수평으로 얹어도 되나요?" data-i18n-en="Can I lay the phone flat on the telescope tube?">휴대폰을 경통에 수평으로 얹어도 되나요?</summary><p data-i18n-ko="네. 휴대폰을 세로로 세울 필요는 없습니다. 다만 화면 상단이 RA축과 나란하고, RA축을 돌릴 때 휴대폰도 함께 움직이는 위치여야 합니다." data-i18n-en="Yes. The phone does not need to stand upright. Its top edge must remain parallel to the RA axis, and the phone must rotate with that axis.">네. 휴대폰을 세로로 세울 필요는 없습니다. 다만 화면 상단이 RA축과 나란하고, RA축을 돌릴 때 휴대폰도 함께 움직이는 위치여야 합니다.</p></details>
+        <details><summary data-i18n-ko="-90°와 +90°는 정확히 맞춰야 하나요?" data-i18n-en="Do the -90° and +90° positions need to be exact?">-90°와 +90°는 정확히 맞춰야 하나요?</summary><p data-i18n-ko="아닙니다. 케이블이나 삼각대 간섭 없이 갈 수 있는 범위에서 충분히 다른 자세를 만들면 됩니다. 앱은 실제 회전량과 반복 자세의 일치 여부를 함께 확인합니다." data-i18n-en="No. Use safely reachable positions that are sufficiently different. The app checks the actual movement and whether the repeated positions agree.">아닙니다. 케이블이나 삼각대 간섭 없이 갈 수 있는 범위에서 충분히 다른 자세를 만들면 됩니다. 앱은 실제 회전량과 반복 자세의 일치 여부를 함께 확인합니다.</p></details>
+        <details><summary data-i18n-ko="별 지도는 실제 별을 보는 화면인가요?" data-i18n-en="Is the sky map a live view of real stars?">별 지도는 실제 별을 보는 화면인가요?</summary><p data-i18n-ko="아닙니다. 화면 상단이 향하는 예상 방향을 이해하기 위한 참고 표시입니다. 카메라 영상이나 실제 별 인식 결과가 아니며, 정렬 완료 판정에도 사용하지 않습니다." data-i18n-en="No. It is a reference for understanding the expected direction of the phone's top edge. It is not a camera view or live star recognition, and it does not certify alignment.">아닙니다. 화면 상단이 향하는 예상 방향을 이해하기 위한 참고 표시입니다. 카메라 영상이나 실제 별 인식 결과가 아니며, 정렬 완료 판정에도 사용하지 않습니다.</p></details>
+      </div>
+    </section>
+
+    <section class="release-note">
+      <div><p class="eyebrow">Availability</p><h2 data-i18n-ko="현재 iPhone과 실제 장비에서 검증 중입니다." data-i18n-en="Currently being validated on iPhone and real equipment.">현재 iPhone과 실제 장비에서 검증 중입니다.</h2><p data-i18n-ko="PolarPilot은 실제 별을 이용한 최종 정렬 판정 도구가 아니라, 마운트 조정을 준비하고 진행하는 동안의 센서 기반 안내 도구입니다. 배포 준비가 되면 이 페이지에서 안내합니다." data-i18n-en="PolarPilot is a sensor-based guide for preparing and performing mount adjustments, not a final star-based alignment verdict. Release information will appear here when it is ready.">PolarPilot은 실제 별을 이용한 최종 정렬 판정 도구가 아니라, 마운트 조정을 준비하고 진행하는 동안의 센서 기반 안내 도구입니다. 배포 준비가 되면 이 페이지에서 안내합니다.</p></div><a class="button primary" href="mailto:contact@astrocubic.com?subject=PolarPilot" data-i18n-ko="출시 문의" data-i18n-en="Ask about release">출시 문의</a>
     </section>
 
     <footer class="footer"><p><a href="/" data-i18n-ko="AstroCubic 홈" data-i18n-en="AstroCubic home">AstroCubic 홈</a> · <a href="/apps/" data-i18n-ko="제품" data-i18n-en="Products">제품</a> · <a href="/privacy.html" data-i18n-ko="개인정보 처리방침" data-i18n-en="Privacy Policy">개인정보 처리방침</a> · <a href="mailto:contact@astrocubic.com" data-i18n-ko="문의" data-i18n-en="Contact">문의</a></p><p>© 2026 AstroCubic. All rights reserved.</p></footer>
