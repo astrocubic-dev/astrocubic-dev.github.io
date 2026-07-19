@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="PolarPilot은 iPhone 센서를 이용해 적도의식 마운트의 북극 정렬 과정을 안내하는 극축 정렬 보조 앱입니다.">
+  <title>PolarPilot - iPhone 극축 정렬 안내</title>
+  <link rel="icon" type="image/png" href="assets/polarpilot-app-icon.png">
+  <link rel="apple-touch-icon" href="assets/polarpilot-app-icon.png">
+  <link rel="stylesheet" href="styles.css?v=20260719">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="/" aria-label="AstroCubic home">
+      <img src="../assets/astrocubic-mark.png" alt="" class="brand-mark">
+      <span>AstroCubic</span>
+    </a>
+    <nav class="nav" aria-label="PolarPilot navigation">
+      <a href="#how" data-i18n-ko="작동 방식" data-i18n-en="How it works">작동 방식</a>
+      <a href="#modes" data-i18n-ko="모드" data-i18n-en="Modes">모드</a>
+      <a href="#availability" data-i18n-ko="출시 현황" data-i18n-en="Availability">출시 현황</a>
+      <div class="lang-toggle" aria-label="Language selector">
+        <button type="button" class="lang-button active" data-lang-button="ko">KO</button>
+        <button type="button" class="lang-button" data-lang-button="en">EN</button>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero" aria-labelledby="page-title">
+      <div class="hero-copy">
+        <p class="eyebrow">iPhone polar alignment guide</p>
+        <h1 id="page-title">PolarPilot</h1>
+        <p class="lead" data-i18n-ko="망원경 위 iPhone의 센서를 이용해, 적도의식 마운트를 북쪽 하늘 방향으로 차분하게 조정하도록 돕습니다." data-i18n-en="Use your iPhone on the telescope to guide a calm, practical polar-alignment setup for an equatorial mount.">망원경 위 iPhone의 센서를 이용해, 적도의식 마운트를 북쪽 하늘 방향으로 차분하게 조정하도록 돕습니다.</p>
+        <div class="actions">
+          <a class="button primary" href="#how" data-i18n-ko="작동 방식 보기" data-i18n-en="See how it works">작동 방식 보기</a>
+          <a class="button secondary" href="mailto:contact@astrocubic.com?subject=PolarPilot" data-i18n-ko="출시 문의" data-i18n-en="Ask about release">출시 문의</a>
+        </div>
+      </div>
+      <div class="hero-visual" aria-label="PolarPilot app icon and polar alignment reticle">
+        <div class="star-field" aria-hidden="true"></div>
+        <img src="assets/polarpilot-app-icon.png" alt="PolarPilot app icon" class="app-icon">
+        <div class="reticle" aria-hidden="true"><span></span></div>
+      </div>
+    </section>
+
+    <section class="trust-strip" aria-label="Product scope">
+      <p data-i18n-ko="iPhone 센서 기반 안내" data-i18n-en="iPhone sensor guidance">iPhone 센서 기반 안내</p>
+      <p data-i18n-ko="간편 모드와 상세 측정" data-i18n-en="Simple mode and detailed measurement">간편 모드와 상세 측정</p>
+      <p data-i18n-ko="실제 별 관측 판정 아님" data-i18n-en="Not a live star-observation verdict">실제 별 관측 판정 아님</p>
+    </section>
+
+    <section id="how" class="section">
+      <div class="section-heading">
+        <p class="eyebrow" data-i18n-ko="Guided setup" data-i18n-en="Guided setup">Guided setup</p>
+        <h2 data-i18n-ko="북쪽 하늘을 향한 조정을, 한 단계씩." data-i18n-en="One deliberate adjustment at a time.">북쪽 하늘을 향한 조정을, 한 단계씩.</h2>
+      </div>
+      <div class="steps">
+        <article class="step"><span class="step-number">01</span><h3 data-i18n-ko="iPhone 장착" data-i18n-en="Mount the iPhone">iPhone 장착</h3><p data-i18n-ko="경통 또는 브래킷에 iPhone을 안정적으로 올리고 좌우 수평을 먼저 확인합니다." data-i18n-en="Place the iPhone securely on the tube or bracket, then check lateral level first.">경통 또는 브래킷에 iPhone을 안정적으로 올리고 좌우 수평을 먼저 확인합니다.</p></article>
+        <article class="step"><span class="step-number">02</span><h3 data-i18n-ko="RA축 측정" data-i18n-en="Measure the RA axis">RA축 측정</h3><p data-i18n-ko="가능한 범위에서 RA축을 다섯 정지 자세로 움직여, 장착 상태와 회전 일관성을 확인합니다." data-i18n-en="Move through five available RA-axis stops to check mounting consistency and rotation.">가능한 범위에서 RA축을 다섯 정지 자세로 움직여, 장착 상태와 회전 일관성을 확인합니다.</p></article>
+        <article class="step"><span class="step-number">03</span><h3 data-i18n-ko="방향 조정" data-i18n-en="Adjust direction">방향 조정</h3><p data-i18n-ko="화면 상단이 가리키는 방향을 기준으로 고도와 방위각 보정 방향을 확인합니다." data-i18n-en="Use the direction of the phone's top edge to review altitude and azimuth adjustments.">화면 상단이 가리키는 방향을 기준으로 고도와 방위각 보정 방향을 확인합니다.</p></article>
+      </div>
+    </section>
+
+    <section id="modes" class="section modes">
+      <div class="section-heading narrow">
+        <p class="eyebrow">Two workflows</p>
+        <h2 data-i18n-ko="관측 전 준비부터, 자세한 진단까지." data-i18n-en="From a quick setup to a more detailed check.">관측 전 준비부터, 자세한 진단까지.</h2>
+      </div>
+      <div class="mode-grid">
+        <article class="mode-panel simple-mode">
+          <p class="mode-label" data-i18n-ko="간편 모드" data-i18n-en="Simple mode">간편 모드</p>
+          <h3 data-i18n-ko="한 화면에서 확인" data-i18n-en="Aim from one screen">한 화면에서 확인</h3>
+          <p data-i18n-ko="수평계, 조정 방향, 예상 하늘 방향을 한 화면에 표시해 빠르게 북쪽 기준을 잡습니다." data-i18n-en="See the level, adjustment direction, and an expected sky reference together to establish a north-facing setup quickly.">수평계, 조정 방향, 예상 하늘 방향을 한 화면에 표시해 빠르게 북쪽 기준을 잡습니다.</p>
+        </article>
+        <article class="mode-panel detail-mode">
+          <p class="mode-label" data-i18n-ko="상세 모드" data-i18n-en="Detailed mode">상세 모드</p>
+          <h3 data-i18n-ko="장착 상태를 함께 확인" data-i18n-en="Check the mounted setup">장착 상태를 함께 확인</h3>
+          <p data-i18n-ko="RA축의 반복 자세, 센서 상태, 고도 성분을 확인해 마운트 조정의 근거를 더 자세히 살핍니다." data-i18n-en="Review repeated RA-axis positions, sensor state, and altitude components for a more detailed mounting check.">RA축의 반복 자세, 센서 상태, 고도 성분을 확인해 마운트 조정의 근거를 더 자세히 살핍니다.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="section note-section">
+      <div class="scope-note">
+        <p class="eyebrow" data-i18n-ko="Important" data-i18n-en="Important">Important</p>
+        <h2 data-i18n-ko="정밀 극축 정렬의 최종 판정은 별 기반 확인이 필요합니다." data-i18n-en="A final precision polar-alignment verdict still requires star-based verification.">정밀 극축 정렬의 최종 판정은 별 기반 확인이 필요합니다.</h2>
+        <p data-i18n-ko="PolarPilot은 iPhone의 나침반·자이로·위치 정보를 바탕으로 장착 상태와 조정 방향을 안내합니다. 실제 별을 해석하거나 천체사진 성공을 보증하지 않습니다." data-i18n-en="PolarPilot uses iPhone compass, gyro, and location data to guide mounting and adjustment direction. It does not solve live stars or guarantee astrophotography results.">PolarPilot은 iPhone의 나침반·자이로·위치 정보를 바탕으로 장착 상태와 조정 방향을 안내합니다. 실제 별을 해석하거나 천체사진 성공을 보증하지 않습니다.</p>
+      </div>
+    </section>
+
+    <section id="availability" class="section availability">
+      <div>
+        <p class="eyebrow">Availability</p>
+        <h2 data-i18n-ko="iPhone용으로 개발 중입니다." data-i18n-en="In development for iPhone.">iPhone용으로 개발 중입니다.</h2>
+        <p data-i18n-ko="현재 실제 장비와 iPhone에서 검증을 진행하고 있습니다. 배포 준비가 되면 이 페이지에서 안내합니다." data-i18n-en="We are currently validating the experience on real equipment and iPhone hardware. Release information will appear here when it is ready.">현재 실제 장비와 iPhone에서 검증을 진행하고 있습니다. 배포 준비가 되면 이 페이지에서 안내합니다.</p>
+      </div>
+      <a class="button primary" href="mailto:contact@astrocubic.com?subject=PolarPilot" data-i18n-ko="문의하기" data-i18n-en="Contact AstroCubic">문의하기</a>
+    </section>
+  </main>
+
+  <footer class="footer official-footer">
+    <div class="footer-brand-block">
+      <p>© 2026 AstroCubic. All rights reserved.</p>
+      <dl class="company-details">
+        <div><dt>Business Registration No.</dt><dd>821-14-03041</dd></div>
+        <div><dt>Representative</dt><dd>Yeonchul Rim</dd></div>
+        <div><dt>Location</dt><dd>Seoul, Republic of Korea</dd></div>
+        <div><dt>Email</dt><dd><a href="mailto:contact@astrocubic.com">contact@astrocubic.com</a></dd></div>
+      </dl>
+    </div>
+    <div class="footer-links">
+      <a href="/" data-i18n-ko="홈" data-i18n-en="Home">홈</a>
+      <a href="/apps/" data-i18n-ko="제품" data-i18n-en="Products">제품</a>
+      <a href="/contact.html" data-i18n-ko="문의" data-i18n-en="Contact">문의</a>
+      <a href="/privacy.html" data-i18n-ko="개인정보 처리방침" data-i18n-en="Privacy Policy">개인정보 처리방침</a>
+    </div>
+  </footer>
+
+  <script>
+    (() => {
+      const buttons = document.querySelectorAll('[data-lang-button]');
+      const nodes = document.querySelectorAll('[data-i18n-ko][data-i18n-en]');
+      const setLanguage = (language) => {
+        const selected = language === 'en' ? 'en' : 'ko';
+        document.documentElement.lang = selected;
+        nodes.forEach((node) => { node.textContent = selected === 'en' ? node.dataset.i18nEn : node.dataset.i18nKo; });
+        buttons.forEach((button) => {
+          const isActive = button.dataset.langButton === selected;
+          button.classList.toggle('active', isActive);
+          button.setAttribute('aria-pressed', String(isActive));
+        });
+        localStorage.setItem('astrocubic-language', selected);
+      };
+      buttons.forEach((button) => button.addEventListener('click', () => setLanguage(button.dataset.langButton)));
+      setLanguage(localStorage.getItem('astrocubic-language') || 'ko');
+    })();
+  </script>
+</body>
+</html>
