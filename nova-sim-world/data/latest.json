@@ -855,6 +855,850 @@
   ],
   "events": [
     {
+      "id": "tick-00000058-event-21",
+      "tickId": "tick-00000058",
+      "occurredAt": "3026-07-21T18:16:00.000Z",
+      "nationIds": [
+        "marevia",
+        "helion"
+      ],
+      "category": "diplomacy",
+      "title": "아드리아 연합, 화하 왕국에 48시간 내 실무회담 제안",
+      "summary": "엘라 벨리 개혁야당 지도부는 화하 왕국에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다. 당사자는 화하 왕국과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것에 초점을 맞췄다고 설명했다.",
+      "severity": 66,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000058-marevia-action-1"
+      ],
+      "metricChanges": {
+        "approval": -0.85,
+        "publicAnxiety": -0.52
+      },
+      "actorAgentId": "marevia-agent-03",
+      "actorName": "엘라 벨리",
+      "actorTitle": "개혁야당 지도부",
+      "locationKo": "포르토 셀레네",
+      "targetNationId": "helion",
+      "objective": "화하 왕국과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것",
+      "announcedMeasure": "화하 왕국에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다",
+      "publicQuote": "상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다",
+      "nextStep": "화하 왕국의 답변을 받은 뒤 포르토 셀레네 외교회관에서 예비접촉 대표와 의제를 공개한다",
+      "backgroundFactIds": [],
+      "counterpartResponse": "화하 왕국 측은 별도 발표에서 아드리아 연합에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다"
+    },
+    {
+      "id": "tick-00000058-event-23",
+      "tickId": "tick-00000058",
+      "occurredAt": "3026-07-21T19:52:00.000Z",
+      "nationIds": [
+        "marevia",
+        "karsk"
+      ],
+      "category": "diplomacy",
+      "title": "아드리아 연합, 동방 인민공화국에 수송선 3척·의료단 파견",
+      "summary": "레온 페로 차기 지도자 후보는 동방 인민공화국에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다. 당사자는 동방 인민공화국의 필수 연료와 의료품 부족을 막고 항만 지역의 불안을 낮추는 것에 초점을 맞췄다고 설명했다.",
+      "severity": 50,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000058-marevia-action-3"
+      ],
+      "metricChanges": {
+        "reserves": 0,
+        "approval": 0.34
+      },
+      "actorAgentId": "marevia-agent-05",
+      "actorName": "레온 페로",
+      "actorTitle": "차기 지도자 후보",
+      "locationKo": "포르토 셀레네",
+      "targetNationId": "karsk",
+      "objective": "동방 인민공화국의 필수 연료와 의료품 부족을 막고 항만 지역의 불안을 낮추는 것",
+      "announcedMeasure": "동방 인민공화국에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다",
+      "publicQuote": "이번 지원은 군사적 개입이 아니라 주민 생활과 민간 운송망을 지키기 위한 조치다",
+      "nextStep": "동방 인민공화국이 접안 안전을 보장하면 첫 수송선이 다음 날 오전 포르토 셀레네 궤도항을 출발한다",
+      "backgroundFactIds": [],
+      "counterpartResponse": "동방 인민공화국 측은 별도 발표에서 아드리아 연합에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다"
+    },
+    {
+      "id": "tick-00000058-event-24",
+      "tickId": "tick-00000058",
+      "occurredAt": "3026-07-21T20:04:00.000Z",
+      "nationIds": [
+        "marevia",
+        "eiren"
+      ],
+      "category": "diplomacy",
+      "title": "아드리아 연합, 헬베티아 동맹에 48시간 내 실무회담 제안",
+      "summary": "미라 루치 지역 대표 의원은 헬베티아 동맹에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다. 당사자는 헬베티아 동맹과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것에 초점을 맞췄다고 설명했다.",
+      "severity": 45,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000058-marevia-action-4"
+      ],
+      "metricChanges": {
+        "approval": 0,
+        "publicAnxiety": 0
+      },
+      "actorAgentId": "marevia-agent-06",
+      "actorName": "미라 루치",
+      "actorTitle": "지역 대표 의원",
+      "locationKo": "포르토 셀레네",
+      "targetNationId": "eiren",
+      "objective": "헬베티아 동맹과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것",
+      "announcedMeasure": "헬베티아 동맹에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다",
+      "publicQuote": "상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다",
+      "nextStep": "헬베티아 동맹의 답변을 받은 뒤 포르토 셀레네 외교회관에서 예비접촉 대표와 의제를 공개한다",
+      "backgroundFactIds": [
+        "tick-00000058-fact-security"
+      ],
+      "counterpartResponse": "헬베티아 동맹 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다"
+    },
+    {
+      "id": "tick-00000058-event-25",
+      "tickId": "tick-00000058",
+      "occurredAt": "3026-07-21T20:28:00.000Z",
+      "nationIds": [
+        "marevia"
+      ],
+      "category": "politics",
+      "title": "아드리아 연합, 추가 대응 표결 24시간 유보",
+      "summary": "이반 네리 외교위원장은 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 당사자는 정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것에 초점을 맞췄다고 설명했다.",
+      "severity": 68,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000058-marevia-action-5"
+      ],
+      "metricChanges": {
+        "approval": -0.4,
+        "publicAnxiety": 0.5
+      },
+      "actorAgentId": "marevia-agent-07",
+      "actorName": "이반 네리",
+      "actorTitle": "외교위원장",
+      "locationKo": "포르토 셀레네",
+      "objective": "정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것",
+      "announcedMeasure": "추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다",
+      "publicQuote": "행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다",
+      "nextStep": "합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다",
+      "backgroundFactIds": []
+    },
+    {
+      "id": "tick-00000058-event-26",
+      "tickId": "tick-00000058",
+      "occurredAt": "3026-07-21T18:48:00.000Z",
+      "nationIds": [
+        "karsk"
+      ],
+      "category": "society",
+      "title": "동방 인민공화국, 하루 두 차례 위기 합동브리핑",
+      "summary": "테오 세린 개혁야당 지도부는 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 당사자는 정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것에 초점을 맞췄다고 설명했다.",
+      "severity": 47,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000058-karsk-action-1"
+      ],
+      "metricChanges": {
+        "approval": -0.35,
+        "publicAnxiety": 0.02
+      },
+      "actorAgentId": "karsk-agent-03",
+      "actorName": "테오 세린",
+      "actorTitle": "개혁야당 지도부",
+      "locationKo": "동명",
+      "objective": "정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것",
+      "announcedMeasure": "매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다",
+      "publicQuote": "확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라",
+      "nextStep": "첫 합동 브리핑은 이날 오후 동명 중앙기록관에서 열린다",
+      "backgroundFactIds": []
+    },
+    {
+      "id": "tick-00000058-event-27",
+      "tickId": "tick-00000058",
+      "occurredAt": "3026-07-21T20:48:00.000Z",
+      "nationIds": [
+        "karsk",
+        "aster"
+      ],
+      "category": "diplomacy",
+      "title": "동방 인민공화국, 알비온 공동체에 48시간 내 실무회담 제안",
+      "summary": "레온 다닌 민족전선 지도부는 알비온 공동체에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다. 당사자는 알비온 공동체와의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것에 초점을 맞췄다고 설명했다.",
+      "severity": 68,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000058-karsk-action-2"
+      ],
+      "metricChanges": {
+        "approval": 0.35,
+        "publicAnxiety": -0.94
+      },
+      "actorAgentId": "karsk-agent-04",
+      "actorName": "레온 다닌",
+      "actorTitle": "민족전선 지도부",
+      "locationKo": "동명",
+      "targetNationId": "aster",
+      "objective": "알비온 공동체와의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것",
+      "announcedMeasure": "알비온 공동체에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다",
+      "publicQuote": "상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다",
+      "nextStep": "알비온 공동체의 답변을 받은 뒤 동명 외교회관에서 예비접촉 대표와 의제를 공개한다",
+      "backgroundFactIds": [
+        "tick-00000058-fact-security"
+      ],
+      "counterpartResponse": "알비온 공동체 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다"
+    },
+    {
+      "id": "tick-00000058-event-28",
+      "tickId": "tick-00000058",
+      "occurredAt": "3026-07-21T18:52:00.000Z",
+      "nationIds": [
+        "karsk",
+        "marevia"
+      ],
+      "category": "diplomacy",
+      "title": "동방 인민공화국, 아드리아 연합에 수송선 3척·의료단 파견",
+      "summary": "미라 로바 차기 지도자 후보는 아드리아 연합에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다. 당사자는 아드리아 연합의 필수 연료와 의료품 부족을 막고 항만 지역의 불안을 낮추는 것에 초점을 맞췄다고 설명했다.",
+      "severity": 50,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000058-karsk-action-3"
+      ],
+      "metricChanges": {
+        "reserves": -0.97,
+        "approval": 0
+      },
+      "actorAgentId": "karsk-agent-05",
+      "actorName": "미라 로바",
+      "actorTitle": "차기 지도자 후보",
+      "locationKo": "동명",
+      "targetNationId": "marevia",
+      "objective": "아드리아 연합의 필수 연료와 의료품 부족을 막고 항만 지역의 불안을 낮추는 것",
+      "announcedMeasure": "아드리아 연합에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다",
+      "publicQuote": "이번 지원은 군사적 개입이 아니라 주민 생활과 민간 운송망을 지키기 위한 조치다",
+      "nextStep": "아드리아 연합이 접안 안전을 보장하면 첫 수송선이 다음 날 오전 동명 궤도항을 출발한다",
+      "backgroundFactIds": [],
+      "counterpartResponse": "아드리아 연합 측은 별도 발표에서 동방 인민공화국에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다"
+    },
+    {
+      "id": "tick-00000058-event-29",
+      "tickId": "tick-00000058",
+      "occurredAt": "3026-07-21T20:40:00.000Z",
+      "nationIds": [
+        "karsk"
+      ],
+      "category": "society",
+      "title": "동방 인민공화국, 하루 두 차례 위기 합동브리핑",
+      "summary": "이반 카멘 지역 대표 의원은 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 당사자는 정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것에 초점을 맞췄다고 설명했다.",
+      "severity": 57,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000058-karsk-action-4"
+      ],
+      "metricChanges": {
+        "approval": 0,
+        "publicAnxiety": 0
+      },
+      "actorAgentId": "karsk-agent-06",
+      "actorName": "이반 카멘",
+      "actorTitle": "지역 대표 의원",
+      "locationKo": "동명",
+      "objective": "정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것",
+      "announcedMeasure": "매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다",
+      "publicQuote": "확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라",
+      "nextStep": "첫 합동 브리핑은 이날 오후 동명 중앙기록관에서 열린다",
+      "backgroundFactIds": []
+    },
+    {
+      "id": "tick-00000058-event-31",
+      "tickId": "tick-00000058",
+      "occurredAt": "3026-07-21T19:08:00.000Z",
+      "nationIds": [
+        "eiren",
+        "helion"
+      ],
+      "category": "diplomacy",
+      "title": "헬베티아 동맹, 화하 왕국에 48시간 내 실무회담 제안",
+      "summary": "레온 엘리아 개혁야당 지도부는 화하 왕국에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다. 당사자는 화하 왕국과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것에 초점을 맞췄다고 설명했다.",
+      "severity": 78,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000058-eiren-action-1"
+      ],
+      "metricChanges": {
+        "approval": 1.01,
+        "publicAnxiety": -1.34
+      },
+      "actorAgentId": "eiren-agent-03",
+      "actorName": "레온 엘리아",
+      "actorTitle": "개혁야당 지도부",
+      "locationKo": "이레니아",
+      "targetNationId": "helion",
+      "objective": "화하 왕국과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것",
+      "announcedMeasure": "화하 왕국에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다",
+      "publicQuote": "상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다",
+      "nextStep": "화하 왕국의 답변을 받은 뒤 이레니아 외교회관에서 예비접촉 대표와 의제를 공개한다",
+      "backgroundFactIds": [
+        "tick-00000058-fact-security"
+      ],
+      "counterpartResponse": "화하 왕국 측은 별도 발표에서 헬베티아 동맹에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다"
+    },
+    {
+      "id": "tick-00000058-event-32",
+      "tickId": "tick-00000058",
+      "occurredAt": "3026-07-21T19:12:00.000Z",
+      "nationIds": [
+        "eiren",
+        "aster"
+      ],
+      "category": "diplomacy",
+      "title": "헬베티아 동맹, 알비온 공동체에 48시간 내 실무회담 제안",
+      "summary": "미라 니코스 민족전선 지도부는 알비온 공동체에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다. 당사자는 알비온 공동체와의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것에 초점을 맞췄다고 설명했다.",
+      "severity": 61,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000058-eiren-action-2"
+      ],
+      "metricChanges": {
+        "approval": 0,
+        "publicAnxiety": -0.4
+      },
+      "actorAgentId": "eiren-agent-04",
+      "actorName": "미라 니코스",
+      "actorTitle": "민족전선 지도부",
+      "locationKo": "이레니아",
+      "targetNationId": "aster",
+      "objective": "알비온 공동체와의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것",
+      "announcedMeasure": "알비온 공동체에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다",
+      "publicQuote": "상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다",
+      "nextStep": "알비온 공동체의 답변을 받은 뒤 이레니아 외교회관에서 예비접촉 대표와 의제를 공개한다",
+      "backgroundFactIds": [
+        "tick-00000058-fact-security"
+      ],
+      "counterpartResponse": "알비온 공동체 측은 별도 발표에서 헬베티아 동맹에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다"
+    },
+    {
+      "id": "tick-00000058-event-33",
+      "tickId": "tick-00000058",
+      "occurredAt": "3026-07-21T19:04:00.000Z",
+      "nationIds": [
+        "eiren"
+      ],
+      "category": "politics",
+      "title": "헬베티아 동맹, 추가 대응 표결 24시간 유보",
+      "summary": "이반 이리스 차기 지도자 후보는 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 당사자는 정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것에 초점을 맞췄다고 설명했다.",
+      "severity": 60,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000058-eiren-action-3"
+      ],
+      "metricChanges": {
+        "approval": -0.4,
+        "publicAnxiety": 0.5
+      },
+      "actorAgentId": "eiren-agent-05",
+      "actorName": "이반 이리스",
+      "actorTitle": "차기 지도자 후보",
+      "locationKo": "이레니아",
+      "objective": "정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것",
+      "announcedMeasure": "추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다",
+      "publicQuote": "행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다",
+      "nextStep": "합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다",
+      "backgroundFactIds": [
+        "tick-00000058-fact-security"
+      ]
+    },
+    {
+      "id": "tick-00000058-event-34",
+      "tickId": "tick-00000058",
+      "occurredAt": "3026-07-21T18:40:00.000Z",
+      "nationIds": [
+        "eiren",
+        "karsk"
+      ],
+      "category": "diplomacy",
+      "title": "헬베티아 동맹, 동방 인민공화국에 수송선 3척·의료단 파견",
+      "summary": "셀레네 다몬 지역 대표 의원은 동방 인민공화국에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다. 당사자는 동방 인민공화국의 필수 연료와 의료품 부족을 막고 항만 지역의 불안을 낮추는 것에 초점을 맞췄다고 설명했다.",
+      "severity": 63,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000058-eiren-action-4"
+      ],
+      "metricChanges": {
+        "reserves": -1.14,
+        "approval": 0.4
+      },
+      "actorAgentId": "eiren-agent-06",
+      "actorName": "셀레네 다몬",
+      "actorTitle": "지역 대표 의원",
+      "locationKo": "이레니아",
+      "targetNationId": "karsk",
+      "objective": "동방 인민공화국의 필수 연료와 의료품 부족을 막고 항만 지역의 불안을 낮추는 것",
+      "announcedMeasure": "동방 인민공화국에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다",
+      "publicQuote": "이번 지원은 군사적 개입이 아니라 주민 생활과 민간 운송망을 지키기 위한 조치다",
+      "nextStep": "동방 인민공화국이 접안 안전을 보장하면 첫 수송선이 다음 날 오전 이레니아 궤도항을 출발한다",
+      "backgroundFactIds": [
+        "tick-00000058-fact-security"
+      ],
+      "counterpartResponse": "동방 인민공화국 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다"
+    },
+    {
+      "id": "tick-00000058-event-35",
+      "tickId": "tick-00000058",
+      "occurredAt": "3026-07-21T18:28:00.000Z",
+      "nationIds": [
+        "eiren"
+      ],
+      "category": "society",
+      "title": "헬베티아 동맹, 하루 두 차례 위기 합동브리핑",
+      "summary": "도리아 필론 외교위원장은 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 당사자는 정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것에 초점을 맞췄다고 설명했다.",
+      "severity": 65,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000058-eiren-action-5"
+      ],
+      "metricChanges": {
+        "approval": 0,
+        "publicAnxiety": -0.49
+      },
+      "actorAgentId": "eiren-agent-07",
+      "actorName": "도리아 필론",
+      "actorTitle": "외교위원장",
+      "locationKo": "이레니아",
+      "objective": "정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것",
+      "announcedMeasure": "매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다",
+      "publicQuote": "확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라",
+      "nextStep": "첫 합동 브리핑은 이날 오후 이레니아 중앙기록관에서 열린다",
+      "backgroundFactIds": [
+        "tick-00000058-fact-security"
+      ]
+    },
+    {
+      "id": "tick-00000058-event-36",
+      "tickId": "tick-00000058",
+      "occurredAt": "3026-07-21T18:32:00.000Z",
+      "nationIds": [
+        "orion"
+      ],
+      "category": "society",
+      "title": "해협 보호령, 하루 두 차례 위기 합동브리핑",
+      "summary": "미라 벨몽 개혁야당 지도부는 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 당사자는 정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것에 초점을 맞췄다고 설명했다.",
+      "severity": 70,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000058-orion-action-1"
+      ],
+      "metricChanges": {
+        "approval": 0,
+        "publicAnxiety": -1.38
+      },
+      "actorAgentId": "orion-agent-03",
+      "actorName": "미라 벨몽",
+      "actorTitle": "개혁야당 지도부",
+      "locationKo": "벨포트",
+      "objective": "정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것",
+      "announcedMeasure": "매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다",
+      "publicQuote": "확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라",
+      "nextStep": "첫 합동 브리핑은 이날 오후 벨포트 중앙기록관에서 열린다",
+      "backgroundFactIds": []
+    },
+    {
+      "id": "tick-00000058-event-37",
+      "tickId": "tick-00000058",
+      "occurredAt": "3026-07-21T19:28:00.000Z",
+      "nationIds": [
+        "orion",
+        "aster"
+      ],
+      "category": "diplomacy",
+      "title": "해협 보호령, 알비온 공동체에 48시간 내 실무회담 제안",
+      "summary": "이반 세브르 민족전선 지도부는 알비온 공동체에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다. 당사자는 알비온 공동체와의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것에 초점을 맞췄다고 설명했다.",
+      "severity": 44,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000058-orion-action-2"
+      ],
+      "metricChanges": {
+        "approval": 0,
+        "publicAnxiety": -0.47
+      },
+      "actorAgentId": "orion-agent-04",
+      "actorName": "이반 세브르",
+      "actorTitle": "민족전선 지도부",
+      "locationKo": "벨포트",
+      "targetNationId": "aster",
+      "objective": "알비온 공동체와의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것",
+      "announcedMeasure": "알비온 공동체에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다",
+      "publicQuote": "상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다",
+      "nextStep": "알비온 공동체의 답변을 받은 뒤 벨포트 외교회관에서 예비접촉 대표와 의제를 공개한다",
+      "backgroundFactIds": [
+        "tick-00000058-fact-security"
+      ],
+      "counterpartResponse": "알비온 공동체 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다"
+    },
+    {
+      "id": "tick-00000058-event-38",
+      "tickId": "tick-00000058",
+      "occurredAt": "3026-07-21T20:24:00.000Z",
+      "nationIds": [
+        "orion"
+      ],
+      "category": "society",
+      "title": "해협 보호령, 하루 두 차례 위기 합동브리핑",
+      "summary": "셀레네 아르노 차기 지도자 후보는 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 당사자는 정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것에 초점을 맞췄다고 설명했다.",
+      "severity": 70,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000058-orion-action-3"
+      ],
+      "metricChanges": {
+        "approval": -1.02,
+        "publicAnxiety": 0
+      },
+      "actorAgentId": "orion-agent-05",
+      "actorName": "셀레네 아르노",
+      "actorTitle": "차기 지도자 후보",
+      "locationKo": "벨포트",
+      "objective": "정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것",
+      "announcedMeasure": "매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다",
+      "publicQuote": "확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라",
+      "nextStep": "첫 합동 브리핑은 이날 오후 벨포트 중앙기록관에서 열린다",
+      "backgroundFactIds": []
+    },
+    {
+      "id": "tick-00000058-event-39",
+      "tickId": "tick-00000058",
+      "occurredAt": "3026-07-21T20:16:00.000Z",
+      "nationIds": [
+        "orion"
+      ],
+      "category": "politics",
+      "title": "해협 보호령, 추가 대응 표결 24시간 유보",
+      "summary": "도리아 페랭 지역 대표 의원은 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 당사자는 정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것에 초점을 맞췄다고 설명했다.",
+      "severity": 66,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000058-orion-action-4"
+      ],
+      "metricChanges": {
+        "approval": -0.4,
+        "publicAnxiety": 0.5
+      },
+      "actorAgentId": "orion-agent-06",
+      "actorName": "도리아 페랭",
+      "actorTitle": "지역 대표 의원",
+      "locationKo": "벨포트",
+      "objective": "정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것",
+      "announcedMeasure": "추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다",
+      "publicQuote": "행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다",
+      "nextStep": "합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다",
+      "backgroundFactIds": []
+    },
+    {
+      "id": "tick-00000058-event-40",
+      "tickId": "tick-00000058",
+      "occurredAt": "3026-07-21T18:08:00.000Z",
+      "nationIds": [
+        "orion"
+      ],
+      "category": "politics",
+      "title": "해협 보호령, 추가 대응 표결 24시간 유보",
+      "summary": "마르코 모렐 외교위원장은 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 당사자는 정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것에 초점을 맞췄다고 설명했다.",
+      "severity": 56,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000058-orion-action-5"
+      ],
+      "metricChanges": {
+        "approval": -0.4,
+        "publicAnxiety": 0.5
+      },
+      "actorAgentId": "orion-agent-07",
+      "actorName": "마르코 모렐",
+      "actorTitle": "외교위원장",
+      "locationKo": "벨포트",
+      "objective": "정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것",
+      "announcedMeasure": "추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다",
+      "publicQuote": "행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다",
+      "nextStep": "합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다",
+      "backgroundFactIds": []
+    },
+    {
+      "id": "tick-00000058-aic-discovery",
+      "tickId": "tick-00000058",
+      "occurredAt": "3026-07-21T19:44:00.000Z",
+      "nationIds": [
+        "nova",
+        "vesper",
+        "helion",
+        "aster",
+        "marevia",
+        "karsk",
+        "eiren",
+        "orion"
+      ],
+      "category": "science",
+      "title": "오르비스 AI연구원, 인공지능용 인메모리 반도체, 저장과 계산을 한 판에서 수행",
+      "summary": "연구진이 4천96개의 저항변화 메모리 소자를 격자로 묶어 숫자를 기억한 자리에서 곧바로 행렬 계산을 수행하는 AI 연산판을 공개했다. 기억장치와 연산장치 사이를 오가는 전력을 줄여 소형 관측기와 이동식 번역기의 인공지능 처리를 가볍게 할 가능성이 제시됐다.",
+      "severity": 62,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [],
+      "metricChanges": {},
+      "actorName": "오르비스 AI연구원",
+      "actorTitle": "연구검증위원회",
+      "locationKo": "코레이아 공화국 세라노 계산과학구",
+      "objective": "AI 반도체와 AI 반도체 기술의 성능·전력·한계를 시민과 연구기관이 함께 검증하게 하는 것",
+      "announcedMeasure": "연구진이 4천96개의 저항변화 메모리 소자를 격자로 묶어 숫자를 기억한 자리에서 곧바로 행렬 계산을 수행하는 AI 연산판을 공개했다고 발표했다",
+      "publicQuote": "빠른 계산보다 중요한 것은 기억을 운반하지 않고 그 자리에서 계산하는 방식이다",
+      "nextStep": "세 나라 연구소가 같은 회로도를 제작해 30일 연속 구동 시험과 소비전력 측정을 반복한다",
+      "uncertainty": "아직 모의 숫자 판독 실험에 한정됐고 온도 변화와 장시간 사용에 따른 오차가 검증되지 않았다",
+      "backgroundFactIds": [
+        "tick-00000058-fact-aic-discovery"
+      ]
+    },
+    {
+      "id": "tick-00000059-event-1",
+      "tickId": "tick-00000059",
+      "occurredAt": "3026-07-21T23:20:00.000Z",
+      "nationIds": [
+        "nova"
+      ],
+      "category": "society",
+      "title": "코레이아 공화국, 하루 두 차례 위기 합동브리핑",
+      "summary": "테오 루멘 재무부·중앙은행은 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 당사자는 정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것에 초점을 맞췄다고 설명했다.",
+      "severity": 45,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000059-nova-action-1"
+      ],
+      "metricChanges": {
+        "approval": 0,
+        "publicAnxiety": 0
+      },
+      "actorAgentId": "nova-agent-08",
+      "actorName": "테오 루멘",
+      "actorTitle": "재무부·중앙은행",
+      "locationKo": "아우렐리아",
+      "objective": "정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것",
+      "announcedMeasure": "매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다",
+      "publicQuote": "확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라",
+      "nextStep": "첫 합동 브리핑은 이날 오후 아우렐리아 중앙기록관에서 열린다",
+      "backgroundFactIds": [
+        "tick-00000059-fact-society"
+      ]
+    },
+    {
+      "id": "tick-00000059-event-2",
+      "tickId": "tick-00000059",
+      "occurredAt": "3026-07-21T23:32:00.000Z",
+      "nationIds": [
+        "nova"
+      ],
+      "category": "society",
+      "title": "코레이아 공화국, 하루 두 차례 위기 합동브리핑",
+      "summary": "레온 아벨 외교부는 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 당사자는 정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것에 초점을 맞췄다고 설명했다.",
+      "severity": 56,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000059-nova-action-2"
+      ],
+      "metricChanges": {
+        "approval": 0,
+        "publicAnxiety": 0
+      },
+      "actorAgentId": "nova-agent-09",
+      "actorName": "레온 아벨",
+      "actorTitle": "외교부",
+      "locationKo": "아우렐리아",
+      "objective": "정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것",
+      "announcedMeasure": "매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다",
+      "publicQuote": "확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라",
+      "nextStep": "첫 합동 브리핑은 이날 오후 아우렐리아 중앙기록관에서 열린다",
+      "backgroundFactIds": [
+        "tick-00000059-fact-society"
+      ]
+    },
+    {
+      "id": "tick-00000059-event-4",
+      "tickId": "tick-00000059",
+      "occurredAt": "3026-07-21T23:08:00.000Z",
+      "nationIds": [
+        "nova"
+      ],
+      "category": "politics",
+      "title": "코레이아 공화국, 추가 대응 표결 24시간 유보",
+      "summary": "이반 코르빈 대표 언론사 편집국은 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 당사자는 정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것에 초점을 맞췄다고 설명했다.",
+      "severity": 70,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000059-nova-action-4"
+      ],
+      "metricChanges": {
+        "approval": -0.4,
+        "publicAnxiety": 0.5
+      },
+      "actorAgentId": "nova-agent-11",
+      "actorName": "이반 코르빈",
+      "actorTitle": "대표 언론사 편집국",
+      "locationKo": "아우렐리아",
+      "objective": "정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것",
+      "announcedMeasure": "추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다",
+      "publicQuote": "행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다",
+      "nextStep": "합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다",
+      "backgroundFactIds": [
+        "tick-00000059-fact-society"
+      ]
+    },
+    {
+      "id": "tick-00000059-event-5",
+      "tickId": "tick-00000059",
+      "occurredAt": "3026-07-21T22:04:00.000Z",
+      "nationIds": [
+        "nova"
+      ],
+      "category": "politics",
+      "title": "코레이아 공화국, 추가 대응 표결 24시간 유보",
+      "summary": "셀레네 세라 정치·외교 기자는 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 당사자는 정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것에 초점을 맞췄다고 설명했다.",
+      "severity": 51,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000059-nova-action-5"
+      ],
+      "metricChanges": {
+        "approval": -0.4,
+        "publicAnxiety": 0.5
+      },
+      "actorAgentId": "nova-agent-12",
+      "actorName": "셀레네 세라",
+      "actorTitle": "정치·외교 기자",
+      "locationKo": "아우렐리아",
+      "objective": "정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것",
+      "announcedMeasure": "추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다",
+      "publicQuote": "행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다",
+      "nextStep": "합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다",
+      "backgroundFactIds": [
+        "tick-00000059-fact-society"
+      ]
+    },
+    {
+      "id": "tick-00000059-event-6",
+      "tickId": "tick-00000059",
+      "occurredAt": "3026-07-21T21:56:00.000Z",
+      "nationIds": [
+        "vesper"
+      ],
+      "category": "politics",
+      "title": "아메리아 연방, 추가 대응 표결 24시간 유보",
+      "summary": "레온 노르 재무부·중앙은행은 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 당사자는 정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것에 초점을 맞췄다고 설명했다.",
+      "severity": 47,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000059-vesper-action-1"
+      ],
+      "metricChanges": {
+        "approval": -0.4,
+        "publicAnxiety": 0.5
+      },
+      "actorAgentId": "vesper-agent-08",
+      "actorName": "레온 노르",
+      "actorTitle": "재무부·중앙은행",
+      "locationKo": "벨라트리스",
+      "objective": "정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것",
+      "announcedMeasure": "추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다",
+      "publicQuote": "행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다",
+      "nextStep": "합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다",
+      "backgroundFactIds": [
+        "tick-00000059-fact-society"
+      ]
+    },
+    {
+      "id": "tick-00000059-event-8",
+      "tickId": "tick-00000059",
+      "occurredAt": "3026-07-21T21:20:00.000Z",
+      "nationIds": [
+        "vesper",
+        "eiren"
+      ],
+      "category": "diplomacy",
+      "title": "아메리아 연방, 헬베티아 동맹에 48시간 내 실무회담 제안",
+      "summary": "이반 크루거 국방부·우주사령부는 헬베티아 동맹에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다. 당사자는 헬베티아 동맹과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것에 초점을 맞췄다고 설명했다.",
+      "severity": 74,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000059-vesper-action-3"
+      ],
+      "metricChanges": {
+        "approval": -0.54,
+        "publicAnxiety": -0.59
+      },
+      "actorAgentId": "vesper-agent-10",
+      "actorName": "이반 크루거",
+      "actorTitle": "국방부·우주사령부",
+      "locationKo": "벨라트리스",
+      "targetNationId": "eiren",
+      "objective": "헬베티아 동맹과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것",
+      "announcedMeasure": "헬베티아 동맹에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다",
+      "publicQuote": "상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다",
+      "nextStep": "헬베티아 동맹의 답변을 받은 뒤 벨라트리스 외교회관에서 예비접촉 대표와 의제를 공개한다",
+      "backgroundFactIds": [
+        "tick-00000059-fact-society"
+      ],
+      "counterpartResponse": "헬베티아 동맹 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다"
+    },
+    {
+      "id": "tick-00000059-event-10",
+      "tickId": "tick-00000059",
+      "occurredAt": "3026-07-21T21:24:00.000Z",
+      "nationIds": [
+        "vesper"
+      ],
+      "category": "politics",
+      "title": "아메리아 연방, 추가 대응 표결 24시간 유보",
+      "summary": "도리아 로트 정치·외교 기자는 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 당사자는 정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것에 초점을 맞췄다고 설명했다.",
+      "severity": 57,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000059-vesper-action-5"
+      ],
+      "metricChanges": {
+        "approval": -0.4,
+        "publicAnxiety": 0.5
+      },
+      "actorAgentId": "vesper-agent-12",
+      "actorName": "도리아 로트",
+      "actorTitle": "정치·외교 기자",
+      "locationKo": "벨라트리스",
+      "objective": "정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것",
+      "announcedMeasure": "추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다",
+      "publicQuote": "행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다",
+      "nextStep": "합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다",
+      "backgroundFactIds": [
+        "tick-00000059-fact-society"
+      ]
+    },
+    {
       "id": "tick-00000059-event-11",
       "tickId": "tick-00000059",
       "occurredAt": "3026-07-21T23:16:00.000Z",
@@ -882,36 +1726,6 @@
       "announcedMeasure": "추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다",
       "publicQuote": "행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다",
       "nextStep": "합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다",
-      "backgroundFactIds": []
-    },
-    {
-      "id": "tick-00000059-event-12",
-      "tickId": "tick-00000059",
-      "occurredAt": "3026-07-21T22:36:00.000Z",
-      "nationIds": [
-        "helion"
-      ],
-      "category": "politics",
-      "title": "화하 왕국 의회, 책임자 7명 공개 청문회 추진",
-      "summary": "이반 솔라 외교부는 의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다. 당사자는 위기 대응 과정의 보고 누락과 의사결정 책임을 확인하는 것에 초점을 맞췄다고 설명했다.",
-      "severity": 60,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000059-helion-action-2"
-      ],
-      "metricChanges": {
-        "approval": 0.4,
-        "publicAnxiety": -0.33
-      },
-      "actorAgentId": "helion-agent-09",
-      "actorName": "이반 솔라",
-      "actorTitle": "외교부",
-      "locationKo": "솔 인빅타",
-      "objective": "위기 대응 과정의 보고 누락과 의사결정 책임을 확인하는 것",
-      "announcedMeasure": "의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다",
-      "publicQuote": "기밀을 이유로 정책 실패까지 감출 수는 없으며 공개 가능한 기록부터 확인하겠다",
-      "nextStep": "사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다",
       "backgroundFactIds": []
     },
     {
@@ -976,66 +1790,6 @@
       "nextStep": "해협 보호령이 접안 안전을 보장하면 첫 수송선이 다음 날 오전 솔 인빅타 궤도항을 출발한다",
       "backgroundFactIds": [],
       "counterpartResponse": "해협 보호령 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다"
-    },
-    {
-      "id": "tick-00000059-event-15",
-      "tickId": "tick-00000059",
-      "occurredAt": "3026-07-21T23:36:00.000Z",
-      "nationIds": [
-        "helion"
-      ],
-      "category": "politics",
-      "title": "화하 왕국 의회, 책임자 7명 공개 청문회 추진",
-      "summary": "마르코 라헬 정치·외교 기자는 의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다. 당사자는 위기 대응 과정의 보고 누락과 의사결정 책임을 확인하는 것에 초점을 맞췄다고 설명했다.",
-      "severity": 60,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000059-helion-action-5"
-      ],
-      "metricChanges": {
-        "approval": 0,
-        "publicAnxiety": -0.33
-      },
-      "actorAgentId": "helion-agent-12",
-      "actorName": "마르코 라헬",
-      "actorTitle": "정치·외교 기자",
-      "locationKo": "솔 인빅타",
-      "objective": "위기 대응 과정의 보고 누락과 의사결정 책임을 확인하는 것",
-      "announcedMeasure": "의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다",
-      "publicQuote": "기밀을 이유로 정책 실패까지 감출 수는 없으며 공개 가능한 기록부터 확인하겠다",
-      "nextStep": "사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다",
-      "backgroundFactIds": []
-    },
-    {
-      "id": "tick-00000059-event-16",
-      "tickId": "tick-00000059",
-      "occurredAt": "3026-07-21T21:36:00.000Z",
-      "nationIds": [
-        "aster"
-      ],
-      "category": "politics",
-      "title": "알비온 공동체 의회, 책임자 7명 공개 청문회 추진",
-      "summary": "이반 브룩 재무부·중앙은행은 의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다. 당사자는 위기 대응 과정의 보고 누락과 의사결정 책임을 확인하는 것에 초점을 맞췄다고 설명했다.",
-      "severity": 65,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000059-aster-action-1"
-      ],
-      "metricChanges": {
-        "approval": -0.55,
-        "publicAnxiety": -0.4
-      },
-      "actorAgentId": "aster-agent-08",
-      "actorName": "이반 브룩",
-      "actorTitle": "재무부·중앙은행",
-      "locationKo": "그린위치 항",
-      "objective": "위기 대응 과정의 보고 누락과 의사결정 책임을 확인하는 것",
-      "announcedMeasure": "의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다",
-      "publicQuote": "기밀을 이유로 정책 실패까지 감출 수는 없으며 공개 가능한 기록부터 확인하겠다",
-      "nextStep": "사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다",
-      "backgroundFactIds": []
     },
     {
       "id": "tick-00000059-event-17",
@@ -1232,36 +1986,6 @@
       "counterpartResponse": "동방 인민공화국 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다"
     },
     {
-      "id": "tick-00000059-event-23",
-      "tickId": "tick-00000059",
-      "occurredAt": "3026-07-21T22:24:00.000Z",
-      "nationIds": [
-        "marevia"
-      ],
-      "category": "politics",
-      "title": "아드리아 연합 의회, 책임자 7명 공개 청문회 추진",
-      "summary": "마르코 마리노 국방부·우주사령부는 의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다. 당사자는 위기 대응 과정의 보고 누락과 의사결정 책임을 확인하는 것에 초점을 맞췄다고 설명했다.",
-      "severity": 50,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000059-marevia-action-3"
-      ],
-      "metricChanges": {
-        "approval": -0.88,
-        "publicAnxiety": 0
-      },
-      "actorAgentId": "marevia-agent-10",
-      "actorName": "마르코 마리노",
-      "actorTitle": "국방부·우주사령부",
-      "locationKo": "포르토 셀레네",
-      "objective": "위기 대응 과정의 보고 누락과 의사결정 책임을 확인하는 것",
-      "announcedMeasure": "의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다",
-      "publicQuote": "기밀을 이유로 정책 실패까지 감출 수는 없으며 공개 가능한 기록부터 확인하겠다",
-      "nextStep": "사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다",
-      "backgroundFactIds": []
-    },
-    {
       "id": "tick-00000059-event-24",
       "tickId": "tick-00000059",
       "occurredAt": "3026-07-21T22:44:00.000Z",
@@ -1319,36 +2043,6 @@
       "announcedMeasure": "추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다",
       "publicQuote": "행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다",
       "nextStep": "합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다",
-      "backgroundFactIds": []
-    },
-    {
-      "id": "tick-00000059-event-26",
-      "tickId": "tick-00000059",
-      "occurredAt": "3026-07-21T21:32:00.000Z",
-      "nationIds": [
-        "karsk"
-      ],
-      "category": "politics",
-      "title": "동방 인민공화국 의회, 책임자 7명 공개 청문회 추진",
-      "summary": "도리아 제린 재무부·중앙은행은 의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다. 당사자는 위기 대응 과정의 보고 누락과 의사결정 책임을 확인하는 것에 초점을 맞췄다고 설명했다.",
-      "severity": 56,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000059-karsk-action-1"
-      ],
-      "metricChanges": {
-        "approval": 0.18,
-        "publicAnxiety": 0
-      },
-      "actorAgentId": "karsk-agent-08",
-      "actorName": "도리아 제린",
-      "actorTitle": "재무부·중앙은행",
-      "locationKo": "동명",
-      "objective": "위기 대응 과정의 보고 누락과 의사결정 책임을 확인하는 것",
-      "announcedMeasure": "의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다",
-      "publicQuote": "기밀을 이유로 정책 실패까지 감출 수는 없으며 공개 가능한 기록부터 확인하겠다",
-      "nextStep": "사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다",
       "backgroundFactIds": []
     },
     {
@@ -1574,36 +2268,6 @@
       "backgroundFactIds": []
     },
     {
-      "id": "tick-00000059-event-34",
-      "tickId": "tick-00000059",
-      "occurredAt": "3026-07-21T22:16:00.000Z",
-      "nationIds": [
-        "eiren"
-      ],
-      "category": "politics",
-      "title": "헬베티아 동맹 의회, 책임자 7명 공개 청문회 추진",
-      "summary": "레온 엘리아 대표 언론사 편집국은 의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다. 당사자는 위기 대응 과정의 보고 누락과 의사결정 책임을 확인하는 것에 초점을 맞췄다고 설명했다.",
-      "severity": 51,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000059-eiren-action-4"
-      ],
-      "metricChanges": {
-        "approval": 0.4,
-        "publicAnxiety": -0.23
-      },
-      "actorAgentId": "eiren-agent-11",
-      "actorName": "레온 엘리아",
-      "actorTitle": "대표 언론사 편집국",
-      "locationKo": "이레니아",
-      "objective": "위기 대응 과정의 보고 누락과 의사결정 책임을 확인하는 것",
-      "announcedMeasure": "의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다",
-      "publicQuote": "기밀을 이유로 정책 실패까지 감출 수는 없으며 공개 가능한 기록부터 확인하겠다",
-      "nextStep": "사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다",
-      "backgroundFactIds": []
-    },
-    {
       "id": "tick-00000059-event-35",
       "tickId": "tick-00000059",
       "occurredAt": "3026-07-21T22:12:00.000Z",
@@ -1665,36 +2329,6 @@
       "nextStep": "알비온 공동체이 접안 안전을 보장하면 첫 수송선이 다음 날 오전 벨포트 궤도항을 출발한다",
       "backgroundFactIds": [],
       "counterpartResponse": "알비온 공동체 측은 별도 발표에서 해협 보호령에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다"
-    },
-    {
-      "id": "tick-00000059-event-37",
-      "tickId": "tick-00000059",
-      "occurredAt": "3026-07-21T23:00:00.000Z",
-      "nationIds": [
-        "orion"
-      ],
-      "category": "politics",
-      "title": "해협 보호령 의회, 책임자 7명 공개 청문회 추진",
-      "summary": "테오 로랑 외교부는 의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다. 당사자는 위기 대응 과정의 보고 누락과 의사결정 책임을 확인하는 것에 초점을 맞췄다고 설명했다.",
-      "severity": 71,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000059-orion-action-2"
-      ],
-      "metricChanges": {
-        "approval": 0.85,
-        "publicAnxiety": -0.5
-      },
-      "actorAgentId": "orion-agent-09",
-      "actorName": "테오 로랑",
-      "actorTitle": "외교부",
-      "locationKo": "벨포트",
-      "objective": "위기 대응 과정의 보고 누락과 의사결정 책임을 확인하는 것",
-      "announcedMeasure": "의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다",
-      "publicQuote": "기밀을 이유로 정책 실패까지 감출 수는 없으며 공개 가능한 기록부터 확인하겠다",
-      "nextStep": "사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다",
-      "backgroundFactIds": []
     },
     {
       "id": "tick-00000059-event-38",
@@ -1826,209 +2460,6 @@
       ]
     },
     {
-      "id": "tick-00000060-nova-daily-58-media-impact",
-      "tickId": "tick-00000060",
-      "occurredAt": "3026-07-22T00:28:00.000Z",
-      "nationIds": [
-        "nova"
-      ],
-      "category": "society",
-      "title": "코레이아타임스 보도, 다음 회차 여론에 반영",
-      "summary": "기사에 연결된 공개 사건과 지면 비중을 기준으로 국정 지지도 -0.3, 시민 불안 +0.21이 반영됐다.",
-      "severity": 38,
-      "status": "resolved",
-      "visibility": "public",
-      "sourceActionIds": [],
-      "metricChanges": {
-        "approval": -0.3,
-        "publicAnxiety": 0.21
-      },
-      "actorName": "코레이아타임스",
-      "actorTitle": "발행 지면",
-      "locationKo": "아우렐리아",
-      "objective": "신문 보도의 사회적 파급을 기사 근거와 독자 반응 규칙으로 추적하는 것",
-      "announcedMeasure": "코레이아타임스의 기사 비중과 근거 사건의 심각도를 합산해 정치 책임 보도·외교 해법 보도·경제 위험 보도·우주 환경 보도가 독자 여론에 미친 다음 회차 효과를 계산했다.",
-      "publicQuote": "기사 문장이 아니라 확인된 사건, 지면 비중, 사건 심각도를 기준으로 반영한다",
-      "nextStep": "다음 국가 갱신 때 새로 발행된 지면만 한 차례 계산한다",
-      "backgroundFactIds": [
-        "tick-00000060-nova-daily-58-media-impact-fact"
-      ]
-    },
-    {
-      "id": "tick-00000060-vesper-daily-58-media-impact",
-      "tickId": "tick-00000060",
-      "occurredAt": "3026-07-22T00:14:40.000Z",
-      "nationIds": [
-        "vesper"
-      ],
-      "category": "society",
-      "title": "아메리아포스트 보도, 다음 회차 여론에 반영",
-      "summary": "기사에 연결된 공개 사건과 지면 비중을 기준으로 국정 지지도 -0.19, 시민 불안 +0.27이 반영됐다.",
-      "severity": 37,
-      "status": "resolved",
-      "visibility": "public",
-      "sourceActionIds": [],
-      "metricChanges": {
-        "approval": -0.19,
-        "publicAnxiety": 0.27
-      },
-      "actorName": "아메리아포스트",
-      "actorTitle": "발행 지면",
-      "locationKo": "벨라트리스",
-      "objective": "신문 보도의 사회적 파급을 기사 근거와 독자 반응 규칙으로 추적하는 것",
-      "announcedMeasure": "아메리아포스트의 기사 비중과 근거 사건의 심각도를 합산해 경제 위험 보도·우주 환경 보도·외교 해법 보도·정치 책임 보도가 독자 여론에 미친 다음 회차 효과를 계산했다.",
-      "publicQuote": "기사 문장이 아니라 확인된 사건, 지면 비중, 사건 심각도를 기준으로 반영한다",
-      "nextStep": "다음 국가 갱신 때 새로 발행된 지면만 한 차례 계산한다",
-      "backgroundFactIds": [
-        "tick-00000060-vesper-daily-58-media-impact-fact"
-      ]
-    },
-    {
-      "id": "tick-00000060-helion-daily-58-media-impact",
-      "tickId": "tick-00000060",
-      "occurredAt": "3026-07-22T00:34:40.000Z",
-      "nationIds": [
-        "helion"
-      ],
-      "category": "society",
-      "title": "화하데일리 보도, 다음 회차 여론에 반영",
-      "summary": "기사에 연결된 공개 사건과 지면 비중을 기준으로 국정 지지도 +0.08, 시민 불안 -0.01이 반영됐다.",
-      "severity": 31,
-      "status": "resolved",
-      "visibility": "public",
-      "sourceActionIds": [],
-      "metricChanges": {
-        "approval": 0.08,
-        "publicAnxiety": -0.01
-      },
-      "actorName": "화하데일리",
-      "actorTitle": "발행 지면",
-      "locationKo": "솔 인빅타",
-      "objective": "신문 보도의 사회적 파급을 기사 근거와 독자 반응 규칙으로 추적하는 것",
-      "announcedMeasure": "화하데일리의 기사 비중과 근거 사건의 심각도를 합산해 외교 해법 보도·과학 검증 보도·우주 환경 보도·경제 위험 보도가 독자 여론에 미친 다음 회차 효과를 계산했다.",
-      "publicQuote": "기사 문장이 아니라 확인된 사건, 지면 비중, 사건 심각도를 기준으로 반영한다",
-      "nextStep": "다음 국가 갱신 때 새로 발행된 지면만 한 차례 계산한다",
-      "backgroundFactIds": [
-        "tick-00000060-helion-daily-58-media-impact-fact"
-      ]
-    },
-    {
-      "id": "tick-00000060-aster-daily-58-media-impact",
-      "tickId": "tick-00000060",
-      "occurredAt": "3026-07-22T02:41:20.000Z",
-      "nationIds": [
-        "aster"
-      ],
-      "category": "society",
-      "title": "알비온저널 보도, 다음 회차 여론에 반영",
-      "summary": "기사에 연결된 공개 사건과 지면 비중을 기준으로 국정 지지도 -0.3, 시민 불안 +0.21이 반영됐다.",
-      "severity": 38,
-      "status": "resolved",
-      "visibility": "public",
-      "sourceActionIds": [],
-      "metricChanges": {
-        "approval": -0.3,
-        "publicAnxiety": 0.21
-      },
-      "actorName": "알비온저널",
-      "actorTitle": "발행 지면",
-      "locationKo": "그린위치 항",
-      "objective": "신문 보도의 사회적 파급을 기사 근거와 독자 반응 규칙으로 추적하는 것",
-      "announcedMeasure": "알비온저널의 기사 비중과 근거 사건의 심각도를 합산해 정치 책임 보도·외교 해법 보도·경제 위험 보도·우주 환경 보도가 독자 여론에 미친 다음 회차 효과를 계산했다.",
-      "publicQuote": "기사 문장이 아니라 확인된 사건, 지면 비중, 사건 심각도를 기준으로 반영한다",
-      "nextStep": "다음 국가 갱신 때 새로 발행된 지면만 한 차례 계산한다",
-      "backgroundFactIds": [
-        "tick-00000060-aster-daily-58-media-impact-fact"
-      ]
-    },
-    {
-      "id": "tick-00000060-marevia-daily-58-media-impact",
-      "tickId": "tick-00000060",
-      "occurredAt": "3026-07-22T02:44:40.000Z",
-      "nationIds": [
-        "marevia"
-      ],
-      "category": "society",
-      "title": "아드리아경제 보도, 다음 회차 여론에 반영",
-      "summary": "기사에 연결된 공개 사건과 지면 비중을 기준으로 국정 지지도 -0.19, 시민 불안 +0.27이 반영됐다.",
-      "severity": 37,
-      "status": "resolved",
-      "visibility": "public",
-      "sourceActionIds": [],
-      "metricChanges": {
-        "approval": -0.19,
-        "publicAnxiety": 0.27
-      },
-      "actorName": "아드리아경제",
-      "actorTitle": "발행 지면",
-      "locationKo": "포르토 셀레네",
-      "objective": "신문 보도의 사회적 파급을 기사 근거와 독자 반응 규칙으로 추적하는 것",
-      "announcedMeasure": "아드리아경제의 기사 비중과 근거 사건의 심각도를 합산해 경제 위험 보도·외교 해법 보도·우주 환경 보도·정치 책임 보도가 독자 여론에 미친 다음 회차 효과를 계산했다.",
-      "publicQuote": "기사 문장이 아니라 확인된 사건, 지면 비중, 사건 심각도를 기준으로 반영한다",
-      "nextStep": "다음 국가 갱신 때 새로 발행된 지면만 한 차례 계산한다",
-      "backgroundFactIds": [
-        "tick-00000060-marevia-daily-58-media-impact-fact"
-      ]
-    },
-    {
-      "id": "tick-00000060-karsk-daily-58-media-impact",
-      "tickId": "tick-00000060",
-      "occurredAt": "3026-07-22T01:38:00.000Z",
-      "nationIds": [
-        "karsk"
-      ],
-      "category": "society",
-      "title": "동방뉴스 보도, 다음 회차 여론에 반영",
-      "summary": "기사에 연결된 공개 사건과 지면 비중을 기준으로 국정 지지도 -0.19, 시민 불안 +0.27이 반영됐다.",
-      "severity": 37,
-      "status": "resolved",
-      "visibility": "public",
-      "sourceActionIds": [],
-      "metricChanges": {
-        "approval": -0.19,
-        "publicAnxiety": 0.27
-      },
-      "actorName": "동방뉴스",
-      "actorTitle": "발행 지면",
-      "locationKo": "동명",
-      "objective": "신문 보도의 사회적 파급을 기사 근거와 독자 반응 규칙으로 추적하는 것",
-      "announcedMeasure": "동방뉴스의 기사 비중과 근거 사건의 심각도를 합산해 경제 위험 보도·외교 해법 보도·정치 책임 보도·우주 환경 보도가 독자 여론에 미친 다음 회차 효과를 계산했다.",
-      "publicQuote": "기사 문장이 아니라 확인된 사건, 지면 비중, 사건 심각도를 기준으로 반영한다",
-      "nextStep": "다음 국가 갱신 때 새로 발행된 지면만 한 차례 계산한다",
-      "backgroundFactIds": [
-        "tick-00000060-karsk-daily-58-media-impact-fact"
-      ]
-    },
-    {
-      "id": "tick-00000060-orion-daily-58-media-impact",
-      "tickId": "tick-00000060",
-      "occurredAt": "3026-07-22T01:48:00.000Z",
-      "nationIds": [
-        "orion"
-      ],
-      "category": "society",
-      "title": "해협헤럴드 보도, 다음 회차 여론에 반영",
-      "summary": "기사에 연결된 공개 사건과 지면 비중을 기준으로 국정 지지도 -0.12, 시민 불안 +0.21이 반영됐다.",
-      "severity": 35,
-      "status": "resolved",
-      "visibility": "public",
-      "sourceActionIds": [],
-      "metricChanges": {
-        "approval": -0.12,
-        "publicAnxiety": 0.21
-      },
-      "actorName": "해협헤럴드",
-      "actorTitle": "발행 지면",
-      "locationKo": "벨포트",
-      "objective": "신문 보도의 사회적 파급을 기사 근거와 독자 반응 규칙으로 추적하는 것",
-      "announcedMeasure": "해협헤럴드의 기사 비중과 근거 사건의 심각도를 합산해 우주 환경 보도·경제 위험 보도·외교 해법 보도·정치 책임 보도가 독자 여론에 미친 다음 회차 효과를 계산했다.",
-      "publicQuote": "기사 문장이 아니라 확인된 사건, 지면 비중, 사건 심각도를 기준으로 반영한다",
-      "nextStep": "다음 국가 갱신 때 새로 발행된 지면만 한 차례 계산한다",
-      "backgroundFactIds": [
-        "tick-00000060-orion-daily-58-media-impact-fact"
-      ]
-    },
-    {
       "id": "tick-00000060-event-1",
       "tickId": "tick-00000060",
       "occurredAt": "3026-07-22T00:58:00.000Z",
@@ -2099,38 +2530,6 @@
         "tick-00000060-nova-daily-58-media-impact-fact"
       ],
       "counterpartResponse": "헬베티아 동맹 측은 별도 발표에서 코레이아 공화국에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다"
-    },
-    {
-      "id": "tick-00000060-event-3",
-      "tickId": "tick-00000060",
-      "occurredAt": "3026-07-22T01:08:00.000Z",
-      "nationIds": [
-        "nova"
-      ],
-      "category": "politics",
-      "title": "코레이아 공화국 의회, 책임자 7명 공개 청문회 추진",
-      "summary": "엘라 카이 도시 직장인 대표는 의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다. 사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다.",
-      "severity": 68,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000060-nova-action-3"
-      ],
-      "metricChanges": {
-        "approval": -0.96,
-        "publicAnxiety": 0
-      },
-      "actorAgentId": "nova-agent-15",
-      "actorName": "엘라 카이",
-      "actorTitle": "도시 직장인 대표",
-      "locationKo": "아우렐리아",
-      "objective": "위기 대응 과정의 보고 누락과 의사결정 책임을 확인하는 것",
-      "announcedMeasure": "의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다",
-      "publicQuote": "기밀을 이유로 정책 실패까지 감출 수는 없으며 공개 가능한 기록부터 확인하겠다",
-      "nextStep": "사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다",
-      "backgroundFactIds": [
-        "tick-00000060-nova-daily-58-media-impact-fact"
-      ]
     },
     {
       "id": "tick-00000060-event-4",
@@ -2232,70 +2631,6 @@
         "tick-00000060-karsk-daily-58-media-impact-fact"
       ],
       "counterpartResponse": "동방 인민공화국 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다"
-    },
-    {
-      "id": "tick-00000060-event-7",
-      "tickId": "tick-00000060",
-      "occurredAt": "3026-07-22T02:04:40.000Z",
-      "nationIds": [
-        "vesper"
-      ],
-      "category": "politics",
-      "title": "아메리아 연방 의회, 책임자 7명 공개 청문회 추진",
-      "summary": "엘라 슈타인 노동·시민연대는 의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다. 사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다.",
-      "severity": 69,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000060-vesper-action-2"
-      ],
-      "metricChanges": {
-        "approval": 0.89,
-        "publicAnxiety": -0.48
-      },
-      "actorAgentId": "vesper-agent-14",
-      "actorName": "엘라 슈타인",
-      "actorTitle": "노동·시민연대",
-      "locationKo": "벨라트리스",
-      "objective": "위기 대응 과정의 보고 누락과 의사결정 책임을 확인하는 것",
-      "announcedMeasure": "의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다",
-      "publicQuote": "기밀을 이유로 정책 실패까지 감출 수는 없으며 공개 가능한 기록부터 확인하겠다",
-      "nextStep": "사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다",
-      "backgroundFactIds": [
-        "tick-00000060-vesper-daily-58-media-impact-fact"
-      ]
-    },
-    {
-      "id": "tick-00000060-event-8",
-      "tickId": "tick-00000060",
-      "occurredAt": "3026-07-22T01:41:20.000Z",
-      "nationIds": [
-        "vesper"
-      ],
-      "category": "politics",
-      "title": "아메리아 연방 의회, 책임자 7명 공개 청문회 추진",
-      "summary": "테오 펠트 도시 직장인 대표는 의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다. 사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다.",
-      "severity": 51,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000060-vesper-action-3"
-      ],
-      "metricChanges": {
-        "approval": -0.92,
-        "publicAnxiety": -0.29
-      },
-      "actorAgentId": "vesper-agent-15",
-      "actorName": "테오 펠트",
-      "actorTitle": "도시 직장인 대표",
-      "locationKo": "벨라트리스",
-      "objective": "위기 대응 과정의 보고 누락과 의사결정 책임을 확인하는 것",
-      "announcedMeasure": "의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다",
-      "publicQuote": "기밀을 이유로 정책 실패까지 감출 수는 없으며 공개 가능한 기록부터 확인하겠다",
-      "nextStep": "사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다",
-      "backgroundFactIds": [
-        "tick-00000060-vesper-daily-58-media-impact-fact"
-      ]
     },
     {
       "id": "tick-00000060-event-9",
@@ -2430,102 +2765,6 @@
       "announcedMeasure": "매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다",
       "publicQuote": "확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라",
       "nextStep": "첫 합동 브리핑은 이날 오후 솔 인빅타 중앙기록관에서 열린다",
-      "backgroundFactIds": [
-        "tick-00000060-helion-daily-58-media-impact-fact"
-      ]
-    },
-    {
-      "id": "tick-00000060-event-13",
-      "tickId": "tick-00000060",
-      "occurredAt": "3026-07-22T00:41:20.000Z",
-      "nationIds": [
-        "helion"
-      ],
-      "category": "politics",
-      "title": "화하 왕국 의회, 책임자 7명 공개 청문회 추진",
-      "summary": "레온 타릭 도시 직장인 대표는 의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다. 사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다.",
-      "severity": 66,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000060-helion-action-3"
-      ],
-      "metricChanges": {
-        "approval": 0,
-        "publicAnxiety": 0
-      },
-      "actorAgentId": "helion-agent-15",
-      "actorName": "레온 타릭",
-      "actorTitle": "도시 직장인 대표",
-      "locationKo": "솔 인빅타",
-      "objective": "위기 대응 과정의 보고 누락과 의사결정 책임을 확인하는 것",
-      "announcedMeasure": "의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다",
-      "publicQuote": "기밀을 이유로 정책 실패까지 감출 수는 없으며 공개 가능한 기록부터 확인하겠다",
-      "nextStep": "사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다",
-      "backgroundFactIds": [
-        "tick-00000060-helion-daily-58-media-impact-fact"
-      ]
-    },
-    {
-      "id": "tick-00000060-event-14",
-      "tickId": "tick-00000060",
-      "occurredAt": "3026-07-22T02:01:20.000Z",
-      "nationIds": [
-        "helion"
-      ],
-      "category": "politics",
-      "title": "화하 왕국 의회, 책임자 7명 공개 청문회 추진",
-      "summary": "미라 자라 항만·공업지역 대표는 의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다. 사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다.",
-      "severity": 69,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000060-helion-action-4"
-      ],
-      "metricChanges": {
-        "approval": 0,
-        "publicAnxiety": 0
-      },
-      "actorAgentId": "helion-agent-16",
-      "actorName": "미라 자라",
-      "actorTitle": "항만·공업지역 대표",
-      "locationKo": "솔 인빅타",
-      "objective": "위기 대응 과정의 보고 누락과 의사결정 책임을 확인하는 것",
-      "announcedMeasure": "의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다",
-      "publicQuote": "기밀을 이유로 정책 실패까지 감출 수는 없으며 공개 가능한 기록부터 확인하겠다",
-      "nextStep": "사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다",
-      "backgroundFactIds": [
-        "tick-00000060-helion-daily-58-media-impact-fact"
-      ]
-    },
-    {
-      "id": "tick-00000060-event-15",
-      "tickId": "tick-00000060",
-      "occurredAt": "3026-07-22T02:08:00.000Z",
-      "nationIds": [
-        "helion"
-      ],
-      "category": "politics",
-      "title": "화하 왕국 의회, 책임자 7명 공개 청문회 추진",
-      "summary": "이반 솔라 국가 지도자는 의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다. 사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다.",
-      "severity": 55,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000060-helion-action-5"
-      ],
-      "metricChanges": {
-        "approval": -0.05,
-        "publicAnxiety": 0
-      },
-      "actorAgentId": "helion-agent-01",
-      "actorName": "이반 솔라",
-      "actorTitle": "국가 지도자",
-      "locationKo": "솔 인빅타",
-      "objective": "위기 대응 과정의 보고 누락과 의사결정 책임을 확인하는 것",
-      "announcedMeasure": "의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다",
-      "publicQuote": "기밀을 이유로 정책 실패까지 감출 수는 없으며 공개 가능한 기록부터 확인하겠다",
-      "nextStep": "사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다",
       "backgroundFactIds": [
         "tick-00000060-helion-daily-58-media-impact-fact"
       ]
@@ -2731,39 +2970,6 @@
       ]
     },
     {
-      "id": "tick-00000060-event-22",
-      "tickId": "tick-00000060",
-      "occurredAt": "3026-07-22T02:48:00.000Z",
-      "nationIds": [
-        "marevia"
-      ],
-      "category": "politics",
-      "title": "아드리아 연합 의회, 책임자 7명 공개 청문회 추진",
-      "summary": "미라 루치 노동·시민연대는 의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다. 사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다.",
-      "severity": 42,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000060-marevia-action-2"
-      ],
-      "metricChanges": {
-        "approval": 1.68,
-        "publicAnxiety": -0.21
-      },
-      "actorAgentId": "marevia-agent-14",
-      "actorName": "미라 루치",
-      "actorTitle": "노동·시민연대",
-      "locationKo": "포르토 셀레네",
-      "objective": "위기 대응 과정의 보고 누락과 의사결정 책임을 확인하는 것",
-      "announcedMeasure": "의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다",
-      "publicQuote": "기밀을 이유로 정책 실패까지 감출 수는 없으며 공개 가능한 기록부터 확인하겠다",
-      "nextStep": "사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다",
-      "backgroundFactIds": [
-        "tick-00000060-fact-space",
-        "tick-00000060-marevia-daily-58-media-impact-fact"
-      ]
-    },
-    {
       "id": "tick-00000060-event-23",
       "tickId": "tick-00000060",
       "occurredAt": "3026-07-22T01:44:40.000Z",
@@ -2873,39 +3079,6 @@
         "tick-00000060-marevia-daily-58-media-impact-fact"
       ],
       "counterpartResponse": "아메리아 연방 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다"
-    },
-    {
-      "id": "tick-00000060-event-26",
-      "tickId": "tick-00000060",
-      "occurredAt": "3026-07-22T00:11:20.000Z",
-      "nationIds": [
-        "karsk"
-      ],
-      "category": "politics",
-      "title": "동방 인민공화국 의회, 책임자 7명 공개 청문회 추진",
-      "summary": "미라 로바 산업협회는 의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다. 사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다.",
-      "severity": 67,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000060-karsk-action-1"
-      ],
-      "metricChanges": {
-        "approval": -0.17,
-        "publicAnxiety": -0.47
-      },
-      "actorAgentId": "karsk-agent-13",
-      "actorName": "미라 로바",
-      "actorTitle": "산업협회",
-      "locationKo": "동명",
-      "objective": "위기 대응 과정의 보고 누락과 의사결정 책임을 확인하는 것",
-      "announcedMeasure": "의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다",
-      "publicQuote": "기밀을 이유로 정책 실패까지 감출 수는 없으며 공개 가능한 기록부터 확인하겠다",
-      "nextStep": "사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다",
-      "backgroundFactIds": [
-        "tick-00000060-fact-space",
-        "tick-00000060-karsk-daily-58-media-impact-fact"
-      ]
     },
     {
       "id": "tick-00000060-event-27",
@@ -3119,36 +3292,6 @@
       "counterpartResponse": "동방 인민공화국 측은 별도 발표에서 헬베티아 동맹에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다"
     },
     {
-      "id": "tick-00000060-event-33",
-      "tickId": "tick-00000060",
-      "occurredAt": "3026-07-22T02:11:20.000Z",
-      "nationIds": [
-        "eiren"
-      ],
-      "category": "politics",
-      "title": "헬베티아 동맹 의회, 책임자 7명 공개 청문회 추진",
-      "summary": "도리아 필론 도시 직장인 대표는 의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다. 사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다.",
-      "severity": 60,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000060-eiren-action-3"
-      ],
-      "metricChanges": {
-        "approval": 0,
-        "publicAnxiety": 0
-      },
-      "actorAgentId": "eiren-agent-15",
-      "actorName": "도리아 필론",
-      "actorTitle": "도시 직장인 대표",
-      "locationKo": "이레니아",
-      "objective": "위기 대응 과정의 보고 누락과 의사결정 책임을 확인하는 것",
-      "announcedMeasure": "의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다",
-      "publicQuote": "기밀을 이유로 정책 실패까지 감출 수는 없으며 공개 가능한 기록부터 확인하겠다",
-      "nextStep": "사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다",
-      "backgroundFactIds": []
-    },
-    {
       "id": "tick-00000060-event-34",
       "tickId": "tick-00000060",
       "occurredAt": "3026-07-22T00:51:20.000Z",
@@ -3214,38 +3357,6 @@
       "backgroundFactIds": []
     },
     {
-      "id": "tick-00000060-event-36",
-      "tickId": "tick-00000060",
-      "occurredAt": "3026-07-22T01:24:40.000Z",
-      "nationIds": [
-        "orion"
-      ],
-      "category": "politics",
-      "title": "해협 보호령 의회, 책임자 7명 공개 청문회 추진",
-      "summary": "셀레네 아르노 산업협회는 의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다. 사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다.",
-      "severity": 51,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000060-orion-action-1"
-      ],
-      "metricChanges": {
-        "approval": -0.61,
-        "publicAnxiety": -0.21
-      },
-      "actorAgentId": "orion-agent-13",
-      "actorName": "셀레네 아르노",
-      "actorTitle": "산업협회",
-      "locationKo": "벨포트",
-      "objective": "위기 대응 과정의 보고 누락과 의사결정 책임을 확인하는 것",
-      "announcedMeasure": "의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다",
-      "publicQuote": "기밀을 이유로 정책 실패까지 감출 수는 없으며 공개 가능한 기록부터 확인하겠다",
-      "nextStep": "사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다",
-      "backgroundFactIds": [
-        "tick-00000060-orion-daily-58-media-impact-fact"
-      ]
-    },
-    {
       "id": "tick-00000060-event-37",
       "tickId": "tick-00000060",
       "occurredAt": "3026-07-22T02:21:20.000Z",
@@ -3281,70 +3392,6 @@
         "tick-00000060-orion-daily-58-media-impact-fact"
       ],
       "counterpartResponse": "동방 인민공화국 측은 별도 발표에서 해협 보호령에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다"
-    },
-    {
-      "id": "tick-00000060-event-38",
-      "tickId": "tick-00000060",
-      "occurredAt": "3026-07-22T00:48:00.000Z",
-      "nationIds": [
-        "orion"
-      ],
-      "category": "politics",
-      "title": "해협 보호령 의회, 책임자 7명 공개 청문회 추진",
-      "summary": "마르코 모렐 도시 직장인 대표는 의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다. 사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다.",
-      "severity": 41,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000060-orion-action-3"
-      ],
-      "metricChanges": {
-        "approval": 0.05,
-        "publicAnxiety": 0
-      },
-      "actorAgentId": "orion-agent-15",
-      "actorName": "마르코 모렐",
-      "actorTitle": "도시 직장인 대표",
-      "locationKo": "벨포트",
-      "objective": "위기 대응 과정의 보고 누락과 의사결정 책임을 확인하는 것",
-      "announcedMeasure": "의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다",
-      "publicQuote": "기밀을 이유로 정책 실패까지 감출 수는 없으며 공개 가능한 기록부터 확인하겠다",
-      "nextStep": "사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다",
-      "backgroundFactIds": [
-        "tick-00000060-orion-daily-58-media-impact-fact"
-      ]
-    },
-    {
-      "id": "tick-00000060-event-39",
-      "tickId": "tick-00000060",
-      "occurredAt": "3026-07-22T00:54:40.000Z",
-      "nationIds": [
-        "orion"
-      ],
-      "category": "politics",
-      "title": "해협 보호령 의회, 책임자 7명 공개 청문회 추진",
-      "summary": "엘라 비앙 항만·공업지역 대표는 의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다. 사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다.",
-      "severity": 43,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000060-orion-action-4"
-      ],
-      "metricChanges": {
-        "approval": -0.39,
-        "publicAnxiety": 0
-      },
-      "actorAgentId": "orion-agent-16",
-      "actorName": "엘라 비앙",
-      "actorTitle": "항만·공업지역 대표",
-      "locationKo": "벨포트",
-      "objective": "위기 대응 과정의 보고 누락과 의사결정 책임을 확인하는 것",
-      "announcedMeasure": "의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다",
-      "publicQuote": "기밀을 이유로 정책 실패까지 감출 수는 없으며 공개 가능한 기록부터 확인하겠다",
-      "nextStep": "사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다",
-      "backgroundFactIds": [
-        "tick-00000060-orion-daily-58-media-impact-fact"
-      ]
     },
     {
       "id": "tick-00000060-event-40",
@@ -3449,49 +3496,49 @@
       "mastheadKo": "코레이아타임스",
       "mastheadNative": "Koreia Times",
       "editionType": "daily",
-      "leadHeadline": "알비온 공동체 의회, 책임자 7명 공개 청문회 추진…정부 대응·공개 일정 주목",
+      "leadHeadline": "코레이아 공화국, 아메리아 연방에 수송선 3척·의료단 파견",
       "articles": [
         {
-          "id": "nova-tick-00000058-event-17-article-1",
-          "headline": "알비온 공동체 의회, 책임자 7명 공개 청문회 추진…정부 대응·공개 일정 주목",
-          "deck": "코레이아타임스는 정치 현안에서 정부 설명의 책임 소재와 공개 일정을 확인했다.",
-          "body": "엘라 애쉬 민족전선 지도부는 오르비스 표준시 7월 22일 오전 3:56 그린위치 항에서 의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 궤도 감시망에서 미확인 항적이 포착됐다.\n\n정부는 위기 대응 과정의 보고 누락과 의사결정 책임을 확인하는 것을 이번 조치의 핵심 과제로 제시했다. 엘라 애쉬는 “기밀을 이유로 정책 실패까지 감출 수는 없으며 공개 가능한 기록부터 확인하겠다”라고 말했다.\n\n코레이아 공화국이 보는 알비온 공동체와의 현재 관계는 신뢰 85, 교역 의존 29, 군사 긴장 59다.\n\n다음 일정은 사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 코레이아타임스는 발표 내용이 실제 일정과 기록으로 확인되는지 계속 점검한다.",
-          "category": "politics",
-          "sourceEventIds": [
-            "tick-00000058-event-17"
-          ],
-          "adultAnalysis": "심층 분석: approval -0.62, publicAnxiety 0. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
-        },
-        {
-          "id": "nova-tick-00000058-event-31-article-2",
-          "headline": "헬베티아 동맹, 화하 왕국에 48시간 내 실무회담 제안…정부 대응·공개 일정 주목",
+          "id": "nova-tick-00000056-event-1-article-1",
+          "headline": "코레이아 공화국, 아메리아 연방에 수송선 3척·의료단 파견",
           "deck": "코레이아타임스는 외교 현안에서 정부 설명의 책임 소재와 공개 일정을 확인했다.",
-          "body": "레온 엘리아 개혁야당 지도부는 오르비스 표준시 7월 22일 오전 4:08 이레니아에서 화하 왕국에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 궤도 감시망에서 미확인 항적이 포착됐다.\n\n정부는 화하 왕국과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것을 이번 조치의 핵심 과제로 제시했다. 레온 엘리아는 “상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다”라고 말했다.\n\n코레이아 공화국이 보는 헬베티아 동맹과의 현재 관계는 신뢰 76, 교역 의존 15, 군사 긴장 46다.\n\n화하 왕국 측은 별도 발표에서 헬베티아 동맹에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다.\n\n다음 일정은 화하 왕국의 답변을 받은 뒤 이레니아 외교회관에서 예비접촉 대표와 의제를 공개한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 코레이아타임스는 발표 내용이 실제 일정과 기록으로 확인되는지 계속 점검한다.",
+          "body": "레온 아벨 외교부 대변인은 오르비스 표준시 7월 21일 오후 10:14 아우렐리아에서 아메리아 연방에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다.\n\n이번 조치의 배경에는 다음 공개 사건이 있다. 국제 결제망의 유동성 경색이 심화됐다.\n\n정부는 아메리아 연방의 필수 연료와 의료품 부족을 막고 항만 지역의 불안을 낮추는 것을 이번 조치의 핵심 과제로 제시했다. 레온 아벨은 “이번 지원은 군사적 개입이 아니라 주민 생활과 민간 운송망을 지키기 위한 조치다”라고 말했다.\n\n아메리아 연방 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다.\n\n다음 일정은 아메리아 연방이 접안 안전을 보장하면 첫 수송선이 다음 날 오전 아우렐리아 궤도항을 출발한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 코레이아타임스는 발표 내용이 실제 일정과 기록으로 확인되는지 계속 점검한다.",
           "category": "diplomacy",
           "sourceEventIds": [
-            "tick-00000058-event-31"
+            "tick-00000056-event-1"
           ],
-          "adultAnalysis": "심층 분석: approval +1.01, publicAnxiety -1.34. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+          "adultAnalysis": "심층 분석: reserves -1.6, approval +0.5. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
         },
         {
-          "id": "nova-tick-00000057-prisma-economic-report-article-3",
+          "id": "nova-tick-00000055-event-5-article-2",
+          "headline": "코레이아 공화국, 추가 대응 표결 24시간 유보",
+          "deck": "코레이아타임스는 정치 현안에서 정부 설명의 책임 소재와 공개 일정을 확인했다.",
+          "body": "테오 루멘 재무부·중앙은행 대변인은 오르비스 표준시 7월 21일 오후 7:21 아우렐리아에서 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다.\n\n정부는 정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것을 이번 조치의 핵심 과제로 제시했다. 테오 루멘은 “행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다”라고 말했다.\n\n다음 일정은 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 코레이아타임스는 발표 내용이 실제 일정과 기록으로 확인되는지 계속 점검한다.",
+          "category": "politics",
+          "sourceEventIds": [
+            "tick-00000055-event-5"
+          ],
+          "adultAnalysis": "심층 분석: approval -0.4, publicAnxiety +0.5. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+        },
+        {
+          "id": "nova-tick-00000052-event-15-article-3",
+          "headline": "화하 왕국, 코레이아 공화국에 48시간 내 실무회담 제안…정부 대응·공개 일정 주목",
+          "deck": "코레이아타임스는 외교 현안에서 정부 설명의 책임 소재와 공개 일정을 확인했다.",
+          "body": "이반 솔라 외교부 대변인은 오르비스 표준시 7월 21일 오전 11:28 솔 인빅타에서 코레이아 공화국에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다.\n\n정부는 코레이아 공화국과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것을 이번 조치의 핵심 과제로 제시했다. 이반 솔라는 “상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다”라고 말했다.\n\n코레이아 공화국이 보는 화하 왕국과의 현재 관계는 신뢰 74, 교역 의존 78, 군사 긴장 41다.\n\n코레이아 공화국 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다.\n\n다음 일정은 코레이아 공화국의 답변을 받은 뒤 솔 인빅타 외교회관에서 예비접촉 대표와 의제를 공개한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 코레이아타임스는 발표 내용이 실제 일정과 기록으로 확인되는지 계속 점검한다.",
+          "category": "diplomacy",
+          "sourceEventIds": [
+            "tick-00000052-event-15"
+          ],
+          "adultAnalysis": "심층 분석: approval 0, publicAnxiety 0. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+        },
+        {
+          "id": "nova-tick-00000057-prisma-economic-report-article-4",
           "headline": "프리즘 경제관측소, 코레이아 경기 '정체' 진단",
           "deck": "코레이아타임스는 경제 현안에서 정부 설명의 책임 소재와 공개 일정을 확인했다.",
-          "body": "프리즘 경제관측소 수석 경제관측관은 오르비스 표준시 7월 22일 오전 2:40 아우렐리아 프리즘 관측관에서 5개 분석실이 일일회의를 열어 경기 진단을 '정체' 단계로 정하고 위험 요인별 기여도를 공개했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 오르비스 AI연구원은 축전 기억소자와 광학 회로를 한 장의 회로에 올린 실험기가 빛의 세기와 파장을 조절하며 손글씨 분류 규칙을 현장에서 학습했다고 발표했다. 오르비스 AI연구원은 소형 뉴로모픽 반도체와 기억저항기를 결합한 펄스식 인공지능 장치가 불규칙하게 움직이는 모형 항공기의 다음 위치를 실시간으로 예측했다고 발표했다. 국제 결제망의 유동성 경색이 심화됐다. 오르비스 AI연구원은 서로 다른 빛깔에 반응하는 이미지 센서 배열이 별도의 영상 전송 없이 센서 표면에서 구름과 연기 신호를 구분했다고 발표했다.\n\n정부는 코레이아 경제의 단기 위험을 수치와 사건 기록으로 분리해 시민과 정책 담당자에게 설명하는 것을 이번 조치의 핵심 과제로 제시했다. 프리즘 경제관측소는 “가장 큰 상승 요인은 대외·궤도 위험이며 단일 수치보다 40.2~74.4의 추정 범위를 함께 봐야 한다”라고 말했다.\n\n다음 일정은 다음 날 오전 3시 전일 전망 오차와 새 경제·외교 사건을 다시 검토한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 코레이아타임스는 발표 내용이 실제 일정과 기록으로 확인되는지 계속 점검한다.",
+          "body": "프리즘 경제관측소 수석 경제관측관은 오르비스 표준시 7월 22일 오전 2:40 아우렐리아 프리즘 관측관에서 5개 분석실이 일일회의를 열어 경기 진단을 '정체' 단계로 정하고 위험 요인별 기여도를 공개했다.\n\n이번 조치의 배경에는 다음 공개 사건이 있다. 오르비스 AI연구원은 축전 기억소자와 광학 회로를 한 장의 회로에 올린 실험기가 빛의 세기와 파장을 조절하며 손글씨 분류 규칙을 현장에서 학습했다고 발표했다. 오르비스 AI연구원은 소형 뉴로모픽 반도체와 기억저항기를 결합한 펄스식 인공지능 장치가 불규칙하게 움직이는 모형 항공기의 다음 위치를 실시간으로 예측했다고 발표했다. 국제 결제망의 유동성 경색이 심화됐다. 오르비스 AI연구원은 서로 다른 빛깔에 반응하는 이미지 센서 배열이 별도의 영상 전송 없이 센서 표면에서 구름과 연기 신호를 구분했다고 발표했다.\n\n정부는 코레이아 경제의 단기 위험을 수치와 사건 기록으로 분리해 시민과 정책 담당자에게 설명하는 것을 이번 조치의 핵심 과제로 제시했다. 프리즘 경제관측소는 “가장 큰 상승 요인은 대외·궤도 위험이며 단일 수치보다 40.2~74.4의 추정 범위를 함께 봐야 한다”라고 말했다.\n\n다음 일정은 다음 날 오전 3시 전일 전망 오차와 새 경제·외교 사건을 다시 검토한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 코레이아타임스는 발표 내용이 실제 일정과 기록으로 확인되는지 계속 점검한다.",
           "category": "economy",
           "sourceEventIds": [
             "tick-00000057-prisma-economic-report"
-          ],
-          "adultAnalysis": "심층 분석: . 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
-        },
-        {
-          "id": "nova-tick-00000056-oasi-discovery-article-4",
-          "headline": "오르비스 우주항공청, 무꼬리 소천체에서 미약한 가스 분출…'암흑혜성' 후보",
-          "deck": "코레이아타임스는 우주 현안에서 정부 설명의 책임 소재와 공개 일정을 확인했다.",
-          "body": "오르비스 우주항공청 공동관측심의회는 오르비스 표준시 7월 21일 오후 10:37 헬베티아 동맹 이레니아 국제관측구에서 근오르비스 소천체의 궤도가 중력만으로 설명되는 경로에서 벗어났고 장시간 합성영상에서 희미한 가스 분출 방향이 확인됐다고 발표했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 오르비스 우주항공청은 근오르비스 소천체의 궤도가 중력만으로 설명되는 경로에서 벗어났고 장시간 합성영상에서 희미한 가스 분출 방향이 확인됐다고 발표했다.\n\n정부는 관측 결과와 불확실성을 오르비스 전역의 연구기관과 시민에게 동시에 공개하는 것을 이번 조치의 핵심 과제로 제시했다. 오르비스 우주항공청은 “위험 경보가 아니라 분류가 달라질 수 있다는 관측 결과다”라고 말했다.\n\n연구진이 밝힌 한계는 현재 계산으로 오르비스 충돌 위험은 없으며 분출 성분도 아직 확인되지 않았다.\n\n다음 일정은 행성방위망이 다음 근접 시기에 분광 관측을 실시하고 궤도 오차 범위를 매주 갱신한다. 과학계는 원자료 공개와 다른 관측망의 독립 검증이 뒤따라야 한다고 강조했다. 코레이아타임스는 발표 내용이 실제 일정과 기록으로 확인되는지 계속 점검한다.",
-          "category": "space",
-          "sourceEventIds": [
-            "tick-00000056-oasi-discovery"
           ],
           "adultAnalysis": "심층 분석: . 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
         }
@@ -3526,51 +3573,51 @@
       "mastheadKo": "아메리아포스트",
       "mastheadNative": "Ameria Post",
       "editionType": "daily",
-      "leadHeadline": "프리즘 경제관측소, 코레이아 경기 '정체' 진단…안보·산업 영향 점검",
+      "leadHeadline": "아메리아 연방, 하루 두 차례 위기 합동브리핑",
       "articles": [
         {
-          "id": "vesper-tick-00000057-prisma-economic-report-article-1",
+          "id": "vesper-tick-00000053-event-10-article-1",
+          "headline": "아메리아 연방, 하루 두 차례 위기 합동브리핑",
+          "deck": "아메리아포스트는 사회 현안에서 안보 태세와 산업 공급망의 대응 여력을 따져봤다.",
+          "body": "엘라 슈타인 노동·시민연대는 오르비스 표준시 7월 21일 오후 1:09 벨라트리스에서 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다.\n\n당국은 정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것에 대응 역량을 집중하겠다고 밝혔다. 엘라 슈타인은 “확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라”라고 말했다.\n\n다음 일정은 첫 합동 브리핑은 이날 오후 벨라트리스 중앙기록관에서 열린다. 정부는 국가 안전과 질서 유지를 우선 과제로 제시했다. 아메리아포스트는 당국의 대응 능력과 산업 현장의 준비 수준을 후속 보도한다.",
+          "category": "society",
+          "sourceEventIds": [
+            "tick-00000053-event-10"
+          ],
+          "adultAnalysis": "심층 분석: approval -0.74, publicAnxiety -0.44. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+        },
+        {
+          "id": "vesper-tick-00000055-event-6-article-2",
+          "headline": "아메리아 연방, 해협 보호령에 수송선 3척·의료단 파견",
+          "deck": "아메리아포스트는 외교 현안에서 안보 태세와 산업 공급망의 대응 여력을 따져봤다.",
+          "body": "도리아 로트 민족전선 지도부는 오르비스 표준시 7월 21일 오후 6:36 벨라트리스에서 해협 보호령에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다.\n\n해협 보호령 측은 별도 발표에서 아메리아 연방에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다.\n\n당국은 해협 보호령의 필수 연료와 의료품 부족을 막고 항만 지역의 불안을 낮추는 것에 대응 역량을 집중하겠다고 밝혔다. 도리아 로트는 “이번 지원은 군사적 개입이 아니라 주민 생활과 민간 운송망을 지키기 위한 조치다”라고 말했다.\n\n다음 일정은 해협 보호령이 접안 안전을 보장하면 첫 수송선이 다음 날 오전 벨라트리스 궤도항을 출발한다. 정부는 국가 안전과 질서 유지를 우선 과제로 제시했다. 아메리아포스트는 당국의 대응 능력과 산업 현장의 준비 수준을 후속 보도한다.",
+          "category": "diplomacy",
+          "sourceEventIds": [
+            "tick-00000055-event-6"
+          ],
+          "adultAnalysis": "심층 분석: reserves -1.52, approval +1.01. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+        },
+        {
+          "id": "vesper-tick-00000050-event-8-article-3",
+          "headline": "아메리아 연방, 아드리아 연합에 48시간 내 실무회담 제안",
+          "deck": "아메리아포스트는 외교 현안에서 안보 태세와 산업 공급망의 대응 여력을 따져봤다.",
+          "body": "마르코 베른 산업협회 대표는 오르비스 표준시 7월 21일 오전 3:24 벨라트리스에서 아드리아 연합에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다.\n\n아드리아 연합 측은 별도 발표에서 아메리아 연방에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다.\n\n당국은 아드리아 연합과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것에 대응 역량을 집중하겠다고 밝혔다. 마르코 베른은 “상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다”라고 말했다.\n\n다음 일정은 아드리아 연합의 답변을 받은 뒤 벨라트리스 외교회관에서 예비접촉 대표와 의제를 공개한다. 정부는 국가 안전과 질서 유지를 우선 과제로 제시했다. 아메리아포스트는 당국의 대응 능력과 산업 현장의 준비 수준을 후속 보도한다.",
+          "category": "diplomacy",
+          "sourceEventIds": [
+            "tick-00000050-event-8"
+          ],
+          "adultAnalysis": "심층 분석: approval +0.73, publicAnxiety 0. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+        },
+        {
+          "id": "vesper-tick-00000057-prisma-economic-report-article-4",
           "headline": "프리즘 경제관측소, 코레이아 경기 '정체' 진단…안보·산업 영향 점검",
           "deck": "아메리아포스트는 경제 현안에서 안보 태세와 산업 공급망의 대응 여력을 따져봤다.",
-          "body": "프리즘 경제관측소 수석 경제관측관은 오르비스 표준시 7월 22일 오전 2:40 아우렐리아 프리즘 관측관에서 5개 분석실이 일일회의를 열어 경기 진단을 '정체' 단계로 정하고 위험 요인별 기여도를 공개했다.\n\n아메리아 연방이 보는 코레이아 공화국과의 현재 관계는 신뢰 54, 교역 의존 50, 군사 긴장 69다.\n\n당국은 코레이아 경제의 단기 위험을 수치와 사건 기록으로 분리해 시민과 정책 담당자에게 설명하는 것에 대응 역량을 집중하겠다고 밝혔다. 프리즘 경제관측소는 “가장 큰 상승 요인은 대외·궤도 위험이며 단일 수치보다 40.2~74.4의 추정 범위를 함께 봐야 한다”라고 말했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 오르비스 AI연구원은 축전 기억소자와 광학 회로를 한 장의 회로에 올린 실험기가 빛의 세기와 파장을 조절하며 손글씨 분류 규칙을 현장에서 학습했다고 발표했다. 오르비스 AI연구원은 소형 뉴로모픽 반도체와 기억저항기를 결합한 펄스식 인공지능 장치가 불규칙하게 움직이는 모형 항공기의 다음 위치를 실시간으로 예측했다고 발표했다. 국제 결제망의 유동성 경색이 심화됐다. 오르비스 AI연구원은 서로 다른 빛깔에 반응하는 이미지 센서 배열이 별도의 영상 전송 없이 센서 표면에서 구름과 연기 신호를 구분했다고 발표했다.\n\n다음 일정은 다음 날 오전 3시 전일 전망 오차와 새 경제·외교 사건을 다시 검토한다. 정부는 국가 안전과 질서 유지를 우선 과제로 제시했다. 아메리아포스트는 당국의 대응 능력과 산업 현장의 준비 수준을 후속 보도한다.",
+          "body": "프리즘 경제관측소 수석 경제관측관은 오르비스 표준시 7월 22일 오전 2:40 아우렐리아 프리즘 관측관에서 5개 분석실이 일일회의를 열어 경기 진단을 '정체' 단계로 정하고 위험 요인별 기여도를 공개했다.\n\n아메리아 연방이 보는 코레이아 공화국과의 현재 관계는 신뢰 54, 교역 의존 50, 군사 긴장 69다.\n\n당국은 코레이아 경제의 단기 위험을 수치와 사건 기록으로 분리해 시민과 정책 담당자에게 설명하는 것에 대응 역량을 집중하겠다고 밝혔다. 프리즘 경제관측소는 “가장 큰 상승 요인은 대외·궤도 위험이며 단일 수치보다 40.2~74.4의 추정 범위를 함께 봐야 한다”라고 말했다.\n\n이번 조치의 배경에는 다음 공개 사건이 있다. 오르비스 AI연구원은 축전 기억소자와 광학 회로를 한 장의 회로에 올린 실험기가 빛의 세기와 파장을 조절하며 손글씨 분류 규칙을 현장에서 학습했다고 발표했다. 오르비스 AI연구원은 소형 뉴로모픽 반도체와 기억저항기를 결합한 펄스식 인공지능 장치가 불규칙하게 움직이는 모형 항공기의 다음 위치를 실시간으로 예측했다고 발표했다. 국제 결제망의 유동성 경색이 심화됐다. 오르비스 AI연구원은 서로 다른 빛깔에 반응하는 이미지 센서 배열이 별도의 영상 전송 없이 센서 표면에서 구름과 연기 신호를 구분했다고 발표했다.\n\n다음 일정은 다음 날 오전 3시 전일 전망 오차와 새 경제·외교 사건을 다시 검토한다. 정부는 국가 안전과 질서 유지를 우선 과제로 제시했다. 아메리아포스트는 당국의 대응 능력과 산업 현장의 준비 수준을 후속 보도한다.",
           "category": "economy",
           "sourceEventIds": [
             "tick-00000057-prisma-economic-report"
           ],
           "adultAnalysis": "심층 분석: . 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
-        },
-        {
-          "id": "vesper-tick-00000056-oasi-discovery-article-2",
-          "headline": "오르비스 우주항공청, 무꼬리 소천체에서 미약한 가스 분출…'암흑혜성' 후보…안보·산업 영향 점검",
-          "deck": "아메리아포스트는 우주 현안에서 안보 태세와 산업 공급망의 대응 여력을 따져봤다.",
-          "body": "오르비스 우주항공청 공동관측심의회는 오르비스 표준시 7월 21일 오후 10:37 헬베티아 동맹 이레니아 국제관측구에서 근오르비스 소천체의 궤도가 중력만으로 설명되는 경로에서 벗어났고 장시간 합성영상에서 희미한 가스 분출 방향이 확인됐다고 발표했다.\n\n아메리아 연방이 보는 코레이아 공화국과의 현재 관계는 신뢰 54, 교역 의존 50, 군사 긴장 69다.\n\n당국은 관측 결과와 불확실성을 오르비스 전역의 연구기관과 시민에게 동시에 공개하는 것에 대응 역량을 집중하겠다고 밝혔다. 오르비스 우주항공청은 “위험 경보가 아니라 분류가 달라질 수 있다는 관측 결과다”라고 말했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 오르비스 우주항공청은 근오르비스 소천체의 궤도가 중력만으로 설명되는 경로에서 벗어났고 장시간 합성영상에서 희미한 가스 분출 방향이 확인됐다고 발표했다.\n\n다음 일정은 행성방위망이 다음 근접 시기에 분광 관측을 실시하고 궤도 오차 범위를 매주 갱신한다. 과학계는 원자료 공개와 다른 관측망의 독립 검증이 뒤따라야 한다고 강조했다. 아메리아포스트는 당국의 대응 능력과 산업 현장의 준비 수준을 후속 보도한다.\n\n연구진이 밝힌 한계는 현재 계산으로 오르비스 충돌 위험은 없으며 분출 성분도 아직 확인되지 않았다.",
-          "category": "space",
-          "sourceEventIds": [
-            "tick-00000056-oasi-discovery"
-          ],
-          "adultAnalysis": "심층 분석: . 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
-        },
-        {
-          "id": "vesper-tick-00000058-event-31-article-3",
-          "headline": "헬베티아 동맹, 화하 왕국에 48시간 내 실무회담 제안…안보·산업 영향 주목",
-          "deck": "아메리아포스트는 외교 현안에서 안보 태세와 산업 공급망의 대응 여력을 따져봤다.",
-          "body": "레온 엘리아 개혁야당 지도부는 오르비스 표준시 7월 22일 오전 4:08 이레니아에서 화하 왕국에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다.\n\n아메리아 연방이 보는 헬베티아 동맹과의 현재 관계는 신뢰 86, 교역 의존 78, 군사 긴장 23다.\n\n화하 왕국 측은 별도 발표에서 헬베티아 동맹에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다.\n\n당국은 화하 왕국과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것에 대응 역량을 집중하겠다고 밝혔다. 레온 엘리아는 “상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다”라고 말했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 궤도 감시망에서 미확인 항적이 포착됐다.\n\n다음 일정은 화하 왕국의 답변을 받은 뒤 이레니아 외교회관에서 예비접촉 대표와 의제를 공개한다. 정부는 국가 안전과 질서 유지를 우선 과제로 제시했다. 아메리아포스트는 당국의 대응 능력과 산업 현장의 준비 수준을 후속 보도한다.",
-          "category": "diplomacy",
-          "sourceEventIds": [
-            "tick-00000058-event-31"
-          ],
-          "adultAnalysis": "심층 분석: approval +1.01, publicAnxiety -1.34. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
-        },
-        {
-          "id": "vesper-tick-00000058-event-17-article-4",
-          "headline": "알비온 공동체 의회, 책임자 7명 공개 청문회 추진…안보·산업 영향 주목",
-          "deck": "아메리아포스트는 정치 현안에서 안보 태세와 산업 공급망의 대응 여력을 따져봤다.",
-          "body": "엘라 애쉬 민족전선 지도부는 오르비스 표준시 7월 22일 오전 3:56 그린위치 항에서 의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다.\n\n아메리아 연방이 보는 알비온 공동체와의 현재 관계는 신뢰 100, 교역 의존 22, 군사 긴장 31다.\n\n당국은 위기 대응 과정의 보고 누락과 의사결정 책임을 확인하는 것에 대응 역량을 집중하겠다고 밝혔다. 엘라 애쉬는 “기밀을 이유로 정책 실패까지 감출 수는 없으며 공개 가능한 기록부터 확인하겠다”라고 말했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 궤도 감시망에서 미확인 항적이 포착됐다.\n\n다음 일정은 사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다. 정부는 국가 안전과 질서 유지를 우선 과제로 제시했다. 아메리아포스트는 당국의 대응 능력과 산업 현장의 준비 수준을 후속 보도한다.",
-          "category": "politics",
-          "sourceEventIds": [
-            "tick-00000058-event-17"
-          ],
-          "adultAnalysis": "심층 분석: approval -0.62, publicAnxiety 0. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
         }
       ],
       "factIds": [
@@ -3603,49 +3650,49 @@
       "mastheadKo": "화하데일리",
       "mastheadNative": "Huaxia Daily",
       "editionType": "daily",
-      "leadHeadline": "헬베티아 동맹, 화하 왕국에 48시간 내 실무회담 제안…기술 검증·에너지 영향 주목",
+      "leadHeadline": "화하 왕국, 코레이아 공화국에 48시간 내 실무회담 제안",
       "articles": [
         {
-          "id": "helion-tick-00000058-event-31-article-1",
-          "headline": "헬베티아 동맹, 화하 왕국에 48시간 내 실무회담 제안…기술 검증·에너지 영향 주목",
+          "id": "helion-tick-00000052-event-15-article-1",
+          "headline": "화하 왕국, 코레이아 공화국에 48시간 내 실무회담 제안",
           "deck": "화하데일리는 외교 현안에서 측정 자료와 재현 시험이 남긴 검증 과정을 살폈다.",
-          "body": "이번 발표에 앞서 다음 사실이 공개됐다. 궤도 감시망에서 미확인 항적이 포착됐다.\n\n레온 엘리아 개혁야당 지도부는 오르비스 표준시 7월 22일 오전 4:08 이레니아에서 화하 왕국에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다.\n\n공개된 설명은 화하 왕국과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것을 검증 과제로 삼았다. 레온 엘리아는 “상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다”라고 말했다.\n\n화하 왕국 측은 별도 발표에서 헬베티아 동맹에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다.\n\n화하 왕국이 보는 헬베티아 동맹과의 현재 관계는 신뢰 88, 교역 의존 71, 군사 긴장 61다.\n\n다음 일정은 화하 왕국의 답변을 받은 뒤 이레니아 외교회관에서 예비접촉 대표와 의제를 공개한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 화하데일리는 수치가 독립 관측과 반복 실험에서도 재현되는지 확인한다.",
+          "body": "이반 솔라 외교부 대변인은 오르비스 표준시 7월 21일 오전 11:28 솔 인빅타에서 코레이아 공화국에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다.\n\n공개된 설명은 코레이아 공화국과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것을 검증 과제로 삼았다. 이반 솔라는 “상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다”라고 말했다.\n\n코레이아 공화국 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다.\n\n다음 일정은 코레이아 공화국의 답변을 받은 뒤 솔 인빅타 외교회관에서 예비접촉 대표와 의제를 공개한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 화하데일리는 수치가 독립 관측과 반복 실험에서도 재현되는지 확인한다.",
           "category": "diplomacy",
           "sourceEventIds": [
-            "tick-00000058-event-31"
+            "tick-00000052-event-15"
           ],
-          "adultAnalysis": "심층 분석: approval +1.01, publicAnxiety -1.34. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+          "adultAnalysis": "심층 분석: approval 0, publicAnxiety 0. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
         },
         {
-          "id": "helion-tick-00000058-aic-discovery-article-2",
+          "id": "helion-tick-00000051-event-13-article-2",
+          "headline": "화하 왕국, 동방 인민공화국에 수송선 3척·의료단 파견",
+          "deck": "화하데일리는 외교 현안에서 측정 자료와 재현 시험이 남긴 검증 과정을 살폈다.",
+          "body": "셀레네 아몬 집권당 지도부는 오르비스 표준시 7월 21일 오전 7:58 솔 인빅타에서 동방 인민공화국에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다.\n\n공개된 설명은 동방 인민공화국의 필수 연료와 의료품 부족을 막고 항만 지역의 불안을 낮추는 것을 검증 과제로 삼았다. 셀레네 아몬은 “이번 지원은 군사적 개입이 아니라 주민 생활과 민간 운송망을 지키기 위한 조치다”라고 말했다.\n\n동방 인민공화국 측은 별도 발표에서 화하 왕국에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다.\n\n다음 일정은 동방 인민공화국이 접안 안전을 보장하면 첫 수송선이 다음 날 오전 솔 인빅타 궤도항을 출발한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 화하데일리는 수치가 독립 관측과 반복 실험에서도 재현되는지 확인한다.",
+          "category": "diplomacy",
+          "sourceEventIds": [
+            "tick-00000051-event-13"
+          ],
+          "adultAnalysis": "심층 분석: reserves -1.4, approval +0.11. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+        },
+        {
+          "id": "helion-tick-00000056-event-12-article-3",
+          "headline": "화하 왕국, 하루 두 차례 위기 합동브리핑",
+          "deck": "화하데일리는 사회 현안에서 측정 자료와 재현 시험이 남긴 검증 과정을 살폈다.",
+          "body": "셀레네 아몬 국방부·우주사령부 대변인은 오르비스 표준시 7월 21일 오후 11:40 솔 인빅타에서 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다.\n\n공개된 설명은 정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것을 검증 과제로 삼았다. 셀레네 아몬은 “확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라”라고 말했다.\n\n다음 일정은 첫 합동 브리핑은 이날 오후 솔 인빅타 중앙기록관에서 열린다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 화하데일리는 수치가 독립 관측과 반복 실험에서도 재현되는지 확인한다.",
+          "category": "society",
+          "sourceEventIds": [
+            "tick-00000056-event-12"
+          ],
+          "adultAnalysis": "심층 분석: approval -0.4, publicAnxiety +0.51. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+        },
+        {
+          "id": "helion-tick-00000058-aic-discovery-article-4",
           "headline": "오르비스 AI연구원, 인공지능용 인메모리 반도체, 저장과 계산을 한 판에서 수행…기술 검증·에너지 영향 점검",
           "deck": "화하데일리는 과학 현안에서 측정 자료와 재현 시험이 남긴 검증 과정을 살폈다.",
-          "body": "이번 발표에 앞서 다음 사실이 공개됐다. 오르비스 AI연구원은 연구진이 4천96개의 저항변화 메모리 소자를 격자로 묶어 숫자를 기억한 자리에서 곧바로 행렬 계산을 수행하는 AI 연산판을 공개했다고 발표했다.\n\n연구진이 밝힌 한계는 아직 모의 숫자 판독 실험에 한정됐고 온도 변화와 장시간 사용에 따른 오차가 검증되지 않았다.\n\n오르비스 AI연구원 연구검증위원회는 오르비스 표준시 7월 22일 오전 4:44 코레이아 공화국 세라노 계산과학구에서 연구진이 4천96개의 저항변화 메모리 소자를 격자로 묶어 숫자를 기억한 자리에서 곧바로 행렬 계산을 수행하는 AI 연산판을 공개했다고 발표했다.\n\n공개된 설명은 AI 반도체와 AI 반도체 기술의 성능·전력·한계를 시민과 연구기관이 함께 검증하게 하는 것을 검증 과제로 삼았다. 오르비스 AI연구원은 “빠른 계산보다 중요한 것은 기억을 운반하지 않고 그 자리에서 계산하는 방식이다”라고 말했다.\n\n화하 왕국이 보는 코레이아 공화국과의 현재 관계는 신뢰 91, 교역 의존 43, 군사 긴장 23다.\n\n다음 일정은 세 나라 연구소가 같은 회로도를 제작해 30일 연속 구동 시험과 소비전력 측정을 반복한다. 과학계는 공개 회로도와 반복 실험 자료를 검토한 뒤 성능·전력 수치를 독립적으로 재현해야 한다고 밝혔다. 화하데일리는 수치가 독립 관측과 반복 실험에서도 재현되는지 확인한다.",
+          "body": "발표와 함께 확인된 관측·실험 기록은 다음과 같다. 오르비스 AI연구원은 연구진이 4천96개의 저항변화 메모리 소자를 격자로 묶어 숫자를 기억한 자리에서 곧바로 행렬 계산을 수행하는 AI 연산판을 공개했다고 발표했다.\n\n연구진이 밝힌 한계는 아직 모의 숫자 판독 실험에 한정됐고 온도 변화와 장시간 사용에 따른 오차가 검증되지 않았다.\n\n오르비스 AI연구원 연구검증위원회는 오르비스 표준시 7월 22일 오전 4:44 코레이아 공화국 세라노 계산과학구에서 연구진이 4천96개의 저항변화 메모리 소자를 격자로 묶어 숫자를 기억한 자리에서 곧바로 행렬 계산을 수행하는 AI 연산판을 공개했다고 발표했다.\n\n공개된 설명은 AI 반도체와 AI 반도체 기술의 성능·전력·한계를 시민과 연구기관이 함께 검증하게 하는 것을 검증 과제로 삼았다. 오르비스 AI연구원은 “빠른 계산보다 중요한 것은 기억을 운반하지 않고 그 자리에서 계산하는 방식이다”라고 말했다.\n\n화하 왕국이 보는 코레이아 공화국과의 현재 관계는 신뢰 91, 교역 의존 43, 군사 긴장 23다.\n\n다음 일정은 세 나라 연구소가 같은 회로도를 제작해 30일 연속 구동 시험과 소비전력 측정을 반복한다. 과학계는 공개 회로도와 반복 실험 자료를 검토한 뒤 성능·전력 수치를 독립적으로 재현해야 한다고 밝혔다. 화하데일리는 수치가 독립 관측과 반복 실험에서도 재현되는지 확인한다.",
           "category": "science",
           "sourceEventIds": [
             "tick-00000058-aic-discovery"
-          ],
-          "adultAnalysis": "심층 분석: . 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
-        },
-        {
-          "id": "helion-tick-00000056-oasi-discovery-article-3",
-          "headline": "오르비스 우주항공청, 무꼬리 소천체에서 미약한 가스 분출…'암흑혜성' 후보…기술 검증·에너지 영향 점검",
-          "deck": "화하데일리는 우주 현안에서 측정 자료와 재현 시험이 남긴 검증 과정을 살폈다.",
-          "body": "이번 발표에 앞서 다음 사실이 공개됐다. 오르비스 우주항공청은 근오르비스 소천체의 궤도가 중력만으로 설명되는 경로에서 벗어났고 장시간 합성영상에서 희미한 가스 분출 방향이 확인됐다고 발표했다.\n\n연구진이 밝힌 한계는 현재 계산으로 오르비스 충돌 위험은 없으며 분출 성분도 아직 확인되지 않았다.\n\n오르비스 우주항공청 공동관측심의회는 오르비스 표준시 7월 21일 오후 10:37 헬베티아 동맹 이레니아 국제관측구에서 근오르비스 소천체의 궤도가 중력만으로 설명되는 경로에서 벗어났고 장시간 합성영상에서 희미한 가스 분출 방향이 확인됐다고 발표했다.\n\n공개된 설명은 관측 결과와 불확실성을 오르비스 전역의 연구기관과 시민에게 동시에 공개하는 것을 검증 과제로 삼았다. 오르비스 우주항공청은 “위험 경보가 아니라 분류가 달라질 수 있다는 관측 결과다”라고 말했다.\n\n화하 왕국이 보는 코레이아 공화국과의 현재 관계는 신뢰 91, 교역 의존 43, 군사 긴장 23다.\n\n다음 일정은 행성방위망이 다음 근접 시기에 분광 관측을 실시하고 궤도 오차 범위를 매주 갱신한다. 과학계는 원자료 공개와 다른 관측망의 독립 검증이 뒤따라야 한다고 강조했다. 화하데일리는 수치가 독립 관측과 반복 실험에서도 재현되는지 확인한다.",
-          "category": "space",
-          "sourceEventIds": [
-            "tick-00000056-oasi-discovery"
-          ],
-          "adultAnalysis": "심층 분석: . 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
-        },
-        {
-          "id": "helion-tick-00000057-prisma-economic-report-article-4",
-          "headline": "프리즘 경제관측소, 코레이아 경기 '정체' 진단…기술 검증·에너지 영향 점검",
-          "deck": "화하데일리는 경제 현안에서 측정 자료와 재현 시험이 남긴 검증 과정을 살폈다.",
-          "body": "이번 발표에 앞서 다음 사실이 공개됐다. 오르비스 AI연구원은 축전 기억소자와 광학 회로를 한 장의 회로에 올린 실험기가 빛의 세기와 파장을 조절하며 손글씨 분류 규칙을 현장에서 학습했다고 발표했다. 오르비스 AI연구원은 소형 뉴로모픽 반도체와 기억저항기를 결합한 펄스식 인공지능 장치가 불규칙하게 움직이는 모형 항공기의 다음 위치를 실시간으로 예측했다고 발표했다. 국제 결제망의 유동성 경색이 심화됐다. 오르비스 AI연구원은 서로 다른 빛깔에 반응하는 이미지 센서 배열이 별도의 영상 전송 없이 센서 표면에서 구름과 연기 신호를 구분했다고 발표했다.\n\n프리즘 경제관측소 수석 경제관측관은 오르비스 표준시 7월 22일 오전 2:40 아우렐리아 프리즘 관측관에서 5개 분석실이 일일회의를 열어 경기 진단을 '정체' 단계로 정하고 위험 요인별 기여도를 공개했다.\n\n공개된 설명은 코레이아 경제의 단기 위험을 수치와 사건 기록으로 분리해 시민과 정책 담당자에게 설명하는 것을 검증 과제로 삼았다. 프리즘 경제관측소는 “가장 큰 상승 요인은 대외·궤도 위험이며 단일 수치보다 40.2~74.4의 추정 범위를 함께 봐야 한다”라고 말했다.\n\n화하 왕국이 보는 코레이아 공화국과의 현재 관계는 신뢰 91, 교역 의존 43, 군사 긴장 23다.\n\n다음 일정은 다음 날 오전 3시 전일 전망 오차와 새 경제·외교 사건을 다시 검토한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 화하데일리는 수치가 독립 관측과 반복 실험에서도 재현되는지 확인한다.",
-          "category": "economy",
-          "sourceEventIds": [
-            "tick-00000057-prisma-economic-report"
           ],
           "adultAnalysis": "심층 분석: . 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
         }
@@ -3680,49 +3727,49 @@
       "mastheadKo": "알비온저널",
       "mastheadNative": "Albion Journal",
       "editionType": "daily",
-      "leadHeadline": "알비온 공동체 의회, 책임자 7명 공개 청문회 추진",
+      "leadHeadline": "알비온 공동체, 화하 왕국에 수송선 3척·의료단 파견",
       "articles": [
         {
-          "id": "aster-tick-00000058-event-17-article-1",
-          "headline": "알비온 공동체 의회, 책임자 7명 공개 청문회 추진",
-          "deck": "알비온저널은 정치 현안에서 의회가 공개적으로 물어야 할 절차를 추렸다.",
-          "body": "엘라 애쉬 민족전선 지도부는 오르비스 표준시 7월 22일 오전 3:56 그린위치 항에서 의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다.\n\n의회가 확인할 핵심은 위기 대응 과정의 보고 누락과 의사결정 책임을 확인하는 것이 실제 절차로 이어지는지다. 엘라 애쉬는 “기밀을 이유로 정책 실패까지 감출 수는 없으며 공개 가능한 기록부터 확인하겠다”라고 말했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 궤도 감시망에서 미확인 항적이 포착됐다.\n\n다음 일정은 사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다. 시장 참가자들은 정책의 투명성과 예측 가능성을 요구했다. 알비온저널은 합의 과정과 책임자의 답변이 의회 기록에 남는지 살핀다.",
-          "category": "politics",
-          "sourceEventIds": [
-            "tick-00000058-event-17"
-          ],
-          "adultAnalysis": "심층 분석: approval -0.62, publicAnxiety 0. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
-        },
-        {
-          "id": "aster-tick-00000058-event-31-article-2",
-          "headline": "헬베티아 동맹, 화하 왕국에 48시간 내 실무회담 제안…의회 공개·공동 검증 주목",
+          "id": "aster-tick-00000057-event-17-article-1",
+          "headline": "알비온 공동체, 화하 왕국에 수송선 3척·의료단 파견",
           "deck": "알비온저널은 외교 현안에서 의회가 공개적으로 물어야 할 절차를 추렸다.",
-          "body": "레온 엘리아 개혁야당 지도부는 오르비스 표준시 7월 22일 오전 4:08 이레니아에서 화하 왕국에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다.\n\n의회가 확인할 핵심은 화하 왕국과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것이 실제 절차로 이어지는지다. 레온 엘리아는 “상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다”라고 말했다.\n\n화하 왕국 측은 별도 발표에서 헬베티아 동맹에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 궤도 감시망에서 미확인 항적이 포착됐다.\n\n알비온 공동체가 보는 헬베티아 동맹과의 현재 관계는 신뢰 100, 교역 의존 64, 군사 긴장 35다.\n\n다음 일정은 화하 왕국의 답변을 받은 뒤 이레니아 외교회관에서 예비접촉 대표와 의제를 공개한다. 시장 참가자들은 정책의 투명성과 예측 가능성을 요구했다. 알비온저널은 합의 과정과 책임자의 답변이 의회 기록에 남는지 살핀다.",
+          "body": "미라 헤일 도시 직장인 대표는 오르비스 표준시 7월 22일 오전 2:00 그린위치 항에서 화하 왕국에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다.\n\n의회가 확인할 핵심은 화하 왕국의 필수 연료와 의료품 부족을 막고 항만 지역의 불안을 낮추는 것이 실제 절차로 이어지는지다. 미라 헤일은 “이번 지원은 군사적 개입이 아니라 주민 생활과 민간 운송망을 지키기 위한 조치다”라고 말했다.\n\n화하 왕국 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다.\n\n이번 조치의 배경에는 다음 공개 사건이 있다. 중립국의 다자 회담 제안이 각국에 전달됐다.\n\n다음 일정은 화하 왕국이 접안 안전을 보장하면 첫 수송선이 다음 날 오전 그린위치 항 궤도항을 출발한다. 시장 참가자들은 정책의 투명성과 예측 가능성을 요구했다. 알비온저널은 합의 과정과 책임자의 답변이 의회 기록에 남는지 살핀다.",
           "category": "diplomacy",
           "sourceEventIds": [
-            "tick-00000058-event-31"
+            "tick-00000057-event-17"
           ],
-          "adultAnalysis": "심층 분석: approval +1.01, publicAnxiety -1.34. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+          "adultAnalysis": "심층 분석: reserves -1.6, approval +0.84. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
         },
         {
-          "id": "aster-tick-00000057-prisma-economic-report-article-3",
+          "id": "aster-tick-00000055-event-19-article-2",
+          "headline": "알비온 공동체, 추가 대응 표결 24시간 유보",
+          "deck": "알비온저널은 정치 현안에서 의회가 공개적으로 물어야 할 절차를 추렸다.",
+          "body": "미라 헤일 외교위원장은 오르비스 표준시 7월 21일 오후 6:40 그린위치 항에서 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다.\n\n의회가 확인할 핵심은 정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것이 실제 절차로 이어지는지다. 미라 헤일은 “행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다”라고 말했다.\n\n다음 일정은 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다. 시장 참가자들은 정책의 투명성과 예측 가능성을 요구했다. 알비온저널은 합의 과정과 책임자의 답변이 의회 기록에 남는지 살핀다.",
+          "category": "politics",
+          "sourceEventIds": [
+            "tick-00000055-event-19"
+          ],
+          "adultAnalysis": "심층 분석: approval -0.4, publicAnxiety +0.5. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+        },
+        {
+          "id": "aster-tick-00000052-event-19-article-3",
+          "headline": "알비온 공동체, 해협 보호령에 48시간 내 실무회담 제안",
+          "deck": "알비온저널은 외교 현안에서 의회가 공개적으로 물어야 할 절차를 추렸다.",
+          "body": "이반 브룩 재무부·중앙은행 대변인은 오르비스 표준시 7월 21일 오전 11:08 그린위치 항에서 해협 보호령에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다.\n\n의회가 확인할 핵심은 해협 보호령과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것이 실제 절차로 이어지는지다. 이반 브룩은 “상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다”라고 말했다.\n\n해협 보호령 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다.\n\n다음 일정은 해협 보호령의 답변을 받은 뒤 그린위치 항 외교회관에서 예비접촉 대표와 의제를 공개한다. 시장 참가자들은 정책의 투명성과 예측 가능성을 요구했다. 알비온저널은 합의 과정과 책임자의 답변이 의회 기록에 남는지 살핀다.",
+          "category": "diplomacy",
+          "sourceEventIds": [
+            "tick-00000052-event-19"
+          ],
+          "adultAnalysis": "심층 분석: approval 0, publicAnxiety -0.11. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+        },
+        {
+          "id": "aster-tick-00000057-prisma-economic-report-article-4",
           "headline": "프리즘 경제관측소, 코레이아 경기 '정체' 진단…의회 공개·공동 검증 점검",
           "deck": "알비온저널은 경제 현안에서 의회가 공개적으로 물어야 할 절차를 추렸다.",
-          "body": "프리즘 경제관측소 수석 경제관측관은 오르비스 표준시 7월 22일 오전 2:40 아우렐리아 프리즘 관측관에서 5개 분석실이 일일회의를 열어 경기 진단을 '정체' 단계로 정하고 위험 요인별 기여도를 공개했다.\n\n의회가 확인할 핵심은 코레이아 경제의 단기 위험을 수치와 사건 기록으로 분리해 시민과 정책 담당자에게 설명하는 것이 실제 절차로 이어지는지다. 프리즘 경제관측소는 “가장 큰 상승 요인은 대외·궤도 위험이며 단일 수치보다 40.2~74.4의 추정 범위를 함께 봐야 한다”라고 말했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 오르비스 AI연구원은 축전 기억소자와 광학 회로를 한 장의 회로에 올린 실험기가 빛의 세기와 파장을 조절하며 손글씨 분류 규칙을 현장에서 학습했다고 발표했다. 오르비스 AI연구원은 소형 뉴로모픽 반도체와 기억저항기를 결합한 펄스식 인공지능 장치가 불규칙하게 움직이는 모형 항공기의 다음 위치를 실시간으로 예측했다고 발표했다. 국제 결제망의 유동성 경색이 심화됐다. 오르비스 AI연구원은 서로 다른 빛깔에 반응하는 이미지 센서 배열이 별도의 영상 전송 없이 센서 표면에서 구름과 연기 신호를 구분했다고 발표했다.\n\n알비온 공동체가 보는 코레이아 공화국과의 현재 관계는 신뢰 91, 교역 의존 36, 군사 긴장 63다.\n\n다음 일정은 다음 날 오전 3시 전일 전망 오차와 새 경제·외교 사건을 다시 검토한다. 시장 참가자들은 정책의 투명성과 예측 가능성을 요구했다. 알비온저널은 합의 과정과 책임자의 답변이 의회 기록에 남는지 살핀다.",
+          "body": "프리즘 경제관측소 수석 경제관측관은 오르비스 표준시 7월 22일 오전 2:40 아우렐리아 프리즘 관측관에서 5개 분석실이 일일회의를 열어 경기 진단을 '정체' 단계로 정하고 위험 요인별 기여도를 공개했다.\n\n의회가 확인할 핵심은 코레이아 경제의 단기 위험을 수치와 사건 기록으로 분리해 시민과 정책 담당자에게 설명하는 것이 실제 절차로 이어지는지다. 프리즘 경제관측소는 “가장 큰 상승 요인은 대외·궤도 위험이며 단일 수치보다 40.2~74.4의 추정 범위를 함께 봐야 한다”라고 말했다.\n\n이번 조치의 배경에는 다음 공개 사건이 있다. 오르비스 AI연구원은 축전 기억소자와 광학 회로를 한 장의 회로에 올린 실험기가 빛의 세기와 파장을 조절하며 손글씨 분류 규칙을 현장에서 학습했다고 발표했다. 오르비스 AI연구원은 소형 뉴로모픽 반도체와 기억저항기를 결합한 펄스식 인공지능 장치가 불규칙하게 움직이는 모형 항공기의 다음 위치를 실시간으로 예측했다고 발표했다. 국제 결제망의 유동성 경색이 심화됐다. 오르비스 AI연구원은 서로 다른 빛깔에 반응하는 이미지 센서 배열이 별도의 영상 전송 없이 센서 표면에서 구름과 연기 신호를 구분했다고 발표했다.\n\n알비온 공동체가 보는 코레이아 공화국과의 현재 관계는 신뢰 91, 교역 의존 36, 군사 긴장 63다.\n\n다음 일정은 다음 날 오전 3시 전일 전망 오차와 새 경제·외교 사건을 다시 검토한다. 시장 참가자들은 정책의 투명성과 예측 가능성을 요구했다. 알비온저널은 합의 과정과 책임자의 답변이 의회 기록에 남는지 살핀다.",
           "category": "economy",
           "sourceEventIds": [
             "tick-00000057-prisma-economic-report"
-          ],
-          "adultAnalysis": "심층 분석: . 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
-        },
-        {
-          "id": "aster-tick-00000056-oasi-discovery-article-4",
-          "headline": "오르비스 우주항공청, 무꼬리 소천체에서 미약한 가스 분출…'암흑혜성' 후보…의회 공개·공동 검증 점검",
-          "deck": "알비온저널은 우주 현안에서 의회가 공개적으로 물어야 할 절차를 추렸다.",
-          "body": "오르비스 우주항공청 공동관측심의회는 오르비스 표준시 7월 21일 오후 10:37 헬베티아 동맹 이레니아 국제관측구에서 근오르비스 소천체의 궤도가 중력만으로 설명되는 경로에서 벗어났고 장시간 합성영상에서 희미한 가스 분출 방향이 확인됐다고 발표했다.\n\n의회가 확인할 핵심은 관측 결과와 불확실성을 오르비스 전역의 연구기관과 시민에게 동시에 공개하는 것이 실제 절차로 이어지는지다. 오르비스 우주항공청은 “위험 경보가 아니라 분류가 달라질 수 있다는 관측 결과다”라고 말했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 오르비스 우주항공청은 근오르비스 소천체의 궤도가 중력만으로 설명되는 경로에서 벗어났고 장시간 합성영상에서 희미한 가스 분출 방향이 확인됐다고 발표했다.\n\n알비온 공동체가 보는 코레이아 공화국과의 현재 관계는 신뢰 91, 교역 의존 36, 군사 긴장 63다.\n\n다음 일정은 행성방위망이 다음 근접 시기에 분광 관측을 실시하고 궤도 오차 범위를 매주 갱신한다. 과학계는 원자료 공개와 다른 관측망의 독립 검증이 뒤따라야 한다고 강조했다. 알비온저널은 합의 과정과 책임자의 답변이 의회 기록에 남는지 살핀다.\n\n연구진이 밝힌 한계는 현재 계산으로 오르비스 충돌 위험은 없으며 분출 성분도 아직 확인되지 않았다.",
-          "category": "space",
-          "sourceEventIds": [
-            "tick-00000056-oasi-discovery"
           ],
           "adultAnalysis": "심층 분석: . 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
         }
@@ -3757,51 +3804,51 @@
       "mastheadKo": "아드리아경제",
       "mastheadNative": "Adria Business",
       "editionType": "daily",
-      "leadHeadline": "프리즘 경제관측소, 코레이아 경기 '정체' 진단…교역·운송 일정 점검",
+      "leadHeadline": "아드리아 연합, 해협 보호령에 48시간 내 실무회담 제안",
       "articles": [
         {
-          "id": "marevia-tick-00000057-prisma-economic-report-article-1",
+          "id": "marevia-tick-00000053-event-23-article-1",
+          "headline": "아드리아 연합, 해협 보호령에 48시간 내 실무회담 제안",
+          "deck": "아드리아경제는 외교 현안에서 교역 비용과 민간 운송 일정의 변화를 점검했다.",
+          "body": "테오 로사 정치·외교 기자는 오르비스 표준시 7월 21일 오후 1:25 포르토 셀레네에서 해협 보호령에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다.\n\n해협 보호령 측은 별도 발표에서 아드리아 연합에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다.\n\n시장 참가자들이 따져볼 대목은 해협 보호령과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것이 계약과 운송 일정에 미칠 영향이다. 테오 로사는 “상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다”라고 말했다.\n\n다음 일정은 해협 보호령의 답변을 받은 뒤 포르토 셀레네 외교회관에서 예비접촉 대표와 의제를 공개한다. 시장 참가자들은 정책의 투명성과 예측 가능성을 요구했다. 아드리아경제는 발표가 항로, 계약 일정, 공급 비용에 미치는 변화를 추적한다.\n\n이번 조치의 배경에는 다음 공개 사건이 있다. 수도권에서 물가 안정과 평화를 요구하는 집회가 열렸다.",
+          "category": "diplomacy",
+          "sourceEventIds": [
+            "tick-00000053-event-23"
+          ],
+          "adultAnalysis": "심층 분석: approval -0.3, publicAnxiety 0. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+        },
+        {
+          "id": "marevia-tick-00000049-event-24-article-2",
+          "headline": "아드리아 연합, 알비온 공동체에 수송선 3척·의료단 파견",
+          "deck": "아드리아경제는 외교 현안에서 교역 비용과 민간 운송 일정의 변화를 점검했다.",
+          "body": "도리아 콘티 외교부 대변인은 오르비스 표준시 7월 21일 오전 12:40 포르토 셀레네에서 알비온 공동체에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다.\n\n알비온 공동체 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다.\n\n시장 참가자들이 따져볼 대목은 알비온 공동체의 필수 연료와 의료품 부족을 막고 항만 지역의 불안을 낮추는 것이 계약과 운송 일정에 미칠 영향이다. 도리아 콘티는 “이번 지원은 군사적 개입이 아니라 주민 생활과 민간 운송망을 지키기 위한 조치다”라고 말했다.\n\n다음 일정은 알비온 공동체이 접안 안전을 보장하면 첫 수송선이 다음 날 오전 포르토 셀레네 궤도항을 출발한다. 시장 참가자들은 정책의 투명성과 예측 가능성을 요구했다. 아드리아경제는 발표가 항로, 계약 일정, 공급 비용에 미치는 변화를 추적한다.\n\n이번 조치의 배경에는 다음 공개 사건이 있다. 주요 정당이 긴급 의회 소집에 합의했다.",
+          "category": "diplomacy",
+          "sourceEventIds": [
+            "tick-00000049-event-24"
+          ],
+          "adultAnalysis": "심층 분석: reserves -1.34, approval +0.89. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+        },
+        {
+          "id": "marevia-tick-00000050-event-25-article-3",
+          "headline": "아드리아 연합, 추가 대응 표결 24시간 유보",
+          "deck": "아드리아경제는 정치 현안에서 교역 비용과 민간 운송 일정의 변화를 점검했다.",
+          "body": "이반 네리 도시 직장인 대표는 오르비스 표준시 7월 21일 오전 5:28 포르토 셀레네에서 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다.\n\n시장 참가자들이 따져볼 대목은 정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것이 계약과 운송 일정에 미칠 영향이다. 이반 네리는 “행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다”라고 말했다.\n\n다음 일정은 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다. 시장 참가자들은 정책의 투명성과 예측 가능성을 요구했다. 아드리아경제는 발표가 항로, 계약 일정, 공급 비용에 미치는 변화를 추적한다.",
+          "category": "politics",
+          "sourceEventIds": [
+            "tick-00000050-event-25"
+          ],
+          "adultAnalysis": "심층 분석: approval -0.4, publicAnxiety +0.5. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+        },
+        {
+          "id": "marevia-tick-00000057-prisma-economic-report-article-4",
           "headline": "프리즘 경제관측소, 코레이아 경기 '정체' 진단…교역·운송 일정 점검",
           "deck": "아드리아경제는 경제 현안에서 교역 비용과 민간 운송 일정의 변화를 점검했다.",
-          "body": "아드리아 연합이 보는 코레이아 공화국과의 현재 관계는 신뢰 31, 교역 의존 22, 군사 긴장 47다.\n\n프리즘 경제관측소 수석 경제관측관은 오르비스 표준시 7월 22일 오전 2:40 아우렐리아 프리즘 관측관에서 5개 분석실이 일일회의를 열어 경기 진단을 '정체' 단계로 정하고 위험 요인별 기여도를 공개했다.\n\n시장 참가자들이 따져볼 대목은 코레이아 경제의 단기 위험을 수치와 사건 기록으로 분리해 시민과 정책 담당자에게 설명하는 것이 계약과 운송 일정에 미칠 영향이다. 프리즘 경제관측소는 “가장 큰 상승 요인은 대외·궤도 위험이며 단일 수치보다 40.2~74.4의 추정 범위를 함께 봐야 한다”라고 말했다.\n\n다음 일정은 다음 날 오전 3시 전일 전망 오차와 새 경제·외교 사건을 다시 검토한다. 시장 참가자들은 정책의 투명성과 예측 가능성을 요구했다. 아드리아경제는 발표가 항로, 계약 일정, 공급 비용에 미치는 변화를 추적한다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 오르비스 AI연구원은 축전 기억소자와 광학 회로를 한 장의 회로에 올린 실험기가 빛의 세기와 파장을 조절하며 손글씨 분류 규칙을 현장에서 학습했다고 발표했다. 오르비스 AI연구원은 소형 뉴로모픽 반도체와 기억저항기를 결합한 펄스식 인공지능 장치가 불규칙하게 움직이는 모형 항공기의 다음 위치를 실시간으로 예측했다고 발표했다. 국제 결제망의 유동성 경색이 심화됐다. 오르비스 AI연구원은 서로 다른 빛깔에 반응하는 이미지 센서 배열이 별도의 영상 전송 없이 센서 표면에서 구름과 연기 신호를 구분했다고 발표했다.",
+          "body": "아드리아 연합이 보는 코레이아 공화국과의 현재 관계는 신뢰 35, 교역 의존 23, 군사 긴장 44다.\n\n프리즘 경제관측소 수석 경제관측관은 오르비스 표준시 7월 22일 오전 2:40 아우렐리아 프리즘 관측관에서 5개 분석실이 일일회의를 열어 경기 진단을 '정체' 단계로 정하고 위험 요인별 기여도를 공개했다.\n\n시장 참가자들이 따져볼 대목은 코레이아 경제의 단기 위험을 수치와 사건 기록으로 분리해 시민과 정책 담당자에게 설명하는 것이 계약과 운송 일정에 미칠 영향이다. 프리즘 경제관측소는 “가장 큰 상승 요인은 대외·궤도 위험이며 단일 수치보다 40.2~74.4의 추정 범위를 함께 봐야 한다”라고 말했다.\n\n다음 일정은 다음 날 오전 3시 전일 전망 오차와 새 경제·외교 사건을 다시 검토한다. 시장 참가자들은 정책의 투명성과 예측 가능성을 요구했다. 아드리아경제는 발표가 항로, 계약 일정, 공급 비용에 미치는 변화를 추적한다.\n\n이번 조치의 배경에는 다음 공개 사건이 있다. 오르비스 AI연구원은 축전 기억소자와 광학 회로를 한 장의 회로에 올린 실험기가 빛의 세기와 파장을 조절하며 손글씨 분류 규칙을 현장에서 학습했다고 발표했다. 오르비스 AI연구원은 소형 뉴로모픽 반도체와 기억저항기를 결합한 펄스식 인공지능 장치가 불규칙하게 움직이는 모형 항공기의 다음 위치를 실시간으로 예측했다고 발표했다. 국제 결제망의 유동성 경색이 심화됐다. 오르비스 AI연구원은 서로 다른 빛깔에 반응하는 이미지 센서 배열이 별도의 영상 전송 없이 센서 표면에서 구름과 연기 신호를 구분했다고 발표했다.",
           "category": "economy",
           "sourceEventIds": [
             "tick-00000057-prisma-economic-report"
           ],
           "adultAnalysis": "심층 분석: . 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
-        },
-        {
-          "id": "marevia-tick-00000058-event-31-article-2",
-          "headline": "헬베티아 동맹, 화하 왕국에 48시간 내 실무회담 제안…교역·운송 일정 주목",
-          "deck": "아드리아경제는 외교 현안에서 교역 비용과 민간 운송 일정의 변화를 점검했다.",
-          "body": "아드리아 연합이 보는 헬베티아 동맹과의 현재 관계는 신뢰 64, 교역 의존 50, 군사 긴장 0다.\n\n레온 엘리아 개혁야당 지도부는 오르비스 표준시 7월 22일 오전 4:08 이레니아에서 화하 왕국에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다.\n\n화하 왕국 측은 별도 발표에서 헬베티아 동맹에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다.\n\n시장 참가자들이 따져볼 대목은 화하 왕국과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것이 계약과 운송 일정에 미칠 영향이다. 레온 엘리아는 “상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다”라고 말했다.\n\n다음 일정은 화하 왕국의 답변을 받은 뒤 이레니아 외교회관에서 예비접촉 대표와 의제를 공개한다. 시장 참가자들은 정책의 투명성과 예측 가능성을 요구했다. 아드리아경제는 발표가 항로, 계약 일정, 공급 비용에 미치는 변화를 추적한다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 궤도 감시망에서 미확인 항적이 포착됐다.",
-          "category": "diplomacy",
-          "sourceEventIds": [
-            "tick-00000058-event-31"
-          ],
-          "adultAnalysis": "심층 분석: approval +1.01, publicAnxiety -1.34. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
-        },
-        {
-          "id": "marevia-tick-00000056-oasi-discovery-article-3",
-          "headline": "오르비스 우주항공청, 무꼬리 소천체에서 미약한 가스 분출…'암흑혜성' 후보…교역·운송 일정 점검",
-          "deck": "아드리아경제는 우주 현안에서 교역 비용과 민간 운송 일정의 변화를 점검했다.",
-          "body": "아드리아 연합이 보는 코레이아 공화국과의 현재 관계는 신뢰 31, 교역 의존 22, 군사 긴장 47다.\n\n오르비스 우주항공청 공동관측심의회는 오르비스 표준시 7월 21일 오후 10:37 헬베티아 동맹 이레니아 국제관측구에서 근오르비스 소천체의 궤도가 중력만으로 설명되는 경로에서 벗어났고 장시간 합성영상에서 희미한 가스 분출 방향이 확인됐다고 발표했다.\n\n시장 참가자들이 따져볼 대목은 관측 결과와 불확실성을 오르비스 전역의 연구기관과 시민에게 동시에 공개하는 것이 계약과 운송 일정에 미칠 영향이다. 오르비스 우주항공청은 “위험 경보가 아니라 분류가 달라질 수 있다는 관측 결과다”라고 말했다.\n\n다음 일정은 행성방위망이 다음 근접 시기에 분광 관측을 실시하고 궤도 오차 범위를 매주 갱신한다. 과학계는 원자료 공개와 다른 관측망의 독립 검증이 뒤따라야 한다고 강조했다. 아드리아경제는 발표가 항로, 계약 일정, 공급 비용에 미치는 변화를 추적한다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 오르비스 우주항공청은 근오르비스 소천체의 궤도가 중력만으로 설명되는 경로에서 벗어났고 장시간 합성영상에서 희미한 가스 분출 방향이 확인됐다고 발표했다.\n\n연구진이 밝힌 한계는 현재 계산으로 오르비스 충돌 위험은 없으며 분출 성분도 아직 확인되지 않았다.",
-          "category": "space",
-          "sourceEventIds": [
-            "tick-00000056-oasi-discovery"
-          ],
-          "adultAnalysis": "심층 분석: . 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
-        },
-        {
-          "id": "marevia-tick-00000058-event-17-article-4",
-          "headline": "알비온 공동체 의회, 책임자 7명 공개 청문회 추진…교역·운송 일정 주목",
-          "deck": "아드리아경제는 정치 현안에서 교역 비용과 민간 운송 일정의 변화를 점검했다.",
-          "body": "아드리아 연합이 보는 알비온 공동체와의 현재 관계는 신뢰 76, 교역 의존 15, 군사 긴장 39다.\n\n엘라 애쉬 민족전선 지도부는 오르비스 표준시 7월 22일 오전 3:56 그린위치 항에서 의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다.\n\n시장 참가자들이 따져볼 대목은 위기 대응 과정의 보고 누락과 의사결정 책임을 확인하는 것이 계약과 운송 일정에 미칠 영향이다. 엘라 애쉬는 “기밀을 이유로 정책 실패까지 감출 수는 없으며 공개 가능한 기록부터 확인하겠다”라고 말했다.\n\n다음 일정은 사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다. 시장 참가자들은 정책의 투명성과 예측 가능성을 요구했다. 아드리아경제는 발표가 항로, 계약 일정, 공급 비용에 미치는 변화를 추적한다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 궤도 감시망에서 미확인 항적이 포착됐다.",
-          "category": "politics",
-          "sourceEventIds": [
-            "tick-00000058-event-17"
-          ],
-          "adultAnalysis": "심층 분석: approval -0.62, publicAnxiety 0. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
         }
       ],
       "factIds": [
@@ -3834,49 +3881,49 @@
       "mastheadKo": "동방뉴스",
       "mastheadNative": "Eastern News",
       "editionType": "daily",
-      "leadHeadline": "프리즘 경제관측소, 코레이아 경기 '정체' 진단…생산·노동 현장 점검",
+      "leadHeadline": "동방 인민공화국, 하루 두 차례 위기 합동브리핑",
       "articles": [
         {
-          "id": "karsk-tick-00000057-prisma-economic-report-article-1",
+          "id": "karsk-tick-00000057-event-28-article-1",
+          "headline": "동방 인민공화국, 하루 두 차례 위기 합동브리핑",
+          "deck": "동방뉴스는 사회 현안에서 생산 현장과 노동자의 생활에 닿을 결과를 전했다.",
+          "body": "생산 현장에서는 정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것이 실제 공급과 노동 여건으로 이어지는지가 관건이다. 도리아 제린은 “확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라”라고 말했다.\n\n도리아 제린 항만·공업지역 대표는 오르비스 표준시 7월 22일 오전 2:28 동명에서 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다.\n\n다음 일정은 첫 합동 브리핑은 이날 오후 동명 중앙기록관에서 열린다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 동방뉴스는 발표된 조치가 생산 현장과 생활 물자 공급에 어떻게 집행되는지 보도한다.",
+          "category": "society",
+          "sourceEventIds": [
+            "tick-00000057-event-28"
+          ],
+          "adultAnalysis": "심층 분석: approval -0.33, publicAnxiety +0.6. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+        },
+        {
+          "id": "karsk-tick-00000055-event-26-article-2",
+          "headline": "동방 인민공화국, 해협 보호령에 48시간 내 실무회담 제안",
+          "deck": "동방뉴스는 외교 현안에서 생산 현장과 노동자의 생활에 닿을 결과를 전했다.",
+          "body": "생산 현장에서는 해협 보호령과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것이 실제 공급과 노동 여건으로 이어지는지가 관건이다. 레온 다닌은 “상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다”라고 말했다.\n\n레온 다닌 민족전선 지도부는 오르비스 표준시 7월 21일 오후 6:57 동명에서 해협 보호령에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다.\n\n이번 조치의 배경에는 다음 공개 사건이 있다. 주요 정당이 긴급 의회 소집에 합의했다.\n\n해협 보호령 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다.\n\n다음 일정은 해협 보호령의 답변을 받은 뒤 동명 외교회관에서 예비접촉 대표와 의제를 공개한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 동방뉴스는 발표된 조치가 생산 현장과 생활 물자 공급에 어떻게 집행되는지 보도한다.",
+          "category": "diplomacy",
+          "sourceEventIds": [
+            "tick-00000055-event-26"
+          ],
+          "adultAnalysis": "심층 분석: approval 0, publicAnxiety 0. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+        },
+        {
+          "id": "karsk-tick-00000050-event-30-article-3",
+          "headline": "동방 인민공화국, 헬베티아 동맹에 수송선 3척·의료단 파견",
+          "deck": "동방뉴스는 외교 현안에서 생산 현장과 노동자의 생활에 닿을 결과를 전했다.",
+          "body": "생산 현장에서는 헬베티아 동맹의 필수 연료와 의료품 부족을 막고 항만 지역의 불안을 낮추는 것이 실제 공급과 노동 여건으로 이어지는지가 관건이다. 셀레네 노빅은 “이번 지원은 군사적 개입이 아니라 주민 생활과 민간 운송망을 지키기 위한 조치다”라고 말했다.\n\n셀레네 노빅 도시 직장인 대표는 오르비스 표준시 7월 21일 오전 4:28 동명에서 헬베티아 동맹에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다.\n\n이번 조치의 배경에는 다음 공개 사건이 있다. 국제 결제망의 유동성 경색이 심화됐다.\n\n헬베티아 동맹 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다.\n\n다음 일정은 헬베티아 동맹이 접안 안전을 보장하면 첫 수송선이 다음 날 오전 동명 궤도항을 출발한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 동방뉴스는 발표된 조치가 생산 현장과 생활 물자 공급에 어떻게 집행되는지 보도한다.",
+          "category": "diplomacy",
+          "sourceEventIds": [
+            "tick-00000050-event-30"
+          ],
+          "adultAnalysis": "심층 분석: reserves -1.41, approval +0.45. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+        },
+        {
+          "id": "karsk-tick-00000057-prisma-economic-report-article-4",
           "headline": "프리즘 경제관측소, 코레이아 경기 '정체' 진단…생산·노동 현장 점검",
           "deck": "동방뉴스는 경제 현안에서 생산 현장과 노동자의 생활에 닿을 결과를 전했다.",
-          "body": "생산 현장에서는 코레이아 경제의 단기 위험을 수치와 사건 기록으로 분리해 시민과 정책 담당자에게 설명하는 것이 실제 공급과 노동 여건으로 이어지는지가 관건이다. 프리즘 경제관측소는 “가장 큰 상승 요인은 대외·궤도 위험이며 단일 수치보다 40.2~74.4의 추정 범위를 함께 봐야 한다”라고 말했다.\n\n프리즘 경제관측소 수석 경제관측관은 오르비스 표준시 7월 22일 오전 2:40 아우렐리아 프리즘 관측관에서 5개 분석실이 일일회의를 열어 경기 진단을 '정체' 단계로 정하고 위험 요인별 기여도를 공개했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 오르비스 AI연구원은 축전 기억소자와 광학 회로를 한 장의 회로에 올린 실험기가 빛의 세기와 파장을 조절하며 손글씨 분류 규칙을 현장에서 학습했다고 발표했다. 오르비스 AI연구원은 소형 뉴로모픽 반도체와 기억저항기를 결합한 펄스식 인공지능 장치가 불규칙하게 움직이는 모형 항공기의 다음 위치를 실시간으로 예측했다고 발표했다. 국제 결제망의 유동성 경색이 심화됐다. 오르비스 AI연구원은 서로 다른 빛깔에 반응하는 이미지 센서 배열이 별도의 영상 전송 없이 센서 표면에서 구름과 연기 신호를 구분했다고 발표했다.\n\n동방 인민공화국이 보는 코레이아 공화국과의 현재 관계는 신뢰 49, 교역 의존 15, 군사 긴장 16다.\n\n다음 일정은 다음 날 오전 3시 전일 전망 오차와 새 경제·외교 사건을 다시 검토한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 동방뉴스는 발표된 조치가 생산 현장과 생활 물자 공급에 어떻게 집행되는지 보도한다.",
+          "body": "생산 현장에서는 코레이아 경제의 단기 위험을 수치와 사건 기록으로 분리해 시민과 정책 담당자에게 설명하는 것이 실제 공급과 노동 여건으로 이어지는지가 관건이다. 프리즘 경제관측소는 “가장 큰 상승 요인은 대외·궤도 위험이며 단일 수치보다 40.2~74.4의 추정 범위를 함께 봐야 한다”라고 말했다.\n\n프리즘 경제관측소 수석 경제관측관은 오르비스 표준시 7월 22일 오전 2:40 아우렐리아 프리즘 관측관에서 5개 분석실이 일일회의를 열어 경기 진단을 '정체' 단계로 정하고 위험 요인별 기여도를 공개했다.\n\n이번 조치의 배경에는 다음 공개 사건이 있다. 오르비스 AI연구원은 축전 기억소자와 광학 회로를 한 장의 회로에 올린 실험기가 빛의 세기와 파장을 조절하며 손글씨 분류 규칙을 현장에서 학습했다고 발표했다. 오르비스 AI연구원은 소형 뉴로모픽 반도체와 기억저항기를 결합한 펄스식 인공지능 장치가 불규칙하게 움직이는 모형 항공기의 다음 위치를 실시간으로 예측했다고 발표했다. 국제 결제망의 유동성 경색이 심화됐다. 오르비스 AI연구원은 서로 다른 빛깔에 반응하는 이미지 센서 배열이 별도의 영상 전송 없이 센서 표면에서 구름과 연기 신호를 구분했다고 발표했다.\n\n동방 인민공화국이 보는 코레이아 공화국과의 현재 관계는 신뢰 49, 교역 의존 15, 군사 긴장 16다.\n\n다음 일정은 다음 날 오전 3시 전일 전망 오차와 새 경제·외교 사건을 다시 검토한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 동방뉴스는 발표된 조치가 생산 현장과 생활 물자 공급에 어떻게 집행되는지 보도한다.",
           "category": "economy",
           "sourceEventIds": [
             "tick-00000057-prisma-economic-report"
-          ],
-          "adultAnalysis": "심층 분석: . 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
-        },
-        {
-          "id": "karsk-tick-00000058-event-31-article-2",
-          "headline": "헬베티아 동맹, 화하 왕국에 48시간 내 실무회담 제안…생산·노동 현장 주목",
-          "deck": "동방뉴스는 외교 현안에서 생산 현장과 노동자의 생활에 닿을 결과를 전했다.",
-          "body": "생산 현장에서는 화하 왕국과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것이 실제 공급과 노동 여건으로 이어지는지가 관건이다. 레온 엘리아는 “상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다”라고 말했다.\n\n레온 엘리아 개혁야당 지도부는 오르비스 표준시 7월 22일 오전 4:08 이레니아에서 화하 왕국에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 궤도 감시망에서 미확인 항적이 포착됐다.\n\n동방 인민공화국이 보는 헬베티아 동맹과의 현재 관계는 신뢰 55, 교역 의존 43, 군사 긴장 47다.\n\n화하 왕국 측은 별도 발표에서 헬베티아 동맹에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다.\n\n다음 일정은 화하 왕국의 답변을 받은 뒤 이레니아 외교회관에서 예비접촉 대표와 의제를 공개한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 동방뉴스는 발표된 조치가 생산 현장과 생활 물자 공급에 어떻게 집행되는지 보도한다.",
-          "category": "diplomacy",
-          "sourceEventIds": [
-            "tick-00000058-event-31"
-          ],
-          "adultAnalysis": "심층 분석: approval +1.01, publicAnxiety -1.34. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
-        },
-        {
-          "id": "karsk-tick-00000058-event-17-article-3",
-          "headline": "알비온 공동체 의회, 책임자 7명 공개 청문회 추진…생산·노동 현장 주목",
-          "deck": "동방뉴스는 정치 현안에서 생산 현장과 노동자의 생활에 닿을 결과를 전했다.",
-          "body": "생산 현장에서는 위기 대응 과정의 보고 누락과 의사결정 책임을 확인하는 것이 실제 공급과 노동 여건으로 이어지는지가 관건이다. 엘라 애쉬는 “기밀을 이유로 정책 실패까지 감출 수는 없으며 공개 가능한 기록부터 확인하겠다”라고 말했다.\n\n엘라 애쉬 민족전선 지도부는 오르비스 표준시 7월 22일 오전 3:56 그린위치 항에서 의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 궤도 감시망에서 미확인 항적이 포착됐다.\n\n동방 인민공화국이 보는 알비온 공동체와의 현재 관계는 신뢰 100, 교역 의존 78, 군사 긴장 2다.\n\n다음 일정은 사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 동방뉴스는 발표된 조치가 생산 현장과 생활 물자 공급에 어떻게 집행되는지 보도한다.",
-          "category": "politics",
-          "sourceEventIds": [
-            "tick-00000058-event-17"
-          ],
-          "adultAnalysis": "심층 분석: approval -0.62, publicAnxiety 0. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
-        },
-        {
-          "id": "karsk-tick-00000056-oasi-discovery-article-4",
-          "headline": "오르비스 우주항공청, 무꼬리 소천체에서 미약한 가스 분출…'암흑혜성' 후보…생산·노동 현장 점검",
-          "deck": "동방뉴스는 우주 현안에서 생산 현장과 노동자의 생활에 닿을 결과를 전했다.",
-          "body": "생산 현장에서는 관측 결과와 불확실성을 오르비스 전역의 연구기관과 시민에게 동시에 공개하는 것이 실제 공급과 노동 여건으로 이어지는지가 관건이다. 오르비스 우주항공청은 “위험 경보가 아니라 분류가 달라질 수 있다는 관측 결과다”라고 말했다.\n\n오르비스 우주항공청 공동관측심의회는 오르비스 표준시 7월 21일 오후 10:37 헬베티아 동맹 이레니아 국제관측구에서 근오르비스 소천체의 궤도가 중력만으로 설명되는 경로에서 벗어났고 장시간 합성영상에서 희미한 가스 분출 방향이 확인됐다고 발표했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 오르비스 우주항공청은 근오르비스 소천체의 궤도가 중력만으로 설명되는 경로에서 벗어났고 장시간 합성영상에서 희미한 가스 분출 방향이 확인됐다고 발표했다.\n\n동방 인민공화국이 보는 코레이아 공화국과의 현재 관계는 신뢰 49, 교역 의존 15, 군사 긴장 16다.\n\n다음 일정은 행성방위망이 다음 근접 시기에 분광 관측을 실시하고 궤도 오차 범위를 매주 갱신한다. 과학계는 원자료 공개와 다른 관측망의 독립 검증이 뒤따라야 한다고 강조했다. 동방뉴스는 발표된 조치가 생산 현장과 생활 물자 공급에 어떻게 집행되는지 보도한다.\n\n연구진이 밝힌 한계는 현재 계산으로 오르비스 충돌 위험은 없으며 분출 성분도 아직 확인되지 않았다.",
-          "category": "space",
-          "sourceEventIds": [
-            "tick-00000056-oasi-discovery"
           ],
           "adultAnalysis": "심층 분석: . 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
         }
@@ -3917,7 +3964,7 @@
           "id": "eiren-tick-00000058-event-31-article-1",
           "headline": "헬베티아 동맹, 화하 왕국에 48시간 내 실무회담 제안",
           "deck": "헬베티아리뷰는 외교 현안에서 당사국의 답변과 민간 보호 약속을 나란히 비교했다.",
-          "body": "레온 엘리아 개혁야당 지도부는 오르비스 표준시 7월 22일 오전 4:08 이레니아에서 화하 왕국에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다.\n\n화하 왕국 측은 별도 발표에서 헬베티아 동맹에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다.\n\n중재의 성패는 화하 왕국과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것이라는 약속을 당사국이 지키는 데 달렸다. 레온 엘리아는 “상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다”라고 말했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 궤도 감시망에서 미확인 항적이 포착됐다.\n\n다음 일정은 화하 왕국의 답변을 받은 뒤 이레니아 외교회관에서 예비접촉 대표와 의제를 공개한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 헬베티아리뷰는 각 당사자의 약속과 민간 보호 장치가 함께 작동하는지 검증한다.",
+          "body": "레온 엘리아 개혁야당 지도부는 오르비스 표준시 7월 22일 오전 4:08 이레니아에서 화하 왕국에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다.\n\n화하 왕국 측은 별도 발표에서 헬베티아 동맹에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다.\n\n중재의 성패는 화하 왕국과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것이라는 약속을 당사국이 지키는 데 달렸다. 레온 엘리아는 “상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다”라고 말했다.\n\n이번 조치의 배경에는 다음 공개 사건이 있다. 궤도 감시망에서 미확인 항적이 포착됐다.\n\n다음 일정은 화하 왕국의 답변을 받은 뒤 이레니아 외교회관에서 예비접촉 대표와 의제를 공개한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 헬베티아리뷰는 각 당사자의 약속과 민간 보호 장치가 함께 작동하는지 검증한다.",
           "category": "diplomacy",
           "sourceEventIds": [
             "tick-00000058-event-31"
@@ -3925,35 +3972,35 @@
           "adultAnalysis": "심층 분석: approval +1.01, publicAnxiety -1.34. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
         },
         {
-          "id": "eiren-tick-00000058-aic-discovery-article-2",
+          "id": "eiren-tick-00000058-event-34-article-2",
+          "headline": "헬베티아 동맹, 동방 인민공화국에 수송선 3척·의료단 파견",
+          "deck": "헬베티아리뷰는 외교 현안에서 당사국의 답변과 민간 보호 약속을 나란히 비교했다.",
+          "body": "셀레네 다몬 지역 대표 의원은 오르비스 표준시 7월 22일 오전 3:40 이레니아에서 동방 인민공화국에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다.\n\n동방 인민공화국 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다.\n\n중재의 성패는 동방 인민공화국의 필수 연료와 의료품 부족을 막고 항만 지역의 불안을 낮추는 것이라는 약속을 당사국이 지키는 데 달렸다. 셀레네 다몬은 “이번 지원은 군사적 개입이 아니라 주민 생활과 민간 운송망을 지키기 위한 조치다”라고 말했다.\n\n이번 조치의 배경에는 다음 공개 사건이 있다. 궤도 감시망에서 미확인 항적이 포착됐다.\n\n다음 일정은 동방 인민공화국이 접안 안전을 보장하면 첫 수송선이 다음 날 오전 이레니아 궤도항을 출발한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 헬베티아리뷰는 각 당사자의 약속과 민간 보호 장치가 함께 작동하는지 검증한다.",
+          "category": "diplomacy",
+          "sourceEventIds": [
+            "tick-00000058-event-34"
+          ],
+          "adultAnalysis": "심층 분석: reserves -1.14, approval +0.4. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+        },
+        {
+          "id": "eiren-tick-00000053-event-32-article-3",
+          "headline": "헬베티아 동맹, 하루 두 차례 위기 합동브리핑",
+          "deck": "헬베티아리뷰는 사회 현안에서 당사국의 답변과 민간 보호 약속을 나란히 비교했다.",
+          "body": "레온 엘리아 대표 언론사 편집국은 오르비스 표준시 7월 21일 오후 12:36 이레니아에서 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다.\n\n중재의 성패는 정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것이라는 약속을 당사국이 지키는 데 달렸다. 레온 엘리아는 “확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라”라고 말했다.\n\n다음 일정은 첫 합동 브리핑은 이날 오후 이레니아 중앙기록관에서 열린다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 헬베티아리뷰는 각 당사자의 약속과 민간 보호 장치가 함께 작동하는지 검증한다.",
+          "category": "society",
+          "sourceEventIds": [
+            "tick-00000053-event-32"
+          ],
+          "adultAnalysis": "심층 분석: approval -0.04, publicAnxiety 0. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+        },
+        {
+          "id": "eiren-tick-00000058-aic-discovery-article-4",
           "headline": "오르비스 AI연구원, 인공지능용 인메모리 반도체, 저장과 계산을 한 판에서 수행…중재안·민간 보호 점검",
           "deck": "헬베티아리뷰는 과학 현안에서 당사국의 답변과 민간 보호 약속을 나란히 비교했다.",
-          "body": "오르비스 AI연구원 연구검증위원회는 오르비스 표준시 7월 22일 오전 4:44 코레이아 공화국 세라노 계산과학구에서 연구진이 4천96개의 저항변화 메모리 소자를 격자로 묶어 숫자를 기억한 자리에서 곧바로 행렬 계산을 수행하는 AI 연산판을 공개했다고 발표했다.\n\n중재의 성패는 AI 반도체와 AI 반도체 기술의 성능·전력·한계를 시민과 연구기관이 함께 검증하게 하는 것이라는 약속을 당사국이 지키는 데 달렸다. 오르비스 AI연구원은 “빠른 계산보다 중요한 것은 기억을 운반하지 않고 그 자리에서 계산하는 방식이다”라고 말했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 오르비스 AI연구원은 연구진이 4천96개의 저항변화 메모리 소자를 격자로 묶어 숫자를 기억한 자리에서 곧바로 행렬 계산을 수행하는 AI 연산판을 공개했다고 발표했다.\n\n연구진이 밝힌 한계는 아직 모의 숫자 판독 실험에 한정됐고 온도 변화와 장시간 사용에 따른 오차가 검증되지 않았다.\n\n헬베티아 동맹이 보는 코레이아 공화국과의 현재 관계는 신뢰 63, 교역 의존 78, 군사 긴장 46다.\n\n다음 일정은 세 나라 연구소가 같은 회로도를 제작해 30일 연속 구동 시험과 소비전력 측정을 반복한다. 과학계는 공개 회로도와 반복 실험 자료를 검토한 뒤 성능·전력 수치를 독립적으로 재현해야 한다고 밝혔다. 헬베티아리뷰는 각 당사자의 약속과 민간 보호 장치가 함께 작동하는지 검증한다.",
+          "body": "오르비스 AI연구원 연구검증위원회는 오르비스 표준시 7월 22일 오전 4:44 코레이아 공화국 세라노 계산과학구에서 연구진이 4천96개의 저항변화 메모리 소자를 격자로 묶어 숫자를 기억한 자리에서 곧바로 행렬 계산을 수행하는 AI 연산판을 공개했다고 발표했다.\n\n중재의 성패는 AI 반도체와 AI 반도체 기술의 성능·전력·한계를 시민과 연구기관이 함께 검증하게 하는 것이라는 약속을 당사국이 지키는 데 달렸다. 오르비스 AI연구원은 “빠른 계산보다 중요한 것은 기억을 운반하지 않고 그 자리에서 계산하는 방식이다”라고 말했다.\n\n발표와 함께 확인된 관측·실험 기록은 다음과 같다. 오르비스 AI연구원은 연구진이 4천96개의 저항변화 메모리 소자를 격자로 묶어 숫자를 기억한 자리에서 곧바로 행렬 계산을 수행하는 AI 연산판을 공개했다고 발표했다.\n\n연구진이 밝힌 한계는 아직 모의 숫자 판독 실험에 한정됐고 온도 변화와 장시간 사용에 따른 오차가 검증되지 않았다.\n\n헬베티아 동맹이 보는 코레이아 공화국과의 현재 관계는 신뢰 67, 교역 의존 79, 군사 긴장 42다.\n\n다음 일정은 세 나라 연구소가 같은 회로도를 제작해 30일 연속 구동 시험과 소비전력 측정을 반복한다. 과학계는 공개 회로도와 반복 실험 자료를 검토한 뒤 성능·전력 수치를 독립적으로 재현해야 한다고 밝혔다. 헬베티아리뷰는 각 당사자의 약속과 민간 보호 장치가 함께 작동하는지 검증한다.",
           "category": "science",
           "sourceEventIds": [
             "tick-00000058-aic-discovery"
-          ],
-          "adultAnalysis": "심층 분석: . 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
-        },
-        {
-          "id": "eiren-tick-00000058-event-17-article-3",
-          "headline": "알비온 공동체 의회, 책임자 7명 공개 청문회 추진…중재안·민간 보호 주목",
-          "deck": "헬베티아리뷰는 정치 현안에서 당사국의 답변과 민간 보호 약속을 나란히 비교했다.",
-          "body": "엘라 애쉬 민족전선 지도부는 오르비스 표준시 7월 22일 오전 3:56 그린위치 항에서 의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다.\n\n중재의 성패는 위기 대응 과정의 보고 누락과 의사결정 책임을 확인하는 것이라는 약속을 당사국이 지키는 데 달렸다. 엘라 애쉬는 “기밀을 이유로 정책 실패까지 감출 수는 없으며 공개 가능한 기록부터 확인하겠다”라고 말했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 궤도 감시망에서 미확인 항적이 포착됐다.\n\n헬베티아 동맹이 보는 알비온 공동체와의 현재 관계는 신뢰 51, 교역 의존 64, 군사 긴장 34다.\n\n다음 일정은 사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 헬베티아리뷰는 각 당사자의 약속과 민간 보호 장치가 함께 작동하는지 검증한다.",
-          "category": "politics",
-          "sourceEventIds": [
-            "tick-00000058-event-17"
-          ],
-          "adultAnalysis": "심층 분석: approval -0.62, publicAnxiety 0. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
-        },
-        {
-          "id": "eiren-tick-00000057-prisma-economic-report-article-4",
-          "headline": "프리즘 경제관측소, 코레이아 경기 '정체' 진단…중재안·민간 보호 점검",
-          "deck": "헬베티아리뷰는 경제 현안에서 당사국의 답변과 민간 보호 약속을 나란히 비교했다.",
-          "body": "프리즘 경제관측소 수석 경제관측관은 오르비스 표준시 7월 22일 오전 2:40 아우렐리아 프리즘 관측관에서 5개 분석실이 일일회의를 열어 경기 진단을 '정체' 단계로 정하고 위험 요인별 기여도를 공개했다.\n\n중재의 성패는 코레이아 경제의 단기 위험을 수치와 사건 기록으로 분리해 시민과 정책 담당자에게 설명하는 것이라는 약속을 당사국이 지키는 데 달렸다. 프리즘 경제관측소는 “가장 큰 상승 요인은 대외·궤도 위험이며 단일 수치보다 40.2~74.4의 추정 범위를 함께 봐야 한다”라고 말했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 오르비스 AI연구원은 축전 기억소자와 광학 회로를 한 장의 회로에 올린 실험기가 빛의 세기와 파장을 조절하며 손글씨 분류 규칙을 현장에서 학습했다고 발표했다. 오르비스 AI연구원은 소형 뉴로모픽 반도체와 기억저항기를 결합한 펄스식 인공지능 장치가 불규칙하게 움직이는 모형 항공기의 다음 위치를 실시간으로 예측했다고 발표했다. 국제 결제망의 유동성 경색이 심화됐다. 오르비스 AI연구원은 서로 다른 빛깔에 반응하는 이미지 센서 배열이 별도의 영상 전송 없이 센서 표면에서 구름과 연기 신호를 구분했다고 발표했다.\n\n헬베티아 동맹이 보는 코레이아 공화국과의 현재 관계는 신뢰 63, 교역 의존 78, 군사 긴장 46다.\n\n다음 일정은 다음 날 오전 3시 전일 전망 오차와 새 경제·외교 사건을 다시 검토한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 헬베티아리뷰는 각 당사자의 약속과 민간 보호 장치가 함께 작동하는지 검증한다.",
-          "category": "economy",
-          "sourceEventIds": [
-            "tick-00000057-prisma-economic-report"
           ],
           "adultAnalysis": "심층 분석: . 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
         }
@@ -3988,51 +4035,51 @@
       "mastheadKo": "해협헤럴드",
       "mastheadNative": "Strait Herald",
       "editionType": "daily",
-      "leadHeadline": "오르비스 우주항공청, 무꼬리 소천체에서 미약한 가스 분출…'암흑혜성' 후보…항로·연료 수송 점검",
+      "leadHeadline": "해협 보호령, 알비온 공동체에 수송선 3척·의료단 파견",
       "articles": [
         {
-          "id": "orion-tick-00000056-oasi-discovery-article-1",
+          "id": "orion-tick-00000050-event-38-article-1",
+          "headline": "해협 보호령, 알비온 공동체에 수송선 3척·의료단 파견",
+          "deck": "해협헤럴드는 외교 현안에서 지역 항로와 연료 공급에 번질 파장을 추적했다.",
+          "body": "셀레네 아르노 산업협회 대표는 오르비스 표준시 7월 21일 오전 4:16 벨포트에서 알비온 공동체에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다.\n\n이번 조치의 배경에는 다음 공개 사건이 있다. 국제 결제망의 유동성 경색이 심화됐다.\n\n알비온 공동체 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다.\n\n지역 사회는 알비온 공동체의 필수 연료와 의료품 부족을 막고 항만 지역의 불안을 낮추는 것이 항로와 생활 공급에 어떤 변화를 만드는지 주시하고 있다. 셀레네 아르노는 “이번 지원은 군사적 개입이 아니라 주민 생활과 민간 운송망을 지키기 위한 조치다”라고 말했다.\n\n다음 일정은 알비온 공동체이 접안 안전을 보장하면 첫 수송선이 다음 날 오전 벨포트 궤도항을 출발한다. 정부는 국가 안전과 질서 유지를 우선 과제로 제시했다. 해협헤럴드는 중앙의 발표보다 지역 항로와 주민 생활에 나타나는 결과를 먼저 확인한다.",
+          "category": "diplomacy",
+          "sourceEventIds": [
+            "tick-00000050-event-38"
+          ],
+          "adultAnalysis": "심층 분석: reserves -1.6, approval +0.39. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+        },
+        {
+          "id": "orion-tick-00000056-event-40-article-2",
+          "headline": "해협 보호령, 하루 두 차례 위기 합동브리핑",
+          "deck": "해협헤럴드는 사회 현안에서 지역 항로와 연료 공급에 번질 파장을 추적했다.",
+          "body": "셀레네 아르노 산업협회 대표는 오르비스 표준시 7월 21일 오후 11:08 벨포트에서 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다.\n\n지역 사회는 정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것이 항로와 생활 공급에 어떤 변화를 만드는지 주시하고 있다. 셀레네 아르노는 “확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라”라고 말했다.\n\n다음 일정은 첫 합동 브리핑은 이날 오후 벨포트 중앙기록관에서 열린다. 정부는 국가 안전과 질서 유지를 우선 과제로 제시했다. 해협헤럴드는 중앙의 발표보다 지역 항로와 주민 생활에 나타나는 결과를 먼저 확인한다.",
+          "category": "society",
+          "sourceEventIds": [
+            "tick-00000056-event-40"
+          ],
+          "adultAnalysis": "심층 분석: approval +0.19, publicAnxiety +0.56. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+        },
+        {
+          "id": "orion-tick-00000053-event-36-article-3",
+          "headline": "해협 보호령, 아드리아 연합에 48시간 내 실무회담 제안",
+          "deck": "해협헤럴드는 외교 현안에서 지역 항로와 연료 공급에 번질 파장을 추적했다.",
+          "body": "레온 마르소 국방부·우주사령부 대변인은 오르비스 표준시 7월 21일 오후 2:31 벨포트에서 아드리아 연합에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다.\n\n이번 조치의 배경에는 다음 공개 사건이 있다. 수도권에서 물가 안정과 평화를 요구하는 집회가 열렸다.\n\n아드리아 연합 측은 별도 발표에서 해협 보호령에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다.\n\n지역 사회는 아드리아 연합과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것이 항로와 생활 공급에 어떤 변화를 만드는지 주시하고 있다. 레온 마르소는 “상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다”라고 말했다.\n\n다음 일정은 아드리아 연합의 답변을 받은 뒤 벨포트 외교회관에서 예비접촉 대표와 의제를 공개한다. 정부는 국가 안전과 질서 유지를 우선 과제로 제시했다. 해협헤럴드는 중앙의 발표보다 지역 항로와 주민 생활에 나타나는 결과를 먼저 확인한다.",
+          "category": "diplomacy",
+          "sourceEventIds": [
+            "tick-00000053-event-36"
+          ],
+          "adultAnalysis": "심층 분석: approval 0, publicAnxiety 0. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+        },
+        {
+          "id": "orion-tick-00000056-oasi-discovery-article-4",
           "headline": "오르비스 우주항공청, 무꼬리 소천체에서 미약한 가스 분출…'암흑혜성' 후보…항로·연료 수송 점검",
           "deck": "해협헤럴드는 우주 현안에서 지역 항로와 연료 공급에 번질 파장을 추적했다.",
-          "body": "해협 보호령이 보는 코레이아 공화국과의 현재 관계는 신뢰 71, 교역 의존 71, 군사 긴장 23다.\n\n오르비스 우주항공청 공동관측심의회는 오르비스 표준시 7월 21일 오후 10:37 헬베티아 동맹 이레니아 국제관측구에서 근오르비스 소천체의 궤도가 중력만으로 설명되는 경로에서 벗어났고 장시간 합성영상에서 희미한 가스 분출 방향이 확인됐다고 발표했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 오르비스 우주항공청은 근오르비스 소천체의 궤도가 중력만으로 설명되는 경로에서 벗어났고 장시간 합성영상에서 희미한 가스 분출 방향이 확인됐다고 발표했다.\n\n지역 사회는 관측 결과와 불확실성을 오르비스 전역의 연구기관과 시민에게 동시에 공개하는 것이 항로와 생활 공급에 어떤 변화를 만드는지 주시하고 있다. 오르비스 우주항공청은 “위험 경보가 아니라 분류가 달라질 수 있다는 관측 결과다”라고 말했다.\n\n연구진이 밝힌 한계는 현재 계산으로 오르비스 충돌 위험은 없으며 분출 성분도 아직 확인되지 않았다.\n\n다음 일정은 행성방위망이 다음 근접 시기에 분광 관측을 실시하고 궤도 오차 범위를 매주 갱신한다. 과학계는 원자료 공개와 다른 관측망의 독립 검증이 뒤따라야 한다고 강조했다. 해협헤럴드는 중앙의 발표보다 지역 항로와 주민 생활에 나타나는 결과를 먼저 확인한다.",
+          "body": "해협 보호령이 보는 코레이아 공화국과의 현재 관계는 신뢰 71, 교역 의존 71, 군사 긴장 23다.\n\n오르비스 우주항공청 공동관측심의회는 오르비스 표준시 7월 21일 오후 10:37 헬베티아 동맹 이레니아 국제관측구에서 근오르비스 소천체의 궤도가 중력만으로 설명되는 경로에서 벗어났고 장시간 합성영상에서 희미한 가스 분출 방향이 확인됐다고 발표했다.\n\n발표와 함께 확인된 관측·실험 기록은 다음과 같다. 오르비스 우주항공청은 근오르비스 소천체의 궤도가 중력만으로 설명되는 경로에서 벗어났고 장시간 합성영상에서 희미한 가스 분출 방향이 확인됐다고 발표했다.\n\n지역 사회는 관측 결과와 불확실성을 오르비스 전역의 연구기관과 시민에게 동시에 공개하는 것이 항로와 생활 공급에 어떤 변화를 만드는지 주시하고 있다. 오르비스 우주항공청은 “위험 경보가 아니라 분류가 달라질 수 있다는 관측 결과다”라고 말했다.\n\n연구진이 밝힌 한계는 현재 계산으로 오르비스 충돌 위험은 없으며 분출 성분도 아직 확인되지 않았다.\n\n다음 일정은 행성방위망이 다음 근접 시기에 분광 관측을 실시하고 궤도 오차 범위를 매주 갱신한다. 과학계는 원자료 공개와 다른 관측망의 독립 검증이 뒤따라야 한다고 강조했다. 해협헤럴드는 중앙의 발표보다 지역 항로와 주민 생활에 나타나는 결과를 먼저 확인한다.",
           "category": "space",
           "sourceEventIds": [
             "tick-00000056-oasi-discovery"
           ],
           "adultAnalysis": "심층 분석: . 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
-        },
-        {
-          "id": "orion-tick-00000057-prisma-economic-report-article-2",
-          "headline": "프리즘 경제관측소, 코레이아 경기 '정체' 진단…항로·연료 수송 점검",
-          "deck": "해협헤럴드는 경제 현안에서 지역 항로와 연료 공급에 번질 파장을 추적했다.",
-          "body": "해협 보호령이 보는 코레이아 공화국과의 현재 관계는 신뢰 71, 교역 의존 71, 군사 긴장 23다.\n\n프리즘 경제관측소 수석 경제관측관은 오르비스 표준시 7월 22일 오전 2:40 아우렐리아 프리즘 관측관에서 5개 분석실이 일일회의를 열어 경기 진단을 '정체' 단계로 정하고 위험 요인별 기여도를 공개했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 오르비스 AI연구원은 축전 기억소자와 광학 회로를 한 장의 회로에 올린 실험기가 빛의 세기와 파장을 조절하며 손글씨 분류 규칙을 현장에서 학습했다고 발표했다. 오르비스 AI연구원은 소형 뉴로모픽 반도체와 기억저항기를 결합한 펄스식 인공지능 장치가 불규칙하게 움직이는 모형 항공기의 다음 위치를 실시간으로 예측했다고 발표했다. 국제 결제망의 유동성 경색이 심화됐다. 오르비스 AI연구원은 서로 다른 빛깔에 반응하는 이미지 센서 배열이 별도의 영상 전송 없이 센서 표면에서 구름과 연기 신호를 구분했다고 발표했다.\n\n지역 사회는 코레이아 경제의 단기 위험을 수치와 사건 기록으로 분리해 시민과 정책 담당자에게 설명하는 것이 항로와 생활 공급에 어떤 변화를 만드는지 주시하고 있다. 프리즘 경제관측소는 “가장 큰 상승 요인은 대외·궤도 위험이며 단일 수치보다 40.2~74.4의 추정 범위를 함께 봐야 한다”라고 말했다.\n\n다음 일정은 다음 날 오전 3시 전일 전망 오차와 새 경제·외교 사건을 다시 검토한다. 정부는 국가 안전과 질서 유지를 우선 과제로 제시했다. 해협헤럴드는 중앙의 발표보다 지역 항로와 주민 생활에 나타나는 결과를 먼저 확인한다.",
-          "category": "economy",
-          "sourceEventIds": [
-            "tick-00000057-prisma-economic-report"
-          ],
-          "adultAnalysis": "심층 분석: . 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
-        },
-        {
-          "id": "orion-tick-00000058-event-31-article-3",
-          "headline": "헬베티아 동맹, 화하 왕국에 48시간 내 실무회담 제안…항로·연료 수송 주목",
-          "deck": "해협헤럴드는 외교 현안에서 지역 항로와 연료 공급에 번질 파장을 추적했다.",
-          "body": "해협 보호령이 보는 헬베티아 동맹과의 현재 관계는 신뢰 100, 교역 의존 50, 군사 긴장 7다.\n\n레온 엘리아 개혁야당 지도부는 오르비스 표준시 7월 22일 오전 4:08 이레니아에서 화하 왕국에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 궤도 감시망에서 미확인 항적이 포착됐다.\n\n화하 왕국 측은 별도 발표에서 헬베티아 동맹에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다.\n\n지역 사회는 화하 왕국과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것이 항로와 생활 공급에 어떤 변화를 만드는지 주시하고 있다. 레온 엘리아는 “상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다”라고 말했다.\n\n다음 일정은 화하 왕국의 답변을 받은 뒤 이레니아 외교회관에서 예비접촉 대표와 의제를 공개한다. 정부는 국가 안전과 질서 유지를 우선 과제로 제시했다. 해협헤럴드는 중앙의 발표보다 지역 항로와 주민 생활에 나타나는 결과를 먼저 확인한다.",
-          "category": "diplomacy",
-          "sourceEventIds": [
-            "tick-00000058-event-31"
-          ],
-          "adultAnalysis": "심층 분석: approval +1.01, publicAnxiety -1.34. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
-        },
-        {
-          "id": "orion-tick-00000058-event-17-article-4",
-          "headline": "알비온 공동체 의회, 책임자 7명 공개 청문회 추진…항로·연료 수송 주목",
-          "deck": "해협헤럴드는 정치 현안에서 지역 항로와 연료 공급에 번질 파장을 추적했다.",
-          "body": "해협 보호령이 보는 알비온 공동체와의 현재 관계는 신뢰 73, 교역 의존 57, 군사 긴장 1다.\n\n엘라 애쉬 민족전선 지도부는 오르비스 표준시 7월 22일 오전 3:56 그린위치 항에서 의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 궤도 감시망에서 미확인 항적이 포착됐다.\n\n지역 사회는 위기 대응 과정의 보고 누락과 의사결정 책임을 확인하는 것이 항로와 생활 공급에 어떤 변화를 만드는지 주시하고 있다. 엘라 애쉬는 “기밀을 이유로 정책 실패까지 감출 수는 없으며 공개 가능한 기록부터 확인하겠다”라고 말했다.\n\n다음 일정은 사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다. 정부는 국가 안전과 질서 유지를 우선 과제로 제시했다. 해협헤럴드는 중앙의 발표보다 지역 항로와 주민 생활에 나타나는 결과를 먼저 확인한다.",
-          "category": "politics",
-          "sourceEventIds": [
-            "tick-00000058-event-17"
-          ],
-          "adultAnalysis": "심층 분석: approval -0.62, publicAnxiety 0. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
         }
       ],
       "factIds": [
@@ -4065,49 +4112,49 @@
       "mastheadKo": "코레이아타임스",
       "mastheadNative": "Koreia Times",
       "editionType": "daily",
-      "leadHeadline": "코레이아 공화국 의회, 책임자 7명 공개 청문회 추진",
+      "leadHeadline": "코레이아 공화국, 추가 대응 표결 24시간 유보",
       "articles": [
         {
-          "id": "nova-tick-00000060-event-3-article-1",
-          "headline": "코레이아 공화국 의회, 책임자 7명 공개 청문회 추진",
+          "id": "nova-tick-00000059-event-4-article-1",
+          "headline": "코레이아 공화국, 추가 대응 표결 24시간 유보",
           "deck": "코레이아타임스는 정치 현안에서 정부 설명의 책임 소재와 공개 일정을 확인했다.",
-          "body": "엘라 카이 도시 직장인 대표는 오르비스 표준시 7월 22일 오전 10:08 아우렐리아에서 의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 코레이아타임스 보도 뒤 코레이아 공화국의 독자 반응 지표가 갱신됐다.\n\n정부는 위기 대응 과정의 보고 누락과 의사결정 책임을 확인하는 것을 이번 조치의 핵심 과제로 제시했다. 엘라 카이는 “기밀을 이유로 정책 실패까지 감출 수는 없으며 공개 가능한 기록부터 확인하겠다”라고 말했다.\n\n다음 일정은 사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 코레이아타임스는 발표 내용이 실제 일정과 기록으로 확인되는지 계속 점검한다.",
+          "body": "이반 코르빈 대표 언론사 편집국은 오르비스 표준시 7월 22일 오전 8:08 아우렐리아에서 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다.\n\n이번 조치의 배경에는 다음 공개 사건이 있다. 수도권에서 물가 안정과 평화를 요구하는 집회가 열렸다.\n\n정부는 정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것을 이번 조치의 핵심 과제로 제시했다. 이반 코르빈은 “행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다”라고 말했다.\n\n다음 일정은 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 코레이아타임스는 발표 내용이 실제 일정과 기록으로 확인되는지 계속 점검한다.",
           "category": "politics",
           "sourceEventIds": [
-            "tick-00000060-event-3"
+            "tick-00000059-event-4"
           ],
-          "adultAnalysis": "심층 분석: approval -0.96, publicAnxiety 0. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+          "adultAnalysis": "심층 분석: approval -0.4, publicAnxiety +0.5. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
         },
         {
-          "id": "nova-tick-00000060-event-2-article-2",
-          "headline": "코레이아 공화국, 헬베티아 동맹에 48시간 내 실무회담 제안",
+          "id": "nova-tick-00000054-event-3-article-2",
+          "headline": "코레이아 공화국, 아메리아 연방에 48시간 내 실무회담 제안",
           "deck": "코레이아타임스는 외교 현안에서 정부 설명의 책임 소재와 공개 일정을 확인했다.",
-          "body": "마르코 벨로 노동·시민연대는 오르비스 표준시 7월 22일 오전 10:14 아우렐리아에서 헬베티아 동맹에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 코레이아타임스 보도 뒤 코레이아 공화국의 독자 반응 지표가 갱신됐다.\n\n정부는 헬베티아 동맹과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것을 이번 조치의 핵심 과제로 제시했다. 마르코 벨로는 “상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다”라고 말했다.\n\n헬베티아 동맹 측은 별도 발표에서 코레이아 공화국에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다.\n\n다음 일정은 헬베티아 동맹의 답변을 받은 뒤 아우렐리아 외교회관에서 예비접촉 대표와 의제를 공개한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 코레이아타임스는 발표 내용이 실제 일정과 기록으로 확인되는지 계속 점검한다.",
+          "body": "레온 아벨 국가 지도자는 오르비스 표준시 7월 21일 오후 4:40 아우렐리아에서 아메리아 연방에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다.\n\n정부는 아메리아 연방과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것을 이번 조치의 핵심 과제로 제시했다. 레온 아벨은 “상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다”라고 말했다.\n\n아메리아 연방 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다.\n\n다음 일정은 아메리아 연방의 답변을 받은 뒤 아우렐리아 외교회관에서 예비접촉 대표와 의제를 공개한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 코레이아타임스는 발표 내용이 실제 일정과 기록으로 확인되는지 계속 점검한다.",
           "category": "diplomacy",
           "sourceEventIds": [
-            "tick-00000060-event-2"
+            "tick-00000054-event-3"
           ],
-          "adultAnalysis": "심층 분석: approval +0.17, publicAnxiety -0.6. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+          "adultAnalysis": "심층 분석: approval +1.27, publicAnxiety -0.72. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
         },
         {
-          "id": "nova-tick-00000060-event-5-article-3",
-          "headline": "코레이아 공화국, 하루 두 차례 위기 합동브리핑",
-          "deck": "코레이아타임스는 사회 현안에서 정부 설명의 책임 소재와 공개 일정을 확인했다.",
-          "body": "레온 아벨 국가 지도자는 오르비스 표준시 7월 22일 오전 9:18 아우렐리아에서 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 코레이아타임스 보도 뒤 코레이아 공화국의 독자 반응 지표가 갱신됐다.\n\n정부는 정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것을 이번 조치의 핵심 과제로 제시했다. 레온 아벨은 “확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라”라고 말했다.\n\n다음 일정은 첫 합동 브리핑은 이날 오후 아우렐리아 중앙기록관에서 열린다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 코레이아타임스는 발표 내용이 실제 일정과 기록으로 확인되는지 계속 점검한다.",
-          "category": "society",
-          "sourceEventIds": [
-            "tick-00000060-event-5"
-          ],
-          "adultAnalysis": "심층 분석: approval +2.07, publicAnxiety -0.04. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
-        },
-        {
-          "id": "nova-tick-00000057-prisma-economic-report-article-4",
-          "headline": "프리즘 경제관측소, 코레이아 경기 '정체' 진단",
+          "id": "nova-tick-00000060-marevia-blueharbor-news-article-3",
+          "headline": "블루하버 물류연합, 자동화 항만 통관망 단계적 개방…정부 대응·공개 일정 주목",
           "deck": "코레이아타임스는 경제 현안에서 정부 설명의 책임 소재와 공개 일정을 확인했다.",
-          "body": "프리즘 경제관측소 수석 경제관측관은 오르비스 표준시 7월 22일 오전 2:40 아우렐리아 프리즘 관측관에서 5개 분석실이 일일회의를 열어 경기 진단을 '정체' 단계로 정하고 위험 요인별 기여도를 공개했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 오르비스 AI연구원은 축전 기억소자와 광학 회로를 한 장의 회로에 올린 실험기가 빛의 세기와 파장을 조절하며 손글씨 분류 규칙을 현장에서 학습했다고 발표했다. 오르비스 AI연구원은 소형 뉴로모픽 반도체와 기억저항기를 결합한 펄스식 인공지능 장치가 불규칙하게 움직이는 모형 항공기의 다음 위치를 실시간으로 예측했다고 발표했다. 국제 결제망의 유동성 경색이 심화됐다. 오르비스 AI연구원은 서로 다른 빛깔에 반응하는 이미지 센서 배열이 별도의 영상 전송 없이 센서 표면에서 구름과 연기 신호를 구분했다고 발표했다.\n\n정부는 코레이아 경제의 단기 위험을 수치와 사건 기록으로 분리해 시민과 정책 담당자에게 설명하는 것을 이번 조치의 핵심 과제로 제시했다. 프리즘 경제관측소는 “가장 큰 상승 요인은 대외·궤도 위험이며 단일 수치보다 40.2~74.4의 추정 범위를 함께 봐야 한다”라고 말했다.\n\n다음 일정은 다음 날 오전 3시 전일 전망 오차와 새 경제·외교 사건을 다시 검토한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 코레이아타임스는 발표 내용이 실제 일정과 기록으로 확인되는지 계속 점검한다.",
+          "body": "블루하버 물류연합 운영위원회는 오르비스 표준시 7월 22일 오전 11:24 포르토 셀레네 자유항에서 선박 입항, 화물 검사, 궤도 화물 환적 일정을 한 장부에서 확인하는 통관망을 단계적으로 개방했다.\n\n이번 조치의 배경에는 다음 공개 사건이 있다. 블루하버 물류연합가 선박 입항, 화물 검사, 궤도 화물 환적 일정을 한 장부에서 확인하는 통관망을 단계적으로 개방했다.\n\n정부는 해협 물류의 대기 시간과 중복 서류를 줄이는 것을 이번 조치의 핵심 과제로 제시했다. 블루하버 물류연합은 “빠른 항구보다 지연 사유를 모두가 확인할 수 있는 항구가 경쟁력을 만든다”라고 말했다.\n\n코레이아 공화국이 보는 아드리아 연합과의 현재 관계는 신뢰 93, 교역 의존 50, 군사 긴장 26다.\n\n연구진이 밝힌 한계는 중소 운송사의 전산 전환 비용과 사고 책임 기준은 합의되지 않았다.\n\n다음 일정은 한 달 동안 세 항만의 평균 대기 시간을 공개한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 코레이아타임스는 발표 내용이 실제 일정과 기록으로 확인되는지 계속 점검한다.",
           "category": "economy",
           "sourceEventIds": [
-            "tick-00000057-prisma-economic-report"
+            "tick-00000060-marevia-blueharbor-news"
+          ],
+          "adultAnalysis": "심층 분석: . 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+        },
+        {
+          "id": "nova-tick-00000052-prisma-economic-report-article-4",
+          "headline": "프리즘 경제관측소, 코레이아 경기 '정체' 진단",
+          "deck": "코레이아타임스는 경제 현안에서 정부 설명의 책임 소재와 공개 일정을 확인했다.",
+          "body": "프리즘 경제관측소 수석 경제관측관은 오르비스 표준시 7월 21일 오전 9:50 아우렐리아 프리즘 관측관에서 5개 분석실이 일일회의를 열어 경기 진단을 '정체' 단계로 정하고 위험 요인별 기여도를 공개했다.\n\n이번 조치의 배경에는 다음 공개 사건이 있다. 오르비스 AI연구원은 서로 다른 빛깔에 반응하는 이미지 센서 배열이 별도의 영상 전송 없이 센서 표면에서 구름과 연기 신호를 구분했다고 발표했다. 오르비스 AI연구원은 연구진이 4천96개의 저항변화 메모리 소자를 격자로 묶어 숫자를 기억한 자리에서 곧바로 행렬 계산을 수행하는 AI 연산판을 공개했다고 발표했다. 중립국의 다자 회담 제안이 각국에 전달됐다. 오르비스 AI연구원은 축전 기억소자와 광학 회로를 한 장의 회로에 올린 실험기가 빛의 세기와 파장을 조절하며 손글씨 분류 규칙을 현장에서 학습했다고 발표했다.\n\n정부는 코레이아 경제의 단기 위험을 수치와 사건 기록으로 분리해 시민과 정책 담당자에게 설명하는 것을 이번 조치의 핵심 과제로 제시했다. 프리즘 경제관측소는 “가장 큰 상승 요인은 대외·궤도 위험이며 단일 수치보다 38.7~73.7의 추정 범위를 함께 봐야 한다”라고 말했다.\n\n다음 일정은 다음 날 오전 3시 전일 전망 오차와 새 경제·외교 사건을 다시 검토한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 코레이아타임스는 발표 내용이 실제 일정과 기록으로 확인되는지 계속 점검한다.",
+          "category": "economy",
+          "sourceEventIds": [
+            "tick-00000052-prisma-economic-report"
           ],
           "adultAnalysis": "심층 분석: . 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
         }
@@ -4142,46 +4189,46 @@
       "mastheadKo": "아메리아포스트",
       "mastheadNative": "Ameria Post",
       "editionType": "daily",
-      "leadHeadline": "아메리아 연방, 화하 왕국에 수송선 3척·의료단 파견",
+      "leadHeadline": "아메리아 연방, 헬베티아 동맹에 48시간 내 실무회담 제안",
       "articles": [
         {
-          "id": "vesper-tick-00000060-event-10-article-1",
-          "headline": "아메리아 연방, 화하 왕국에 수송선 3척·의료단 파견",
+          "id": "vesper-tick-00000059-event-8-article-1",
+          "headline": "아메리아 연방, 헬베티아 동맹에 48시간 내 실무회담 제안",
           "deck": "아메리아포스트는 외교 현안에서 안보 태세와 산업 공급망의 대응 여력을 따져봤다.",
-          "body": "미라 발렌 국가 지도자는 오르비스 표준시 7월 22일 오전 10:28 벨라트리스에서 화하 왕국에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다.\n\n화하 왕국 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다.\n\n당국은 화하 왕국의 필수 연료와 의료품 부족을 막고 항만 지역의 불안을 낮추는 것에 대응 역량을 집중하겠다고 밝혔다. 미라 발렌은 “이번 지원은 군사적 개입이 아니라 주민 생활과 민간 운송망을 지키기 위한 조치다”라고 말했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 아메리아포스트 보도 뒤 아메리아 연방의 독자 반응 지표가 갱신됐다. 화하데일리 보도 뒤 화하 왕국의 독자 반응 지표가 갱신됐다.\n\n다음 일정은 화하 왕국이 접안 안전을 보장하면 첫 수송선이 다음 날 오전 벨라트리스 궤도항을 출발한다. 정부는 국가 안전과 질서 유지를 우선 과제로 제시했다. 아메리아포스트는 당국의 대응 능력과 산업 현장의 준비 수준을 후속 보도한다.",
+          "body": "이반 크루거 국방부·우주사령부 대변인은 오르비스 표준시 7월 22일 오전 6:20 벨라트리스에서 헬베티아 동맹에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다.\n\n헬베티아 동맹 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다.\n\n당국은 헬베티아 동맹과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것에 대응 역량을 집중하겠다고 밝혔다. 이반 크루거는 “상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다”라고 말했다.\n\n이번 조치의 배경에는 다음 공개 사건이 있다. 수도권에서 물가 안정과 평화를 요구하는 집회가 열렸다.\n\n다음 일정은 헬베티아 동맹의 답변을 받은 뒤 벨라트리스 외교회관에서 예비접촉 대표와 의제를 공개한다. 정부는 국가 안전과 질서 유지를 우선 과제로 제시했다. 아메리아포스트는 당국의 대응 능력과 산업 현장의 준비 수준을 후속 보도한다.",
           "category": "diplomacy",
           "sourceEventIds": [
-            "tick-00000060-event-10"
+            "tick-00000059-event-8"
           ],
-          "adultAnalysis": "심층 분석: reserves 0, approval +1.04. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+          "adultAnalysis": "심층 분석: approval -0.54, publicAnxiety -0.59. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
         },
         {
-          "id": "vesper-tick-00000060-event-7-article-2",
-          "headline": "아메리아 연방 의회, 책임자 7명 공개 청문회 추진",
-          "deck": "아메리아포스트는 정치 현안에서 안보 태세와 산업 공급망의 대응 여력을 따져봤다.",
-          "body": "엘라 슈타인 노동·시민연대는 오르비스 표준시 7월 22일 오전 11:04 벨라트리스에서 의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다.\n\n당국은 위기 대응 과정의 보고 누락과 의사결정 책임을 확인하는 것에 대응 역량을 집중하겠다고 밝혔다. 엘라 슈타인은 “기밀을 이유로 정책 실패까지 감출 수는 없으며 공개 가능한 기록부터 확인하겠다”라고 말했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 아메리아포스트 보도 뒤 아메리아 연방의 독자 반응 지표가 갱신됐다.\n\n다음 일정은 사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다. 정부는 국가 안전과 질서 유지를 우선 과제로 제시했다. 아메리아포스트는 당국의 대응 능력과 산업 현장의 준비 수준을 후속 보도한다.",
-          "category": "politics",
+          "id": "vesper-tick-00000060-marevia-blueharbor-news-article-2",
+          "headline": "블루하버 물류연합, 자동화 항만 통관망 단계적 개방…안보·산업 영향 주목",
+          "deck": "아메리아포스트는 경제 현안에서 안보 태세와 산업 공급망의 대응 여력을 따져봤다.",
+          "body": "블루하버 물류연합 운영위원회는 오르비스 표준시 7월 22일 오전 11:24 포르토 셀레네 자유항에서 선박 입항, 화물 검사, 궤도 화물 환적 일정을 한 장부에서 확인하는 통관망을 단계적으로 개방했다.\n\n아메리아 연방이 보는 아드리아 연합과의 현재 관계는 신뢰 48, 교역 의존 36, 군사 긴장 53다.\n\n당국은 해협 물류의 대기 시간과 중복 서류를 줄이는 것에 대응 역량을 집중하겠다고 밝혔다. 블루하버 물류연합은 “빠른 항구보다 지연 사유를 모두가 확인할 수 있는 항구가 경쟁력을 만든다”라고 말했다.\n\n이번 조치의 배경에는 다음 공개 사건이 있다. 블루하버 물류연합가 선박 입항, 화물 검사, 궤도 화물 환적 일정을 한 장부에서 확인하는 통관망을 단계적으로 개방했다.\n\n다음 일정은 한 달 동안 세 항만의 평균 대기 시간을 공개한다. 정부는 국가 안전과 질서 유지를 우선 과제로 제시했다. 아메리아포스트는 당국의 대응 능력과 산업 현장의 준비 수준을 후속 보도한다.\n\n연구진이 밝힌 한계는 중소 운송사의 전산 전환 비용과 사고 책임 기준은 합의되지 않았다.",
+          "category": "economy",
           "sourceEventIds": [
-            "tick-00000060-event-7"
+            "tick-00000060-marevia-blueharbor-news"
           ],
-          "adultAnalysis": "심층 분석: approval +0.89, publicAnxiety -0.48. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+          "adultAnalysis": "심층 분석: . 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
         },
         {
-          "id": "vesper-tick-00000060-event-6-article-3",
-          "headline": "아메리아 연방, 동방 인민공화국에 수송선 3척·의료단 파견",
+          "id": "vesper-tick-00000056-event-1-article-3",
+          "headline": "코레이아 공화국, 아메리아 연방에 수송선 3척·의료단 파견…안보·산업 영향 주목",
           "deck": "아메리아포스트는 외교 현안에서 안보 태세와 산업 공급망의 대응 여력을 따져봤다.",
-          "body": "마르코 베른 산업협회 대표는 오르비스 표준시 7월 22일 오전 9:21 벨라트리스에서 동방 인민공화국에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다.\n\n동방 인민공화국 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다.\n\n당국은 동방 인민공화국의 필수 연료와 의료품 부족을 막고 항만 지역의 불안을 낮추는 것에 대응 역량을 집중하겠다고 밝혔다. 마르코 베른은 “이번 지원은 군사적 개입이 아니라 주민 생활과 민간 운송망을 지키기 위한 조치다”라고 말했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 소행성 연료 채굴선의 귀환 일정이 지연됐다. 아메리아포스트 보도 뒤 아메리아 연방의 독자 반응 지표가 갱신됐다. 동방뉴스 보도 뒤 동방 인민공화국의 독자 반응 지표가 갱신됐다.\n\n다음 일정은 동방 인민공화국이 접안 안전을 보장하면 첫 수송선이 다음 날 오전 벨라트리스 궤도항을 출발한다. 정부는 국가 안전과 질서 유지를 우선 과제로 제시했다. 아메리아포스트는 당국의 대응 능력과 산업 현장의 준비 수준을 후속 보도한다.",
+          "body": "레온 아벨 외교부 대변인은 오르비스 표준시 7월 21일 오후 10:14 아우렐리아에서 아메리아 연방에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다.\n\n아메리아 연방이 보는 코레이아 공화국과의 현재 관계는 신뢰 54, 교역 의존 50, 군사 긴장 69다.\n\n아메리아 연방 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다.\n\n당국은 아메리아 연방의 필수 연료와 의료품 부족을 막고 항만 지역의 불안을 낮추는 것에 대응 역량을 집중하겠다고 밝혔다. 레온 아벨은 “이번 지원은 군사적 개입이 아니라 주민 생활과 민간 운송망을 지키기 위한 조치다”라고 말했다.\n\n이번 조치의 배경에는 다음 공개 사건이 있다. 국제 결제망의 유동성 경색이 심화됐다.\n\n다음 일정은 아메리아 연방이 접안 안전을 보장하면 첫 수송선이 다음 날 오전 아우렐리아 궤도항을 출발한다. 정부는 국가 안전과 질서 유지를 우선 과제로 제시했다. 아메리아포스트는 당국의 대응 능력과 산업 현장의 준비 수준을 후속 보도한다.",
           "category": "diplomacy",
           "sourceEventIds": [
-            "tick-00000060-event-6"
+            "tick-00000056-event-1"
           ],
-          "adultAnalysis": "심층 분석: reserves 0, approval +0.88. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+          "adultAnalysis": "심층 분석: reserves -1.6, approval +0.5. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
         },
         {
           "id": "vesper-tick-00000056-oasi-discovery-article-4",
           "headline": "오르비스 우주항공청, 무꼬리 소천체에서 미약한 가스 분출…'암흑혜성' 후보…안보·산업 영향 점검",
           "deck": "아메리아포스트는 우주 현안에서 안보 태세와 산업 공급망의 대응 여력을 따져봤다.",
-          "body": "오르비스 우주항공청 공동관측심의회는 오르비스 표준시 7월 21일 오후 10:37 헬베티아 동맹 이레니아 국제관측구에서 근오르비스 소천체의 궤도가 중력만으로 설명되는 경로에서 벗어났고 장시간 합성영상에서 희미한 가스 분출 방향이 확인됐다고 발표했다.\n\n아메리아 연방이 보는 코레이아 공화국과의 현재 관계는 신뢰 54, 교역 의존 50, 군사 긴장 69다.\n\n당국은 관측 결과와 불확실성을 오르비스 전역의 연구기관과 시민에게 동시에 공개하는 것에 대응 역량을 집중하겠다고 밝혔다. 오르비스 우주항공청은 “위험 경보가 아니라 분류가 달라질 수 있다는 관측 결과다”라고 말했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 오르비스 우주항공청은 근오르비스 소천체의 궤도가 중력만으로 설명되는 경로에서 벗어났고 장시간 합성영상에서 희미한 가스 분출 방향이 확인됐다고 발표했다.\n\n다음 일정은 행성방위망이 다음 근접 시기에 분광 관측을 실시하고 궤도 오차 범위를 매주 갱신한다. 과학계는 원자료 공개와 다른 관측망의 독립 검증이 뒤따라야 한다고 강조했다. 아메리아포스트는 당국의 대응 능력과 산업 현장의 준비 수준을 후속 보도한다.\n\n연구진이 밝힌 한계는 현재 계산으로 오르비스 충돌 위험은 없으며 분출 성분도 아직 확인되지 않았다.",
+          "body": "오르비스 우주항공청 공동관측심의회는 오르비스 표준시 7월 21일 오후 10:37 헬베티아 동맹 이레니아 국제관측구에서 근오르비스 소천체의 궤도가 중력만으로 설명되는 경로에서 벗어났고 장시간 합성영상에서 희미한 가스 분출 방향이 확인됐다고 발표했다.\n\n아메리아 연방이 보는 코레이아 공화국과의 현재 관계는 신뢰 54, 교역 의존 50, 군사 긴장 69다.\n\n당국은 관측 결과와 불확실성을 오르비스 전역의 연구기관과 시민에게 동시에 공개하는 것에 대응 역량을 집중하겠다고 밝혔다. 오르비스 우주항공청은 “위험 경보가 아니라 분류가 달라질 수 있다는 관측 결과다”라고 말했다.\n\n발표와 함께 확인된 관측·실험 기록은 다음과 같다. 오르비스 우주항공청은 근오르비스 소천체의 궤도가 중력만으로 설명되는 경로에서 벗어났고 장시간 합성영상에서 희미한 가스 분출 방향이 확인됐다고 발표했다.\n\n다음 일정은 행성방위망이 다음 근접 시기에 분광 관측을 실시하고 궤도 오차 범위를 매주 갱신한다. 과학계는 원자료 공개와 다른 관측망의 독립 검증이 뒤따라야 한다고 강조했다. 아메리아포스트는 당국의 대응 능력과 산업 현장의 준비 수준을 후속 보도한다.\n\n연구진이 밝힌 한계는 현재 계산으로 오르비스 충돌 위험은 없으며 분출 성분도 아직 확인되지 않았다.",
           "category": "space",
           "sourceEventIds": [
             "tick-00000056-oasi-discovery"
@@ -4219,51 +4266,51 @@
       "mastheadKo": "화하데일리",
       "mastheadNative": "Huaxia Daily",
       "editionType": "daily",
-      "leadHeadline": "화하 왕국 의회, 책임자 7명 공개 청문회 추진",
+      "leadHeadline": "크라운 궤도통신, 해양통신 소형위성 첫 편대 운용…기술 검증·에너지 영향 주목",
       "articles": [
         {
-          "id": "helion-tick-00000060-event-14-article-1",
-          "headline": "화하 왕국 의회, 책임자 7명 공개 청문회 추진",
-          "deck": "화하데일리는 정치 현안에서 측정 자료와 재현 시험이 남긴 검증 과정을 살폈다.",
-          "body": "이번 발표에 앞서 다음 사실이 공개됐다. 화하데일리 보도 뒤 화하 왕국의 독자 반응 지표가 갱신됐다.\n\n미라 자라 항만·공업지역 대표는 오르비스 표준시 7월 22일 오전 11:01 솔 인빅타에서 의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다.\n\n공개된 설명은 위기 대응 과정의 보고 누락과 의사결정 책임을 확인하는 것을 검증 과제로 삼았다. 미라 자라는 “기밀을 이유로 정책 실패까지 감출 수는 없으며 공개 가능한 기록부터 확인하겠다”라고 말했다.\n\n다음 일정은 사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 화하데일리는 수치가 독립 관측과 반복 실험에서도 재현되는지 확인한다.",
-          "category": "politics",
+          "id": "helion-tick-00000059-aster-crown-orbit-news-article-1",
+          "headline": "크라운 궤도통신, 해양통신 소형위성 첫 편대 운용…기술 검증·에너지 영향 주목",
+          "deck": "화하데일리는 우주 현안에서 측정 자료와 재현 시험이 남긴 검증 과정을 살폈다.",
+          "body": "발표와 함께 확인된 관측·실험 기록은 다음과 같다. 크라운 궤도통신가 해양 조난신호와 상선 통신을 중계하는 소형위성 6기의 편대 운용을 시작했다.\n\n연구진이 밝힌 한계는 폭풍대와 고위도 해역의 통신 품질은 아직 충분히 검증되지 않았다.\n\n크라운 궤도통신 기술책임자는 오르비스 표준시 7월 22일 오전 6:12 그린위치 항 위성부두에서 해양 조난신호와 상선 통신을 중계하는 소형위성 6기의 편대 운용을 시작했다.\n\n공개된 설명은 먼바다 통신 공백과 구조 요청 전달 시간을 줄이는 것을 검증 과제로 삼았다. 크라운 궤도통신은 “위성 수보다 바다에서 끊기지 않는 연결이 성과의 기준이다”라고 말했다.\n\n화하 왕국이 보는 알비온 공동체와의 현재 관계는 신뢰 64, 교역 의존 78, 군사 긴장 0다.\n\n다음 일정은 공동의회 통신위원회에 12주 운용 기록을 제출한다. 과학계는 원자료 공개와 다른 관측망의 독립 검증이 뒤따라야 한다고 강조했다. 화하데일리는 수치가 독립 관측과 반복 실험에서도 재현되는지 확인한다.",
+          "category": "space",
           "sourceEventIds": [
-            "tick-00000060-event-14"
-          ],
-          "adultAnalysis": "심층 분석: approval 0, publicAnxiety 0. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
-        },
-        {
-          "id": "helion-tick-00000060-event-13-article-2",
-          "headline": "화하 왕국 의회, 책임자 7명 공개 청문회 추진",
-          "deck": "화하데일리는 정치 현안에서 측정 자료와 재현 시험이 남긴 검증 과정을 살폈다.",
-          "body": "이번 발표에 앞서 다음 사실이 공개됐다. 화하데일리 보도 뒤 화하 왕국의 독자 반응 지표가 갱신됐다.\n\n레온 타릭 도시 직장인 대표는 오르비스 표준시 7월 22일 오전 9:41 솔 인빅타에서 의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다.\n\n공개된 설명은 위기 대응 과정의 보고 누락과 의사결정 책임을 확인하는 것을 검증 과제로 삼았다. 레온 타릭은 “기밀을 이유로 정책 실패까지 감출 수는 없으며 공개 가능한 기록부터 확인하겠다”라고 말했다.\n\n다음 일정은 사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 화하데일리는 수치가 독립 관측과 반복 실험에서도 재현되는지 확인한다.",
-          "category": "politics",
-          "sourceEventIds": [
-            "tick-00000060-event-13"
-          ],
-          "adultAnalysis": "심층 분석: approval 0, publicAnxiety 0. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
-        },
-        {
-          "id": "helion-tick-00000060-event-10-article-3",
-          "headline": "아메리아 연방, 화하 왕국에 수송선 3척·의료단 파견…기술 검증·에너지 영향 주목",
-          "deck": "화하데일리는 외교 현안에서 측정 자료와 재현 시험이 남긴 검증 과정을 살폈다.",
-          "body": "이번 발표에 앞서 다음 사실이 공개됐다. 아메리아포스트 보도 뒤 아메리아 연방의 독자 반응 지표가 갱신됐다. 화하데일리 보도 뒤 화하 왕국의 독자 반응 지표가 갱신됐다.\n\n미라 발렌 국가 지도자는 오르비스 표준시 7월 22일 오전 10:28 벨라트리스에서 화하 왕국에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다.\n\n공개된 설명은 화하 왕국의 필수 연료와 의료품 부족을 막고 항만 지역의 불안을 낮추는 것을 검증 과제로 삼았다. 미라 발렌은 “이번 지원은 군사적 개입이 아니라 주민 생활과 민간 운송망을 지키기 위한 조치다”라고 말했다.\n\n화하 왕국 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다.\n\n화하 왕국이 보는 아메리아 연방과의 현재 관계는 신뢰 100, 교역 의존 66, 군사 긴장 46다.\n\n다음 일정은 화하 왕국이 접안 안전을 보장하면 첫 수송선이 다음 날 오전 벨라트리스 궤도항을 출발한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 화하데일리는 수치가 독립 관측과 반복 실험에서도 재현되는지 확인한다.",
-          "category": "diplomacy",
-          "sourceEventIds": [
-            "tick-00000060-event-10"
-          ],
-          "adultAnalysis": "심층 분석: reserves 0, approval +1.04. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
-        },
-        {
-          "id": "helion-tick-00000060-aic-discovery-article-4",
-          "headline": "오르비스 AI연구원, 빛으로 학습하는 광학 AI 가속기 첫 시연…기술 검증·에너지 영향 점검",
-          "deck": "화하데일리는 과학 현안에서 측정 자료와 재현 시험이 남긴 검증 과정을 살폈다.",
-          "body": "이번 발표에 앞서 다음 사실이 공개됐다. 오르비스 AI연구원은 메모리 소자와 광학 회로를 한 장의 칩에 올린 실험기가 빛의 세기와 파장을 조절하며 손글씨 분류 규칙을 현장에서 학습했다고 발표했다.\n\n연구진이 밝힌 한계는 실험 문제의 규모가 작고 광원 흔들림과 소자 편차가 커 대형 연산기로 확대할 수 있는지는 확인되지 않았다.\n\n오르비스 AI연구원 연구검증위원회는 오르비스 표준시 7월 22일 오전 10:58 코레이아 공화국 세라노 계산과학구에서 메모리 소자와 광학 회로를 한 장의 칩에 올린 실험기가 빛의 세기와 파장을 조절하며 손글씨 분류 규칙을 현장에서 학습했다고 발표했다.\n\n공개된 설명은 AI 반도체와 차세대 컴퓨팅 기술의 성능·전력·한계를 시민과 연구기관이 함께 검증하게 하는 것을 검증 과제로 삼았다. 오르비스 AI연구원은 “빛이 답만 계산한 것이 아니라 틀린 답을 되짚어 회로의 가중치를 고쳤다는 점이 핵심이다”라고 말했다.\n\n화하 왕국이 보는 코레이아 공화국과의 현재 관계는 신뢰 91, 교역 의존 43, 군사 긴장 23다.\n\n다음 일정은 공개 시험실에서 온도를 달리한 재현 실험과 전자식 AI 가속기와의 전력 비교를 실시한다. 과학계는 공개 회로도와 반복 실험 자료를 검토한 뒤 성능·전력 수치를 독립적으로 재현해야 한다고 밝혔다. 화하데일리는 수치가 독립 관측과 반복 실험에서도 재현되는지 확인한다.",
-          "category": "science",
-          "sourceEventIds": [
-            "tick-00000060-aic-discovery"
+            "tick-00000059-aster-crown-orbit-news"
           ],
           "adultAnalysis": "심층 분석: . 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+        },
+        {
+          "id": "helion-tick-00000056-oasi-discovery-article-2",
+          "headline": "오르비스 우주항공청, 무꼬리 소천체에서 미약한 가스 분출…'암흑혜성' 후보…기술 검증·에너지 영향 점검",
+          "deck": "화하데일리는 우주 현안에서 측정 자료와 재현 시험이 남긴 검증 과정을 살폈다.",
+          "body": "발표와 함께 확인된 관측·실험 기록은 다음과 같다. 오르비스 우주항공청은 근오르비스 소천체의 궤도가 중력만으로 설명되는 경로에서 벗어났고 장시간 합성영상에서 희미한 가스 분출 방향이 확인됐다고 발표했다.\n\n연구진이 밝힌 한계는 현재 계산으로 오르비스 충돌 위험은 없으며 분출 성분도 아직 확인되지 않았다.\n\n오르비스 우주항공청 공동관측심의회는 오르비스 표준시 7월 21일 오후 10:37 헬베티아 동맹 이레니아 국제관측구에서 근오르비스 소천체의 궤도가 중력만으로 설명되는 경로에서 벗어났고 장시간 합성영상에서 희미한 가스 분출 방향이 확인됐다고 발표했다.\n\n공개된 설명은 관측 결과와 불확실성을 오르비스 전역의 연구기관과 시민에게 동시에 공개하는 것을 검증 과제로 삼았다. 오르비스 우주항공청은 “위험 경보가 아니라 분류가 달라질 수 있다는 관측 결과다”라고 말했다.\n\n화하 왕국이 보는 코레이아 공화국과의 현재 관계는 신뢰 91, 교역 의존 43, 군사 긴장 23다.\n\n다음 일정은 행성방위망이 다음 근접 시기에 분광 관측을 실시하고 궤도 오차 범위를 매주 갱신한다. 과학계는 원자료 공개와 다른 관측망의 독립 검증이 뒤따라야 한다고 강조했다. 화하데일리는 수치가 독립 관측과 반복 실험에서도 재현되는지 확인한다.",
+          "category": "space",
+          "sourceEventIds": [
+            "tick-00000056-oasi-discovery"
+          ],
+          "adultAnalysis": "심층 분석: . 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+        },
+        {
+          "id": "helion-tick-00000059-event-13-article-3",
+          "headline": "화하 왕국, 추가 대응 표결 24시간 유보",
+          "deck": "화하데일리는 정치 현안에서 측정 자료와 재현 시험이 남긴 검증 과정을 살폈다.",
+          "body": "셀레네 아몬 국방부·우주사령부 대변인은 오르비스 표준시 7월 22일 오전 7:28 솔 인빅타에서 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다.\n\n공개된 설명은 정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것을 검증 과제로 삼았다. 셀레네 아몬은 “행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다”라고 말했다.\n\n다음 일정은 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 화하데일리는 수치가 독립 관측과 반복 실험에서도 재현되는지 확인한다.",
+          "category": "politics",
+          "sourceEventIds": [
+            "tick-00000059-event-13"
+          ],
+          "adultAnalysis": "심층 분석: approval -0.4, publicAnxiety +0.5. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+        },
+        {
+          "id": "helion-tick-00000050-event-11-article-4",
+          "headline": "화하 왕국, 아메리아 연방에 수송선 3척·의료단 파견",
+          "deck": "화하데일리는 외교 현안에서 측정 자료와 재현 시험이 남긴 검증 과정을 살폈다.",
+          "body": "도리아 세티 대표 언론사 편집국은 오르비스 표준시 7월 21일 오전 4:36 솔 인빅타에서 아메리아 연방에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다.\n\n공개된 설명은 아메리아 연방의 필수 연료와 의료품 부족을 막고 항만 지역의 불안을 낮추는 것을 검증 과제로 삼았다. 도리아 세티는 “이번 지원은 군사적 개입이 아니라 주민 생활과 민간 운송망을 지키기 위한 조치다”라고 말했다.\n\n아메리아 연방 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다.\n\n다음 일정은 아메리아 연방이 접안 안전을 보장하면 첫 수송선이 다음 날 오전 솔 인빅타 궤도항을 출발한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 화하데일리는 수치가 독립 관측과 반복 실험에서도 재현되는지 확인한다.",
+          "category": "diplomacy",
+          "sourceEventIds": [
+            "tick-00000050-event-11"
+          ],
+          "adultAnalysis": "심층 분석: reserves -1.5, approval +1. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
         }
       ],
       "factIds": [
@@ -4302,7 +4349,7 @@
           "id": "aster-tick-00000060-event-16-article-1",
           "headline": "알비온 공동체, 추가 대응 표결 24시간 유보",
           "deck": "알비온저널은 정치 현안에서 의회가 공개적으로 물어야 할 절차를 추렸다.",
-          "body": "테오 클라크 산업협회 대표는 오르비스 표준시 7월 22일 오전 10:21 그린위치 항에서 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다.\n\n의회가 확인할 핵심은 정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것이 실제 절차로 이어지는지다. 테오 클라크는 “행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다”라고 말했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 알비온저널 보도 뒤 알비온 공동체의 독자 반응 지표가 갱신됐다.\n\n다음 일정은 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다. 시장 참가자들은 정책의 투명성과 예측 가능성을 요구했다. 알비온저널은 합의 과정과 책임자의 답변이 의회 기록에 남는지 살핀다.",
+          "body": "테오 클라크 산업협회 대표는 오르비스 표준시 7월 22일 오전 10:21 그린위치 항에서 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다.\n\n의회가 확인할 핵심은 정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것이 실제 절차로 이어지는지다. 테오 클라크는 “행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다”라고 말했다.\n\n다음 일정은 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다. 시장 참가자들은 정책의 투명성과 예측 가능성을 요구했다. 알비온저널은 합의 과정과 책임자의 답변이 의회 기록에 남는지 살핀다.",
           "category": "politics",
           "sourceEventIds": [
             "tick-00000060-event-16"
@@ -4310,32 +4357,32 @@
           "adultAnalysis": "심층 분석: approval -0.4, publicAnxiety +0.5. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
         },
         {
-          "id": "aster-tick-00000060-event-17-article-2",
-          "headline": "알비온 공동체, 헬베티아 동맹에 수송선 3척·의료단 파견",
+          "id": "aster-tick-00000057-event-19-article-2",
+          "headline": "알비온 공동체, 동방 인민공화국에 48시간 내 실무회담 제안",
           "deck": "알비온저널은 외교 현안에서 의회가 공개적으로 물어야 할 절차를 추렸다.",
-          "body": "레온 모어 노동·시민연대는 오르비스 표준시 7월 22일 오전 10:04 그린위치 항에서 헬베티아 동맹에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다.\n\n의회가 확인할 핵심은 헬베티아 동맹의 필수 연료와 의료품 부족을 막고 항만 지역의 불안을 낮추는 것이 실제 절차로 이어지는지다. 레온 모어는 “이번 지원은 군사적 개입이 아니라 주민 생활과 민간 운송망을 지키기 위한 조치다”라고 말했다.\n\n헬베티아 동맹 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 알비온저널 보도 뒤 알비온 공동체의 독자 반응 지표가 갱신됐다.\n\n다음 일정은 헬베티아 동맹이 접안 안전을 보장하면 첫 수송선이 다음 날 오전 그린위치 항 궤도항을 출발한다. 시장 참가자들은 정책의 투명성과 예측 가능성을 요구했다. 알비온저널은 합의 과정과 책임자의 답변이 의회 기록에 남는지 살핀다.",
+          "body": "셀레네 웨스트 국가 지도자는 오르비스 표준시 7월 22일 오전 2:08 그린위치 항에서 동방 인민공화국에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다.\n\n의회가 확인할 핵심은 동방 인민공화국과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것이 실제 절차로 이어지는지다. 셀레네 웨스트는 “상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다”라고 말했다.\n\n동방 인민공화국 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다.\n\n이번 조치의 배경에는 다음 공개 사건이 있다. 중립국의 다자 회담 제안이 각국에 전달됐다.\n\n다음 일정은 동방 인민공화국의 답변을 받은 뒤 그린위치 항 외교회관에서 예비접촉 대표와 의제를 공개한다. 시장 참가자들은 정책의 투명성과 예측 가능성을 요구했다. 알비온저널은 합의 과정과 책임자의 답변이 의회 기록에 남는지 살핀다.",
           "category": "diplomacy",
           "sourceEventIds": [
-            "tick-00000060-event-17"
+            "tick-00000057-event-19"
           ],
-          "adultAnalysis": "심층 분석: reserves -1.41, approval +0.94. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+          "adultAnalysis": "심층 분석: approval 0, publicAnxiety 0. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
         },
         {
-          "id": "aster-tick-00000060-event-20-article-3",
-          "headline": "알비온 공동체, 아메리아 연방에 수송선 3척·의료단 파견",
-          "deck": "알비온저널은 외교 현안에서 의회가 공개적으로 물어야 할 절차를 추렸다.",
-          "body": "셀레네 웨스트 국가 지도자는 오르비스 표준시 7월 22일 오전 10:01 그린위치 항에서 아메리아 연방에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다.\n\n의회가 확인할 핵심은 아메리아 연방의 필수 연료와 의료품 부족을 막고 항만 지역의 불안을 낮추는 것이 실제 절차로 이어지는지다. 셀레네 웨스트는 “이번 지원은 군사적 개입이 아니라 주민 생활과 민간 운송망을 지키기 위한 조치다”라고 말했다.\n\n아메리아 연방 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 아메리아포스트 보도 뒤 아메리아 연방의 독자 반응 지표가 갱신됐다. 알비온저널 보도 뒤 알비온 공동체의 독자 반응 지표가 갱신됐다.\n\n다음 일정은 아메리아 연방이 접안 안전을 보장하면 첫 수송선이 다음 날 오전 그린위치 항 궤도항을 출발한다. 시장 참가자들은 정책의 투명성과 예측 가능성을 요구했다. 알비온저널은 합의 과정과 책임자의 답변이 의회 기록에 남는지 살핀다.",
-          "category": "diplomacy",
+          "id": "aster-tick-00000059-aster-crown-orbit-news-article-3",
+          "headline": "크라운 궤도통신, 해양통신 소형위성 첫 편대 운용",
+          "deck": "알비온저널은 우주 현안에서 의회가 공개적으로 물어야 할 절차를 추렸다.",
+          "body": "크라운 궤도통신 기술책임자는 오르비스 표준시 7월 22일 오전 6:12 그린위치 항 위성부두에서 해양 조난신호와 상선 통신을 중계하는 소형위성 6기의 편대 운용을 시작했다.\n\n의회가 확인할 핵심은 먼바다 통신 공백과 구조 요청 전달 시간을 줄이는 것이 실제 절차로 이어지는지다. 크라운 궤도통신은 “위성 수보다 바다에서 끊기지 않는 연결이 성과의 기준이다”라고 말했다.\n\n발표와 함께 확인된 관측·실험 기록은 다음과 같다. 크라운 궤도통신가 해양 조난신호와 상선 통신을 중계하는 소형위성 6기의 편대 운용을 시작했다.\n\n다음 일정은 공동의회 통신위원회에 12주 운용 기록을 제출한다. 과학계는 원자료 공개와 다른 관측망의 독립 검증이 뒤따라야 한다고 강조했다. 알비온저널은 합의 과정과 책임자의 답변이 의회 기록에 남는지 살핀다.\n\n연구진이 밝힌 한계는 폭풍대와 고위도 해역의 통신 품질은 아직 충분히 검증되지 않았다.",
+          "category": "space",
           "sourceEventIds": [
-            "tick-00000060-event-20"
+            "tick-00000059-aster-crown-orbit-news"
           ],
-          "adultAnalysis": "심층 분석: reserves -0.95, approval 0. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+          "adultAnalysis": "심층 분석: . 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
         },
         {
           "id": "aster-tick-00000056-oasi-discovery-article-4",
           "headline": "오르비스 우주항공청, 무꼬리 소천체에서 미약한 가스 분출…'암흑혜성' 후보…의회 공개·공동 검증 점검",
           "deck": "알비온저널은 우주 현안에서 의회가 공개적으로 물어야 할 절차를 추렸다.",
-          "body": "오르비스 우주항공청 공동관측심의회는 오르비스 표준시 7월 21일 오후 10:37 헬베티아 동맹 이레니아 국제관측구에서 근오르비스 소천체의 궤도가 중력만으로 설명되는 경로에서 벗어났고 장시간 합성영상에서 희미한 가스 분출 방향이 확인됐다고 발표했다.\n\n의회가 확인할 핵심은 관측 결과와 불확실성을 오르비스 전역의 연구기관과 시민에게 동시에 공개하는 것이 실제 절차로 이어지는지다. 오르비스 우주항공청은 “위험 경보가 아니라 분류가 달라질 수 있다는 관측 결과다”라고 말했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 오르비스 우주항공청은 근오르비스 소천체의 궤도가 중력만으로 설명되는 경로에서 벗어났고 장시간 합성영상에서 희미한 가스 분출 방향이 확인됐다고 발표했다.\n\n알비온 공동체가 보는 코레이아 공화국과의 현재 관계는 신뢰 91, 교역 의존 36, 군사 긴장 63다.\n\n다음 일정은 행성방위망이 다음 근접 시기에 분광 관측을 실시하고 궤도 오차 범위를 매주 갱신한다. 과학계는 원자료 공개와 다른 관측망의 독립 검증이 뒤따라야 한다고 강조했다. 알비온저널은 합의 과정과 책임자의 답변이 의회 기록에 남는지 살핀다.\n\n연구진이 밝힌 한계는 현재 계산으로 오르비스 충돌 위험은 없으며 분출 성분도 아직 확인되지 않았다.",
+          "body": "오르비스 우주항공청 공동관측심의회는 오르비스 표준시 7월 21일 오후 10:37 헬베티아 동맹 이레니아 국제관측구에서 근오르비스 소천체의 궤도가 중력만으로 설명되는 경로에서 벗어났고 장시간 합성영상에서 희미한 가스 분출 방향이 확인됐다고 발표했다.\n\n의회가 확인할 핵심은 관측 결과와 불확실성을 오르비스 전역의 연구기관과 시민에게 동시에 공개하는 것이 실제 절차로 이어지는지다. 오르비스 우주항공청은 “위험 경보가 아니라 분류가 달라질 수 있다는 관측 결과다”라고 말했다.\n\n발표와 함께 확인된 관측·실험 기록은 다음과 같다. 오르비스 우주항공청은 근오르비스 소천체의 궤도가 중력만으로 설명되는 경로에서 벗어났고 장시간 합성영상에서 희미한 가스 분출 방향이 확인됐다고 발표했다.\n\n알비온 공동체가 보는 코레이아 공화국과의 현재 관계는 신뢰 91, 교역 의존 36, 군사 긴장 63다.\n\n다음 일정은 행성방위망이 다음 근접 시기에 분광 관측을 실시하고 궤도 오차 범위를 매주 갱신한다. 과학계는 원자료 공개와 다른 관측망의 독립 검증이 뒤따라야 한다고 강조했다. 알비온저널은 합의 과정과 책임자의 답변이 의회 기록에 남는지 살핀다.\n\n연구진이 밝힌 한계는 현재 계산으로 오르비스 충돌 위험은 없으며 분출 성분도 아직 확인되지 않았다.",
           "category": "space",
           "sourceEventIds": [
             "tick-00000056-oasi-discovery"
@@ -4379,7 +4426,7 @@
           "id": "marevia-tick-00000060-marevia-blueharbor-news-article-1",
           "headline": "블루하버 물류연합, 자동화 항만 통관망 단계적 개방",
           "deck": "아드리아경제는 경제 현안에서 교역 비용과 민간 운송 일정의 변화를 점검했다.",
-          "body": "블루하버 물류연합 운영위원회는 오르비스 표준시 7월 22일 오전 11:24 포르토 셀레네 자유항에서 선박 입항, 화물 검사, 궤도 화물 환적 일정을 한 장부에서 확인하는 통관망을 단계적으로 개방했다.\n\n시장 참가자들이 따져볼 대목은 해협 물류의 대기 시간과 중복 서류를 줄이는 것이 계약과 운송 일정에 미칠 영향이다. 블루하버 물류연합은 “빠른 항구보다 지연 사유를 모두가 확인할 수 있는 항구가 경쟁력을 만든다”라고 말했다.\n\n다음 일정은 한 달 동안 세 항만의 평균 대기 시간을 공개한다. 시장 참가자들은 정책의 투명성과 예측 가능성을 요구했다. 아드리아경제는 발표가 항로, 계약 일정, 공급 비용에 미치는 변화를 추적한다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 블루하버 물류연합가 선박 입항, 화물 검사, 궤도 화물 환적 일정을 한 장부에서 확인하는 통관망을 단계적으로 개방했다.\n\n연구진이 밝힌 한계는 중소 운송사의 전산 전환 비용과 사고 책임 기준은 합의되지 않았다.",
+          "body": "블루하버 물류연합 운영위원회는 오르비스 표준시 7월 22일 오전 11:24 포르토 셀레네 자유항에서 선박 입항, 화물 검사, 궤도 화물 환적 일정을 한 장부에서 확인하는 통관망을 단계적으로 개방했다.\n\n시장 참가자들이 따져볼 대목은 해협 물류의 대기 시간과 중복 서류를 줄이는 것이 계약과 운송 일정에 미칠 영향이다. 블루하버 물류연합은 “빠른 항구보다 지연 사유를 모두가 확인할 수 있는 항구가 경쟁력을 만든다”라고 말했다.\n\n다음 일정은 한 달 동안 세 항만의 평균 대기 시간을 공개한다. 시장 참가자들은 정책의 투명성과 예측 가능성을 요구했다. 아드리아경제는 발표가 항로, 계약 일정, 공급 비용에 미치는 변화를 추적한다.\n\n이번 조치의 배경에는 다음 공개 사건이 있다. 블루하버 물류연합가 선박 입항, 화물 검사, 궤도 화물 환적 일정을 한 장부에서 확인하는 통관망을 단계적으로 개방했다.\n\n연구진이 밝힌 한계는 중소 운송사의 전산 전환 비용과 사고 책임 기준은 합의되지 않았다.",
           "category": "economy",
           "sourceEventIds": [
             "tick-00000060-marevia-blueharbor-news"
@@ -4387,32 +4434,32 @@
           "adultAnalysis": "심층 분석: . 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
         },
         {
-          "id": "marevia-tick-00000060-event-24-article-2",
-          "headline": "아드리아 연합, 코레이아 공화국에 48시간 내 실무회담 제안",
+          "id": "marevia-tick-00000052-event-22-article-2",
+          "headline": "아드리아 연합, 동방 인민공화국에 수송선 3척·의료단 파견",
           "deck": "아드리아경제는 외교 현안에서 교역 비용과 민간 운송 일정의 변화를 점검했다.",
-          "body": "셀레네 코스타 항만·공업지역 대표는 오르비스 표준시 7월 22일 오전 11:31 포르토 셀레네에서 코레이아 공화국에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다.\n\n코레이아 공화국 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다.\n\n시장 참가자들이 따져볼 대목은 코레이아 공화국과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것이 계약과 운송 일정에 미칠 영향이다. 셀레네 코스타는 “상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다”라고 말했다.\n\n다음 일정은 코레이아 공화국의 답변을 받은 뒤 포르토 셀레네 외교회관에서 예비접촉 대표와 의제를 공개한다. 시장 참가자들은 정책의 투명성과 예측 가능성을 요구했다. 아드리아경제는 발표가 항로, 계약 일정, 공급 비용에 미치는 변화를 추적한다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 소행성 연료 채굴선의 귀환 일정이 지연됐다. 코레이아타임스 보도 뒤 코레이아 공화국의 독자 반응 지표가 갱신됐다. 아드리아경제 보도 뒤 아드리아 연합의 독자 반응 지표가 갱신됐다.",
+          "body": "미라 루치 지역 대표 의원은 오르비스 표준시 7월 21일 오전 10:37 포르토 셀레네에서 동방 인민공화국에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다.\n\n동방 인민공화국 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다.\n\n시장 참가자들이 따져볼 대목은 동방 인민공화국의 필수 연료와 의료품 부족을 막고 항만 지역의 불안을 낮추는 것이 계약과 운송 일정에 미칠 영향이다. 미라 루치는 “이번 지원은 군사적 개입이 아니라 주민 생활과 민간 운송망을 지키기 위한 조치다”라고 말했다.\n\n다음 일정은 동방 인민공화국이 접안 안전을 보장하면 첫 수송선이 다음 날 오전 포르토 셀레네 궤도항을 출발한다. 시장 참가자들은 정책의 투명성과 예측 가능성을 요구했다. 아드리아경제는 발표가 항로, 계약 일정, 공급 비용에 미치는 변화를 추적한다.\n\n이번 조치의 배경에는 다음 공개 사건이 있다. 궤도 감시망에서 미확인 항적이 포착됐다.",
           "category": "diplomacy",
           "sourceEventIds": [
-            "tick-00000060-event-24"
+            "tick-00000052-event-22"
           ],
-          "adultAnalysis": "심층 분석: approval +0.04, publicAnxiety -1.23. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+          "adultAnalysis": "심층 분석: reserves 0, approval 0. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
         },
         {
-          "id": "marevia-tick-00000060-event-25-article-3",
-          "headline": "아드리아 연합, 아메리아 연방에 48시간 내 실무회담 제안",
-          "deck": "아드리아경제는 외교 현안에서 교역 비용과 민간 운송 일정의 변화를 점검했다.",
-          "body": "도리아 콘티 국가 지도자는 오르비스 표준시 7월 22일 오전 11:28 포르토 셀레네에서 아메리아 연방에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다.\n\n아메리아 연방 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다.\n\n시장 참가자들이 따져볼 대목은 아메리아 연방과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것이 계약과 운송 일정에 미칠 영향이다. 도리아 콘티는 “상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다”라고 말했다.\n\n다음 일정은 아메리아 연방의 답변을 받은 뒤 포르토 셀레네 외교회관에서 예비접촉 대표와 의제를 공개한다. 시장 참가자들은 정책의 투명성과 예측 가능성을 요구했다. 아드리아경제는 발표가 항로, 계약 일정, 공급 비용에 미치는 변화를 추적한다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 소행성 연료 채굴선의 귀환 일정이 지연됐다. 아메리아포스트 보도 뒤 아메리아 연방의 독자 반응 지표가 갱신됐다. 아드리아경제 보도 뒤 아드리아 연합의 독자 반응 지표가 갱신됐다.",
-          "category": "diplomacy",
+          "id": "marevia-tick-00000050-event-22-article-3",
+          "headline": "아드리아 연합, 하루 두 차례 위기 합동브리핑",
+          "deck": "아드리아경제는 사회 현안에서 교역 비용과 민간 운송 일정의 변화를 점검했다.",
+          "body": "테오 로사 정치·외교 기자는 오르비스 표준시 7월 21일 오전 5:04 포르토 셀레네에서 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다.\n\n시장 참가자들이 따져볼 대목은 정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것이 계약과 운송 일정에 미칠 영향이다. 테오 로사는 “확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라”라고 말했다.\n\n다음 일정은 첫 합동 브리핑은 이날 오후 포르토 셀레네 중앙기록관에서 열린다. 시장 참가자들은 정책의 투명성과 예측 가능성을 요구했다. 아드리아경제는 발표가 항로, 계약 일정, 공급 비용에 미치는 변화를 추적한다.",
+          "category": "society",
           "sourceEventIds": [
-            "tick-00000060-event-25"
+            "tick-00000050-event-22"
           ],
-          "adultAnalysis": "심층 분석: approval -0.5, publicAnxiety -0.33. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+          "adultAnalysis": "심층 분석: approval 0, publicAnxiety +0.74. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
         },
         {
           "id": "marevia-tick-00000056-oasi-discovery-article-4",
           "headline": "오르비스 우주항공청, 무꼬리 소천체에서 미약한 가스 분출…'암흑혜성' 후보…교역·운송 일정 점검",
           "deck": "아드리아경제는 우주 현안에서 교역 비용과 민간 운송 일정의 변화를 점검했다.",
-          "body": "아드리아 연합이 보는 코레이아 공화국과의 현재 관계는 신뢰 35, 교역 의존 23, 군사 긴장 44다.\n\n오르비스 우주항공청 공동관측심의회는 오르비스 표준시 7월 21일 오후 10:37 헬베티아 동맹 이레니아 국제관측구에서 근오르비스 소천체의 궤도가 중력만으로 설명되는 경로에서 벗어났고 장시간 합성영상에서 희미한 가스 분출 방향이 확인됐다고 발표했다.\n\n시장 참가자들이 따져볼 대목은 관측 결과와 불확실성을 오르비스 전역의 연구기관과 시민에게 동시에 공개하는 것이 계약과 운송 일정에 미칠 영향이다. 오르비스 우주항공청은 “위험 경보가 아니라 분류가 달라질 수 있다는 관측 결과다”라고 말했다.\n\n다음 일정은 행성방위망이 다음 근접 시기에 분광 관측을 실시하고 궤도 오차 범위를 매주 갱신한다. 과학계는 원자료 공개와 다른 관측망의 독립 검증이 뒤따라야 한다고 강조했다. 아드리아경제는 발표가 항로, 계약 일정, 공급 비용에 미치는 변화를 추적한다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 오르비스 우주항공청은 근오르비스 소천체의 궤도가 중력만으로 설명되는 경로에서 벗어났고 장시간 합성영상에서 희미한 가스 분출 방향이 확인됐다고 발표했다.\n\n연구진이 밝힌 한계는 현재 계산으로 오르비스 충돌 위험은 없으며 분출 성분도 아직 확인되지 않았다.",
+          "body": "아드리아 연합이 보는 코레이아 공화국과의 현재 관계는 신뢰 35, 교역 의존 23, 군사 긴장 44다.\n\n오르비스 우주항공청 공동관측심의회는 오르비스 표준시 7월 21일 오후 10:37 헬베티아 동맹 이레니아 국제관측구에서 근오르비스 소천체의 궤도가 중력만으로 설명되는 경로에서 벗어났고 장시간 합성영상에서 희미한 가스 분출 방향이 확인됐다고 발표했다.\n\n시장 참가자들이 따져볼 대목은 관측 결과와 불확실성을 오르비스 전역의 연구기관과 시민에게 동시에 공개하는 것이 계약과 운송 일정에 미칠 영향이다. 오르비스 우주항공청은 “위험 경보가 아니라 분류가 달라질 수 있다는 관측 결과다”라고 말했다.\n\n다음 일정은 행성방위망이 다음 근접 시기에 분광 관측을 실시하고 궤도 오차 범위를 매주 갱신한다. 과학계는 원자료 공개와 다른 관측망의 독립 검증이 뒤따라야 한다고 강조했다. 아드리아경제는 발표가 항로, 계약 일정, 공급 비용에 미치는 변화를 추적한다.\n\n발표와 함께 확인된 관측·실험 기록은 다음과 같다. 오르비스 우주항공청은 근오르비스 소천체의 궤도가 중력만으로 설명되는 경로에서 벗어났고 장시간 합성영상에서 희미한 가스 분출 방향이 확인됐다고 발표했다.\n\n연구진이 밝힌 한계는 현재 계산으로 오르비스 충돌 위험은 없으며 분출 성분도 아직 확인되지 않았다.",
           "category": "space",
           "sourceEventIds": [
             "tick-00000056-oasi-discovery"
@@ -4450,49 +4497,49 @@
       "mastheadKo": "동방뉴스",
       "mastheadNative": "Eastern News",
       "editionType": "daily",
-      "leadHeadline": "동방 인민공화국, 하루 두 차례 위기 합동브리핑",
+      "leadHeadline": "블루하버 물류연합, 자동화 항만 통관망 단계적 개방…생산·노동 현장 주목",
       "articles": [
         {
-          "id": "karsk-tick-00000060-event-29-article-1",
-          "headline": "동방 인민공화국, 하루 두 차례 위기 합동브리핑",
-          "deck": "동방뉴스는 사회 현안에서 생산 현장과 노동자의 생활에 닿을 결과를 전했다.",
-          "body": "생산 현장에서는 정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것이 실제 공급과 노동 여건으로 이어지는지가 관건이다. 도리아 제린은 “확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라”라고 말했다.\n\n도리아 제린 항만·공업지역 대표는 오르비스 표준시 7월 22일 오전 9:38 동명에서 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 소행성 연료 채굴선의 귀환 일정이 지연됐다. 동방뉴스 보도 뒤 동방 인민공화국의 독자 반응 지표가 갱신됐다.\n\n다음 일정은 첫 합동 브리핑은 이날 오후 동명 중앙기록관에서 열린다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 동방뉴스는 발표된 조치가 생산 현장과 생활 물자 공급에 어떻게 집행되는지 보도한다.",
-          "category": "society",
+          "id": "karsk-tick-00000060-marevia-blueharbor-news-article-1",
+          "headline": "블루하버 물류연합, 자동화 항만 통관망 단계적 개방…생산·노동 현장 주목",
+          "deck": "동방뉴스는 경제 현안에서 생산 현장과 노동자의 생활에 닿을 결과를 전했다.",
+          "body": "생산 현장에서는 해협 물류의 대기 시간과 중복 서류를 줄이는 것이 실제 공급과 노동 여건으로 이어지는지가 관건이다. 블루하버 물류연합은 “빠른 항구보다 지연 사유를 모두가 확인할 수 있는 항구가 경쟁력을 만든다”라고 말했다.\n\n블루하버 물류연합 운영위원회는 오르비스 표준시 7월 22일 오전 11:24 포르토 셀레네 자유항에서 선박 입항, 화물 검사, 궤도 화물 환적 일정을 한 장부에서 확인하는 통관망을 단계적으로 개방했다.\n\n이번 조치의 배경에는 다음 공개 사건이 있다. 블루하버 물류연합가 선박 입항, 화물 검사, 궤도 화물 환적 일정을 한 장부에서 확인하는 통관망을 단계적으로 개방했다.\n\n동방 인민공화국이 보는 아드리아 연합과의 현재 관계는 신뢰 68, 교역 의존 22, 군사 긴장 9다.\n\n다음 일정은 한 달 동안 세 항만의 평균 대기 시간을 공개한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 동방뉴스는 발표된 조치가 생산 현장과 생활 물자 공급에 어떻게 집행되는지 보도한다.\n\n연구진이 밝힌 한계는 중소 운송사의 전산 전환 비용과 사고 책임 기준은 합의되지 않았다.",
+          "category": "economy",
           "sourceEventIds": [
-            "tick-00000060-event-29"
+            "tick-00000060-marevia-blueharbor-news"
           ],
-          "adultAnalysis": "심층 분석: approval +0.04, publicAnxiety 0. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+          "adultAnalysis": "심층 분석: . 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
         },
         {
-          "id": "karsk-tick-00000060-event-30-article-2",
-          "headline": "동방 인민공화국, 추가 대응 표결 24시간 유보",
-          "deck": "동방뉴스는 정치 현안에서 생산 현장과 노동자의 생활에 닿을 결과를 전했다.",
-          "body": "생산 현장에서는 정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것이 실제 공급과 노동 여건으로 이어지는지가 관건이다. 마르코 볼코프는 “행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다”라고 말했다.\n\n마르코 볼코프 국가 지도자는 오르비스 표준시 7월 22일 오전 11:14 동명에서 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 소행성 연료 채굴선의 귀환 일정이 지연됐다. 동방뉴스 보도 뒤 동방 인민공화국의 독자 반응 지표가 갱신됐다.\n\n다음 일정은 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 동방뉴스는 발표된 조치가 생산 현장과 생활 물자 공급에 어떻게 집행되는지 보도한다.",
-          "category": "politics",
+          "id": "karsk-tick-00000059-event-28-article-2",
+          "headline": "동방 인민공화국, 헬베티아 동맹에 수송선 3척·의료단 파견",
+          "deck": "동방뉴스는 외교 현안에서 생산 현장과 노동자의 생활에 닿을 결과를 전했다.",
+          "body": "생산 현장에서는 헬베티아 동맹의 필수 연료와 의료품 부족을 막고 항만 지역의 불안을 낮추는 것이 실제 공급과 노동 여건으로 이어지는지가 관건이다. 엘라 미로프는 “이번 지원은 군사적 개입이 아니라 주민 생활과 민간 운송망을 지키기 위한 조치다”라고 말했다.\n\n엘라 미로프 국방부·우주사령부 대변인은 오르비스 표준시 7월 22일 오전 7:52 동명에서 헬베티아 동맹에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다.\n\n헬베티아 동맹 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다.\n\n다음 일정은 헬베티아 동맹이 접안 안전을 보장하면 첫 수송선이 다음 날 오전 동명 궤도항을 출발한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 동방뉴스는 발표된 조치가 생산 현장과 생활 물자 공급에 어떻게 집행되는지 보도한다.",
+          "category": "diplomacy",
           "sourceEventIds": [
-            "tick-00000060-event-30"
+            "tick-00000059-event-28"
           ],
-          "adultAnalysis": "심층 분석: approval -0.4, publicAnxiety +0.5. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+          "adultAnalysis": "심층 분석: reserves -1.62, approval +0.19. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
         },
         {
-          "id": "karsk-tick-00000060-event-26-article-3",
-          "headline": "동방 인민공화국 의회, 책임자 7명 공개 청문회 추진",
-          "deck": "동방뉴스는 정치 현안에서 생산 현장과 노동자의 생활에 닿을 결과를 전했다.",
-          "body": "생산 현장에서는 위기 대응 과정의 보고 누락과 의사결정 책임을 확인하는 것이 실제 공급과 노동 여건으로 이어지는지가 관건이다. 미라 로바는 “기밀을 이유로 정책 실패까지 감출 수는 없으며 공개 가능한 기록부터 확인하겠다”라고 말했다.\n\n미라 로바 산업협회 대표는 오르비스 표준시 7월 22일 오전 9:11 동명에서 의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 소행성 연료 채굴선의 귀환 일정이 지연됐다. 동방뉴스 보도 뒤 동방 인민공화국의 독자 반응 지표가 갱신됐다.\n\n다음 일정은 사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 동방뉴스는 발표된 조치가 생산 현장과 생활 물자 공급에 어떻게 집행되는지 보도한다.",
-          "category": "politics",
+          "id": "karsk-tick-00000058-event-27-article-3",
+          "headline": "동방 인민공화국, 알비온 공동체에 48시간 내 실무회담 제안",
+          "deck": "동방뉴스는 외교 현안에서 생산 현장과 노동자의 생활에 닿을 결과를 전했다.",
+          "body": "생산 현장에서는 알비온 공동체와의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것이 실제 공급과 노동 여건으로 이어지는지가 관건이다. 레온 다닌은 “상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다”라고 말했다.\n\n레온 다닌 민족전선 지도부는 오르비스 표준시 7월 22일 오전 5:48 동명에서 알비온 공동체에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다.\n\n이번 조치의 배경에는 다음 공개 사건이 있다. 궤도 감시망에서 미확인 항적이 포착됐다.\n\n알비온 공동체 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다.\n\n다음 일정은 알비온 공동체의 답변을 받은 뒤 동명 외교회관에서 예비접촉 대표와 의제를 공개한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 동방뉴스는 발표된 조치가 생산 현장과 생활 물자 공급에 어떻게 집행되는지 보도한다.",
+          "category": "diplomacy",
           "sourceEventIds": [
-            "tick-00000060-event-26"
+            "tick-00000058-event-27"
           ],
-          "adultAnalysis": "심층 분석: approval -0.17, publicAnxiety -0.47. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+          "adultAnalysis": "심층 분석: approval +0.35, publicAnxiety -0.94. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
         },
         {
-          "id": "karsk-tick-00000056-oasi-discovery-article-4",
-          "headline": "오르비스 우주항공청, 무꼬리 소천체에서 미약한 가스 분출…'암흑혜성' 후보…생산·노동 현장 점검",
-          "deck": "동방뉴스는 우주 현안에서 생산 현장과 노동자의 생활에 닿을 결과를 전했다.",
-          "body": "생산 현장에서는 관측 결과와 불확실성을 오르비스 전역의 연구기관과 시민에게 동시에 공개하는 것이 실제 공급과 노동 여건으로 이어지는지가 관건이다. 오르비스 우주항공청은 “위험 경보가 아니라 분류가 달라질 수 있다는 관측 결과다”라고 말했다.\n\n오르비스 우주항공청 공동관측심의회는 오르비스 표준시 7월 21일 오후 10:37 헬베티아 동맹 이레니아 국제관측구에서 근오르비스 소천체의 궤도가 중력만으로 설명되는 경로에서 벗어났고 장시간 합성영상에서 희미한 가스 분출 방향이 확인됐다고 발표했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 오르비스 우주항공청은 근오르비스 소천체의 궤도가 중력만으로 설명되는 경로에서 벗어났고 장시간 합성영상에서 희미한 가스 분출 방향이 확인됐다고 발표했다.\n\n동방 인민공화국이 보는 코레이아 공화국과의 현재 관계는 신뢰 49, 교역 의존 15, 군사 긴장 16다.\n\n다음 일정은 행성방위망이 다음 근접 시기에 분광 관측을 실시하고 궤도 오차 범위를 매주 갱신한다. 과학계는 원자료 공개와 다른 관측망의 독립 검증이 뒤따라야 한다고 강조했다. 동방뉴스는 발표된 조치가 생산 현장과 생활 물자 공급에 어떻게 집행되는지 보도한다.\n\n연구진이 밝힌 한계는 현재 계산으로 오르비스 충돌 위험은 없으며 분출 성분도 아직 확인되지 않았다.",
-          "category": "space",
+          "id": "karsk-tick-00000052-prisma-economic-report-article-4",
+          "headline": "프리즘 경제관측소, 코레이아 경기 '정체' 진단…생산·노동 현장 점검",
+          "deck": "동방뉴스는 경제 현안에서 생산 현장과 노동자의 생활에 닿을 결과를 전했다.",
+          "body": "생산 현장에서는 코레이아 경제의 단기 위험을 수치와 사건 기록으로 분리해 시민과 정책 담당자에게 설명하는 것이 실제 공급과 노동 여건으로 이어지는지가 관건이다. 프리즘 경제관측소는 “가장 큰 상승 요인은 대외·궤도 위험이며 단일 수치보다 38.7~73.7의 추정 범위를 함께 봐야 한다”라고 말했다.\n\n프리즘 경제관측소 수석 경제관측관은 오르비스 표준시 7월 21일 오전 9:50 아우렐리아 프리즘 관측관에서 5개 분석실이 일일회의를 열어 경기 진단을 '정체' 단계로 정하고 위험 요인별 기여도를 공개했다.\n\n이번 조치의 배경에는 다음 공개 사건이 있다. 오르비스 AI연구원은 서로 다른 빛깔에 반응하는 이미지 센서 배열이 별도의 영상 전송 없이 센서 표면에서 구름과 연기 신호를 구분했다고 발표했다. 오르비스 AI연구원은 연구진이 4천96개의 저항변화 메모리 소자를 격자로 묶어 숫자를 기억한 자리에서 곧바로 행렬 계산을 수행하는 AI 연산판을 공개했다고 발표했다. 중립국의 다자 회담 제안이 각국에 전달됐다. 오르비스 AI연구원은 축전 기억소자와 광학 회로를 한 장의 회로에 올린 실험기가 빛의 세기와 파장을 조절하며 손글씨 분류 규칙을 현장에서 학습했다고 발표했다.\n\n동방 인민공화국이 보는 코레이아 공화국과의 현재 관계는 신뢰 49, 교역 의존 15, 군사 긴장 16다.\n\n다음 일정은 다음 날 오전 3시 전일 전망 오차와 새 경제·외교 사건을 다시 검토한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 동방뉴스는 발표된 조치가 생산 현장과 생활 물자 공급에 어떻게 집행되는지 보도한다.",
+          "category": "economy",
           "sourceEventIds": [
-            "tick-00000056-oasi-discovery"
+            "tick-00000052-prisma-economic-report"
           ],
           "adultAnalysis": "심층 분석: . 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
         }
@@ -4527,24 +4574,13 @@
       "mastheadKo": "헬베티아리뷰",
       "mastheadNative": "Helvetia Review",
       "editionType": "daily",
-      "leadHeadline": "헬베티아 동맹, 아드리아 연합에 48시간 내 실무회담 제안",
+      "leadHeadline": "헬베티아 동맹, 동방 인민공화국에 수송선 3척·의료단 파견",
       "articles": [
         {
-          "id": "eiren-tick-00000060-event-31-article-1",
-          "headline": "헬베티아 동맹, 아드리아 연합에 48시간 내 실무회담 제안",
-          "deck": "헬베티아리뷰는 외교 현안에서 당사국의 답변과 민간 보호 약속을 나란히 비교했다.",
-          "body": "이반 이리스 산업협회 대표는 오르비스 표준시 7월 22일 오전 11:34 이레니아에서 아드리아 연합에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다.\n\n아드리아 연합 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다.\n\n중재의 성패는 아드리아 연합과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것이라는 약속을 당사국이 지키는 데 달렸다. 이반 이리스는 “상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다”라고 말했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 소행성 연료 채굴선의 귀환 일정이 지연됐다. 아드리아경제 보도 뒤 아드리아 연합의 독자 반응 지표가 갱신됐다.\n\n다음 일정은 아드리아 연합의 답변을 받은 뒤 이레니아 외교회관에서 예비접촉 대표와 의제를 공개한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 헬베티아리뷰는 각 당사자의 약속과 민간 보호 장치가 함께 작동하는지 검증한다.",
-          "category": "diplomacy",
-          "sourceEventIds": [
-            "tick-00000060-event-31"
-          ],
-          "adultAnalysis": "심층 분석: approval -0.21, publicAnxiety -0.76. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
-        },
-        {
-          "id": "eiren-tick-00000060-event-32-article-2",
+          "id": "eiren-tick-00000060-event-32-article-1",
           "headline": "헬베티아 동맹, 동방 인민공화국에 수송선 3척·의료단 파견",
           "deck": "헬베티아리뷰는 외교 현안에서 당사국의 답변과 민간 보호 약속을 나란히 비교했다.",
-          "body": "셀레네 다몬 노동·시민연대는 오르비스 표준시 7월 22일 오전 10:18 이레니아에서 동방 인민공화국에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다.\n\n동방 인민공화국 측은 별도 발표에서 헬베티아 동맹에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다.\n\n중재의 성패는 동방 인민공화국의 필수 연료와 의료품 부족을 막고 항만 지역의 불안을 낮추는 것이라는 약속을 당사국이 지키는 데 달렸다. 셀레네 다몬은 “이번 지원은 군사적 개입이 아니라 주민 생활과 민간 운송망을 지키기 위한 조치다”라고 말했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 소행성 연료 채굴선의 귀환 일정이 지연됐다. 동방뉴스 보도 뒤 동방 인민공화국의 독자 반응 지표가 갱신됐다.\n\n다음 일정은 동방 인민공화국이 접안 안전을 보장하면 첫 수송선이 다음 날 오전 이레니아 궤도항을 출발한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 헬베티아리뷰는 각 당사자의 약속과 민간 보호 장치가 함께 작동하는지 검증한다.",
+          "body": "셀레네 다몬 노동·시민연대는 오르비스 표준시 7월 22일 오전 10:18 이레니아에서 동방 인민공화국에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다.\n\n동방 인민공화국 측은 별도 발표에서 헬베티아 동맹에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다.\n\n중재의 성패는 동방 인민공화국의 필수 연료와 의료품 부족을 막고 항만 지역의 불안을 낮추는 것이라는 약속을 당사국이 지키는 데 달렸다. 셀레네 다몬은 “이번 지원은 군사적 개입이 아니라 주민 생활과 민간 운송망을 지키기 위한 조치다”라고 말했다.\n\n이번 조치의 배경에는 다음 공개 사건이 있다. 소행성 연료 채굴선의 귀환 일정이 지연됐다.\n\n다음 일정은 동방 인민공화국이 접안 안전을 보장하면 첫 수송선이 다음 날 오전 이레니아 궤도항을 출발한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 헬베티아리뷰는 각 당사자의 약속과 민간 보호 장치가 함께 작동하는지 검증한다.",
           "category": "diplomacy",
           "sourceEventIds": [
             "tick-00000060-event-32"
@@ -4552,24 +4588,35 @@
           "adultAnalysis": "심층 분석: reserves -1.17, approval +0.66. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
         },
         {
-          "id": "eiren-tick-00000060-event-34-article-3",
-          "headline": "헬베티아 동맹, 코레이아 공화국에 48시간 내 실무회담 제안",
-          "deck": "헬베티아리뷰는 외교 현안에서 당사국의 답변과 민간 보호 약속을 나란히 비교했다.",
-          "body": "마르코 메라 항만·공업지역 대표는 오르비스 표준시 7월 22일 오전 9:51 이레니아에서 코레이아 공화국에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다.\n\n코레이아 공화국 측은 별도 발표에서 헬베티아 동맹에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다.\n\n중재의 성패는 코레이아 공화국과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것이라는 약속을 당사국이 지키는 데 달렸다. 마르코 메라는 “상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다”라고 말했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 코레이아타임스 보도 뒤 코레이아 공화국의 독자 반응 지표가 갱신됐다.\n\n다음 일정은 코레이아 공화국의 답변을 받은 뒤 이레니아 외교회관에서 예비접촉 대표와 의제를 공개한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 헬베티아리뷰는 각 당사자의 약속과 민간 보호 장치가 함께 작동하는지 검증한다.",
-          "category": "diplomacy",
+          "id": "eiren-tick-00000051-event-35-article-2",
+          "headline": "헬베티아 동맹, 하루 두 차례 위기 합동브리핑",
+          "deck": "헬베티아리뷰는 사회 현안에서 당사국의 답변과 민간 보호 약속을 나란히 비교했다.",
+          "body": "미라 니코스 민족전선 지도부는 오르비스 표준시 7월 21일 오전 7:30 이레니아에서 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다.\n\n중재의 성패는 정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것이라는 약속을 당사국이 지키는 데 달렸다. 미라 니코스는 “확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라”라고 말했다.\n\n다음 일정은 첫 합동 브리핑은 이날 오후 이레니아 중앙기록관에서 열린다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 헬베티아리뷰는 각 당사자의 약속과 민간 보호 장치가 함께 작동하는지 검증한다.",
+          "category": "society",
           "sourceEventIds": [
-            "tick-00000060-event-34"
+            "tick-00000051-event-35"
           ],
-          "adultAnalysis": "심층 분석: approval -0.35, publicAnxiety 0. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+          "adultAnalysis": "심층 분석: approval +0.4, publicAnxiety -0.64. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
         },
         {
-          "id": "eiren-tick-00000060-aic-discovery-article-4",
-          "headline": "오르비스 AI연구원, 빛으로 학습하는 광학 AI 가속기 첫 시연…중재안·민간 보호 점검",
-          "deck": "헬베티아리뷰는 과학 현안에서 당사국의 답변과 민간 보호 약속을 나란히 비교했다.",
-          "body": "오르비스 AI연구원 연구검증위원회는 오르비스 표준시 7월 22일 오전 10:58 코레이아 공화국 세라노 계산과학구에서 메모리 소자와 광학 회로를 한 장의 칩에 올린 실험기가 빛의 세기와 파장을 조절하며 손글씨 분류 규칙을 현장에서 학습했다고 발표했다.\n\n중재의 성패는 AI 반도체와 차세대 컴퓨팅 기술의 성능·전력·한계를 시민과 연구기관이 함께 검증하게 하는 것이라는 약속을 당사국이 지키는 데 달렸다. 오르비스 AI연구원은 “빛이 답만 계산한 것이 아니라 틀린 답을 되짚어 회로의 가중치를 고쳤다는 점이 핵심이다”라고 말했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 오르비스 AI연구원은 메모리 소자와 광학 회로를 한 장의 칩에 올린 실험기가 빛의 세기와 파장을 조절하며 손글씨 분류 규칙을 현장에서 학습했다고 발표했다.\n\n연구진이 밝힌 한계는 실험 문제의 규모가 작고 광원 흔들림과 소자 편차가 커 대형 연산기로 확대할 수 있는지는 확인되지 않았다.\n\n헬베티아 동맹이 보는 코레이아 공화국과의 현재 관계는 신뢰 67, 교역 의존 79, 군사 긴장 42다.\n\n다음 일정은 공개 시험실에서 온도를 달리한 재현 실험과 전자식 AI 가속기와의 전력 비교를 실시한다. 과학계는 공개 회로도와 반복 실험 자료를 검토한 뒤 성능·전력 수치를 독립적으로 재현해야 한다고 밝혔다. 헬베티아리뷰는 각 당사자의 약속과 민간 보호 장치가 함께 작동하는지 검증한다.",
-          "category": "science",
+          "id": "eiren-tick-00000054-event-35-article-3",
+          "headline": "헬베티아 동맹, 화하 왕국에 48시간 내 실무회담 제안",
+          "deck": "헬베티아리뷰는 외교 현안에서 당사국의 답변과 민간 보호 약속을 나란히 비교했다.",
+          "body": "레온 엘리아 개혁야당 지도부는 오르비스 표준시 7월 21일 오후 3:32 이레니아에서 화하 왕국에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다.\n\n화하 왕국 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다.\n\n중재의 성패는 화하 왕국과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것이라는 약속을 당사국이 지키는 데 달렸다. 레온 엘리아는 “상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다”라고 말했다.\n\n이번 조치의 배경에는 다음 공개 사건이 있다. 소행성 연료 채굴선의 귀환 일정이 지연됐다.\n\n다음 일정은 화하 왕국의 답변을 받은 뒤 이레니아 외교회관에서 예비접촉 대표와 의제를 공개한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 헬베티아리뷰는 각 당사자의 약속과 민간 보호 장치가 함께 작동하는지 검증한다.",
+          "category": "diplomacy",
           "sourceEventIds": [
-            "tick-00000060-aic-discovery"
+            "tick-00000054-event-35"
+          ],
+          "adultAnalysis": "심층 분석: approval +0.07, publicAnxiety 0. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+        },
+        {
+          "id": "eiren-tick-00000057-prisma-economic-report-article-4",
+          "headline": "프리즘 경제관측소, 코레이아 경기 '정체' 진단…중재안·민간 보호 점검",
+          "deck": "헬베티아리뷰는 경제 현안에서 당사국의 답변과 민간 보호 약속을 나란히 비교했다.",
+          "body": "프리즘 경제관측소 수석 경제관측관은 오르비스 표준시 7월 22일 오전 2:40 아우렐리아 프리즘 관측관에서 5개 분석실이 일일회의를 열어 경기 진단을 '정체' 단계로 정하고 위험 요인별 기여도를 공개했다.\n\n중재의 성패는 코레이아 경제의 단기 위험을 수치와 사건 기록으로 분리해 시민과 정책 담당자에게 설명하는 것이라는 약속을 당사국이 지키는 데 달렸다. 프리즘 경제관측소는 “가장 큰 상승 요인은 대외·궤도 위험이며 단일 수치보다 40.2~74.4의 추정 범위를 함께 봐야 한다”라고 말했다.\n\n이번 조치의 배경에는 다음 공개 사건이 있다. 오르비스 AI연구원은 축전 기억소자와 광학 회로를 한 장의 회로에 올린 실험기가 빛의 세기와 파장을 조절하며 손글씨 분류 규칙을 현장에서 학습했다고 발표했다. 오르비스 AI연구원은 소형 뉴로모픽 반도체와 기억저항기를 결합한 펄스식 인공지능 장치가 불규칙하게 움직이는 모형 항공기의 다음 위치를 실시간으로 예측했다고 발표했다. 국제 결제망의 유동성 경색이 심화됐다. 오르비스 AI연구원은 서로 다른 빛깔에 반응하는 이미지 센서 배열이 별도의 영상 전송 없이 센서 표면에서 구름과 연기 신호를 구분했다고 발표했다.\n\n헬베티아 동맹이 보는 코레이아 공화국과의 현재 관계는 신뢰 67, 교역 의존 79, 군사 긴장 42다.\n\n다음 일정은 다음 날 오전 3시 전일 전망 오차와 새 경제·외교 사건을 다시 검토한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 헬베티아리뷰는 각 당사자의 약속과 민간 보호 장치가 함께 작동하는지 검증한다.",
+          "category": "economy",
+          "sourceEventIds": [
+            "tick-00000057-prisma-economic-report"
           ],
           "adultAnalysis": "심층 분석: . 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
         }
@@ -4607,48 +4654,48 @@
       "leadHeadline": "해협 보호령, 추가 대응 표결 24시간 유보",
       "articles": [
         {
-          "id": "orion-tick-00000060-event-40-article-1",
+          "id": "orion-tick-00000051-event-37-article-1",
           "headline": "해협 보호령, 추가 대응 표결 24시간 유보",
           "deck": "해협헤럴드는 정치 현안에서 지역 항로와 연료 공급에 번질 파장을 추적했다.",
-          "body": "테오 로랑 국가 지도자는 오르비스 표준시 7월 22일 오전 10:11 벨포트에서 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 해협헤럴드 보도 뒤 해협 보호령의 독자 반응 지표가 갱신됐다.\n\n지역 사회는 정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것이 항로와 생활 공급에 어떤 변화를 만드는지 주시하고 있다. 테오 로랑은 “행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다”라고 말했다.\n\n다음 일정은 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다. 정부는 국가 안전과 질서 유지를 우선 과제로 제시했다. 해협헤럴드는 중앙의 발표보다 지역 항로와 주민 생활에 나타나는 결과를 먼저 확인한다.",
+          "body": "테오 로랑 국가 지도자는 오르비스 표준시 7월 21일 오전 8:31 벨포트에서 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다.\n\n지역 사회는 정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것이 항로와 생활 공급에 어떤 변화를 만드는지 주시하고 있다. 테오 로랑은 “행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다”라고 말했다.\n\n다음 일정은 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다. 정부는 국가 안전과 질서 유지를 우선 과제로 제시했다. 해협헤럴드는 중앙의 발표보다 지역 항로와 주민 생활에 나타나는 결과를 먼저 확인한다.",
           "category": "politics",
           "sourceEventIds": [
-            "tick-00000060-event-40"
+            "tick-00000051-event-37"
           ],
           "adultAnalysis": "심층 분석: approval -0.4, publicAnxiety +0.5. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
         },
         {
-          "id": "orion-tick-00000056-oasi-discovery-article-2",
-          "headline": "오르비스 우주항공청, 무꼬리 소천체에서 미약한 가스 분출…'암흑혜성' 후보…항로·연료 수송 점검",
-          "deck": "해협헤럴드는 우주 현안에서 지역 항로와 연료 공급에 번질 파장을 추적했다.",
-          "body": "해협 보호령이 보는 코레이아 공화국과의 현재 관계는 신뢰 71, 교역 의존 71, 군사 긴장 23다.\n\n오르비스 우주항공청 공동관측심의회는 오르비스 표준시 7월 21일 오후 10:37 헬베티아 동맹 이레니아 국제관측구에서 근오르비스 소천체의 궤도가 중력만으로 설명되는 경로에서 벗어났고 장시간 합성영상에서 희미한 가스 분출 방향이 확인됐다고 발표했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 오르비스 우주항공청은 근오르비스 소천체의 궤도가 중력만으로 설명되는 경로에서 벗어났고 장시간 합성영상에서 희미한 가스 분출 방향이 확인됐다고 발표했다.\n\n지역 사회는 관측 결과와 불확실성을 오르비스 전역의 연구기관과 시민에게 동시에 공개하는 것이 항로와 생활 공급에 어떤 변화를 만드는지 주시하고 있다. 오르비스 우주항공청은 “위험 경보가 아니라 분류가 달라질 수 있다는 관측 결과다”라고 말했다.\n\n연구진이 밝힌 한계는 현재 계산으로 오르비스 충돌 위험은 없으며 분출 성분도 아직 확인되지 않았다.\n\n다음 일정은 행성방위망이 다음 근접 시기에 분광 관측을 실시하고 궤도 오차 범위를 매주 갱신한다. 과학계는 원자료 공개와 다른 관측망의 독립 검증이 뒤따라야 한다고 강조했다. 해협헤럴드는 중앙의 발표보다 지역 항로와 주민 생활에 나타나는 결과를 먼저 확인한다.",
-          "category": "space",
+          "id": "orion-tick-00000060-marevia-blueharbor-news-article-2",
+          "headline": "블루하버 물류연합, 자동화 항만 통관망 단계적 개방…항로·연료 수송 주목",
+          "deck": "해협헤럴드는 경제 현안에서 지역 항로와 연료 공급에 번질 파장을 추적했다.",
+          "body": "해협 보호령이 보는 아드리아 연합과의 현재 관계는 신뢰 86, 교역 의존 79, 군사 긴장 20다.\n\n블루하버 물류연합 운영위원회는 오르비스 표준시 7월 22일 오전 11:24 포르토 셀레네 자유항에서 선박 입항, 화물 검사, 궤도 화물 환적 일정을 한 장부에서 확인하는 통관망을 단계적으로 개방했다.\n\n이번 조치의 배경에는 다음 공개 사건이 있다. 블루하버 물류연합가 선박 입항, 화물 검사, 궤도 화물 환적 일정을 한 장부에서 확인하는 통관망을 단계적으로 개방했다.\n\n지역 사회는 해협 물류의 대기 시간과 중복 서류를 줄이는 것이 항로와 생활 공급에 어떤 변화를 만드는지 주시하고 있다. 블루하버 물류연합은 “빠른 항구보다 지연 사유를 모두가 확인할 수 있는 항구가 경쟁력을 만든다”라고 말했다.\n\n연구진이 밝힌 한계는 중소 운송사의 전산 전환 비용과 사고 책임 기준은 합의되지 않았다.\n\n다음 일정은 한 달 동안 세 항만의 평균 대기 시간을 공개한다. 정부는 국가 안전과 질서 유지를 우선 과제로 제시했다. 해협헤럴드는 중앙의 발표보다 지역 항로와 주민 생활에 나타나는 결과를 먼저 확인한다.",
+          "category": "economy",
           "sourceEventIds": [
-            "tick-00000056-oasi-discovery"
+            "tick-00000060-marevia-blueharbor-news"
           ],
           "adultAnalysis": "심층 분석: . 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
         },
         {
-          "id": "orion-tick-00000060-event-36-article-3",
-          "headline": "해협 보호령 의회, 책임자 7명 공개 청문회 추진",
-          "deck": "해협헤럴드는 정치 현안에서 지역 항로와 연료 공급에 번질 파장을 추적했다.",
-          "body": "셀레네 아르노 산업협회 대표는 오르비스 표준시 7월 22일 오전 10:24 벨포트에서 의회 조사위원회를 구성해 외교부와 우주사령부 책임자 7명을 공개 증언대에 세우기로 했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 해협헤럴드 보도 뒤 해협 보호령의 독자 반응 지표가 갱신됐다.\n\n지역 사회는 위기 대응 과정의 보고 누락과 의사결정 책임을 확인하는 것이 항로와 생활 공급에 어떤 변화를 만드는지 주시하고 있다. 셀레네 아르노는 “기밀을 이유로 정책 실패까지 감출 수는 없으며 공개 가능한 기록부터 확인하겠다”라고 말했다.\n\n다음 일정은 사흘 뒤 첫 청문회를 열고 10일 안에 중간 조사 결과를 발표한다. 정부는 국가 안전과 질서 유지를 우선 과제로 제시했다. 해협헤럴드는 중앙의 발표보다 지역 항로와 주민 생활에 나타나는 결과를 먼저 확인한다.",
-          "category": "politics",
+          "id": "orion-tick-00000057-prisma-economic-report-article-3",
+          "headline": "프리즘 경제관측소, 코레이아 경기 '정체' 진단…항로·연료 수송 점검",
+          "deck": "해협헤럴드는 경제 현안에서 지역 항로와 연료 공급에 번질 파장을 추적했다.",
+          "body": "해협 보호령이 보는 코레이아 공화국과의 현재 관계는 신뢰 71, 교역 의존 71, 군사 긴장 23다.\n\n프리즘 경제관측소 수석 경제관측관은 오르비스 표준시 7월 22일 오전 2:40 아우렐리아 프리즘 관측관에서 5개 분석실이 일일회의를 열어 경기 진단을 '정체' 단계로 정하고 위험 요인별 기여도를 공개했다.\n\n이번 조치의 배경에는 다음 공개 사건이 있다. 오르비스 AI연구원은 축전 기억소자와 광학 회로를 한 장의 회로에 올린 실험기가 빛의 세기와 파장을 조절하며 손글씨 분류 규칙을 현장에서 학습했다고 발표했다. 오르비스 AI연구원은 소형 뉴로모픽 반도체와 기억저항기를 결합한 펄스식 인공지능 장치가 불규칙하게 움직이는 모형 항공기의 다음 위치를 실시간으로 예측했다고 발표했다. 국제 결제망의 유동성 경색이 심화됐다. 오르비스 AI연구원은 서로 다른 빛깔에 반응하는 이미지 센서 배열이 별도의 영상 전송 없이 센서 표면에서 구름과 연기 신호를 구분했다고 발표했다.\n\n지역 사회는 코레이아 경제의 단기 위험을 수치와 사건 기록으로 분리해 시민과 정책 담당자에게 설명하는 것이 항로와 생활 공급에 어떤 변화를 만드는지 주시하고 있다. 프리즘 경제관측소는 “가장 큰 상승 요인은 대외·궤도 위험이며 단일 수치보다 40.2~74.4의 추정 범위를 함께 봐야 한다”라고 말했다.\n\n다음 일정은 다음 날 오전 3시 전일 전망 오차와 새 경제·외교 사건을 다시 검토한다. 정부는 국가 안전과 질서 유지를 우선 과제로 제시했다. 해협헤럴드는 중앙의 발표보다 지역 항로와 주민 생활에 나타나는 결과를 먼저 확인한다.",
+          "category": "economy",
           "sourceEventIds": [
-            "tick-00000060-event-36"
+            "tick-00000057-prisma-economic-report"
           ],
-          "adultAnalysis": "심층 분석: approval -0.61, publicAnxiety -0.21. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+          "adultAnalysis": "심층 분석: . 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
         },
         {
-          "id": "orion-tick-00000060-event-28-article-4",
-          "headline": "동방 인민공화국, 해협 보호령에 48시간 내 실무회담 제안…항로·연료 수송 주목",
+          "id": "orion-tick-00000059-event-40-article-4",
+          "headline": "해협 보호령, 코레이아 공화국에 48시간 내 실무회담 제안",
           "deck": "해협헤럴드는 외교 현안에서 지역 항로와 연료 공급에 번질 파장을 추적했다.",
-          "body": "해협 보호령이 보는 동방 인민공화국과의 현재 관계는 신뢰 86, 교역 의존 29, 군사 긴장 47다.\n\n셀레네 노빅 도시 직장인 대표는 오르비스 표준시 7월 22일 오전 10:51 동명에서 해협 보호령에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다.\n\n이번 발표에 앞서 다음 사실이 공개됐다. 소행성 연료 채굴선의 귀환 일정이 지연됐다. 동방뉴스 보도 뒤 동방 인민공화국의 독자 반응 지표가 갱신됐다. 해협헤럴드 보도 뒤 해협 보호령의 독자 반응 지표가 갱신됐다.\n\n해협 보호령 측은 별도 발표에서 동방 인민공화국에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다.\n\n지역 사회는 해협 보호령과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것이 항로와 생활 공급에 어떤 변화를 만드는지 주시하고 있다. 셀레네 노빅은 “상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다”라고 말했다.\n\n다음 일정은 해협 보호령의 답변을 받은 뒤 동명 외교회관에서 예비접촉 대표와 의제를 공개한다. 정부는 국가 안전과 질서 유지를 우선 과제로 제시했다. 해협헤럴드는 중앙의 발표보다 지역 항로와 주민 생활에 나타나는 결과를 먼저 확인한다.",
+          "body": "이반 세브르 정치·외교 기자는 오르비스 표준시 7월 22일 오전 6:28 벨포트에서 코레이아 공화국에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다.\n\n이번 조치의 배경에는 다음 공개 사건이 있다. 수도권에서 물가 안정과 평화를 요구하는 집회가 열렸다.\n\n코레이아 공화국 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다.\n\n지역 사회는 코레이아 공화국과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것이 항로와 생활 공급에 어떤 변화를 만드는지 주시하고 있다. 이반 세브르는 “상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다”라고 말했다.\n\n다음 일정은 코레이아 공화국의 답변을 받은 뒤 벨포트 외교회관에서 예비접촉 대표와 의제를 공개한다. 정부는 국가 안전과 질서 유지를 우선 과제로 제시했다. 해협헤럴드는 중앙의 발표보다 지역 항로와 주민 생활에 나타나는 결과를 먼저 확인한다.",
           "category": "diplomacy",
           "sourceEventIds": [
-            "tick-00000060-event-28"
+            "tick-00000059-event-40"
           ],
-          "adultAnalysis": "심층 분석: approval +0.27, publicAnxiety -0.3. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+          "adultAnalysis": "심층 분석: approval 0, publicAnxiety -0.5. 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
         }
       ],
       "factIds": [
@@ -4688,7 +4735,7 @@
       "sections": [
         {
           "heading": "외교 현안에서 확인된 공통 위험",
-          "body": "오늘 코레이아타임스·아메리아포스트·화하데일리·알비온저널·아드리아경제·동방뉴스·헬베티아리뷰·해협헤럴드의 지면을 나란히 펼치면 먼저 눈에 들어오는 것은 국가의 수만큼 많은 진실이 아니라, 같은 사실에 붙인 서로 다른 두려움의 이름이다. 주요 지면은 ‘알비온 공동체 의회, 책임자 7명 공개 청문회 추진…정부 대응·공개 일정 주목’, ‘프리즘 경제관측소, 코레이아 경기 '정체' 진단…안보·산업 영향 점검’, ‘헬베티아 동맹, 화하 왕국에 48시간 내 실무회담 제안…기술 검증·에너지 영향 주목’, ‘알비온 공동체 의회, 책임자 7명 공개 청문회 추진’, ‘프리즘 경제관측소, 코레이아 경기 '정체' 진단…교역·운송 일정 점검’, ‘프리즘 경제관측소, 코레이아 경기 '정체' 진단…생산·노동 현장 점검’을 앞세웠다. 어느 신문은 질서를, 어느 신문은 시장을, 어느 신문은 노동과 생존을 강조했지만 시민이 실제로 묻는 것은 단순하다. 내일도 수송선이 오고, 통신이 이어지고, 아이들이 전쟁의 예고 속에서 잠들지 않아도 되는가. 필자는 이 질문이 모든 국경보다 앞선다고 본다."
+          "body": "오늘 코레이아타임스·아메리아포스트·화하데일리·알비온저널·아드리아경제·동방뉴스·헬베티아리뷰·해협헤럴드의 지면을 나란히 펼치면 먼저 눈에 들어오는 것은 국가의 수만큼 많은 진실이 아니라, 같은 사실에 붙인 서로 다른 두려움의 이름이다. 주요 지면은 ‘코레이아 공화국, 아메리아 연방에 수송선 3척·의료단 파견’, ‘아메리아 연방, 하루 두 차례 위기 합동브리핑’, ‘화하 왕국, 코레이아 공화국에 48시간 내 실무회담 제안’, ‘알비온 공동체, 화하 왕국에 수송선 3척·의료단 파견’, ‘아드리아 연합, 해협 보호령에 48시간 내 실무회담 제안’, ‘동방 인민공화국, 하루 두 차례 위기 합동브리핑’을 앞세웠다. 어느 신문은 질서를, 어느 신문은 시장을, 어느 신문은 노동과 생존을 강조했지만 시민이 실제로 묻는 것은 단순하다. 내일도 수송선이 오고, 통신이 이어지고, 아이들이 전쟁의 예고 속에서 잠들지 않아도 되는가. 필자는 이 질문이 모든 국경보다 앞선다고 본다."
         },
         {
           "heading": "발표보다 실행을 확인할 때",
@@ -4714,7 +4761,7 @@
             "vesper"
           ],
           "title": "아드리아 연합–아메리아 연방 72시간 공동 검증반",
-          "rationale": "두 나라의 군사 긴장은 52, 신뢰는 55, 교역 의존은 40다. 관계를 끊기보다 작더라도 확인할 수 있는 합의부터 시작해야 한다.",
+          "rationale": "두 나라의 군사 긴장은 50, 신뢰는 57, 교역 의존은 40다. 관계를 끊기보다 작더라도 확인할 수 있는 합의부터 시작해야 한다.",
           "firstStep": "두 나라가 같은 시각에 연락장교와 민간 기술자 명단을 공개하고 하나의 사건 기록 양식을 함께 쓴다."
         },
         {
@@ -4728,11 +4775,11 @@
         },
         {
           "nationIds": [
-            "eiren",
+            "aster",
             "nova"
           ],
-          "title": "헬베티아 동맹–코레이아 공화국 긴장 완화 실무회의",
-          "rationale": "두 나라의 군사 긴장은 46, 신뢰는 69, 교역 의존은 47다. 관계를 끊기보다 작더라도 확인할 수 있는 합의부터 시작해야 한다.",
+          "title": "알비온 공동체–코레이아 공화국 긴장 완화 실무회의",
+          "rationale": "두 나라의 군사 긴장은 61, 신뢰는 88, 교역 의존은 33다. 관계를 끊기보다 작더라도 확인할 수 있는 합의부터 시작해야 한다.",
           "firstStep": "최종 양보부터 요구하지 말고 충돌 회피, 선전 자제, 검문 시간 단축을 따로 나눠 협상한다."
         }
       ],
