@@ -1,6 +1,6 @@
 {
-  "schemaVersion": 1,
-  "generatedAt": "2026-07-23T13:18:03.462Z",
+  "schemaVersion": 2,
+  "generatedAt": "2026-07-23T14:30:06.792Z",
   "tick": 70,
   "worldTime": "3026-07-23T09:00:00.000Z",
   "title": "코레이아의 여덟 국가",
@@ -12073,5 +12073,59 @@
       "asOf": "2026-07-21T01:00:00.000Z",
       "status": "live"
     }
-  ]
+  ],
+  "storyArcs": [
+    {
+      "id": "arc-regional-71-nova-aster",
+      "kind": "regional",
+      "category": "diplomacy",
+      "title": "코레이아 공화국·알비온 공동체, 세레스 해 연료항로 대치",
+      "summary": "검문권과 민간 연료선 통항 조건을 둘러싼 대치가 수송 일정과 동맹 관계를 흔들고 있다.",
+      "participantNationIds": [
+        "nova",
+        "aster"
+      ],
+      "stage": "trigger",
+      "status": "active",
+      "startedAtTick": 71,
+      "deadlineTick": 89,
+      "lastAdvancedTick": 70,
+      "nextDecisionAt": "3026-07-23T15:00:00.000Z",
+      "stakes": "협상 실패 시 연료 배급과 궤도 화물 운항이 동시에 악화될 수 있다.",
+      "publicGoal": "민간선 통항을 유지하면서 양측이 확인할 수 있는 검문 절차를 만드는 것",
+      "sourceEventIds": [],
+      "beats": [],
+      "visual": {
+        "imagePath": "/images/story-arcs/arc-regional-71-nova-aster.webp",
+        "alt": "코레이아 공화국·알비온 공동체, 세레스 해 연료항로 대치을 표현한 오르비스 기록화",
+        "status": "pending"
+      }
+    },
+    {
+      "id": "arc-domestic-71-nova",
+      "kind": "domestic",
+      "category": "politics",
+      "title": "코레이아 공화국, 위기예산과 내각 신임 표결",
+      "summary": "연료·물가 대응 예산을 둘러싼 연정 균열이 정부 존속 여부를 가를 표결로 번졌다.",
+      "participantNationIds": [
+        "nova"
+      ],
+      "stage": "trigger",
+      "status": "active",
+      "startedAtTick": 71,
+      "deadlineTick": 89,
+      "lastAdvancedTick": 70,
+      "nextDecisionAt": "3026-07-23T15:00:00.000Z",
+      "stakes": "표결 결과에 따라 위기예산 집행 속도와 내각의 협상 권한이 달라진다.",
+      "publicGoal": "의회 과반의 책임 아래 연료·물가 대응 예산과 내각 권한을 확정하는 것",
+      "sourceEventIds": [],
+      "beats": [],
+      "visual": {
+        "imagePath": "/images/story-arcs/arc-domestic-71-nova.webp",
+        "alt": "코레이아 공화국, 위기예산과 내각 신임 표결을 표현한 오르비스 기록화",
+        "status": "pending"
+      }
+    }
+  ],
+  "scienceValidations": []
 }
