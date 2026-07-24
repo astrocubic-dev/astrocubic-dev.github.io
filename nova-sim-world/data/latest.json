@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-07-23T19:21:39.659Z",
-  "tick": 72,
-  "worldTime": "3026-07-23T15:00:00.000Z",
+  "generatedAt": "2026-07-23T22:22:52.012Z",
+  "tick": 73,
+  "worldTime": "3026-07-23T18:00:00.000Z",
   "title": "코레이아의 여덟 국가",
   "planet": {
     "id": "orbis",
@@ -41,19 +41,19 @@
       "technologyProfile": "AI 반도체, 원자력, 우주 물류",
       "populationMillions": 38.4,
       "metrics": {
-        "approval": 82.78,
-        "inflation": 4.31,
+        "approval": 82.65,
+        "inflation": 4.32,
         "unemployment": 4.95,
         "gdpIndex": 104.1,
         "currencyPerSolar": 4.82,
-        "currencyDelta": 1.12,
+        "currencyDelta": 0.97,
         "reserves": 0,
         "debtRatio": 47.44,
         "coalitionSeats": 188,
         "totalSeats": 360,
         "militaryReadiness": 53,
-        "orbitalFuelDays": 12.8,
-        "publicAnxiety": 1.53
+        "orbitalFuelDays": 13.46,
+        "publicAnxiety": 2.16
       },
       "purchasingPower": {
         "currencyCode": "LUM",
@@ -78,7 +78,7 @@
             "id": "meal",
             "labelKo": "보통 식사",
             "unitKo": "1끼",
-            "priceLocal": 5.79,
+            "priceLocal": 5.8,
             "amountForOneUnit": 0.17
           },
           {
@@ -92,7 +92,7 @@
             "id": "orbital-fuel",
             "labelKo": "궤도 추진제 도매",
             "unitKo": "1 kg",
-            "priceLocal": 19.47,
+            "priceLocal": 19.07,
             "amountForOneUnit": 0.05
           }
         ]
@@ -119,8 +119,8 @@
             "routeStatus": "원활"
           }
         ],
-        "wholesalePricePerKg": 19.47,
-        "changeSincePreviousTick": -0.09,
+        "wholesalePricePerKg": 19.07,
+        "changeSincePreviousTick": 0.66,
         "resourceBasisKo": "물·얼음에서 전기분해한 수소·산소 추진제와 합성 메탄을 국내 정제·회수하고, 부족분은 궤도 교역로로 들여옵니다."
       },
       "active": true,
@@ -129,9 +129,9 @@
         "originNationId": "nova",
         "parentNationIds": [],
         "successorNationIds": [],
-        "stabilityScore": 68.8,
-        "legitimacyScore": 82.9,
-        "cohesionScore": 57.2
+        "stabilityScore": 68.7,
+        "legitimacyScore": 82.6,
+        "cohesionScore": 57.3
       }
     },
     {
@@ -157,19 +157,19 @@
       "technologyProfile": "중궤도 정거장, 대형 로켓, 전파전",
       "populationMillions": 61.2,
       "metrics": {
-        "approval": 81.27,
-        "inflation": 4.42,
+        "approval": 79.85,
+        "inflation": 4.43,
         "unemployment": 5.32,
         "gdpIndex": 98.07,
         "currencyPerSolar": 3.77,
-        "currencyDelta": -3.24,
+        "currencyDelta": -3.19,
         "reserves": 0,
         "debtRatio": 50.44,
         "coalitionSeats": 231,
         "totalSeats": 420,
         "militaryReadiness": 56,
-        "orbitalFuelDays": 26.19,
-        "publicAnxiety": 1.91
+        "orbitalFuelDays": 26.07,
+        "publicAnxiety": 1.48
       },
       "purchasingPower": {
         "currencyCode": "VCR",
@@ -245,9 +245,9 @@
         "originNationId": "vesper",
         "parentNationIds": [],
         "successorNationIds": [],
-        "stabilityScore": 68.6,
-        "legitimacyScore": 82.4,
-        "cohesionScore": 61.2
+        "stabilityScore": 68.3,
+        "legitimacyScore": 81.7,
+        "cohesionScore": 60.9
       }
     },
     {
@@ -273,19 +273,19 @@
       "technologyProfile": "태양관측, 고속 계산기, 핵융합 실험",
       "populationMillions": 29.7,
       "metrics": {
-        "approval": 85.46,
-        "inflation": 4.24,
+        "approval": 85.5,
+        "inflation": 4.25,
         "unemployment": 4.72,
         "gdpIndex": 108.09,
         "currencyPerSolar": 4.14,
-        "currencyDelta": -0.26,
-        "reserves": 12.48,
+        "currencyDelta": -0.17,
+        "reserves": 11.61,
         "debtRatio": 45.44,
         "coalitionSeats": 196,
         "totalSeats": 240,
         "militaryReadiness": 51,
-        "orbitalFuelDays": 30.64,
-        "publicAnxiety": 1
+        "orbitalFuelDays": 30.52,
+        "publicAnxiety": 0
       },
       "purchasingPower": {
         "currencyCode": "HEL",
@@ -362,7 +362,7 @@
         "parentNationIds": [],
         "successorNationIds": [],
         "stabilityScore": 74.8,
-        "legitimacyScore": 89,
+        "legitimacyScore": 89.3,
         "cohesionScore": 68.8
       }
     },
@@ -389,19 +389,19 @@
       "technologyProfile": "해양 발사, 통신위성, 항법망",
       "populationMillions": 44.8,
       "metrics": {
-        "approval": 83.23,
-        "inflation": 4.35,
+        "approval": 83.15,
+        "inflation": 4.36,
         "unemployment": 5.09,
         "gdpIndex": 102.06,
         "currencyPerSolar": 4.51,
-        "currencyDelta": -0.8,
+        "currencyDelta": -0.5,
         "reserves": 2.05,
         "debtRatio": 48.44,
         "coalitionSeats": 267,
         "totalSeats": 500,
         "militaryReadiness": 54,
-        "orbitalFuelDays": 27.53,
-        "publicAnxiety": 2.06
+        "orbitalFuelDays": 27.41,
+        "publicAnxiety": 1
       },
       "purchasingPower": {
         "currencyCode": "AST",
@@ -440,7 +440,7 @@
             "id": "orbital-fuel",
             "labelKo": "궤도 추진제 도매",
             "unitKo": "1 kg",
-            "priceLocal": 11.32,
+            "priceLocal": 11.33,
             "amountForOneUnit": 0.09
           }
         ]
@@ -467,7 +467,7 @@
             "routeStatus": "원활"
           }
         ],
-        "wholesalePricePerKg": 11.32,
+        "wholesalePricePerKg": 11.33,
         "changeSincePreviousTick": -0.12,
         "resourceBasisKo": "물·얼음에서 전기분해한 수소·산소 추진제와 합성 메탄을 국내 정제·회수하고, 부족분은 궤도 교역로로 들여옵니다."
       },
@@ -477,9 +477,9 @@
         "originNationId": "aster",
         "parentNationIds": [],
         "successorNationIds": [],
-        "stabilityScore": 70,
-        "legitimacyScore": 83.2,
-        "cohesionScore": 62.9
+        "stabilityScore": 70.2,
+        "legitimacyScore": 83.4,
+        "cohesionScore": 63
       }
     },
     {
@@ -505,19 +505,19 @@
       "technologyProfile": "부유식 우주항, 심해 자원, 상선망",
       "populationMillions": 24.1,
       "metrics": {
-        "approval": 82.66,
-        "inflation": 4.45,
+        "approval": 80.41,
+        "inflation": 4.46,
         "unemployment": 5.44,
         "gdpIndex": 96.09,
         "currencyPerSolar": 4.88,
-        "currencyDelta": -0.64,
+        "currencyDelta": -0.71,
         "reserves": 0,
         "debtRatio": 51.44,
         "coalitionSeats": 119,
         "totalSeats": 216,
         "militaryReadiness": 57,
-        "orbitalFuelDays": 24.71,
-        "publicAnxiety": 0
+        "orbitalFuelDays": 24.62,
+        "publicAnxiety": 1.56
       },
       "purchasingPower": {
         "currencyCode": "MAR",
@@ -556,7 +556,7 @@
             "id": "orbital-fuel",
             "labelKo": "궤도 추진제 도매",
             "unitKo": "1 kg",
-            "priceLocal": 12.46,
+            "priceLocal": 12.52,
             "amountForOneUnit": 0.08
           }
         ]
@@ -583,7 +583,7 @@
             "routeStatus": "원활"
           }
         ],
-        "wholesalePricePerKg": 12.46,
+        "wholesalePricePerKg": 12.52,
         "changeSincePreviousTick": -0.09,
         "resourceBasisKo": "물·얼음에서 전기분해한 수소·산소 추진제와 합성 메탄을 국내 정제·회수하고, 부족분은 궤도 교역로로 들여옵니다."
       },
@@ -593,9 +593,9 @@
         "originNationId": "marevia",
         "parentNationIds": [],
         "successorNationIds": [],
-        "stabilityScore": 68.8,
-        "legitimacyScore": 83.7,
-        "cohesionScore": 60.9
+        "stabilityScore": 67.9,
+        "legitimacyScore": 82,
+        "cohesionScore": 60.2
       }
     },
     {
@@ -621,19 +621,19 @@
       "technologyProfile": "중공업, 군사위성, 극지 발사장",
       "populationMillions": 72.5,
       "metrics": {
-        "approval": 84.24,
+        "approval": 81.69,
         "inflation": 4.5,
         "unemployment": 5.69,
         "gdpIndex": 92.06,
         "currencyPerSolar": 5.25,
-        "currencyDelta": 0.32,
+        "currencyDelta": 0.31,
         "reserves": 9,
         "debtRatio": 53.44,
         "coalitionSeats": 428,
         "totalSeats": 450,
         "militaryReadiness": 59,
-        "orbitalFuelDays": 22.61,
-        "publicAnxiety": 0
+        "orbitalFuelDays": 22.49,
+        "publicAnxiety": 2.98
       },
       "purchasingPower": {
         "currencyCode": "KAR",
@@ -672,7 +672,7 @@
             "id": "orbital-fuel",
             "labelKo": "궤도 추진제 도매",
             "unitKo": "1 kg",
-            "priceLocal": 14.81,
+            "priceLocal": 14.89,
             "amountForOneUnit": 0.07
           }
         ]
@@ -699,7 +699,7 @@
             "routeStatus": "원활"
           }
         ],
-        "wholesalePricePerKg": 14.81,
+        "wholesalePricePerKg": 14.89,
         "changeSincePreviousTick": -0.12,
         "resourceBasisKo": "물·얼음에서 전기분해한 수소·산소 추진제와 합성 메탄을 국내 정제·회수하고, 부족분은 궤도 교역로로 들여옵니다."
       },
@@ -709,9 +709,9 @@
         "originNationId": "karsk",
         "parentNationIds": [],
         "successorNationIds": [],
-        "stabilityScore": 71.5,
-        "legitimacyScore": 90.6,
-        "cohesionScore": 63.6
+        "stabilityScore": 70.3,
+        "legitimacyScore": 88.3,
+        "cohesionScore": 62.6
       }
     },
     {
@@ -737,19 +737,19 @@
       "technologyProfile": "의료위성, 국제중계, 구조선",
       "populationMillions": 18.9,
       "metrics": {
-        "approval": 84.27,
-        "inflation": 4.2,
+        "approval": 84.1,
+        "inflation": 4.21,
         "unemployment": 4.6,
         "gdpIndex": 110.07,
         "currencyPerSolar": 5.62,
-        "currencyDelta": -2.12,
-        "reserves": 4.5,
+        "currencyDelta": -2.2,
+        "reserves": 3.71,
         "debtRatio": 44.44,
         "coalitionSeats": 102,
         "totalSeats": 180,
         "militaryReadiness": 50,
-        "orbitalFuelDays": 32.31,
-        "publicAnxiety": 0.93
+        "orbitalFuelDays": 32.19,
+        "publicAnxiety": 2.21
       },
       "purchasingPower": {
         "currencyCode": "EIR",
@@ -801,12 +801,12 @@
         "suppliers": [
           {
             "nationId": "helion",
-            "sharePercent": 29,
+            "sharePercent": 28,
             "routeStatus": "원활"
           },
           {
             "nationId": "orion",
-            "sharePercent": 21,
+            "sharePercent": 22,
             "routeStatus": "원활"
           },
           {
@@ -825,9 +825,9 @@
         "originNationId": "eiren",
         "parentNationIds": [],
         "successorNationIds": [],
-        "stabilityScore": 72.7,
-        "legitimacyScore": 84.6,
-        "cohesionScore": 66.4
+        "stabilityScore": 72.3,
+        "legitimacyScore": 84.1,
+        "cohesionScore": 66.1
       }
     },
     {
@@ -853,19 +853,19 @@
       "technologyProfile": "궤도 연료, 소행성 채굴, 장거리 레이더",
       "populationMillions": 12.6,
       "metrics": {
-        "approval": 83.06,
+        "approval": 81.38,
         "inflation": 4.5,
         "unemployment": 5.8,
         "gdpIndex": 90.07,
         "currencyPerSolar": 6.02,
-        "currencyDelta": -0.9,
+        "currencyDelta": -0.76,
         "reserves": 0,
         "debtRatio": 54.44,
         "coalitionSeats": 67,
         "totalSeats": 120,
         "militaryReadiness": 60,
-        "orbitalFuelDays": 23.11,
-        "publicAnxiety": 0.5
+        "orbitalFuelDays": 23.02,
+        "publicAnxiety": 1
       },
       "purchasingPower": {
         "currencyCode": "ORN",
@@ -904,7 +904,7 @@
             "id": "orbital-fuel",
             "labelKo": "궤도 추진제 도매",
             "unitKo": "1 kg",
-            "priceLocal": 16.6,
+            "priceLocal": 16.67,
             "amountForOneUnit": 0.06
           }
         ]
@@ -931,8 +931,8 @@
             "routeStatus": "원활"
           }
         ],
-        "wholesalePricePerKg": 16.6,
-        "changeSincePreviousTick": 0.88,
+        "wholesalePricePerKg": 16.67,
+        "changeSincePreviousTick": -0.09,
         "resourceBasisKo": "물·얼음에서 전기분해한 수소·산소 추진제와 합성 메탄을 국내 정제·회수하고, 부족분은 궤도 교역로로 들여옵니다."
       },
       "active": true,
@@ -941,9 +941,9 @@
         "originNationId": "orion",
         "parentNationIds": [],
         "successorNationIds": [],
-        "stabilityScore": 67.7,
-        "legitimacyScore": 83.9,
-        "cohesionScore": 59.6
+        "stabilityScore": 67.2,
+        "legitimacyScore": 82.8,
+        "cohesionScore": 59.1
       }
     }
   ],
@@ -951,9 +951,9 @@
     {
       "fromNationId": "nova",
       "toNationId": "vesper",
-      "trust": 79.1,
-      "tradeDependency": 58.09,
-      "militaryTension": 8.21,
+      "trust": 82.72,
+      "tradeDependency": 58.96,
+      "militaryTension": 5.31,
       "treaty": "none"
     },
     {
@@ -999,9 +999,9 @@
     {
       "fromNationId": "nova",
       "toNationId": "orion",
-      "trust": 77.2,
-      "tradeDependency": 38.14,
-      "militaryTension": 19.62,
+      "trust": 80.1,
+      "tradeDependency": 38.84,
+      "militaryTension": 17.3,
       "treaty": "non-aggression"
     },
     {
@@ -1063,9 +1063,9 @@
     {
       "fromNationId": "helion",
       "toNationId": "nova",
-      "trust": 98.49,
-      "tradeDependency": 45.64,
-      "militaryTension": 18.79,
+      "trust": 100,
+      "tradeDependency": 46.72,
+      "militaryTension": 15.21,
       "treaty": "trade"
     },
     {
@@ -1111,9 +1111,9 @@
     {
       "fromNationId": "helion",
       "toNationId": "orion",
-      "trust": 49.8,
-      "tradeDependency": 18.97,
-      "militaryTension": 18,
+      "trust": 51.26,
+      "tradeDependency": 19.7,
+      "militaryTension": 17.51,
       "treaty": "none"
     },
     {
@@ -1175,9 +1175,9 @@
     {
       "fromNationId": "marevia",
       "toNationId": "nova",
-      "trust": 36.31,
-      "tradeDependency": 23.75,
-      "militaryTension": 43.27,
+      "trust": 39.98,
+      "tradeDependency": 24.63,
+      "militaryTension": 40.33,
       "treaty": "none"
     },
     {
@@ -1335,9 +1335,9 @@
     {
       "fromNationId": "eiren",
       "toNationId": "orion",
-      "trust": 90.16,
-      "tradeDependency": 57,
-      "militaryTension": 31.37,
+      "trust": 91.48,
+      "tradeDependency": 57.66,
+      "militaryTension": 30.93,
       "treaty": "trade"
     },
     {
@@ -1359,9 +1359,9 @@
     {
       "fromNationId": "orion",
       "toNationId": "helion",
-      "trust": 62.21,
-      "tradeDependency": 39.12,
-      "militaryTension": 39.5,
+      "trust": 64.15,
+      "tradeDependency": 40.09,
+      "militaryTension": 39.01,
       "treaty": "none"
     },
     {
@@ -1392,1453 +1392,12 @@
       "fromNationId": "orion",
       "toNationId": "eiren",
       "trust": 100,
-      "tradeDependency": 52.46,
+      "tradeDependency": 53.34,
       "militaryTension": 0,
       "treaty": "trade"
     }
   ],
   "events": [
-    {
-      "id": "tick-00000071-event-8",
-      "tickId": "tick-00000071",
-      "occurredAt": "3026-07-23T11:44:44.082Z",
-      "nationIds": [
-        "vesper",
-        "marevia"
-      ],
-      "category": "diplomacy",
-      "title": "아메리아 연방, 아드리아 연합에 48시간 내 실무회담 제안",
-      "summary": "엘라 슈타인 지역 대표 의원은 아드리아 연합에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다. 아드리아 연합의 답변을 받은 뒤 벨라트리스 외교회관에서 예비접촉 대표와 의제를 공개한다.",
-      "severity": 52,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000071-vesper-action-3"
-      ],
-      "metricChanges": {
-        "approval": 0.73,
-        "publicAnxiety": 0
-      },
-      "actorAgentId": "vesper-agent-06",
-      "actorName": "엘라 슈타인",
-      "actorTitle": "지역 대표 의원",
-      "locationKo": "벨라트리스",
-      "targetNationId": "marevia",
-      "objective": "아드리아 연합과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것",
-      "announcedMeasure": "아드리아 연합에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다",
-      "publicQuote": "상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다",
-      "nextStep": "아드리아 연합의 답변을 받은 뒤 벨라트리스 외교회관에서 예비접촉 대표와 의제를 공개한다",
-      "backgroundFactIds": [
-        "tick-00000071-fact-society"
-      ],
-      "counterpartResponse": "아드리아 연합 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다"
-    },
-    {
-      "id": "tick-00000071-event-9",
-      "tickId": "tick-00000071",
-      "occurredAt": "3026-07-23T11:34:56.327Z",
-      "nationIds": [
-        "vesper",
-        "karsk"
-      ],
-      "category": "diplomacy",
-      "title": "아메리아 연방, 동방 인민공화국에 48시간 내 실무회담 제안",
-      "summary": "테오 펠트 외교위원장은 동방 인민공화국에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다. 동방 인민공화국의 답변을 받은 뒤 벨라트리스 외교회관에서 예비접촉 대표와 의제를 공개한다.",
-      "severity": 49,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000071-vesper-action-4"
-      ],
-      "metricChanges": {
-        "approval": 0.45,
-        "publicAnxiety": 0
-      },
-      "actorAgentId": "vesper-agent-07",
-      "actorName": "테오 펠트",
-      "actorTitle": "외교위원장",
-      "locationKo": "벨라트리스",
-      "targetNationId": "karsk",
-      "objective": "동방 인민공화국과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것",
-      "announcedMeasure": "동방 인민공화국에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다",
-      "publicQuote": "상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다",
-      "nextStep": "동방 인민공화국의 답변을 받은 뒤 벨라트리스 외교회관에서 예비접촉 대표와 의제를 공개한다",
-      "backgroundFactIds": [
-        "tick-00000071-fact-society"
-      ],
-      "counterpartResponse": "동방 인민공화국 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다"
-    },
-    {
-      "id": "tick-00000071-event-10",
-      "tickId": "tick-00000071",
-      "occurredAt": "3026-07-23T10:32:53.878Z",
-      "nationIds": [
-        "vesper"
-      ],
-      "category": "politics",
-      "title": "아메리아 연방, 추가 대응 표결 24시간 유보",
-      "summary": "레온 노르 재무부·중앙은행은 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다.",
-      "severity": 62,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000071-vesper-action-5"
-      ],
-      "metricChanges": {
-        "approval": -0.4,
-        "publicAnxiety": 0.5
-      },
-      "actorAgentId": "vesper-agent-08",
-      "actorName": "레온 노르",
-      "actorTitle": "재무부·중앙은행",
-      "locationKo": "벨라트리스",
-      "objective": "정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것",
-      "announcedMeasure": "추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다",
-      "publicQuote": "행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다",
-      "nextStep": "합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다",
-      "backgroundFactIds": []
-    },
-    {
-      "id": "tick-00000071-event-11",
-      "tickId": "tick-00000071",
-      "occurredAt": "3026-07-23T10:16:34.286Z",
-      "nationIds": [
-        "helion"
-      ],
-      "category": "society",
-      "title": "화하 왕국, 하루 두 차례 위기 합동브리핑",
-      "summary": "마르코 라헬 민족전선 지도부는 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 첫 합동 브리핑은 이날 오후 솔 인빅타 중앙기록관에서 열린다.",
-      "severity": 71,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000071-helion-action-1"
-      ],
-      "metricChanges": {
-        "approval": -0.99,
-        "publicAnxiety": -0.39
-      },
-      "actorAgentId": "helion-agent-04",
-      "actorName": "마르코 라헬",
-      "actorTitle": "민족전선 지도부",
-      "locationKo": "솔 인빅타",
-      "objective": "정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것",
-      "announcedMeasure": "매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다",
-      "publicQuote": "확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라",
-      "nextStep": "첫 합동 브리핑은 이날 오후 솔 인빅타 중앙기록관에서 열린다",
-      "backgroundFactIds": []
-    },
-    {
-      "id": "tick-00000071-event-12",
-      "tickId": "tick-00000071",
-      "occurredAt": "3026-07-23T11:05:33.061Z",
-      "nationIds": [
-        "helion",
-        "aster"
-      ],
-      "category": "diplomacy",
-      "title": "화하 왕국, 알비온 공동체에 48시간 내 실무회담 제안",
-      "summary": "엘라 카심 차기 지도자 후보는 알비온 공동체에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다. 알비온 공동체의 답변을 받은 뒤 솔 인빅타 외교회관에서 예비접촉 대표와 의제를 공개한다.",
-      "severity": 49,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000071-helion-action-2"
-      ],
-      "metricChanges": {
-        "approval": -0.28,
-        "publicAnxiety": 0
-      },
-      "actorAgentId": "helion-agent-05",
-      "actorName": "엘라 카심",
-      "actorTitle": "차기 지도자 후보",
-      "locationKo": "솔 인빅타",
-      "targetNationId": "aster",
-      "objective": "알비온 공동체와의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것",
-      "announcedMeasure": "알비온 공동체에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다",
-      "publicQuote": "상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다",
-      "nextStep": "알비온 공동체의 답변을 받은 뒤 솔 인빅타 외교회관에서 예비접촉 대표와 의제를 공개한다",
-      "backgroundFactIds": [],
-      "counterpartResponse": "알비온 공동체 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다"
-    },
-    {
-      "id": "tick-00000071-event-13",
-      "tickId": "tick-00000071",
-      "occurredAt": "3026-07-23T11:18:36.735Z",
-      "nationIds": [
-        "helion"
-      ],
-      "category": "society",
-      "title": "화하 왕국, 하루 두 차례 위기 합동브리핑",
-      "summary": "테오 누르 지역 대표 의원은 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 첫 합동 브리핑은 이날 오후 솔 인빅타 중앙기록관에서 열린다.",
-      "severity": 67,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000071-helion-action-3"
-      ],
-      "metricChanges": {
-        "approval": 0.85,
-        "publicAnxiety": 0.15
-      },
-      "actorAgentId": "helion-agent-06",
-      "actorName": "테오 누르",
-      "actorTitle": "지역 대표 의원",
-      "locationKo": "솔 인빅타",
-      "objective": "정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것",
-      "announcedMeasure": "매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다",
-      "publicQuote": "확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라",
-      "nextStep": "첫 합동 브리핑은 이날 오후 솔 인빅타 중앙기록관에서 열린다",
-      "backgroundFactIds": []
-    },
-    {
-      "id": "tick-00000071-event-14",
-      "tickId": "tick-00000071",
-      "occurredAt": "3026-07-23T10:42:41.633Z",
-      "nationIds": [
-        "helion",
-        "karsk"
-      ],
-      "category": "diplomacy",
-      "title": "화하 왕국, 동방 인민공화국에 48시간 내 실무회담 제안",
-      "summary": "레온 타릭 외교위원장은 동방 인민공화국에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다. 동방 인민공화국의 답변을 받은 뒤 솔 인빅타 외교회관에서 예비접촉 대표와 의제를 공개한다.",
-      "severity": 77,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000071-helion-action-4"
-      ],
-      "metricChanges": {
-        "approval": 1.36,
-        "publicAnxiety": -0.15
-      },
-      "actorAgentId": "helion-agent-07",
-      "actorName": "레온 타릭",
-      "actorTitle": "외교위원장",
-      "locationKo": "솔 인빅타",
-      "targetNationId": "karsk",
-      "objective": "동방 인민공화국과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것",
-      "announcedMeasure": "동방 인민공화국에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다",
-      "publicQuote": "상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다",
-      "nextStep": "동방 인민공화국의 답변을 받은 뒤 솔 인빅타 외교회관에서 예비접촉 대표와 의제를 공개한다",
-      "backgroundFactIds": [
-        "tick-00000071-fact-society"
-      ],
-      "counterpartResponse": "동방 인민공화국 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다"
-    },
-    {
-      "id": "tick-00000071-event-15",
-      "tickId": "tick-00000071",
-      "occurredAt": "3026-07-23T09:53:42.857Z",
-      "nationIds": [
-        "helion"
-      ],
-      "category": "society",
-      "title": "화하 왕국, 하루 두 차례 위기 합동브리핑",
-      "summary": "미라 자라 재무부·중앙은행은 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 첫 합동 브리핑은 이날 오후 솔 인빅타 중앙기록관에서 열린다.",
-      "severity": 58,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000071-helion-action-5"
-      ],
-      "metricChanges": {
-        "approval": 0.92,
-        "publicAnxiety": 0
-      },
-      "actorAgentId": "helion-agent-08",
-      "actorName": "미라 자라",
-      "actorTitle": "재무부·중앙은행",
-      "locationKo": "솔 인빅타",
-      "objective": "정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것",
-      "announcedMeasure": "매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다",
-      "publicQuote": "확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라",
-      "nextStep": "첫 합동 브리핑은 이날 오후 솔 인빅타 중앙기록관에서 열린다",
-      "backgroundFactIds": []
-    },
-    {
-      "id": "tick-00000071-event-16",
-      "tickId": "tick-00000071",
-      "occurredAt": "3026-07-23T10:39:25.714Z",
-      "nationIds": [
-        "aster"
-      ],
-      "category": "society",
-      "title": "알비온 공동체, 하루 두 차례 위기 합동브리핑",
-      "summary": "엘라 애쉬 민족전선 지도부는 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 첫 합동 브리핑은 이날 오후 그린위치 항 중앙기록관에서 열린다.",
-      "severity": 53,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000071-aster-action-1"
-      ],
-      "metricChanges": {
-        "approval": 0.49,
-        "publicAnxiety": -0.06
-      },
-      "actorAgentId": "aster-agent-04",
-      "actorName": "엘라 애쉬",
-      "actorTitle": "민족전선 지도부",
-      "locationKo": "그린위치 항",
-      "objective": "정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것",
-      "announcedMeasure": "매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다",
-      "publicQuote": "확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라",
-      "nextStep": "첫 합동 브리핑은 이날 오후 그린위치 항 중앙기록관에서 열린다",
-      "backgroundFactIds": []
-    },
-    {
-      "id": "tick-00000071-event-17",
-      "tickId": "tick-00000071",
-      "occurredAt": "3026-07-23T11:02:17.143Z",
-      "nationIds": [
-        "aster"
-      ],
-      "category": "society",
-      "title": "알비온 공동체, 하루 두 차례 위기 합동브리핑",
-      "summary": "테오 클라크 차기 지도자 후보는 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 첫 합동 브리핑은 이날 오후 그린위치 항 중앙기록관에서 열린다.",
-      "severity": 68,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000071-aster-action-2"
-      ],
-      "metricChanges": {
-        "approval": 0.82,
-        "publicAnxiety": 0.06
-      },
-      "actorAgentId": "aster-agent-05",
-      "actorName": "테오 클라크",
-      "actorTitle": "차기 지도자 후보",
-      "locationKo": "그린위치 항",
-      "objective": "정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것",
-      "announcedMeasure": "매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다",
-      "publicQuote": "확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라",
-      "nextStep": "첫 합동 브리핑은 이날 오후 그린위치 항 중앙기록관에서 열린다",
-      "backgroundFactIds": []
-    },
-    {
-      "id": "tick-00000071-event-18",
-      "tickId": "tick-00000071",
-      "occurredAt": "3026-07-23T09:08:00.000Z",
-      "nationIds": [
-        "aster"
-      ],
-      "category": "society",
-      "title": "알비온 공동체, 하루 두 차례 위기 합동브리핑",
-      "summary": "레온 모어 지역 대표 의원은 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 첫 합동 브리핑은 이날 오후 그린위치 항 중앙기록관에서 열린다.",
-      "severity": 54,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000071-aster-action-3"
-      ],
-      "metricChanges": {
-        "approval": 0.02,
-        "publicAnxiety": 0.39
-      },
-      "actorAgentId": "aster-agent-06",
-      "actorName": "레온 모어",
-      "actorTitle": "지역 대표 의원",
-      "locationKo": "그린위치 항",
-      "objective": "정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것",
-      "announcedMeasure": "매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다",
-      "publicQuote": "확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라",
-      "nextStep": "첫 합동 브리핑은 이날 오후 그린위치 항 중앙기록관에서 열린다",
-      "backgroundFactIds": []
-    },
-    {
-      "id": "tick-00000071-event-19",
-      "tickId": "tick-00000071",
-      "occurredAt": "3026-07-23T11:41:28.163Z",
-      "nationIds": [
-        "aster"
-      ],
-      "category": "politics",
-      "title": "알비온 공동체, 추가 대응 표결 24시간 유보",
-      "summary": "미라 헤일 외교위원장은 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다.",
-      "severity": 69,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000071-aster-action-4"
-      ],
-      "metricChanges": {
-        "approval": -0.4,
-        "publicAnxiety": 0.5
-      },
-      "actorAgentId": "aster-agent-07",
-      "actorName": "미라 헤일",
-      "actorTitle": "외교위원장",
-      "locationKo": "그린위치 항",
-      "objective": "정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것",
-      "announcedMeasure": "추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다",
-      "publicQuote": "행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다",
-      "nextStep": "합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다",
-      "backgroundFactIds": []
-    },
-    {
-      "id": "tick-00000071-event-20",
-      "tickId": "tick-00000071",
-      "occurredAt": "3026-07-23T10:59:01.224Z",
-      "nationIds": [
-        "aster",
-        "eiren"
-      ],
-      "category": "diplomacy",
-      "title": "알비온 공동체, 헬베티아 동맹에 48시간 내 실무회담 제안",
-      "summary": "이반 브룩 재무부·중앙은행은 헬베티아 동맹에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다. 헬베티아 동맹의 답변을 받은 뒤 그린위치 항 외교회관에서 예비접촉 대표와 의제를 공개한다.",
-      "severity": 51,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000071-aster-action-5"
-      ],
-      "metricChanges": {
-        "approval": 0.79,
-        "publicAnxiety": -0.59
-      },
-      "actorAgentId": "aster-agent-08",
-      "actorName": "이반 브룩",
-      "actorTitle": "재무부·중앙은행",
-      "locationKo": "그린위치 항",
-      "targetNationId": "eiren",
-      "objective": "헬베티아 동맹과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것",
-      "announcedMeasure": "헬베티아 동맹에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다",
-      "publicQuote": "상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다",
-      "nextStep": "헬베티아 동맹의 답변을 받은 뒤 그린위치 항 외교회관에서 예비접촉 대표와 의제를 공개한다",
-      "backgroundFactIds": [
-        "tick-00000071-eiren-external-signal-fact"
-      ],
-      "counterpartResponse": "헬베티아 동맹 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다"
-    },
-    {
-      "id": "tick-00000071-event-21",
-      "tickId": "tick-00000071",
-      "occurredAt": "3026-07-23T10:55:45.306Z",
-      "nationIds": [
-        "marevia"
-      ],
-      "category": "politics",
-      "title": "아드리아 연합, 추가 대응 표결 24시간 유보",
-      "summary": "테오 로사 민족전선 지도부는 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다.",
-      "severity": 69,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000071-marevia-action-1"
-      ],
-      "metricChanges": {
-        "approval": -0.4,
-        "publicAnxiety": 0.5
-      },
-      "actorAgentId": "marevia-agent-04",
-      "actorName": "테오 로사",
-      "actorTitle": "민족전선 지도부",
-      "locationKo": "포르토 셀레네",
-      "objective": "정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것",
-      "announcedMeasure": "추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다",
-      "publicQuote": "행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다",
-      "nextStep": "합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다",
-      "backgroundFactIds": [
-        "tick-00000071-fact-society"
-      ]
-    },
-    {
-      "id": "tick-00000071-event-22",
-      "tickId": "tick-00000071",
-      "occurredAt": "3026-07-23T09:27:35.510Z",
-      "nationIds": [
-        "marevia",
-        "helion"
-      ],
-      "category": "diplomacy",
-      "title": "아드리아 연합, 화하 왕국에 48시간 내 실무회담 제안",
-      "summary": "레온 페로 차기 지도자 후보는 화하 왕국에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다. 화하 왕국의 답변을 받은 뒤 포르토 셀레네 외교회관에서 예비접촉 대표와 의제를 공개한다.",
-      "severity": 68,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000071-marevia-action-2"
-      ],
-      "metricChanges": {
-        "approval": 1.59,
-        "publicAnxiety": -0.82
-      },
-      "actorAgentId": "marevia-agent-05",
-      "actorName": "레온 페로",
-      "actorTitle": "차기 지도자 후보",
-      "locationKo": "포르토 셀레네",
-      "targetNationId": "helion",
-      "objective": "화하 왕국과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것",
-      "announcedMeasure": "화하 왕국에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다",
-      "publicQuote": "상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다",
-      "nextStep": "화하 왕국의 답변을 받은 뒤 포르토 셀레네 외교회관에서 예비접촉 대표와 의제를 공개한다",
-      "backgroundFactIds": [
-        "tick-00000071-fact-society"
-      ],
-      "counterpartResponse": "화하 왕국 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다"
-    },
-    {
-      "id": "tick-00000071-event-23",
-      "tickId": "tick-00000071",
-      "occurredAt": "3026-07-23T11:08:48.980Z",
-      "nationIds": [
-        "marevia"
-      ],
-      "category": "society",
-      "title": "아드리아 연합, 하루 두 차례 위기 합동브리핑",
-      "summary": "미라 루치 지역 대표 의원은 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 첫 합동 브리핑은 이날 오후 포르토 셀레네 중앙기록관에서 열린다.",
-      "severity": 58,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000071-marevia-action-3"
-      ],
-      "metricChanges": {
-        "approval": 1.22,
-        "publicAnxiety": 0
-      },
-      "actorAgentId": "marevia-agent-06",
-      "actorName": "미라 루치",
-      "actorTitle": "지역 대표 의원",
-      "locationKo": "포르토 셀레네",
-      "objective": "정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것",
-      "announcedMeasure": "매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다",
-      "publicQuote": "확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라",
-      "nextStep": "첫 합동 브리핑은 이날 오후 포르토 셀레네 중앙기록관에서 열린다",
-      "backgroundFactIds": [
-        "tick-00000071-fact-society"
-      ]
-    },
-    {
-      "id": "tick-00000071-event-24",
-      "tickId": "tick-00000071",
-      "occurredAt": "3026-07-23T09:47:11.020Z",
-      "nationIds": [
-        "marevia"
-      ],
-      "category": "society",
-      "title": "아드리아 연합, 하루 두 차례 위기 합동브리핑",
-      "summary": "이반 네리 외교위원장은 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 첫 합동 브리핑은 이날 오후 포르토 셀레네 중앙기록관에서 열린다.",
-      "severity": 55,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000071-marevia-action-4"
-      ],
-      "metricChanges": {
-        "approval": 0.12,
-        "publicAnxiety": 0.13
-      },
-      "actorAgentId": "marevia-agent-07",
-      "actorName": "이반 네리",
-      "actorTitle": "외교위원장",
-      "locationKo": "포르토 셀레네",
-      "objective": "정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것",
-      "announcedMeasure": "매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다",
-      "publicQuote": "확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라",
-      "nextStep": "첫 합동 브리핑은 이날 오후 포르토 셀레네 중앙기록관에서 열린다",
-      "backgroundFactIds": [
-        "tick-00000071-fact-society"
-      ]
-    },
-    {
-      "id": "tick-00000071-event-25",
-      "tickId": "tick-00000071",
-      "occurredAt": "3026-07-23T11:21:52.653Z",
-      "nationIds": [
-        "marevia"
-      ],
-      "category": "society",
-      "title": "아드리아 연합, 하루 두 차례 위기 합동브리핑",
-      "summary": "셀레네 코스타 재무부·중앙은행은 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 첫 합동 브리핑은 이날 오후 포르토 셀레네 중앙기록관에서 열린다.",
-      "severity": 47,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000071-marevia-action-5"
-      ],
-      "metricChanges": {
-        "approval": 0.57,
-        "publicAnxiety": -0.13
-      },
-      "actorAgentId": "marevia-agent-08",
-      "actorName": "셀레네 코스타",
-      "actorTitle": "재무부·중앙은행",
-      "locationKo": "포르토 셀레네",
-      "objective": "정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것",
-      "announcedMeasure": "매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다",
-      "publicQuote": "확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라",
-      "nextStep": "첫 합동 브리핑은 이날 오후 포르토 셀레네 중앙기록관에서 열린다",
-      "backgroundFactIds": [
-        "tick-00000071-fact-society"
-      ]
-    },
-    {
-      "id": "tick-00000071-event-26",
-      "tickId": "tick-00000071",
-      "occurredAt": "3026-07-23T11:25:08.571Z",
-      "nationIds": [
-        "karsk"
-      ],
-      "category": "politics",
-      "title": "동방 인민공화국, 추가 대응 표결 24시간 유보",
-      "summary": "레온 다닌 민족전선 지도부는 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다.",
-      "severity": 59,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000071-karsk-action-1"
-      ],
-      "metricChanges": {
-        "approval": -0.4,
-        "publicAnxiety": 0.5
-      },
-      "actorAgentId": "karsk-agent-04",
-      "actorName": "레온 다닌",
-      "actorTitle": "민족전선 지도부",
-      "locationKo": "동명",
-      "objective": "정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것",
-      "announcedMeasure": "추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다",
-      "publicQuote": "행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다",
-      "nextStep": "합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다",
-      "backgroundFactIds": [
-        "tick-00000071-fact-society"
-      ]
-    },
-    {
-      "id": "tick-00000071-event-27",
-      "tickId": "tick-00000071",
-      "occurredAt": "3026-07-23T09:40:39.184Z",
-      "nationIds": [
-        "karsk"
-      ],
-      "category": "politics",
-      "title": "동방 인민공화국 의회, 물가 안정·평화 집회 당시 정부의 안전대책과 현장 지휘 과정 조사위 구성안",
-      "summary": "미라 로바 차기 지도자 후보는 물가 안정·평화 집회 당시 정부의 안전대책과 현장 지휘 과정을 조사할 특별위원회 구성안을 의회에 제출하고 외교부와 우주사령부 책임자 7명의 증인 채택을 요구했다. 의회 운영위원회가 사흘 뒤 구성안을 심사하며, 가결되면 첫 공개 청문회의 증인과 자료 제출 기한을 확정한다.",
-      "severity": 48,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000071-karsk-action-2"
-      ],
-      "metricChanges": {
-        "approval": 1.52,
-        "publicAnxiety": -0.25
-      },
-      "actorAgentId": "karsk-agent-05",
-      "actorName": "미라 로바",
-      "actorTitle": "차기 지도자 후보",
-      "locationKo": "동명",
-      "objective": "물가 안정·평화 집회 당시 정부의 안전대책과 현장 지휘 과정에서 최초 보고 시각, 경보 전달 경로, 최종 승인권자의 판단을 확인하는 것",
-      "announcedMeasure": "물가 안정·평화 집회 당시 정부의 안전대책과 현장 지휘 과정을 조사할 특별위원회 구성안을 의회에 제출하고 외교부와 우주사령부 책임자 7명의 증인 채택을 요구했다",
-      "publicQuote": "무엇을 언제 보고받았고 누가 최종 결정을 내렸는지 공개 기록으로 확인하겠다",
-      "nextStep": "의회 운영위원회가 사흘 뒤 구성안을 심사하며, 가결되면 첫 공개 청문회의 증인과 자료 제출 기한을 확정한다",
-      "backgroundFactIds": [
-        "tick-00000071-fact-society"
-      ]
-    },
-    {
-      "id": "tick-00000071-event-28",
-      "tickId": "tick-00000071",
-      "occurredAt": "3026-07-23T09:11:15.918Z",
-      "nationIds": [
-        "karsk"
-      ],
-      "category": "politics",
-      "title": "동방 인민공화국 의회, 물가 안정·평화 집회 당시 정부의 안전대책과 현장 지휘 과정 조사위 구성안",
-      "summary": "이반 카멘 지역 대표 의원은 물가 안정·평화 집회 당시 정부의 안전대책과 현장 지휘 과정을 조사할 특별위원회 구성안을 의회에 제출하고 외교부와 우주사령부 책임자 7명의 증인 채택을 요구했다. 의회 운영위원회가 사흘 뒤 구성안을 심사하며, 가결되면 첫 공개 청문회의 증인과 자료 제출 기한을 확정한다.",
-      "severity": 73,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000071-karsk-action-3"
-      ],
-      "metricChanges": {
-        "approval": 0.23,
-        "publicAnxiety": -0.46
-      },
-      "actorAgentId": "karsk-agent-06",
-      "actorName": "이반 카멘",
-      "actorTitle": "지역 대표 의원",
-      "locationKo": "동명",
-      "objective": "물가 안정·평화 집회 당시 정부의 안전대책과 현장 지휘 과정에서 최초 보고 시각, 경보 전달 경로, 최종 승인권자의 판단을 확인하는 것",
-      "announcedMeasure": "물가 안정·평화 집회 당시 정부의 안전대책과 현장 지휘 과정을 조사할 특별위원회 구성안을 의회에 제출하고 외교부와 우주사령부 책임자 7명의 증인 채택을 요구했다",
-      "publicQuote": "무엇을 언제 보고받았고 누가 최종 결정을 내렸는지 공개 기록으로 확인하겠다",
-      "nextStep": "의회 운영위원회가 사흘 뒤 구성안을 심사하며, 가결되면 첫 공개 청문회의 증인과 자료 제출 기한을 확정한다",
-      "backgroundFactIds": [
-        "tick-00000071-fact-society"
-      ]
-    },
-    {
-      "id": "tick-00000071-event-29",
-      "tickId": "tick-00000071",
-      "occurredAt": "3026-07-23T10:03:30.612Z",
-      "nationIds": [
-        "karsk",
-        "marevia"
-      ],
-      "category": "diplomacy",
-      "title": "동방 인민공화국, 아드리아 연합에 48시간 내 실무회담 제안",
-      "summary": "셀레네 노빅 외교위원장은 아드리아 연합에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다. 아드리아 연합의 답변을 받은 뒤 동명 외교회관에서 예비접촉 대표와 의제를 공개한다.",
-      "severity": 65,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000071-karsk-action-4"
-      ],
-      "metricChanges": {
-        "approval": 0.36,
-        "publicAnxiety": -0.87
-      },
-      "actorAgentId": "karsk-agent-07",
-      "actorName": "셀레네 노빅",
-      "actorTitle": "외교위원장",
-      "locationKo": "동명",
-      "targetNationId": "marevia",
-      "objective": "아드리아 연합과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것",
-      "announcedMeasure": "아드리아 연합에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다",
-      "publicQuote": "상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다",
-      "nextStep": "아드리아 연합의 답변을 받은 뒤 동명 외교회관에서 예비접촉 대표와 의제를 공개한다",
-      "backgroundFactIds": [
-        "tick-00000071-fact-society"
-      ],
-      "counterpartResponse": "아드리아 연합 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다"
-    },
-    {
-      "id": "tick-00000071-event-30",
-      "tickId": "tick-00000071",
-      "occurredAt": "3026-07-23T10:26:22.041Z",
-      "nationIds": [
-        "karsk"
-      ],
-      "category": "society",
-      "title": "동방 인민공화국, 하루 두 차례 위기 합동브리핑",
-      "summary": "도리아 제린 재무부·중앙은행은 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 첫 합동 브리핑은 이날 오후 동명 중앙기록관에서 열린다.",
-      "severity": 60,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000071-karsk-action-5"
-      ],
-      "metricChanges": {
-        "approval": 0.26,
-        "publicAnxiety": 0
-      },
-      "actorAgentId": "karsk-agent-08",
-      "actorName": "도리아 제린",
-      "actorTitle": "재무부·중앙은행",
-      "locationKo": "동명",
-      "objective": "정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것",
-      "announcedMeasure": "매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다",
-      "publicQuote": "확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라",
-      "nextStep": "첫 합동 브리핑은 이날 오후 동명 중앙기록관에서 열린다",
-      "backgroundFactIds": [
-        "tick-00000071-fact-society"
-      ]
-    },
-    {
-      "id": "tick-00000071-event-31",
-      "tickId": "tick-00000071",
-      "occurredAt": "3026-07-23T10:45:57.551Z",
-      "nationIds": [
-        "eiren",
-        "vesper"
-      ],
-      "category": "diplomacy",
-      "title": "헬베티아 동맹, 아메리아 연방에 48시간 내 실무회담 제안",
-      "summary": "미라 니코스 민족전선 지도부는 아메리아 연방에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다. 아메리아 연방의 답변을 받은 뒤 이레니아 외교회관에서 예비접촉 대표와 의제를 공개한다.",
-      "severity": 58,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000071-eiren-action-1"
-      ],
-      "metricChanges": {
-        "approval": 0.05,
-        "publicAnxiety": -0.42
-      },
-      "actorAgentId": "eiren-agent-04",
-      "actorName": "미라 니코스",
-      "actorTitle": "민족전선 지도부",
-      "locationKo": "이레니아",
-      "targetNationId": "vesper",
-      "objective": "아메리아 연방과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것",
-      "announcedMeasure": "아메리아 연방에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다",
-      "publicQuote": "상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다",
-      "nextStep": "아메리아 연방의 답변을 받은 뒤 이레니아 외교회관에서 예비접촉 대표와 의제를 공개한다",
-      "backgroundFactIds": [
-        "tick-00000071-eiren-external-signal-fact"
-      ],
-      "counterpartResponse": "아메리아 연방 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다"
-    },
-    {
-      "id": "tick-00000071-event-32",
-      "tickId": "tick-00000071",
-      "occurredAt": "3026-07-23T11:38:12.245Z",
-      "nationIds": [
-        "eiren"
-      ],
-      "category": "society",
-      "title": "헬베티아 동맹, 하루 두 차례 위기 합동브리핑",
-      "summary": "이반 이리스 차기 지도자 후보는 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 첫 합동 브리핑은 이날 오후 이레니아 중앙기록관에서 열린다.",
-      "severity": 70,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000071-eiren-action-2"
-      ],
-      "metricChanges": {
-        "approval": 0.39,
-        "publicAnxiety": 0.75
-      },
-      "actorAgentId": "eiren-agent-05",
-      "actorName": "이반 이리스",
-      "actorTitle": "차기 지도자 후보",
-      "locationKo": "이레니아",
-      "objective": "정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것",
-      "announcedMeasure": "매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다",
-      "publicQuote": "확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라",
-      "nextStep": "첫 합동 브리핑은 이날 오후 이레니아 중앙기록관에서 열린다",
-      "backgroundFactIds": [
-        "tick-00000071-eiren-external-signal-fact"
-      ]
-    },
-    {
-      "id": "tick-00000071-event-33",
-      "tickId": "tick-00000071",
-      "occurredAt": "3026-07-23T11:28:24.490Z",
-      "nationIds": [
-        "eiren"
-      ],
-      "category": "politics",
-      "title": "헬베티아 동맹, 추가 대응 표결 24시간 유보",
-      "summary": "셀레네 다몬 지역 대표 의원은 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다.",
-      "severity": 69,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000071-eiren-action-3"
-      ],
-      "metricChanges": {
-        "approval": -0.4,
-        "publicAnxiety": 0.5
-      },
-      "actorAgentId": "eiren-agent-06",
-      "actorName": "셀레네 다몬",
-      "actorTitle": "지역 대표 의원",
-      "locationKo": "이레니아",
-      "objective": "정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것",
-      "announcedMeasure": "추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다",
-      "publicQuote": "행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다",
-      "nextStep": "합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다",
-      "backgroundFactIds": [
-        "tick-00000071-eiren-external-signal-fact"
-      ]
-    },
-    {
-      "id": "tick-00000071-event-34",
-      "tickId": "tick-00000071",
-      "occurredAt": "3026-07-23T11:31:40.408Z",
-      "nationIds": [
-        "eiren",
-        "marevia"
-      ],
-      "category": "diplomacy",
-      "title": "헬베티아 동맹, 아드리아 연합에 48시간 내 실무회담 제안",
-      "summary": "도리아 필론 외교위원장은 아드리아 연합에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다. 아드리아 연합의 답변을 받은 뒤 이레니아 외교회관에서 예비접촉 대표와 의제를 공개한다.",
-      "severity": 67,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000071-eiren-action-4"
-      ],
-      "metricChanges": {
-        "approval": 0.86,
-        "publicAnxiety": -1.04
-      },
-      "actorAgentId": "eiren-agent-07",
-      "actorName": "도리아 필론",
-      "actorTitle": "외교위원장",
-      "locationKo": "이레니아",
-      "targetNationId": "marevia",
-      "objective": "아드리아 연합과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것",
-      "announcedMeasure": "아드리아 연합에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다",
-      "publicQuote": "상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다",
-      "nextStep": "아드리아 연합의 답변을 받은 뒤 이레니아 외교회관에서 예비접촉 대표와 의제를 공개한다",
-      "backgroundFactIds": [
-        "tick-00000071-fact-society",
-        "tick-00000071-eiren-external-signal-fact"
-      ],
-      "counterpartResponse": "아드리아 연합 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다"
-    },
-    {
-      "id": "tick-00000071-event-35",
-      "tickId": "tick-00000071",
-      "occurredAt": "3026-07-23T10:10:02.449Z",
-      "nationIds": [
-        "eiren"
-      ],
-      "category": "society",
-      "title": "헬베티아 동맹, 하루 두 차례 위기 합동브리핑",
-      "summary": "마르코 메라 재무부·중앙은행은 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 첫 합동 브리핑은 이날 오후 이레니아 중앙기록관에서 열린다.",
-      "severity": 58,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000071-eiren-action-5"
-      ],
-      "metricChanges": {
-        "approval": 1.67,
-        "publicAnxiety": 0.49
-      },
-      "actorAgentId": "eiren-agent-08",
-      "actorName": "마르코 메라",
-      "actorTitle": "재무부·중앙은행",
-      "locationKo": "이레니아",
-      "objective": "정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것",
-      "announcedMeasure": "매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다",
-      "publicQuote": "확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라",
-      "nextStep": "첫 합동 브리핑은 이날 오후 이레니아 중앙기록관에서 열린다",
-      "backgroundFactIds": [
-        "tick-00000071-eiren-external-signal-fact"
-      ]
-    },
-    {
-      "id": "tick-00000071-event-36",
-      "tickId": "tick-00000071",
-      "occurredAt": "3026-07-23T09:21:03.673Z",
-      "nationIds": [
-        "orion",
-        "vesper"
-      ],
-      "category": "diplomacy",
-      "title": "해협 보호령, 아메리아 연방에 48시간 내 실무회담 제안",
-      "summary": "이반 세브르 민족전선 지도부는 아메리아 연방에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다. 아메리아 연방의 답변을 받은 뒤 벨포트 외교회관에서 예비접촉 대표와 의제를 공개한다.",
-      "severity": 55,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000071-orion-action-1"
-      ],
-      "metricChanges": {
-        "approval": 0.9,
-        "publicAnxiety": -0.85
-      },
-      "actorAgentId": "orion-agent-04",
-      "actorName": "이반 세브르",
-      "actorTitle": "민족전선 지도부",
-      "locationKo": "벨포트",
-      "targetNationId": "vesper",
-      "objective": "아메리아 연방과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것",
-      "announcedMeasure": "아메리아 연방에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다",
-      "publicQuote": "상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다",
-      "nextStep": "아메리아 연방의 답변을 받은 뒤 벨포트 외교회관에서 예비접촉 대표와 의제를 공개한다",
-      "backgroundFactIds": [],
-      "counterpartResponse": "아메리아 연방 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다"
-    },
-    {
-      "id": "tick-00000071-event-37",
-      "tickId": "tick-00000071",
-      "occurredAt": "3026-07-23T09:17:47.755Z",
-      "nationIds": [
-        "orion"
-      ],
-      "category": "society",
-      "title": "해협 보호령, 하루 두 차례 위기 합동브리핑",
-      "summary": "셀레네 아르노 차기 지도자 후보는 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 첫 합동 브리핑은 이날 오후 벨포트 중앙기록관에서 열린다.",
-      "severity": 60,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000071-orion-action-2"
-      ],
-      "metricChanges": {
-        "approval": -0.65,
-        "publicAnxiety": 0
-      },
-      "actorAgentId": "orion-agent-05",
-      "actorName": "셀레네 아르노",
-      "actorTitle": "차기 지도자 후보",
-      "locationKo": "벨포트",
-      "objective": "정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것",
-      "announcedMeasure": "매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다",
-      "publicQuote": "확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라",
-      "nextStep": "첫 합동 브리핑은 이날 오후 벨포트 중앙기록관에서 열린다",
-      "backgroundFactIds": []
-    },
-    {
-      "id": "tick-00000071-event-38",
-      "tickId": "tick-00000071",
-      "occurredAt": "3026-07-23T09:56:58.776Z",
-      "nationIds": [
-        "orion",
-        "aster"
-      ],
-      "category": "diplomacy",
-      "title": "해협 보호령, 알비온 공동체에 48시간 내 실무회담 제안",
-      "summary": "도리아 페랭 지역 대표 의원은 알비온 공동체에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다. 알비온 공동체의 답변을 받은 뒤 벨포트 외교회관에서 예비접촉 대표와 의제를 공개한다.",
-      "severity": 56,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000071-orion-action-3"
-      ],
-      "metricChanges": {
-        "approval": -0.23,
-        "publicAnxiety": 0
-      },
-      "actorAgentId": "orion-agent-06",
-      "actorName": "도리아 페랭",
-      "actorTitle": "지역 대표 의원",
-      "locationKo": "벨포트",
-      "targetNationId": "aster",
-      "objective": "알비온 공동체와의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것",
-      "announcedMeasure": "알비온 공동체에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다",
-      "publicQuote": "상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다",
-      "nextStep": "알비온 공동체의 답변을 받은 뒤 벨포트 외교회관에서 예비접촉 대표와 의제를 공개한다",
-      "backgroundFactIds": [],
-      "counterpartResponse": "알비온 공동체 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다"
-    },
-    {
-      "id": "tick-00000071-event-39",
-      "tickId": "tick-00000071",
-      "occurredAt": "3026-07-23T10:52:29.388Z",
-      "nationIds": [
-        "orion"
-      ],
-      "category": "politics",
-      "title": "해협 보호령, 추가 대응 표결 24시간 유보",
-      "summary": "마르코 모렐 외교위원장은 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다.",
-      "severity": 51,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000071-orion-action-4"
-      ],
-      "metricChanges": {
-        "approval": -0.4,
-        "publicAnxiety": 0.5
-      },
-      "actorAgentId": "orion-agent-07",
-      "actorName": "마르코 모렐",
-      "actorTitle": "외교위원장",
-      "locationKo": "벨포트",
-      "objective": "정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것",
-      "announcedMeasure": "추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다",
-      "publicQuote": "행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다",
-      "nextStep": "합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다",
-      "backgroundFactIds": []
-    },
-    {
-      "id": "tick-00000071-event-40",
-      "tickId": "tick-00000071",
-      "occurredAt": "3026-07-23T11:12:04.898Z",
-      "nationIds": [
-        "orion"
-      ],
-      "category": "society",
-      "title": "해협 보호령, 하루 두 차례 위기 합동브리핑",
-      "summary": "엘라 비앙 재무부·중앙은행은 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 첫 합동 브리핑은 이날 오후 벨포트 중앙기록관에서 열린다.",
-      "severity": 47,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000071-orion-action-5"
-      ],
-      "metricChanges": {
-        "approval": 0.32,
-        "publicAnxiety": -0.5
-      },
-      "actorAgentId": "orion-agent-08",
-      "actorName": "엘라 비앙",
-      "actorTitle": "재무부·중앙은행",
-      "locationKo": "벨포트",
-      "objective": "정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것",
-      "announcedMeasure": "매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다",
-      "publicQuote": "확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라",
-      "nextStep": "첫 합동 브리핑은 이날 오후 벨포트 중앙기록관에서 열린다",
-      "backgroundFactIds": []
-    },
-    {
-      "id": "tick-00000071-orion-strait-propellant-news",
-      "tickId": "tick-00000071",
-      "occurredAt": "3026-07-23T11:48:00.000Z",
-      "nationIds": [
-        "orion"
-      ],
-      "category": "space",
-      "title": "해협 궤도연료공사, 저온 궤도연료 저장탱크 시험 착수",
-      "summary": "전략광물 합금으로 만든 저온 궤도연료 저장탱크의 60일 누설 시험에 착수했다. 봉쇄나 항로 지연 때도 지역 우주항의 연료 공급을 유지하는 것.",
-      "severity": 66,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [],
-      "metricChanges": {},
-      "actorOrganizationId": "orion-strait-propellant",
-      "actorName": "해협 궤도연료공사",
-      "actorTitle": "운영위원회",
-      "locationKo": "벨포트 자원항",
-      "objective": "봉쇄나 항로 지연 때도 지역 우주항의 연료 공급을 유지하는 것",
-      "announcedMeasure": "전략광물 합금으로 만든 저온 궤도연료 저장탱크의 60일 누설 시험에 착수했다",
-      "publicQuote": "비축량을 늘리는 일과 누설 없이 보관하는 일은 같은 과제다",
-      "nextStep": "자치의회 자원위원회에 주간 압력 기록을 제출한다",
-      "uncertainty": "대량 생산 비용과 장기 방사선 노출에 따른 균열 위험은 확인되지 않았다",
-      "backgroundFactIds": [
-        "tick-00000071-fact-national-industry"
-      ]
-    },
-    {
-      "id": "tick-00000071-arc-domestic-71-nova-trigger",
-      "tickId": "tick-00000071",
-      "occurredAt": "3026-07-23T10:29:37.959Z",
-      "nationIds": [
-        "nova"
-      ],
-      "category": "politics",
-      "title": "코레이아 공화국 정부, 연료·물가 위기예산안 제출",
-      "summary": "정부가 궤도 연료 확보와 생필품 가격 지원을 묶은 30일 한시 예산안을 의회에 냈다.",
-      "severity": 64,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [],
-      "metricChanges": {},
-      "actorName": "코레이아 공화국 의회",
-      "actorTitle": "본회의 운영단",
-      "locationKo": "국회의사당",
-      "objective": "의회 과반의 책임 아래 연료·물가 대응 예산과 내각 권한을 확정하는 것",
-      "announcedMeasure": "정부가 연료 수입보증, 대중교통 지원, 소상공인 결제유예를 묶은 한시 예산안을 제출했다",
-      "publicQuote": "지출 항목과 종료 시한을 함께 공개해 비상예산의 상시화를 막겠다",
-      "nextStep": "재정위원회가 6시간 안에 재원표와 수혜 대상 명단을 공개한다",
-      "backgroundFactIds": [
-        "tick-00000071-arc-domestic-71-nova-trigger-fact"
-      ],
-      "storyArcId": "arc-domestic-71-nova",
-      "storyArcBeatId": "arc-domestic-71-nova-beat-1"
-    },
-    {
-      "id": "tick-00000072-orion-external-signal-event",
-      "tickId": "tick-00000072",
-      "occurredAt": "3026-07-23T14:29:49.091Z",
-      "nationIds": [
-        "orion"
-      ],
-      "category": "security",
-      "title": "해협 보호령, 민간 항로 보호 태세 재점검",
-      "summary": "국방부는 우발 충돌을 막기 위한 식별 절차와 민간선 호송 규칙을 다시 검토한다.",
-      "severity": 54,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [],
-      "metricChanges": {},
-      "actorName": "해협 보호령 합동상황실",
-      "actorTitle": "정책조정회의",
-      "locationKo": "벨포트",
-      "objective": "군사 경계 강화가 민간 수송 중단이나 오인 충돌로 이어지지 않게 하는 것",
-      "announcedMeasure": "국방부가 민간선 식별·교신 절차와 초계선의 무력 사용 승인 단계를 재점검하기로 했다",
-      "publicQuote": "경계 태세가 강할수록 오인 방지 절차도 더 엄격해야 한다",
-      "nextStep": "12시간 안에 민간선 통과 절차와 비상 교신 채널을 공표한다",
-      "backgroundFactIds": [
-        "tick-00000072-orion-external-signal-fact"
-      ]
-    },
-    {
-      "id": "tick-00000072-event-1",
-      "tickId": "tick-00000072",
-      "occurredAt": "3026-07-23T12:29:49.091Z",
-      "nationIds": [
-        "nova",
-        "aster"
-      ],
-      "category": "diplomacy",
-      "title": "코레이아 공화국, 알비온 공동체에 수송선 3척·의료단 파견",
-      "summary": "레온 아벨 외교부는 알비온 공동체에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다. 알비온 공동체이 접안 안전을 보장하면 첫 수송선이 다음 날 오전 아우렐리아 궤도항을 출발한다.",
-      "severity": 48,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000072-nova-action-1"
-      ],
-      "metricChanges": {
-        "reserves": -0.13,
-        "approval": 0.44
-      },
-      "actorAgentId": "nova-agent-09",
-      "actorName": "레온 아벨",
-      "actorTitle": "외교부",
-      "locationKo": "아우렐리아",
-      "targetNationId": "aster",
-      "objective": "알비온 공동체의 필수 연료와 의료품 부족을 막고 항만 지역의 불안을 낮추는 것",
-      "announcedMeasure": "알비온 공동체에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다",
-      "publicQuote": "이번 지원은 군사적 개입이 아니라 주민 생활과 민간 운송망을 지키기 위한 조치다",
-      "nextStep": "알비온 공동체이 접안 안전을 보장하면 첫 수송선이 다음 날 오전 아우렐리아 궤도항을 출발한다",
-      "backgroundFactIds": [
-        "tick-00000072-fact-space"
-      ],
-      "counterpartResponse": "알비온 공동체 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다"
-    },
-    {
-      "id": "tick-00000072-event-2",
-      "tickId": "tick-00000072",
-      "occurredAt": "3026-07-23T14:40:43.636Z",
-      "nationIds": [
-        "nova",
-        "marevia"
-      ],
-      "category": "diplomacy",
-      "title": "코레이아 공화국, 아드리아 연합에 수송선 3척·의료단 파견",
-      "summary": "미라 마렌 국방부·우주사령부는 아드리아 연합에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다. 아드리아 연합이 접안 안전을 보장하면 첫 수송선이 다음 날 오전 아우렐리아 궤도항을 출발한다.",
-      "severity": 46,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000072-nova-action-2"
-      ],
-      "metricChanges": {
-        "reserves": 0,
-        "approval": 0.45
-      },
-      "actorAgentId": "nova-agent-10",
-      "actorName": "미라 마렌",
-      "actorTitle": "국방부·우주사령부",
-      "locationKo": "아우렐리아",
-      "targetNationId": "marevia",
-      "objective": "아드리아 연합의 필수 연료와 의료품 부족을 막고 항만 지역의 불안을 낮추는 것",
-      "announcedMeasure": "아드리아 연합에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다",
-      "publicQuote": "이번 지원은 군사적 개입이 아니라 주민 생활과 민간 운송망을 지키기 위한 조치다",
-      "nextStep": "아드리아 연합이 접안 안전을 보장하면 첫 수송선이 다음 날 오전 아우렐리아 궤도항을 출발한다",
-      "backgroundFactIds": [
-        "tick-00000072-fact-space"
-      ],
-      "counterpartResponse": "아드리아 연합 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다"
-    },
-    {
-      "id": "tick-00000072-event-3",
-      "tickId": "tick-00000072",
-      "occurredAt": "3026-07-23T14:37:05.455Z",
-      "nationIds": [
-        "nova"
-      ],
-      "category": "politics",
-      "title": "코레이아 공화국, 추가 대응 표결 24시간 유보",
-      "summary": "이반 코르빈 대표 언론사 편집국은 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다.",
-      "severity": 45,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000072-nova-action-3"
-      ],
-      "metricChanges": {
-        "approval": -0.4,
-        "publicAnxiety": 0.5
-      },
-      "actorAgentId": "nova-agent-11",
-      "actorName": "이반 코르빈",
-      "actorTitle": "대표 언론사 편집국",
-      "locationKo": "아우렐리아",
-      "objective": "정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것",
-      "announcedMeasure": "추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다",
-      "publicQuote": "행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다",
-      "nextStep": "합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다",
-      "backgroundFactIds": [
-        "tick-00000072-fact-space"
-      ]
-    },
-    {
-      "id": "tick-00000072-event-4",
-      "tickId": "tick-00000072",
-      "occurredAt": "3026-07-23T12:15:16.364Z",
-      "nationIds": [
-        "nova"
-      ],
-      "category": "society",
-      "title": "코레이아 공화국, 하루 두 차례 위기 합동브리핑",
-      "summary": "셀레네 세라 정치·외교 기자는 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 첫 합동 브리핑은 이날 오후 아우렐리아 중앙기록관에서 열린다.",
-      "severity": 68,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000072-nova-action-4"
-      ],
-      "metricChanges": {
-        "approval": 1.49,
-        "publicAnxiety": 0.49
-      },
-      "actorAgentId": "nova-agent-12",
-      "actorName": "셀레네 세라",
-      "actorTitle": "정치·외교 기자",
-      "locationKo": "아우렐리아",
-      "objective": "정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것",
-      "announcedMeasure": "매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다",
-      "publicQuote": "확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라",
-      "nextStep": "첫 합동 브리핑은 이날 오후 아우렐리아 중앙기록관에서 열린다",
-      "backgroundFactIds": [
-        "tick-00000072-fact-space"
-      ]
-    },
-    {
-      "id": "tick-00000072-event-5",
-      "tickId": "tick-00000072",
-      "occurredAt": "3026-07-23T14:00:43.636Z",
-      "nationIds": [
-        "nova"
-      ],
-      "category": "society",
-      "title": "코레이아 공화국, 하루 두 차례 위기 합동브리핑",
-      "summary": "도리아 오르테 산업협회는 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 첫 합동 브리핑은 이날 오후 아우렐리아 중앙기록관에서 열린다.",
-      "severity": 50,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000072-nova-action-5"
-      ],
-      "metricChanges": {
-        "approval": -0.26,
-        "publicAnxiety": -1.27
-      },
-      "actorAgentId": "nova-agent-13",
-      "actorName": "도리아 오르테",
-      "actorTitle": "산업협회",
-      "locationKo": "아우렐리아",
-      "objective": "정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것",
-      "announcedMeasure": "매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다",
-      "publicQuote": "확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라",
-      "nextStep": "첫 합동 브리핑은 이날 오후 아우렐리아 중앙기록관에서 열린다",
-      "backgroundFactIds": [
-        "tick-00000072-fact-space"
-      ]
-    },
-    {
-      "id": "tick-00000072-event-6",
-      "tickId": "tick-00000072",
-      "occurredAt": "3026-07-23T14:22:32.727Z",
-      "nationIds": [
-        "vesper"
-      ],
-      "category": "politics",
-      "title": "아메리아 연방, 추가 대응 표결 24시간 유보",
-      "summary": "미라 발렌 외교부는 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다.",
-      "severity": 47,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000072-vesper-action-1"
-      ],
-      "metricChanges": {
-        "approval": -0.4,
-        "publicAnxiety": 0.5
-      },
-      "actorAgentId": "vesper-agent-09",
-      "actorName": "미라 발렌",
-      "actorTitle": "외교부",
-      "locationKo": "벨라트리스",
-      "objective": "정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것",
-      "announcedMeasure": "추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다",
-      "publicQuote": "행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다",
-      "nextStep": "합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다",
-      "backgroundFactIds": [
-        "tick-00000072-fact-space"
-      ]
-    },
-    {
-      "id": "tick-00000072-event-7",
-      "tickId": "tick-00000072",
-      "occurredAt": "3026-07-23T13:31:38.182Z",
-      "nationIds": [
-        "vesper",
-        "marevia"
-      ],
-      "category": "diplomacy",
-      "title": "아메리아 연방, 아드리아 연합에 48시간 내 실무회담 제안",
-      "summary": "이반 크루거 국방부·우주사령부는 아드리아 연합에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다. 아드리아 연합의 답변을 받은 뒤 벨라트리스 외교회관에서 예비접촉 대표와 의제를 공개한다.",
-      "severity": 61,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000072-vesper-action-2"
-      ],
-      "metricChanges": {
-        "approval": -0.21,
-        "publicAnxiety": -0.91
-      },
-      "actorAgentId": "vesper-agent-10",
-      "actorName": "이반 크루거",
-      "actorTitle": "국방부·우주사령부",
-      "locationKo": "벨라트리스",
-      "targetNationId": "marevia",
-      "objective": "아드리아 연합과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것",
-      "announcedMeasure": "아드리아 연합에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다",
-      "publicQuote": "상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다",
-      "nextStep": "아드리아 연합의 답변을 받은 뒤 벨라트리스 외교회관에서 예비접촉 대표와 의제를 공개한다",
-      "backgroundFactIds": [
-        "tick-00000072-fact-space"
-      ],
-      "counterpartResponse": "아드리아 연합 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다"
-    },
-    {
-      "id": "tick-00000072-event-8",
-      "tickId": "tick-00000072",
-      "occurredAt": "3026-07-23T14:11:38.182Z",
-      "nationIds": [
-        "vesper"
-      ],
-      "category": "politics",
-      "title": "아메리아 연방, 추가 대응 표결 24시간 유보",
-      "summary": "셀레네 엘스 대표 언론사 편집국은 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다.",
-      "severity": 51,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000072-vesper-action-3"
-      ],
-      "metricChanges": {
-        "approval": -0.4,
-        "publicAnxiety": 0.5
-      },
-      "actorAgentId": "vesper-agent-11",
-      "actorName": "셀레네 엘스",
-      "actorTitle": "대표 언론사 편집국",
-      "locationKo": "벨라트리스",
-      "objective": "정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것",
-      "announcedMeasure": "추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다",
-      "publicQuote": "행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다",
-      "nextStep": "합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다",
-      "backgroundFactIds": [
-        "tick-00000072-fact-space"
-      ]
-    },
-    {
-      "id": "tick-00000072-event-9",
-      "tickId": "tick-00000072",
-      "occurredAt": "3026-07-23T13:35:16.364Z",
-      "nationIds": [
-        "vesper"
-      ],
-      "category": "politics",
-      "title": "아메리아 연방, 추가 대응 표결 24시간 유보",
-      "summary": "도리아 로트 정치·외교 기자는 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다.",
-      "severity": 61,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [
-        "tick-00000072-vesper-action-4"
-      ],
-      "metricChanges": {
-        "approval": -0.4,
-        "publicAnxiety": 0.5
-      },
-      "actorAgentId": "vesper-agent-12",
-      "actorName": "도리아 로트",
-      "actorTitle": "정치·외교 기자",
-      "locationKo": "벨라트리스",
-      "objective": "정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것",
-      "announcedMeasure": "추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다",
-      "publicQuote": "행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다",
-      "nextStep": "합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다",
-      "backgroundFactIds": [
-        "tick-00000072-fact-space"
-      ]
-    },
     {
       "id": "tick-00000072-event-10",
       "tickId": "tick-00000072",
@@ -3923,6 +2482,1397 @@
       ],
       "storyArcId": "arc-regional-71-nova-aster",
       "storyArcBeatId": "arc-regional-71-nova-aster-beat-1"
+    },
+    {
+      "id": "tick-00000073-nova-external-signal-event",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T15:42:30.588Z",
+      "nationIds": [
+        "nova"
+      ],
+      "category": "economy",
+      "title": "코레이아 공화국, 수입 공급망·결제망 스트레스 점검",
+      "summary": "재무당국과 산업계가 결제 지연과 원료 가격 상승이 생산 현장에 미칠 영향을 함께 계산한다.",
+      "severity": 54,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [],
+      "metricChanges": {},
+      "actorName": "코레이아 공화국 합동상황실",
+      "actorTitle": "정책조정회의",
+      "locationKo": "아우렐리아",
+      "objective": "대외 시장 충격이 필수 수입과 고용으로 번지는 경로를 조기에 확인하는 것",
+      "announcedMeasure": "재무당국이 핵심 수입품 20종의 결제 지연과 재고 일수를 공개 점검하기로 했다",
+      "publicQuote": "지수 하나보다 어떤 물자가 언제 부족해지는지를 먼저 공개하겠다",
+      "nextStep": "다음 거래 종료 뒤 품목별 재고와 비상금융 한도를 발표한다",
+      "backgroundFactIds": [
+        "tick-00000073-nova-external-signal-fact"
+      ]
+    },
+    {
+      "id": "tick-00000073-event-1",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T17:16:37.647Z",
+      "nationIds": [
+        "nova"
+      ],
+      "category": "politics",
+      "title": "코레이아 공화국, 추가 대응 표결 24시간 유보",
+      "summary": "마르코 벨로 노동·시민연대는 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다.",
+      "severity": 51,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000073-nova-action-1"
+      ],
+      "metricChanges": {
+        "approval": -0.4,
+        "publicAnxiety": 0.5
+      },
+      "actorAgentId": "nova-agent-14",
+      "actorName": "마르코 벨로",
+      "actorTitle": "노동·시민연대",
+      "locationKo": "아우렐리아",
+      "objective": "정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것",
+      "announcedMeasure": "추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다",
+      "publicQuote": "행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다",
+      "nextStep": "합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다",
+      "backgroundFactIds": [
+        "tick-00000073-nova-external-signal-fact"
+      ]
+    },
+    {
+      "id": "tick-00000073-event-2",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T16:26:25.882Z",
+      "nationIds": [
+        "nova"
+      ],
+      "category": "society",
+      "title": "코레이아 공화국, 하루 두 차례 위기 합동브리핑",
+      "summary": "엘라 카이 도시 직장인 대표는 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 첫 합동 브리핑은 이날 오후 아우렐리아 중앙기록관에서 열린다.",
+      "severity": 51,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000073-nova-action-2"
+      ],
+      "metricChanges": {
+        "approval": 0.74,
+        "publicAnxiety": 0.96
+      },
+      "actorAgentId": "nova-agent-15",
+      "actorName": "엘라 카이",
+      "actorTitle": "도시 직장인 대표",
+      "locationKo": "아우렐리아",
+      "objective": "정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것",
+      "announcedMeasure": "매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다",
+      "publicQuote": "확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라",
+      "nextStep": "첫 합동 브리핑은 이날 오후 아우렐리아 중앙기록관에서 열린다",
+      "backgroundFactIds": [
+        "tick-00000073-nova-external-signal-fact"
+      ]
+    },
+    {
+      "id": "tick-00000073-event-3",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T16:42:07.059Z",
+      "nationIds": [
+        "nova"
+      ],
+      "category": "society",
+      "title": "코레이아 공화국, 하루 두 차례 위기 합동브리핑",
+      "summary": "테오 루멘 항만·공업지역 대표는 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 첫 합동 브리핑은 이날 오후 아우렐리아 중앙기록관에서 열린다.",
+      "severity": 67,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000073-nova-action-3"
+      ],
+      "metricChanges": {
+        "approval": -0.71,
+        "publicAnxiety": 0.84
+      },
+      "actorAgentId": "nova-agent-16",
+      "actorName": "테오 루멘",
+      "actorTitle": "항만·공업지역 대표",
+      "locationKo": "아우렐리아",
+      "objective": "정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것",
+      "announcedMeasure": "매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다",
+      "publicQuote": "확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라",
+      "nextStep": "첫 합동 브리핑은 이날 오후 아우렐리아 중앙기록관에서 열린다",
+      "backgroundFactIds": [
+        "tick-00000073-nova-external-signal-fact"
+      ]
+    },
+    {
+      "id": "tick-00000073-event-4",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T17:07:12.941Z",
+      "nationIds": [
+        "nova",
+        "orion"
+      ],
+      "category": "diplomacy",
+      "title": "코레이아 공화국, 해협 보호령에 48시간 내 실무회담 제안",
+      "summary": "레온 아벨 국가 지도자는 해협 보호령에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다. 해협 보호령의 답변을 받은 뒤 아우렐리아 외교회관에서 예비접촉 대표와 의제를 공개한다.",
+      "severity": 55,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000073-nova-action-4"
+      ],
+      "metricChanges": {
+        "approval": 0.73,
+        "publicAnxiety": -0.87
+      },
+      "actorAgentId": "nova-agent-01",
+      "actorName": "레온 아벨",
+      "actorTitle": "국가 지도자",
+      "locationKo": "아우렐리아",
+      "targetNationId": "orion",
+      "objective": "해협 보호령과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것",
+      "announcedMeasure": "해협 보호령에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다",
+      "publicQuote": "상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다",
+      "nextStep": "해협 보호령의 답변을 받은 뒤 아우렐리아 외교회관에서 예비접촉 대표와 의제를 공개한다",
+      "backgroundFactIds": [
+        "tick-00000073-nova-external-signal-fact"
+      ],
+      "counterpartResponse": "해협 보호령 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다"
+    },
+    {
+      "id": "tick-00000073-event-5",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T16:48:23.529Z",
+      "nationIds": [
+        "nova",
+        "vesper"
+      ],
+      "category": "diplomacy",
+      "title": "코레이아 공화국, 아메리아 연방에 48시간 내 실무회담 제안",
+      "summary": "미라 마렌 집권당 지도부는 아메리아 연방에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다. 아메리아 연방의 답변을 받은 뒤 아우렐리아 외교회관에서 예비접촉 대표와 의제를 공개한다.",
+      "severity": 64,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000073-nova-action-5"
+      ],
+      "metricChanges": {
+        "approval": -0.14,
+        "publicAnxiety": -1.09
+      },
+      "actorAgentId": "nova-agent-02",
+      "actorName": "미라 마렌",
+      "actorTitle": "집권당 지도부",
+      "locationKo": "아우렐리아",
+      "targetNationId": "vesper",
+      "objective": "아메리아 연방과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것",
+      "announcedMeasure": "아메리아 연방에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다",
+      "publicQuote": "상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다",
+      "nextStep": "아메리아 연방의 답변을 받은 뒤 아우렐리아 외교회관에서 예비접촉 대표와 의제를 공개한다",
+      "backgroundFactIds": [
+        "tick-00000073-nova-external-signal-fact"
+      ],
+      "counterpartResponse": "아메리아 연방 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다"
+    },
+    {
+      "id": "tick-00000073-event-6",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T16:01:20.000Z",
+      "nationIds": [
+        "vesper"
+      ],
+      "category": "society",
+      "title": "아메리아 연방, 하루 두 차례 위기 합동브리핑",
+      "summary": "엘라 슈타인 노동·시민연대는 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 첫 합동 브리핑은 이날 오후 벨라트리스 중앙기록관에서 열린다.",
+      "severity": 62,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000073-vesper-action-1"
+      ],
+      "metricChanges": {
+        "approval": 0.74,
+        "publicAnxiety": -0.97
+      },
+      "actorAgentId": "vesper-agent-14",
+      "actorName": "엘라 슈타인",
+      "actorTitle": "노동·시민연대",
+      "locationKo": "벨라트리스",
+      "objective": "정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것",
+      "announcedMeasure": "매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다",
+      "publicQuote": "확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라",
+      "nextStep": "첫 합동 브리핑은 이날 오후 벨라트리스 중앙기록관에서 열린다",
+      "backgroundFactIds": []
+    },
+    {
+      "id": "tick-00000073-event-7",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T16:51:31.765Z",
+      "nationIds": [
+        "vesper"
+      ],
+      "category": "politics",
+      "title": "아메리아 연방, 추가 대응 표결 24시간 유보",
+      "summary": "테오 펠트 도시 직장인 대표는 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다.",
+      "severity": 59,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000073-vesper-action-2"
+      ],
+      "metricChanges": {
+        "approval": -0.4,
+        "publicAnxiety": 0.5
+      },
+      "actorAgentId": "vesper-agent-15",
+      "actorName": "테오 펠트",
+      "actorTitle": "도시 직장인 대표",
+      "locationKo": "벨라트리스",
+      "objective": "정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것",
+      "announcedMeasure": "추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다",
+      "publicQuote": "행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다",
+      "nextStep": "합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다",
+      "backgroundFactIds": []
+    },
+    {
+      "id": "tick-00000073-event-8",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T16:45:15.294Z",
+      "nationIds": [
+        "vesper"
+      ],
+      "category": "society",
+      "title": "아메리아 연방, 하루 두 차례 위기 합동브리핑",
+      "summary": "레온 노르 항만·공업지역 대표는 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 첫 합동 브리핑은 이날 오후 벨라트리스 중앙기록관에서 열린다.",
+      "severity": 44,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000073-vesper-action-3"
+      ],
+      "metricChanges": {
+        "approval": -0.42,
+        "publicAnxiety": 0.67
+      },
+      "actorAgentId": "vesper-agent-16",
+      "actorName": "레온 노르",
+      "actorTitle": "항만·공업지역 대표",
+      "locationKo": "벨라트리스",
+      "objective": "정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것",
+      "announcedMeasure": "매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다",
+      "publicQuote": "확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라",
+      "nextStep": "첫 합동 브리핑은 이날 오후 벨라트리스 중앙기록관에서 열린다",
+      "backgroundFactIds": []
+    },
+    {
+      "id": "tick-00000073-event-9",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T15:45:38.824Z",
+      "nationIds": [
+        "vesper"
+      ],
+      "category": "politics",
+      "title": "아메리아 연방, 추가 대응 표결 24시간 유보",
+      "summary": "미라 발렌 국가 지도자는 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다.",
+      "severity": 66,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000073-vesper-action-4"
+      ],
+      "metricChanges": {
+        "approval": -0.4,
+        "publicAnxiety": 0.5
+      },
+      "actorAgentId": "vesper-agent-01",
+      "actorName": "미라 발렌",
+      "actorTitle": "국가 지도자",
+      "locationKo": "벨라트리스",
+      "objective": "정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것",
+      "announcedMeasure": "추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다",
+      "publicQuote": "행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다",
+      "nextStep": "합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다",
+      "backgroundFactIds": []
+    },
+    {
+      "id": "tick-00000073-event-10",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T16:20:09.412Z",
+      "nationIds": [
+        "vesper"
+      ],
+      "category": "society",
+      "title": "아메리아 연방, 하루 두 차례 위기 합동브리핑",
+      "summary": "이반 크루거 집권당 지도부는 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 첫 합동 브리핑은 이날 오후 벨라트리스 중앙기록관에서 열린다.",
+      "severity": 59,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000073-vesper-action-5"
+      ],
+      "metricChanges": {
+        "approval": -0.49,
+        "publicAnxiety": -1.65
+      },
+      "actorAgentId": "vesper-agent-02",
+      "actorName": "이반 크루거",
+      "actorTitle": "집권당 지도부",
+      "locationKo": "벨라트리스",
+      "objective": "정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것",
+      "announcedMeasure": "매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다",
+      "publicQuote": "확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라",
+      "nextStep": "첫 합동 브리핑은 이날 오후 벨라트리스 중앙기록관에서 열린다",
+      "backgroundFactIds": []
+    },
+    {
+      "id": "tick-00000073-event-11",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T15:23:41.176Z",
+      "nationIds": [
+        "helion"
+      ],
+      "category": "society",
+      "title": "화하 왕국, 하루 두 차례 위기 합동브리핑",
+      "summary": "테오 누르 노동·시민연대는 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 첫 합동 브리핑은 이날 오후 솔 인빅타 중앙기록관에서 열린다.",
+      "severity": 66,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000073-helion-action-1"
+      ],
+      "metricChanges": {
+        "approval": 0.7,
+        "publicAnxiety": -1.17
+      },
+      "actorAgentId": "helion-agent-14",
+      "actorName": "테오 누르",
+      "actorTitle": "노동·시민연대",
+      "locationKo": "솔 인빅타",
+      "objective": "정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것",
+      "announcedMeasure": "매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다",
+      "publicQuote": "확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라",
+      "nextStep": "첫 합동 브리핑은 이날 오후 솔 인빅타 중앙기록관에서 열린다",
+      "backgroundFactIds": []
+    },
+    {
+      "id": "tick-00000073-event-12",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T17:44:51.765Z",
+      "nationIds": [
+        "helion"
+      ],
+      "category": "politics",
+      "title": "화하 왕국, 추가 대응 표결 24시간 유보",
+      "summary": "레온 타릭 도시 직장인 대표는 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다.",
+      "severity": 61,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000073-helion-action-2"
+      ],
+      "metricChanges": {
+        "approval": -0.4,
+        "publicAnxiety": 0.5
+      },
+      "actorAgentId": "helion-agent-15",
+      "actorName": "레온 타릭",
+      "actorTitle": "도시 직장인 대표",
+      "locationKo": "솔 인빅타",
+      "objective": "정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것",
+      "announcedMeasure": "추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다",
+      "publicQuote": "행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다",
+      "nextStep": "합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다",
+      "backgroundFactIds": []
+    },
+    {
+      "id": "tick-00000073-event-13",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T16:29:34.118Z",
+      "nationIds": [
+        "helion"
+      ],
+      "category": "society",
+      "title": "화하 왕국, 하루 두 차례 위기 합동브리핑",
+      "summary": "미라 자라 항만·공업지역 대표는 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 첫 합동 브리핑은 이날 오후 솔 인빅타 중앙기록관에서 열린다.",
+      "severity": 55,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000073-helion-action-3"
+      ],
+      "metricChanges": {
+        "approval": -0.5,
+        "publicAnxiety": -0.18
+      },
+      "actorAgentId": "helion-agent-16",
+      "actorName": "미라 자라",
+      "actorTitle": "항만·공업지역 대표",
+      "locationKo": "솔 인빅타",
+      "objective": "정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것",
+      "announcedMeasure": "매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다",
+      "publicQuote": "확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라",
+      "nextStep": "첫 합동 브리핑은 이날 오후 솔 인빅타 중앙기록관에서 열린다",
+      "backgroundFactIds": []
+    },
+    {
+      "id": "tick-00000073-event-14",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T17:35:27.059Z",
+      "nationIds": [
+        "helion",
+        "orion"
+      ],
+      "category": "diplomacy",
+      "title": "화하 왕국, 해협 보호령에 수송선 3척·의료단 파견",
+      "summary": "이반 솔라 국가 지도자는 해협 보호령에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다. 해협 보호령이 접안 안전을 보장하면 첫 수송선이 다음 날 오전 솔 인빅타 궤도항을 출발한다.",
+      "severity": 51,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000073-helion-action-4"
+      ],
+      "metricChanges": {
+        "reserves": -0.87,
+        "approval": 0.58
+      },
+      "actorAgentId": "helion-agent-01",
+      "actorName": "이반 솔라",
+      "actorTitle": "국가 지도자",
+      "locationKo": "솔 인빅타",
+      "targetNationId": "orion",
+      "objective": "해협 보호령의 필수 연료와 의료품 부족을 막고 항만 지역의 불안을 낮추는 것",
+      "announcedMeasure": "해협 보호령에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다",
+      "publicQuote": "이번 지원은 군사적 개입이 아니라 주민 생활과 민간 운송망을 지키기 위한 조치다",
+      "nextStep": "해협 보호령이 접안 안전을 보장하면 첫 수송선이 다음 날 오전 솔 인빅타 궤도항을 출발한다",
+      "backgroundFactIds": [],
+      "counterpartResponse": "해협 보호령 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다"
+    },
+    {
+      "id": "tick-00000073-event-15",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T17:00:56.471Z",
+      "nationIds": [
+        "helion",
+        "nova"
+      ],
+      "category": "diplomacy",
+      "title": "화하 왕국, 코레이아 공화국에 48시간 내 실무회담 제안",
+      "summary": "셀레네 아몬 집권당 지도부는 코레이아 공화국에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다. 코레이아 공화국의 답변을 받은 뒤 솔 인빅타 외교회관에서 예비접촉 대표와 의제를 공개한다.",
+      "severity": 77,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000073-helion-action-5"
+      ],
+      "metricChanges": {
+        "approval": -0.17,
+        "publicAnxiety": -0.32
+      },
+      "actorAgentId": "helion-agent-02",
+      "actorName": "셀레네 아몬",
+      "actorTitle": "집권당 지도부",
+      "locationKo": "솔 인빅타",
+      "targetNationId": "nova",
+      "objective": "코레이아 공화국과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것",
+      "announcedMeasure": "코레이아 공화국에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다",
+      "publicQuote": "상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다",
+      "nextStep": "코레이아 공화국의 답변을 받은 뒤 솔 인빅타 외교회관에서 예비접촉 대표와 의제를 공개한다",
+      "backgroundFactIds": [
+        "tick-00000073-nova-external-signal-fact"
+      ],
+      "counterpartResponse": "코레이아 공화국 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다"
+    },
+    {
+      "id": "tick-00000073-event-16",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T15:29:57.647Z",
+      "nationIds": [
+        "aster"
+      ],
+      "category": "politics",
+      "title": "알비온 공동체, 추가 대응 표결 24시간 유보",
+      "summary": "레온 모어 노동·시민연대는 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다.",
+      "severity": 51,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000073-aster-action-1"
+      ],
+      "metricChanges": {
+        "approval": -0.4,
+        "publicAnxiety": 0.5
+      },
+      "actorAgentId": "aster-agent-14",
+      "actorName": "레온 모어",
+      "actorTitle": "노동·시민연대",
+      "locationKo": "그린위치 항",
+      "objective": "정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것",
+      "announcedMeasure": "추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다",
+      "publicQuote": "행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다",
+      "nextStep": "합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다",
+      "backgroundFactIds": [
+        "tick-00000073-fact-politics"
+      ]
+    },
+    {
+      "id": "tick-00000073-event-17",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T17:38:35.294Z",
+      "nationIds": [
+        "aster"
+      ],
+      "category": "society",
+      "title": "알비온 공동체, 하루 두 차례 위기 합동브리핑",
+      "summary": "미라 헤일 도시 직장인 대표는 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 첫 합동 브리핑은 이날 오후 그린위치 항 중앙기록관에서 열린다.",
+      "severity": 51,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000073-aster-action-2"
+      ],
+      "metricChanges": {
+        "approval": -0.4,
+        "publicAnxiety": -1.24
+      },
+      "actorAgentId": "aster-agent-15",
+      "actorName": "미라 헤일",
+      "actorTitle": "도시 직장인 대표",
+      "locationKo": "그린위치 항",
+      "objective": "정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것",
+      "announcedMeasure": "매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다",
+      "publicQuote": "확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라",
+      "nextStep": "첫 합동 브리핑은 이날 오후 그린위치 항 중앙기록관에서 열린다",
+      "backgroundFactIds": [
+        "tick-00000073-fact-politics"
+      ]
+    },
+    {
+      "id": "tick-00000073-event-18",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T16:54:40.000Z",
+      "nationIds": [
+        "aster"
+      ],
+      "category": "society",
+      "title": "알비온 공동체, 하루 두 차례 위기 합동브리핑",
+      "summary": "이반 브룩 항만·공업지역 대표는 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 첫 합동 브리핑은 이날 오후 그린위치 항 중앙기록관에서 열린다.",
+      "severity": 67,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000073-aster-action-3"
+      ],
+      "metricChanges": {
+        "approval": 1.78,
+        "publicAnxiety": -1.51
+      },
+      "actorAgentId": "aster-agent-16",
+      "actorName": "이반 브룩",
+      "actorTitle": "항만·공업지역 대표",
+      "locationKo": "그린위치 항",
+      "objective": "정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것",
+      "announcedMeasure": "매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다",
+      "publicQuote": "확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라",
+      "nextStep": "첫 합동 브리핑은 이날 오후 그린위치 항 중앙기록관에서 열린다",
+      "backgroundFactIds": [
+        "tick-00000073-fact-politics"
+      ]
+    },
+    {
+      "id": "tick-00000073-event-19",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T17:29:10.588Z",
+      "nationIds": [
+        "aster"
+      ],
+      "category": "politics",
+      "title": "알비온 공동체, 추가 대응 표결 24시간 유보",
+      "summary": "셀레네 웨스트 국가 지도자는 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다.",
+      "severity": 62,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000073-aster-action-4"
+      ],
+      "metricChanges": {
+        "approval": -0.4,
+        "publicAnxiety": 0.5
+      },
+      "actorAgentId": "aster-agent-01",
+      "actorName": "셀레네 웨스트",
+      "actorTitle": "국가 지도자",
+      "locationKo": "그린위치 항",
+      "objective": "정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것",
+      "announcedMeasure": "추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다",
+      "publicQuote": "행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다",
+      "nextStep": "합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다",
+      "backgroundFactIds": [
+        "tick-00000073-fact-politics"
+      ]
+    },
+    {
+      "id": "tick-00000073-event-20",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T16:10:44.706Z",
+      "nationIds": [
+        "aster"
+      ],
+      "category": "politics",
+      "title": "알비온 공동체, 추가 대응 표결 24시간 유보",
+      "summary": "도리아 그레이 집권당 지도부는 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다.",
+      "severity": 75,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000073-aster-action-5"
+      ],
+      "metricChanges": {
+        "approval": -0.4,
+        "publicAnxiety": 0.5
+      },
+      "actorAgentId": "aster-agent-02",
+      "actorName": "도리아 그레이",
+      "actorTitle": "집권당 지도부",
+      "locationKo": "그린위치 항",
+      "objective": "정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것",
+      "announcedMeasure": "추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다",
+      "publicQuote": "행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다",
+      "nextStep": "합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다",
+      "backgroundFactIds": [
+        "tick-00000073-fact-politics"
+      ]
+    },
+    {
+      "id": "tick-00000073-event-21",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T15:11:08.235Z",
+      "nationIds": [
+        "marevia"
+      ],
+      "category": "society",
+      "title": "아드리아 연합, 하루 두 차례 위기 합동브리핑",
+      "summary": "미라 루치 노동·시민연대는 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 첫 합동 브리핑은 이날 오후 포르토 셀레네 중앙기록관에서 열린다.",
+      "severity": 42,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000073-marevia-action-1"
+      ],
+      "metricChanges": {
+        "approval": -0.57,
+        "publicAnxiety": 0.65
+      },
+      "actorAgentId": "marevia-agent-14",
+      "actorName": "미라 루치",
+      "actorTitle": "노동·시민연대",
+      "locationKo": "포르토 셀레네",
+      "objective": "정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것",
+      "announcedMeasure": "매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다",
+      "publicQuote": "확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라",
+      "nextStep": "첫 합동 브리핑은 이날 오후 포르토 셀레네 중앙기록관에서 열린다",
+      "backgroundFactIds": []
+    },
+    {
+      "id": "tick-00000073-event-22",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T17:48:00.000Z",
+      "nationIds": [
+        "marevia"
+      ],
+      "category": "society",
+      "title": "아드리아 연합, 하루 두 차례 위기 합동브리핑",
+      "summary": "이반 네리 도시 직장인 대표는 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 첫 합동 브리핑은 이날 오후 포르토 셀레네 중앙기록관에서 열린다.",
+      "severity": 59,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000073-marevia-action-2"
+      ],
+      "metricChanges": {
+        "approval": -0.46,
+        "publicAnxiety": 0.69
+      },
+      "actorAgentId": "marevia-agent-15",
+      "actorName": "이반 네리",
+      "actorTitle": "도시 직장인 대표",
+      "locationKo": "포르토 셀레네",
+      "objective": "정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것",
+      "announcedMeasure": "매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다",
+      "publicQuote": "확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라",
+      "nextStep": "첫 합동 브리핑은 이날 오후 포르토 셀레네 중앙기록관에서 열린다",
+      "backgroundFactIds": []
+    },
+    {
+      "id": "tick-00000073-event-23",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T17:41:43.529Z",
+      "nationIds": [
+        "marevia"
+      ],
+      "category": "politics",
+      "title": "아드리아 연합, 추가 대응 표결 24시간 유보",
+      "summary": "셀레네 코스타 항만·공업지역 대표는 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다.",
+      "severity": 55,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000073-marevia-action-3"
+      ],
+      "metricChanges": {
+        "approval": -0.4,
+        "publicAnxiety": 0.5
+      },
+      "actorAgentId": "marevia-agent-16",
+      "actorName": "셀레네 코스타",
+      "actorTitle": "항만·공업지역 대표",
+      "locationKo": "포르토 셀레네",
+      "objective": "정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것",
+      "announcedMeasure": "추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다",
+      "publicQuote": "행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다",
+      "nextStep": "합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다",
+      "backgroundFactIds": []
+    },
+    {
+      "id": "tick-00000073-event-24",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T15:17:24.706Z",
+      "nationIds": [
+        "marevia"
+      ],
+      "category": "politics",
+      "title": "아드리아 연합, 추가 대응 표결 24시간 유보",
+      "summary": "도리아 콘티 국가 지도자는 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다.",
+      "severity": 64,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000073-marevia-action-4"
+      ],
+      "metricChanges": {
+        "approval": -0.4,
+        "publicAnxiety": 0.5
+      },
+      "actorAgentId": "marevia-agent-01",
+      "actorName": "도리아 콘티",
+      "actorTitle": "국가 지도자",
+      "locationKo": "포르토 셀레네",
+      "objective": "정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것",
+      "announcedMeasure": "추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다",
+      "publicQuote": "행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다",
+      "nextStep": "합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다",
+      "backgroundFactIds": []
+    },
+    {
+      "id": "tick-00000073-event-25",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T16:23:17.647Z",
+      "nationIds": [
+        "marevia",
+        "nova"
+      ],
+      "category": "diplomacy",
+      "title": "아드리아 연합, 코레이아 공화국에 48시간 내 실무회담 제안",
+      "summary": "마르코 마리노 집권당 지도부는 코레이아 공화국에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다. 코레이아 공화국의 답변을 받은 뒤 포르토 셀레네 외교회관에서 예비접촉 대표와 의제를 공개한다.",
+      "severity": 66,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000073-marevia-action-5"
+      ],
+      "metricChanges": {
+        "approval": -0.02,
+        "publicAnxiety": -1.1
+      },
+      "actorAgentId": "marevia-agent-02",
+      "actorName": "마르코 마리노",
+      "actorTitle": "집권당 지도부",
+      "locationKo": "포르토 셀레네",
+      "targetNationId": "nova",
+      "objective": "코레이아 공화국과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것",
+      "announcedMeasure": "코레이아 공화국에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다",
+      "publicQuote": "상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다",
+      "nextStep": "코레이아 공화국의 답변을 받은 뒤 포르토 셀레네 외교회관에서 예비접촉 대표와 의제를 공개한다",
+      "backgroundFactIds": [
+        "tick-00000073-nova-external-signal-fact"
+      ],
+      "counterpartResponse": "코레이아 공화국 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다"
+    },
+    {
+      "id": "tick-00000073-event-26",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T16:57:48.235Z",
+      "nationIds": [
+        "karsk"
+      ],
+      "category": "politics",
+      "title": "동방 인민공화국, 추가 대응 표결 24시간 유보",
+      "summary": "이반 카멘 노동·시민연대는 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다.",
+      "severity": 67,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000073-karsk-action-1"
+      ],
+      "metricChanges": {
+        "approval": -0.4,
+        "publicAnxiety": 0.5
+      },
+      "actorAgentId": "karsk-agent-14",
+      "actorName": "이반 카멘",
+      "actorTitle": "노동·시민연대",
+      "locationKo": "동명",
+      "objective": "정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것",
+      "announcedMeasure": "추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다",
+      "publicQuote": "행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다",
+      "nextStep": "합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다",
+      "backgroundFactIds": []
+    },
+    {
+      "id": "tick-00000073-event-27",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T15:14:16.471Z",
+      "nationIds": [
+        "karsk"
+      ],
+      "category": "politics",
+      "title": "동방 인민공화국, 추가 대응 표결 24시간 유보",
+      "summary": "셀레네 노빅 도시 직장인 대표는 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다.",
+      "severity": 69,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000073-karsk-action-2"
+      ],
+      "metricChanges": {
+        "approval": -0.4,
+        "publicAnxiety": 0.5
+      },
+      "actorAgentId": "karsk-agent-15",
+      "actorName": "셀레네 노빅",
+      "actorTitle": "도시 직장인 대표",
+      "locationKo": "동명",
+      "objective": "정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것",
+      "announcedMeasure": "추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다",
+      "publicQuote": "행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다",
+      "nextStep": "합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다",
+      "backgroundFactIds": []
+    },
+    {
+      "id": "tick-00000073-event-28",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T16:32:42.353Z",
+      "nationIds": [
+        "karsk"
+      ],
+      "category": "politics",
+      "title": "동방 인민공화국, 추가 대응 표결 24시간 유보",
+      "summary": "도리아 제린 항만·공업지역 대표는 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다.",
+      "severity": 66,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000073-karsk-action-3"
+      ],
+      "metricChanges": {
+        "approval": -0.4,
+        "publicAnxiety": 0.5
+      },
+      "actorAgentId": "karsk-agent-16",
+      "actorName": "도리아 제린",
+      "actorTitle": "항만·공업지역 대표",
+      "locationKo": "동명",
+      "objective": "정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것",
+      "announcedMeasure": "추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다",
+      "publicQuote": "행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다",
+      "nextStep": "합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다",
+      "backgroundFactIds": []
+    },
+    {
+      "id": "tick-00000073-event-29",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T17:13:29.412Z",
+      "nationIds": [
+        "karsk"
+      ],
+      "category": "politics",
+      "title": "동방 인민공화국, 추가 대응 표결 24시간 유보",
+      "summary": "마르코 볼코프 국가 지도자는 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다.",
+      "severity": 54,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000073-karsk-action-4"
+      ],
+      "metricChanges": {
+        "approval": -0.4,
+        "publicAnxiety": 0.5
+      },
+      "actorAgentId": "karsk-agent-01",
+      "actorName": "마르코 볼코프",
+      "actorTitle": "국가 지도자",
+      "locationKo": "동명",
+      "objective": "정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것",
+      "announcedMeasure": "추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다",
+      "publicQuote": "행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다",
+      "nextStep": "합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다",
+      "backgroundFactIds": []
+    },
+    {
+      "id": "tick-00000073-event-30",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T15:58:11.765Z",
+      "nationIds": [
+        "karsk"
+      ],
+      "category": "politics",
+      "title": "동방 인민공화국, 추가 대응 표결 24시간 유보",
+      "summary": "엘라 미로프 집권당 지도부는 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다.",
+      "severity": 64,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000073-karsk-action-5"
+      ],
+      "metricChanges": {
+        "approval": -0.4,
+        "publicAnxiety": 0.5
+      },
+      "actorAgentId": "karsk-agent-02",
+      "actorName": "엘라 미로프",
+      "actorTitle": "집권당 지도부",
+      "locationKo": "동명",
+      "objective": "정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것",
+      "announcedMeasure": "추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다",
+      "publicQuote": "행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다",
+      "nextStep": "합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다",
+      "backgroundFactIds": []
+    },
+    {
+      "id": "tick-00000073-event-31",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T15:55:03.529Z",
+      "nationIds": [
+        "eiren"
+      ],
+      "category": "society",
+      "title": "헬베티아 동맹, 하루 두 차례 위기 합동브리핑",
+      "summary": "셀레네 다몬 노동·시민연대는 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 첫 합동 브리핑은 이날 오후 이레니아 중앙기록관에서 열린다.",
+      "severity": 71,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000073-eiren-action-1"
+      ],
+      "metricChanges": {
+        "approval": 1.85,
+        "publicAnxiety": -0.29
+      },
+      "actorAgentId": "eiren-agent-14",
+      "actorName": "셀레네 다몬",
+      "actorTitle": "노동·시민연대",
+      "locationKo": "이레니아",
+      "objective": "정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것",
+      "announcedMeasure": "매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다",
+      "publicQuote": "확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라",
+      "nextStep": "첫 합동 브리핑은 이날 오후 이레니아 중앙기록관에서 열린다",
+      "backgroundFactIds": [
+        "tick-00000073-fact-politics"
+      ]
+    },
+    {
+      "id": "tick-00000073-event-32",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T15:26:49.412Z",
+      "nationIds": [
+        "eiren"
+      ],
+      "category": "society",
+      "title": "헬베티아 동맹, 하루 두 차례 위기 합동브리핑",
+      "summary": "도리아 필론 도시 직장인 대표는 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 첫 합동 브리핑은 이날 오후 이레니아 중앙기록관에서 열린다.",
+      "severity": 62,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000073-eiren-action-2"
+      ],
+      "metricChanges": {
+        "approval": 0.8,
+        "publicAnxiety": 0.11
+      },
+      "actorAgentId": "eiren-agent-15",
+      "actorName": "도리아 필론",
+      "actorTitle": "도시 직장인 대표",
+      "locationKo": "이레니아",
+      "objective": "정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것",
+      "announcedMeasure": "매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다",
+      "publicQuote": "확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라",
+      "nextStep": "첫 합동 브리핑은 이날 오후 이레니아 중앙기록관에서 열린다",
+      "backgroundFactIds": [
+        "tick-00000073-fact-politics"
+      ]
+    },
+    {
+      "id": "tick-00000073-event-33",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T17:19:45.882Z",
+      "nationIds": [
+        "eiren"
+      ],
+      "category": "politics",
+      "title": "헬베티아 동맹, 추가 대응 표결 24시간 유보",
+      "summary": "마르코 메라 항만·공업지역 대표는 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다.",
+      "severity": 56,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000073-eiren-action-3"
+      ],
+      "metricChanges": {
+        "approval": -0.4,
+        "publicAnxiety": 0.5
+      },
+      "actorAgentId": "eiren-agent-16",
+      "actorName": "마르코 메라",
+      "actorTitle": "항만·공업지역 대표",
+      "locationKo": "이레니아",
+      "objective": "정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것",
+      "announcedMeasure": "추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다",
+      "publicQuote": "행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다",
+      "nextStep": "합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다",
+      "backgroundFactIds": [
+        "tick-00000073-fact-politics"
+      ]
+    },
+    {
+      "id": "tick-00000073-event-34",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T15:36:14.118Z",
+      "nationIds": [
+        "eiren",
+        "orion"
+      ],
+      "category": "diplomacy",
+      "title": "헬베티아 동맹, 해협 보호령에 수송선 3척·의료단 파견",
+      "summary": "엘라 칼리스 국가 지도자는 해협 보호령에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다. 해협 보호령이 접안 안전을 보장하면 첫 수송선이 다음 날 오전 이레니아 궤도항을 출발한다.",
+      "severity": 55,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000073-eiren-action-4"
+      ],
+      "metricChanges": {
+        "reserves": -0.79,
+        "approval": 0.53
+      },
+      "actorAgentId": "eiren-agent-01",
+      "actorName": "엘라 칼리스",
+      "actorTitle": "국가 지도자",
+      "locationKo": "이레니아",
+      "targetNationId": "orion",
+      "objective": "해협 보호령의 필수 연료와 의료품 부족을 막고 항만 지역의 불안을 낮추는 것",
+      "announcedMeasure": "해협 보호령에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다",
+      "publicQuote": "이번 지원은 군사적 개입이 아니라 주민 생활과 민간 운송망을 지키기 위한 조치다",
+      "nextStep": "해협 보호령이 접안 안전을 보장하면 첫 수송선이 다음 날 오전 이레니아 궤도항을 출발한다",
+      "backgroundFactIds": [
+        "tick-00000073-fact-politics"
+      ],
+      "counterpartResponse": "해협 보호령 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다"
+    },
+    {
+      "id": "tick-00000073-event-35",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T15:20:32.941Z",
+      "nationIds": [
+        "eiren"
+      ],
+      "category": "politics",
+      "title": "헬베티아 동맹, 추가 대응 표결 24시간 유보",
+      "summary": "테오 테온 집권당 지도부는 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다.",
+      "severity": 52,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000073-eiren-action-5"
+      ],
+      "metricChanges": {
+        "approval": -0.4,
+        "publicAnxiety": 0.5
+      },
+      "actorAgentId": "eiren-agent-02",
+      "actorName": "테오 테온",
+      "actorTitle": "집권당 지도부",
+      "locationKo": "이레니아",
+      "objective": "정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것",
+      "announcedMeasure": "추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다",
+      "publicQuote": "행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다",
+      "nextStep": "합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다",
+      "backgroundFactIds": [
+        "tick-00000073-fact-politics"
+      ]
+    },
+    {
+      "id": "tick-00000073-event-36",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T17:26:02.353Z",
+      "nationIds": [
+        "orion"
+      ],
+      "category": "politics",
+      "title": "해협 보호령, 추가 대응 표결 24시간 유보",
+      "summary": "도리아 페랭 노동·시민연대는 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다.",
+      "severity": 73,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000073-orion-action-1"
+      ],
+      "metricChanges": {
+        "approval": -0.4,
+        "publicAnxiety": 0.5
+      },
+      "actorAgentId": "orion-agent-14",
+      "actorName": "도리아 페랭",
+      "actorTitle": "노동·시민연대",
+      "locationKo": "벨포트",
+      "objective": "정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것",
+      "announcedMeasure": "추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다",
+      "publicQuote": "행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다",
+      "nextStep": "합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다",
+      "backgroundFactIds": []
+    },
+    {
+      "id": "tick-00000073-event-37",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T17:32:18.824Z",
+      "nationIds": [
+        "orion"
+      ],
+      "category": "society",
+      "title": "해협 보호령, 하루 두 차례 위기 합동브리핑",
+      "summary": "마르코 모렐 도시 직장인 대표는 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 첫 합동 브리핑은 이날 오후 벨포트 중앙기록관에서 열린다.",
+      "severity": 48,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000073-orion-action-2"
+      ],
+      "metricChanges": {
+        "approval": -0.01,
+        "publicAnxiety": -1.56
+      },
+      "actorAgentId": "orion-agent-15",
+      "actorName": "마르코 모렐",
+      "actorTitle": "도시 직장인 대표",
+      "locationKo": "벨포트",
+      "objective": "정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것",
+      "announcedMeasure": "매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다",
+      "publicQuote": "확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라",
+      "nextStep": "첫 합동 브리핑은 이날 오후 벨포트 중앙기록관에서 열린다",
+      "backgroundFactIds": []
+    },
+    {
+      "id": "tick-00000073-event-38",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T16:17:01.176Z",
+      "nationIds": [
+        "orion"
+      ],
+      "category": "society",
+      "title": "해협 보호령, 하루 두 차례 위기 합동브리핑",
+      "summary": "엘라 비앙 항만·공업지역 대표는 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 첫 합동 브리핑은 이날 오후 벨포트 중앙기록관에서 열린다.",
+      "severity": 67,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000073-orion-action-3"
+      ],
+      "metricChanges": {
+        "approval": -0.15,
+        "publicAnxiety": 0
+      },
+      "actorAgentId": "orion-agent-16",
+      "actorName": "엘라 비앙",
+      "actorTitle": "항만·공업지역 대표",
+      "locationKo": "벨포트",
+      "objective": "정부 조치와 위험 수준을 시민에게 같은 기준으로 설명하는 것",
+      "announcedMeasure": "매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다",
+      "publicQuote": "확인되지 않은 소문보다 공개 기록과 정해진 발표 시간을 기준으로 판단해 달라",
+      "nextStep": "첫 합동 브리핑은 이날 오후 벨포트 중앙기록관에서 열린다",
+      "backgroundFactIds": []
+    },
+    {
+      "id": "tick-00000073-event-39",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T17:04:04.706Z",
+      "nationIds": [
+        "orion"
+      ],
+      "category": "politics",
+      "title": "해협 보호령, 추가 대응 표결 24시간 유보",
+      "summary": "테오 로랑 국가 지도자는 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다.",
+      "severity": 68,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000073-orion-action-4"
+      ],
+      "metricChanges": {
+        "approval": -0.4,
+        "publicAnxiety": 0.5
+      },
+      "actorAgentId": "orion-agent-01",
+      "actorName": "테오 로랑",
+      "actorTitle": "국가 지도자",
+      "locationKo": "벨포트",
+      "objective": "정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것",
+      "announcedMeasure": "추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다",
+      "publicQuote": "행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다",
+      "nextStep": "합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다",
+      "backgroundFactIds": []
+    },
+    {
+      "id": "tick-00000073-event-40",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T16:04:28.235Z",
+      "nationIds": [
+        "orion"
+      ],
+      "category": "politics",
+      "title": "해협 보호령, 추가 대응 표결 24시간 유보",
+      "summary": "레온 마르소 집권당 지도부는 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다.",
+      "severity": 58,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000073-orion-action-5"
+      ],
+      "metricChanges": {
+        "approval": -0.4,
+        "publicAnxiety": 0.5
+      },
+      "actorAgentId": "orion-agent-02",
+      "actorName": "레온 마르소",
+      "actorTitle": "집권당 지도부",
+      "locationKo": "벨포트",
+      "objective": "정보가 부족한 상태에서 돌이키기 어려운 결정을 피하는 것",
+      "announcedMeasure": "추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다",
+      "publicQuote": "행동하지 않는 것이 아니라 판단에 필요한 사실을 먼저 확보하는 과정이다",
+      "nextStep": "합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다",
+      "backgroundFactIds": []
+    },
+    {
+      "id": "tick-00000073-vesper-frontier-orbital-news",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T17:10:21.176Z",
+      "nationIds": [
+        "vesper"
+      ],
+      "category": "space",
+      "title": "프런티어 오비털, 재사용 궤도수송선 2단 회수 시험",
+      "summary": "재사용 궤도수송선의 2단 비행체를 해상 회수선에 착륙시키는 시험 일정을 공개했다. 민간 위성 발사 비용과 발사 간격을 줄이는 것.",
+      "severity": 66,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [],
+      "metricChanges": {},
+      "actorOrganizationId": "vesper-frontier-orbital",
+      "actorName": "프런티어 오비털",
+      "actorTitle": "기술책임자",
+      "locationKo": "벨라트리스 서부 우주항",
+      "objective": "민간 위성 발사 비용과 발사 간격을 줄이는 것",
+      "announcedMeasure": "재사용 궤도수송선의 2단 비행체를 해상 회수선에 착륙시키는 시험 일정을 공개했다",
+      "publicQuote": "한 번의 착륙보다 같은 기체를 안전하게 다시 띄우는 기록이 중요하다",
+      "nextStep": "무인 화물비행 뒤 기체를 분해해 열손상 결과를 공개한다",
+      "uncertainty": "반복 비행 횟수와 상업 운항 단가는 아직 확정되지 않았다",
+      "backgroundFactIds": [
+        "tick-00000073-fact-national-industry"
+      ]
+    },
+    {
+      "id": "tick-00000073-tick-00000071-orion-strait-propellant-news-validation-replication",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T17:22:54.118Z",
+      "nationIds": [
+        "orion"
+      ],
+      "category": "space",
+      "title": "해협 궤도연료공사 발표, 두 독립 시험소가 재현 착수",
+      "summary": "서로 다른 연구기관 두 곳이 원자료와 시험 장치를 넘겨받아 독립 재현에 착수했다.",
+      "severity": 52,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [],
+      "metricChanges": {},
+      "actorName": "오르비스 공동검증단",
+      "actorTitle": "독립재현심의회",
+      "locationKo": "이레니아 국제검증소",
+      "objective": "새 기술의 핵심 성능이 서로 다른 장비와 연구진에게서 재현되는지 확인하는 것",
+      "announcedMeasure": "서로 다른 연구기관 두 곳이 원자료와 시험 장치를 넘겨받아 독립 재현에 착수했다.",
+      "publicQuote": "원 연구진이 관여하지 않는 시험에서 같은 결과가 나오는지 확인하겠다",
+      "nextStep": "두 차례의 독립 시험 결과를 다음 검증회의에서 함께 공개한다",
+      "backgroundFactIds": [
+        "tick-00000073-fact-tick-00000071-orion-strait-propellant-news-validation-replication"
+      ]
+    },
+    {
+      "id": "tick-00000073-arc-domestic-71-nova-escalation",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T16:13:52.941Z",
+      "nationIds": [
+        "nova"
+      ],
+      "category": "politics",
+      "title": "코레이아 공화국 연정 일부, 위기예산 수정 없으면 표결 불참",
+      "summary": "연정 의원들이 연료 보조금의 종료 조건과 의회 감사권을 요구하며 표결 불참을 경고했다.",
+      "severity": 64,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [],
+      "metricChanges": {},
+      "actorName": "코레이아 공화국 의회",
+      "actorTitle": "본회의 운영단",
+      "locationKo": "국회의사당",
+      "objective": "의회 과반의 책임 아래 연료·물가 대응 예산과 내각 권한을 확정하는 것",
+      "announcedMeasure": "연정 소속 의원들이 월별 집행 공개와 자동 종료 조항을 수정안에 넣으라고 요구했다",
+      "publicQuote": "위기 대응의 속도와 예산 통제는 함께 지켜야 한다",
+      "nextStep": "원내대표들이 다음 정규판 전까지 단일 수정안을 마련한다",
+      "backgroundFactIds": [
+        "tick-00000073-arc-domestic-71-nova-escalation-fact"
+      ],
+      "storyArcId": "arc-domestic-71-nova",
+      "storyArcBeatId": "arc-domestic-71-nova-beat-2"
+    },
+    {
+      "id": "tick-00000073-prisma-economic-report",
+      "tickId": "tick-00000073",
+      "occurredAt": "3026-07-23T15:39:22.353Z",
+      "nationIds": [
+        "nova"
+      ],
+      "category": "economy",
+      "title": "프리즘 경제관측소, 코레이아 경기 '정체' 진단",
+      "summary": "프리즘 경제관측소는 코레이아 경기를 '정체' 국면으로 진단했다. 경제 불안 지수는 58.8, 추정 범위는 41.8~75.8다. 이 가운데 대외·궤도 위험의 영향이 가장 컸다.",
+      "severity": 67,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [],
+      "metricChanges": {},
+      "actorName": "프리즘 경제관측소",
+      "actorTitle": "수석 경제관측관",
+      "locationKo": "아우렐리아 프리즘 관측관",
+      "objective": "코레이아 경제의 단기 위험을 수치와 사건 기록으로 분리해 시민과 정책 담당자에게 설명하는 것",
+      "announcedMeasure": "5개 분석실이 일일회의를 열어 경기 진단을 '정체' 단계로 정하고 위험 요인별 기여도를 공개했다",
+      "publicQuote": "가장 큰 상승 요인은 대외·궤도 위험이며 단일 수치보다 41.8~75.8의 추정 범위를 함께 봐야 한다",
+      "nextStep": "다음 날 오전 3시 전일 전망 오차와 새 경제·외교 사건을 다시 검토한다",
+      "backgroundFactIds": [
+        "tick-00000072-fact-space",
+        "tick-00000072-fact-aic-discovery",
+        "tick-00000072-fact-national-industry",
+        "tick-00000072-arc-regional-71-nova-aster-trigger-fact",
+        "tick-00000073-nova-external-signal-fact",
+        "tick-00000073-arc-domestic-71-nova-escalation-fact"
+      ]
     }
   ],
   "editions": [
@@ -11124,7 +11074,7 @@
       "date": "3026-07-23",
       "imagePath": "/images/nova-capital.png",
       "alt": "아우렐리아의 1960년대 아날로그 미래 수도 전경",
-      "prompt": "아우렐리아, 코레이아 공화국, analog-future alternate history city. civic republic and parliamentary dome, AI semiconductor research halls, precision instrument works, orbital transit over a dense stone capital. AI 반도체, 원자력, 우주 물류, orbital spacecraft and tracking infrastructure imagined through 1960s engineering. current events: 코레이아 공화국, 하루 두 차례 위기 합동브리핑, 세라노 반도체, 차세대 AI 메모리 시제품 공개, 코레이아 공화국 검문선, 알비온 공동체 연료선 2척 정선 명령. world time: 3026-07-23T15:00:00.000Z. cinematic editorial realism, no text, no logo, no real flag, no graphic violence, 16:9",
+      "prompt": "아우렐리아, 코레이아 공화국, analog-future alternate history city. civic republic and parliamentary dome, AI semiconductor research halls, precision instrument works, orbital transit over a dense stone capital. AI 반도체, 원자력, 우주 물류, orbital spacecraft and tracking infrastructure imagined through 1960s engineering. current events: 화하 왕국, 코레이아 공화국에 48시간 내 실무회담 제안, 코레이아 공화국, 하루 두 차례 위기 합동브리핑, 프리즘 경제관측소, 코레이아 경기 '정체' 진단. world time: 3026-07-23T18:00:00.000Z. cinematic editorial realism, no text, no logo, no real flag, no graphic violence, 16:9",
       "generated": false,
       "hotspots": [
         {
@@ -11134,9 +11084,9 @@
           "x": 48,
           "y": 44,
           "status": "watch",
-          "updatedAt": "3026-07-23T14:37:05.455Z",
-          "eventId": "tick-00000072-event-3",
-          "summary": "이반 코르빈 대표 언론사 편집국은 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다."
+          "updatedAt": "3026-07-23T17:16:37.647Z",
+          "eventId": "tick-00000073-event-1",
+          "summary": "마르코 벨로 노동·시민연대는 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다."
         },
         {
           "id": "nova-lumen-market",
@@ -11144,9 +11094,10 @@
           "category": "economy",
           "x": 76,
           "y": 52,
-          "status": "normal",
-          "updatedAt": "3026-07-23T15:00:00.000Z",
-          "summary": "루멘 외환시장은 정상 운영 중이며 새로 공개된 특이사항이 없습니다."
+          "status": "watch",
+          "updatedAt": "3026-07-23T15:42:30.588Z",
+          "eventId": "tick-00000073-nova-external-signal-event",
+          "summary": "재무당국과 산업계가 결제 지연과 원료 가격 상승이 생산 현장에 미칠 영향을 함께 계산한다."
         },
         {
           "id": "nova-serrano-ai",
@@ -11177,7 +11128,7 @@
       "date": "3026-07-23",
       "imagePath": "/images/capital-vesper.png",
       "alt": "벨라트리스의 1960년대 아날로그 미래 수도 전경",
-      "prompt": "벨라트리스, 아메리아 연방, analog-future alternate history city. cold alpine industrial metropolis, specialty-alloy mills, heavy machine works, radio-electronics towers, federal ministry blocks and freight rail. 중궤도 정거장, 대형 로켓, 전파전, orbital spacecraft and tracking infrastructure imagined through 1960s engineering. current events: 아메리아 연방, 추가 대응 표결 24시간 유보, 오르비스 우주항공청, 오래된 측량자료에서 원거리 거대행성 후보 확인, 오르비스 AI연구원, 멀티스펙트럼 AI 이미지 센서, 촬영과 동시에 구름·연기 판독. world time: 3026-07-23T15:00:00.000Z. cinematic editorial realism, no text, no logo, no real flag, no graphic violence, 16:9",
+      "prompt": "벨라트리스, 아메리아 연방, analog-future alternate history city. cold alpine industrial metropolis, specialty-alloy mills, heavy machine works, radio-electronics towers, federal ministry blocks and freight rail. 중궤도 정거장, 대형 로켓, 전파전, orbital spacecraft and tracking infrastructure imagined through 1960s engineering. current events: 프런티어 오비털, 재사용 궤도수송선 2단 회수 시험, 아메리아 연방, 추가 대응 표결 24시간 유보, 코레이아 공화국, 아메리아 연방에 48시간 내 실무회담 제안. world time: 3026-07-23T18:00:00.000Z. cinematic editorial realism, no text, no logo, no real flag, no graphic violence, 16:9",
       "generated": false,
       "hotspots": [
         {
@@ -11186,10 +11137,10 @@
           "category": "politics",
           "x": 45,
           "y": 43,
-          "status": "watch",
-          "updatedAt": "3026-07-23T14:22:32.727Z",
-          "eventId": "tick-00000072-event-6",
-          "summary": "미라 발렌 외교부는 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다."
+          "status": "active",
+          "updatedAt": "3026-07-23T16:51:31.765Z",
+          "eventId": "tick-00000073-event-7",
+          "summary": "테오 펠트 도시 직장인 대표는 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다."
         },
         {
           "id": "vesper-frontier-orbital",
@@ -11198,9 +11149,9 @@
           "x": 72,
           "y": 23,
           "status": "active",
-          "updatedAt": "3026-07-23T12:37:05.455Z",
-          "eventId": "tick-00000072-oasi-discovery",
-          "summary": "퇴역한 광도측량위성 '미라-3'의 기록에서 별빛이 중력에 의해 일시적으로 증폭되는 현상이 세 차례 같은 궤도 해석과 일치했다. 기존 통과 관측으로 찾기 어려운 먼 궤도의 행성을 과거 자료에서 추가로 찾을 가능성이 커졌다. 다만 행성의 대기와 표면은 관측되지 않았으며 생명 가능성을 판단할 자료도 없다."
+          "updatedAt": "3026-07-23T17:10:21.176Z",
+          "eventId": "tick-00000073-vesper-frontier-orbital-news",
+          "summary": "재사용 궤도수송선의 2단 비행체를 해상 회수선에 착륙시키는 시험 일정을 공개했다. 민간 위성 발사 비용과 발사 간격을 줄이는 것."
         },
         {
           "id": "vesper-industry-board",
@@ -11209,7 +11160,7 @@
           "x": 76,
           "y": 58,
           "status": "normal",
-          "updatedAt": "3026-07-23T15:00:00.000Z",
+          "updatedAt": "3026-07-23T18:00:00.000Z",
           "summary": "첨단제조 거래소은 정상 운영 중이며 새로 공개된 특이사항이 없습니다."
         },
         {
@@ -11219,7 +11170,7 @@
           "x": 23,
           "y": 66,
           "status": "normal",
-          "updatedAt": "3026-07-23T15:00:00.000Z",
+          "updatedAt": "3026-07-23T18:00:00.000Z",
           "summary": "극지수송 사령부은 정상 운영 중이며 새로 공개된 특이사항이 없습니다."
         }
       ]
@@ -11229,7 +11180,7 @@
       "date": "3026-07-23",
       "imagePath": "/images/capital-helion.png",
       "alt": "솔 인빅타의 1960년대 아날로그 미래 수도 전경",
-      "prompt": "솔 인빅타, 화하 왕국, analog-future alternate history city. sun-baked planned plateau city, heliostat fields, solar-fuel towers, orbital engine stands, power-cell factories and geometric ochre avenues. 태양관측, 고속 계산기, 핵융합 실험, orbital spacecraft and tracking infrastructure imagined through 1960s engineering. current events: 화하 왕국, 동방 인민공화국에 48시간 내 실무회담 제안, 화하 왕국, 하루 두 차례 위기 합동브리핑, 화하 왕국, 추가 대응 표결 24시간 유보. world time: 3026-07-23T15:00:00.000Z. cinematic editorial realism, no text, no logo, no real flag, no graphic violence, 16:9",
+      "prompt": "솔 인빅타, 화하 왕국, analog-future alternate history city. sun-baked planned plateau city, heliostat fields, solar-fuel towers, orbital engine stands, power-cell factories and geometric ochre avenues. 태양관측, 고속 계산기, 핵융합 실험, orbital spacecraft and tracking infrastructure imagined through 1960s engineering. current events: 화하 왕국, 코레이아 공화국에 48시간 내 실무회담 제안, 화하 왕국, 하루 두 차례 위기 합동브리핑, 헬베티아 동맹, 화하 왕국에 수송선 3척·의료단 파견. world time: 3026-07-23T18:00:00.000Z. cinematic editorial realism, no text, no logo, no real flag, no graphic violence, 16:9",
       "generated": false,
       "hotspots": [
         {
@@ -11239,9 +11190,9 @@
           "x": 48,
           "y": 42,
           "status": "active",
-          "updatedAt": "3026-07-23T12:26:10.909Z",
-          "eventId": "tick-00000072-event-12",
-          "summary": "셀레네 아몬 국방부·우주사령부는 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다."
+          "updatedAt": "3026-07-23T17:44:51.765Z",
+          "eventId": "tick-00000073-event-12",
+          "summary": "레온 타릭 도시 직장인 대표는 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다."
         },
         {
           "id": "helion-celestial-energy",
@@ -11261,7 +11212,7 @@
           "x": 77,
           "y": 57,
           "status": "normal",
-          "updatedAt": "3026-07-23T15:00:00.000Z",
+          "updatedAt": "3026-07-23T18:00:00.000Z",
           "summary": "태양연료 거래소은 정상 운영 중이며 새로 공개된 특이사항이 없습니다."
         },
         {
@@ -11282,7 +11233,7 @@
       "date": "3026-07-23",
       "imagePath": "/images/capital-aster.png",
       "alt": "그린위치 항의 1960년대 아날로그 미래 수도 전경",
-      "prompt": "그린위치 항, 알비온 공동체, analog-future alternate history city. green river-delta garden city, grain exchange, timber halls, biochemical glasshouses, satellite dishes and an ocean-launch canal. 해양 발사, 통신위성, 항법망, orbital spacecraft and tracking infrastructure imagined through 1960s engineering. current events: 알비온 공동체, 추가 대응 표결 24시간 유보, 헬베티아 동맹, 알비온 공동체에 48시간 내 실무회담 제안, 알비온 공동체, 추가 대응 표결 24시간 유보. world time: 3026-07-23T15:00:00.000Z. cinematic editorial realism, no text, no logo, no real flag, no graphic violence, 16:9",
+      "prompt": "그린위치 항, 알비온 공동체, analog-future alternate history city. green river-delta garden city, grain exchange, timber halls, biochemical glasshouses, satellite dishes and an ocean-launch canal. 해양 발사, 통신위성, 항법망, orbital spacecraft and tracking infrastructure imagined through 1960s engineering. current events: 알비온 공동체, 추가 대응 표결 24시간 유보, 알비온 공동체, 추가 대응 표결 24시간 유보, 헬베티아 동맹, 알비온 공동체에 48시간 내 실무회담 제안. world time: 3026-07-23T18:00:00.000Z. cinematic editorial realism, no text, no logo, no real flag, no graphic violence, 16:9",
       "generated": false,
       "hotspots": [
         {
@@ -11291,10 +11242,10 @@
           "category": "politics",
           "x": 47,
           "y": 43,
-          "status": "watch",
-          "updatedAt": "3026-07-23T14:26:10.909Z",
-          "eventId": "tick-00000072-event-18",
-          "summary": "마르코 리드 대표 언론사 편집국은 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다."
+          "status": "active",
+          "updatedAt": "3026-07-23T17:29:10.588Z",
+          "eventId": "tick-00000073-event-19",
+          "summary": "셀레네 웨스트 국가 지도자는 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다."
         },
         {
           "id": "aster-crown-orbit",
@@ -11314,7 +11265,7 @@
           "x": 76,
           "y": 57,
           "status": "normal",
-          "updatedAt": "3026-07-23T15:00:00.000Z",
+          "updatedAt": "3026-07-23T18:00:00.000Z",
           "summary": "해양보험시장은 정상 운영 중이며 새로 공개된 특이사항이 없습니다."
         },
         {
@@ -11324,7 +11275,7 @@
           "x": 23,
           "y": 67,
           "status": "normal",
-          "updatedAt": "3026-07-23T15:00:00.000Z",
+          "updatedAt": "3026-07-23T18:00:00.000Z",
           "summary": "항공구조센터은 정상 운영 중이며 새로 공개된 특이사항이 없습니다."
         }
       ]
@@ -11334,7 +11285,7 @@
       "date": "3026-07-23",
       "imagePath": "/images/capital-marevia.png",
       "alt": "포르토 셀레네의 1960년대 아날로그 미래 수도 전경",
-      "prompt": "포르토 셀레네, 아드리아 연합, analog-future alternate history city. terraced maritime capital, crescent harbor, shipyards, merchant convoys, marine-fuel tanks, floating spaceport and commodities exchange. 부유식 우주항, 심해 자원, 상선망, orbital spacecraft and tracking infrastructure imagined through 1960s engineering. current events: 아드리아 연합, 하루 두 차례 위기 합동브리핑, 아드리아 연합, 추가 대응 표결 24시간 유보, 아드리아 연합, 추가 대응 표결 24시간 유보. world time: 3026-07-23T15:00:00.000Z. cinematic editorial realism, no text, no logo, no real flag, no graphic violence, 16:9",
+      "prompt": "포르토 셀레네, 아드리아 연합, analog-future alternate history city. terraced maritime capital, crescent harbor, shipyards, merchant convoys, marine-fuel tanks, floating spaceport and commodities exchange. 부유식 우주항, 심해 자원, 상선망, orbital spacecraft and tracking infrastructure imagined through 1960s engineering. current events: 아드리아 연합, 하루 두 차례 위기 합동브리핑, 아드리아 연합, 추가 대응 표결 24시간 유보, 아드리아 연합, 코레이아 공화국에 48시간 내 실무회담 제안. world time: 3026-07-23T18:00:00.000Z. cinematic editorial realism, no text, no logo, no real flag, no graphic violence, 16:9",
       "generated": false,
       "hotspots": [
         {
@@ -11344,9 +11295,9 @@
           "x": 47,
           "y": 43,
           "status": "active",
-          "updatedAt": "3026-07-23T14:18:54.545Z",
-          "eventId": "tick-00000072-event-23",
-          "summary": "엘라 벨리 대표 언론사 편집국은 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다."
+          "updatedAt": "3026-07-23T17:41:43.529Z",
+          "eventId": "tick-00000073-event-23",
+          "summary": "셀레네 코스타 항만·공업지역 대표는 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다."
         },
         {
           "id": "marevia-blue-harbor",
@@ -11355,7 +11306,7 @@
           "x": 24,
           "y": 66,
           "status": "normal",
-          "updatedAt": "3026-07-23T15:00:00.000Z",
+          "updatedAt": "3026-07-23T18:00:00.000Z",
           "summary": "블루하버 물류항은 정상 운영 중이며 새로 공개된 특이사항이 없습니다."
         },
         {
@@ -11364,10 +11315,10 @@
           "category": "diplomacy",
           "x": 76,
           "y": 57,
-          "status": "watch",
-          "updatedAt": "3026-07-23T14:40:43.636Z",
-          "eventId": "tick-00000072-event-2",
-          "summary": "미라 마렌 국방부·우주사령부는 아드리아 연합에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다. 아드리아 연합이 접안 안전을 보장하면 첫 수송선이 다음 날 오전 아우렐리아 궤도항을 출발한다."
+          "status": "active",
+          "updatedAt": "3026-07-23T16:23:17.647Z",
+          "eventId": "tick-00000073-event-25",
+          "summary": "마르코 마리노 집권당 지도부는 코레이아 공화국에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다. 코레이아 공화국의 답변을 받은 뒤 포르토 셀레네 외교회관에서 예비접촉 대표와 의제를 공개한다."
         },
         {
           "id": "marevia-maritime-orbit",
@@ -11387,7 +11338,7 @@
       "date": "3026-07-23",
       "imagePath": "/images/capital-karsk.png",
       "alt": "동명의 1960년대 아날로그 미래 수도 전경",
-      "prompt": "동명, 동방 인민공화국, analog-future alternate history city. severe northern steel city, worker assembly square, blast furnaces, coal trains, heavy machinery halls and polar satellite workshops. 중공업, 군사위성, 극지 발사장, orbital spacecraft and tracking infrastructure imagined through 1960s engineering. current events: 화하 왕국, 동방 인민공화국에 48시간 내 실무회담 제안, 동방 인민공화국 의회, 물가 안정·평화 집회 당시 정부의 안전대책과 현장 지휘 과정 조사위 구성안, 동방 인민공화국, 하루 두 차례 위기 합동브리핑. world time: 3026-07-23T15:00:00.000Z. cinematic editorial realism, no text, no logo, no real flag, no graphic violence, 16:9",
+      "prompt": "동명, 동방 인민공화국, analog-future alternate history city. severe northern steel city, worker assembly square, blast furnaces, coal trains, heavy machinery halls and polar satellite workshops. 중공업, 군사위성, 극지 발사장, orbital spacecraft and tracking infrastructure imagined through 1960s engineering. current events: 동방 인민공화국, 추가 대응 표결 24시간 유보, 동방 인민공화국, 하루 두 차례 위기 합동브리핑, 동방 인민공화국, 하루 두 차례 위기 합동브리핑. world time: 3026-07-23T18:00:00.000Z. cinematic editorial realism, no text, no logo, no real flag, no graphic violence, 16:9",
       "generated": false,
       "hotspots": [
         {
@@ -11396,10 +11347,10 @@
           "category": "politics",
           "x": 47,
           "y": 43,
-          "status": "active",
-          "updatedAt": "3026-07-23T11:25:08.571Z",
-          "eventId": "tick-00000071-event-26",
-          "summary": "레온 다닌 민족전선 지도부는 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다."
+          "status": "watch",
+          "updatedAt": "3026-07-23T17:13:29.412Z",
+          "eventId": "tick-00000073-event-29",
+          "summary": "마르코 볼코프 국가 지도자는 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다."
         },
         {
           "id": "karsk-polar-machinery",
@@ -11419,7 +11370,7 @@
           "x": 76,
           "y": 57,
           "status": "normal",
-          "updatedAt": "3026-07-23T15:00:00.000Z",
+          "updatedAt": "3026-07-23T18:00:00.000Z",
           "summary": "국가생산계획국은 정상 운영 중이며 새로 공개된 특이사항이 없습니다."
         },
         {
@@ -11440,7 +11391,7 @@
       "date": "3026-07-23",
       "imagePath": "/images/capital-eiren.png",
       "alt": "이레니아의 1960년대 아날로그 미래 수도 전경",
-      "prompt": "이레니아, 헬베티아 동맹, analog-future alternate history city. neutral alpine lakeside city, mediation halls, medical campuses, optical-crystal laboratories, rescue docks and radio relays. 의료위성, 국제중계, 구조선, orbital spacecraft and tracking infrastructure imagined through 1960s engineering. current events: 헬베티아 동맹, 추가 대응 표결 24시간 유보, 헬베티아 동맹, 하루 두 차례 위기 합동브리핑, 헬베티아 동맹, 알비온 공동체에 48시간 내 실무회담 제안. world time: 3026-07-23T15:00:00.000Z. cinematic editorial realism, no text, no logo, no real flag, no graphic violence, 16:9",
+      "prompt": "이레니아, 헬베티아 동맹, analog-future alternate history city. neutral alpine lakeside city, mediation halls, medical campuses, optical-crystal laboratories, rescue docks and radio relays. 의료위성, 국제중계, 구조선, orbital spacecraft and tracking infrastructure imagined through 1960s engineering. current events: 헬베티아 동맹, 추가 대응 표결 24시간 유보, 헬베티아 동맹, 하루 두 차례 위기 합동브리핑, 헬베티아 동맹, 알비온 공동체에 48시간 내 실무회담 제안. world time: 3026-07-23T18:00:00.000Z. cinematic editorial realism, no text, no logo, no real flag, no graphic violence, 16:9",
       "generated": false,
       "hotspots": [
         {
@@ -11449,10 +11400,10 @@
           "category": "politics",
           "x": 47,
           "y": 43,
-          "status": "watch",
-          "updatedAt": "3026-07-23T13:17:05.455Z",
-          "eventId": "tick-00000072-event-34",
-          "summary": "미라 니코스 정치·외교 기자는 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다."
+          "status": "active",
+          "updatedAt": "3026-07-23T17:19:45.882Z",
+          "eventId": "tick-00000073-event-33",
+          "summary": "마르코 메라 항만·공업지역 대표는 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다."
         },
         {
           "id": "eiren-alpine-science",
@@ -11472,9 +11423,9 @@
           "x": 76,
           "y": 57,
           "status": "active",
-          "updatedAt": "3026-07-23T13:02:32.727Z",
-          "eventId": "tick-00000072-event-32",
-          "summary": "테오 테온 국방부·우주사령부는 알비온 공동체에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다. 알비온 공동체의 답변을 받은 뒤 이레니아 외교회관에서 예비접촉 대표와 의제를 공개한다."
+          "updatedAt": "3026-07-23T15:36:14.118Z",
+          "eventId": "tick-00000073-event-34",
+          "summary": "엘라 칼리스 국가 지도자는 해협 보호령에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다. 해협 보호령이 접안 안전을 보장하면 첫 수송선이 다음 날 오전 이레니아 궤도항을 출발한다."
         },
         {
           "id": "eiren-medical-air",
@@ -11482,10 +11433,10 @@
           "category": "society",
           "x": 23,
           "y": 67,
-          "status": "watch",
-          "updatedAt": "3026-07-23T14:48:00.000Z",
-          "eventId": "tick-00000072-event-35",
-          "summary": "이반 이리스 산업협회는 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 첫 합동 브리핑은 이날 오후 이레니아 중앙기록관에서 열린다."
+          "status": "active",
+          "updatedAt": "3026-07-23T15:55:03.529Z",
+          "eventId": "tick-00000073-event-31",
+          "summary": "셀레네 다몬 노동·시민연대는 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 첫 합동 브리핑은 이날 오후 이레니아 중앙기록관에서 열린다."
         }
       ]
     },
@@ -11494,7 +11445,7 @@
       "date": "3026-07-23",
       "imagePath": "/images/capital-orion.png",
       "alt": "벨포트의 1960년대 아날로그 미래 수도 전경",
-      "prompt": "벨포트, 해협 보호령, analog-future alternate history city. rugged desert frontier capital in ochre mesas, rare-mineral elevators, propellant refineries, ceramic foundries, ore trains and radar dishes. 궤도 연료, 소행성 채굴, 장거리 레이더, orbital spacecraft and tracking infrastructure imagined through 1960s engineering. current events: 해협 궤도연료공사, 저온 궤도연료 저장탱크 시험 착수, 해협 보호령, 하루 두 차례 위기 합동브리핑, 오르비스 우주항공청, 오래된 측량자료에서 원거리 거대행성 후보 확인. world time: 3026-07-23T15:00:00.000Z. cinematic editorial realism, no text, no logo, no real flag, no graphic violence, 16:9",
+      "prompt": "벨포트, 해협 보호령, analog-future alternate history city. rugged desert frontier capital in ochre mesas, rare-mineral elevators, propellant refineries, ceramic foundries, ore trains and radar dishes. 궤도 연료, 소행성 채굴, 장거리 레이더, orbital spacecraft and tracking infrastructure imagined through 1960s engineering. current events: 해협 보호령, 추가 대응 표결 24시간 유보, 해협 보호령, 추가 대응 표결 24시간 유보, 해협 보호령, 하루 두 차례 위기 합동브리핑. world time: 3026-07-23T18:00:00.000Z. cinematic editorial realism, no text, no logo, no real flag, no graphic violence, 16:9",
       "generated": false,
       "hotspots": [
         {
@@ -11504,9 +11455,9 @@
           "x": 47,
           "y": 43,
           "status": "active",
-          "updatedAt": "3026-07-23T14:08:00.000Z",
-          "eventId": "tick-00000072-event-40",
-          "summary": "셀레네 아르노 산업협회는 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다."
+          "updatedAt": "3026-07-23T17:26:02.353Z",
+          "eventId": "tick-00000073-event-36",
+          "summary": "도리아 페랭 노동·시민연대는 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다."
         },
         {
           "id": "orion-orbital-fuel-corp",
@@ -11515,7 +11466,7 @@
           "x": 69,
           "y": 23,
           "status": "normal",
-          "updatedAt": "3026-07-23T15:00:00.000Z",
+          "updatedAt": "3026-07-23T18:00:00.000Z",
           "summary": "해협 궤도연료공사은 정상 운영 중이며 새로 공개된 특이사항이 없습니다."
         },
         {
@@ -11524,10 +11475,10 @@
           "category": "diplomacy",
           "x": 76,
           "y": 57,
-          "status": "active",
-          "updatedAt": "3026-07-23T12:08:00.000Z",
-          "eventId": "tick-00000072-event-36",
-          "summary": "테오 로랑 외교부는 화하 왕국에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다. 화하 왕국이 접안 안전을 보장하면 첫 수송선이 다음 날 오전 벨포트 궤도항을 출발한다."
+          "status": "watch",
+          "updatedAt": "3026-07-23T17:35:27.059Z",
+          "eventId": "tick-00000073-event-14",
+          "summary": "이반 솔라 국가 지도자는 해협 보호령에 응급 연료를 실은 수송선 3척과 의료기술단 24명을 보내기로 했다. 해협 보호령이 접안 안전을 보장하면 첫 수송선이 다음 날 오전 솔 인빅타 궤도항을 출발한다."
         },
         {
           "id": "orion-route-defense",
@@ -11535,10 +11486,9 @@
           "category": "security",
           "x": 23,
           "y": 67,
-          "status": "watch",
-          "updatedAt": "3026-07-23T14:29:49.091Z",
-          "eventId": "tick-00000072-orion-external-signal-event",
-          "summary": "국방부는 우발 충돌을 막기 위한 식별 절차와 민간선 호송 규칙을 다시 검토한다."
+          "status": "normal",
+          "updatedAt": "3026-07-23T18:00:00.000Z",
+          "summary": "항로방위본부은 정상 운영 중이며 새로 공개된 특이사항이 없습니다."
         }
       ]
     }
@@ -12020,6 +11970,54 @@
         "tick-00000065-nova-external-signal-fact"
       ],
       "meetingId": "prisma-economic-observatory-meeting-3026-07-23"
+    },
+    {
+      "id": "prisma-economic-observatory-tick-00000073",
+      "companyId": "prisma-economic-observatory",
+      "nationId": "nova",
+      "tickId": "tick-00000073",
+      "publishedAt": "3026-07-23T15:39:22.353Z",
+      "outlook": "정체",
+      "stressIndex": 58.8,
+      "growthMomentum": 52.5,
+      "pricePressure": 53.8,
+      "externalStress": 68.1,
+      "householdStrain": 60,
+      "uncertainty": 17,
+      "confidenceLow": 41.8,
+      "confidenceHigh": 75.8,
+      "summary": "프리즘 경제관측소는 코레이아 경기를 '정체' 국면으로 진단했다. 경제 불안 지수는 58.8, 추정 범위는 41.8~75.8다. 이 가운데 대외·궤도 위험의 영향이 가장 컸다.",
+      "featureContributions": [
+        {
+          "label": "대외·궤도 위험",
+          "impact": 21.1,
+          "direction": "up"
+        },
+        {
+          "label": "가계 부담",
+          "impact": 16.2,
+          "direction": "up"
+        },
+        {
+          "label": "물가·환율 압력",
+          "impact": 14.5,
+          "direction": "up"
+        },
+        {
+          "label": "성장 완충력",
+          "impact": 7.1,
+          "direction": "down"
+        }
+      ],
+      "sourceFactIds": [
+        "tick-00000072-fact-space",
+        "tick-00000072-fact-aic-discovery",
+        "tick-00000072-fact-national-industry",
+        "tick-00000072-arc-regional-71-nova-aster-trigger-fact",
+        "tick-00000073-nova-external-signal-fact",
+        "tick-00000073-arc-domestic-71-nova-escalation-fact"
+      ],
+      "meetingId": "prisma-economic-observatory-meeting-3026-07-24"
     }
   ],
   "economicResearchMeetings": [
@@ -12320,6 +12318,38 @@
         "tick-00000065-nova-external-signal-fact"
       ],
       "reportId": "prisma-economic-observatory-tick-00000065",
+      "status": "completed"
+    },
+    {
+      "id": "prisma-economic-observatory-meeting-3026-07-24",
+      "companyId": "prisma-economic-observatory",
+      "nationId": "nova",
+      "localDate": "3026-07-24",
+      "convenedAt": "3026-07-23T15:39:22.353Z",
+      "chair": "수석 경제관측관",
+      "participants": [
+        "거시전망실",
+        "물가·가계실",
+        "대외경제실",
+        "산업기술실",
+        "자료검증실"
+      ],
+      "agenda": [
+        "전일 전망 오차 점검",
+        "물가·환율·고용 동향",
+        "궤도 연료와 대외 위험",
+        "기술투자 완충력",
+        "기사 공개 범위 승인"
+      ],
+      "evidenceFactIds": [
+        "tick-00000072-fact-space",
+        "tick-00000072-fact-aic-discovery",
+        "tick-00000072-fact-national-industry",
+        "tick-00000072-arc-regional-71-nova-aster-trigger-fact",
+        "tick-00000073-nova-external-signal-fact",
+        "tick-00000073-arc-domestic-71-nova-escalation-fact"
+      ],
+      "reportId": "prisma-economic-observatory-tick-00000073",
       "status": "completed"
     }
   ],
@@ -16022,6 +16052,158 @@
         "inflation": 4.5,
         "unemployment": 5.8
       }
+    },
+    {
+      "nationId": "nova",
+      "tick": 73,
+      "recordedAt": "3026-07-23T18:00:00.000Z",
+      "powerScore": 67,
+      "stabilityScore": 68.7,
+      "legitimacyScore": 82.6,
+      "cohesionScore": 57.3,
+      "indicators": {
+        "approval": 82.65,
+        "publicAnxiety": 2.16,
+        "currencyPerSolar": 4.82,
+        "currencyDelta": 0.97,
+        "orbitalFuelDays": 13.46,
+        "gdpIndex": 104.1,
+        "inflation": 4.32,
+        "unemployment": 4.95
+      }
+    },
+    {
+      "nationId": "vesper",
+      "tick": 73,
+      "recordedAt": "3026-07-23T18:00:00.000Z",
+      "powerScore": 65.1,
+      "stabilityScore": 68.3,
+      "legitimacyScore": 81.7,
+      "cohesionScore": 60.9,
+      "indicators": {
+        "approval": 79.85,
+        "publicAnxiety": 1.48,
+        "currencyPerSolar": 3.77,
+        "currencyDelta": -3.19,
+        "orbitalFuelDays": 26.07,
+        "gdpIndex": 98.07,
+        "inflation": 4.43,
+        "unemployment": 5.32
+      }
+    },
+    {
+      "nationId": "helion",
+      "tick": 73,
+      "recordedAt": "3026-07-23T18:00:00.000Z",
+      "powerScore": 70.6,
+      "stabilityScore": 74.8,
+      "legitimacyScore": 89.3,
+      "cohesionScore": 68.8,
+      "indicators": {
+        "approval": 85.5,
+        "publicAnxiety": 0,
+        "currencyPerSolar": 4.14,
+        "currencyDelta": -0.17,
+        "orbitalFuelDays": 30.52,
+        "gdpIndex": 108.09,
+        "inflation": 4.25,
+        "unemployment": 4.72
+      }
+    },
+    {
+      "nationId": "aster",
+      "tick": 73,
+      "recordedAt": "3026-07-23T18:00:00.000Z",
+      "powerScore": 67,
+      "stabilityScore": 70.2,
+      "legitimacyScore": 83.4,
+      "cohesionScore": 63,
+      "indicators": {
+        "approval": 83.15,
+        "publicAnxiety": 1,
+        "currencyPerSolar": 4.51,
+        "currencyDelta": -0.5,
+        "orbitalFuelDays": 27.41,
+        "gdpIndex": 102.06,
+        "inflation": 4.36,
+        "unemployment": 5.09
+      }
+    },
+    {
+      "nationId": "marevia",
+      "tick": 73,
+      "recordedAt": "3026-07-23T18:00:00.000Z",
+      "powerScore": 64.6,
+      "stabilityScore": 67.9,
+      "legitimacyScore": 82,
+      "cohesionScore": 60.2,
+      "indicators": {
+        "approval": 80.41,
+        "publicAnxiety": 1.56,
+        "currencyPerSolar": 4.88,
+        "currencyDelta": -0.71,
+        "orbitalFuelDays": 24.62,
+        "gdpIndex": 96.09,
+        "inflation": 4.46,
+        "unemployment": 5.44
+      }
+    },
+    {
+      "nationId": "karsk",
+      "tick": 73,
+      "recordedAt": "3026-07-23T18:00:00.000Z",
+      "powerScore": 65.1,
+      "stabilityScore": 70.3,
+      "legitimacyScore": 88.3,
+      "cohesionScore": 62.6,
+      "indicators": {
+        "approval": 81.69,
+        "publicAnxiety": 2.98,
+        "currencyPerSolar": 5.25,
+        "currencyDelta": 0.31,
+        "orbitalFuelDays": 22.49,
+        "gdpIndex": 92.06,
+        "inflation": 4.5,
+        "unemployment": 5.69
+      }
+    },
+    {
+      "nationId": "eiren",
+      "tick": 73,
+      "recordedAt": "3026-07-23T18:00:00.000Z",
+      "powerScore": 69.4,
+      "stabilityScore": 72.3,
+      "legitimacyScore": 84.1,
+      "cohesionScore": 66.1,
+      "indicators": {
+        "approval": 84.1,
+        "publicAnxiety": 2.21,
+        "currencyPerSolar": 5.62,
+        "currencyDelta": -2.2,
+        "orbitalFuelDays": 32.19,
+        "gdpIndex": 110.07,
+        "inflation": 4.21,
+        "unemployment": 4.6
+      }
+    },
+    {
+      "nationId": "orion",
+      "tick": 73,
+      "recordedAt": "3026-07-23T18:00:00.000Z",
+      "powerScore": 63.3,
+      "stabilityScore": 67.2,
+      "legitimacyScore": 82.8,
+      "cohesionScore": 59.1,
+      "indicators": {
+        "approval": 81.38,
+        "publicAnxiety": 1,
+        "currencyPerSolar": 6.02,
+        "currencyDelta": -0.76,
+        "orbitalFuelDays": 23.02,
+        "gdpIndex": 90.07,
+        "inflation": 4.5,
+        "unemployment": 5.8
+      }
     }
   ],
   "marketIndices": [
@@ -16140,16 +16322,17 @@
       "participantNationIds": [
         "nova"
       ],
-      "stage": "trigger",
+      "stage": "escalation",
       "status": "active",
       "startedAtTick": 71,
       "deadlineTick": 89,
-      "lastAdvancedTick": 71,
-      "nextDecisionAt": "3026-07-23T18:00:00.000Z",
+      "lastAdvancedTick": 73,
+      "nextDecisionAt": "3026-07-24T00:00:00.000Z",
       "stakes": "표결 결과에 따라 위기예산 집행 속도와 내각의 협상 권한이 달라진다.",
       "publicGoal": "의회 과반의 책임 아래 연료·물가 대응 예산과 내각 권한을 확정하는 것",
       "sourceEventIds": [
-        "tick-00000071-arc-domestic-71-nova-trigger"
+        "tick-00000071-arc-domestic-71-nova-trigger",
+        "tick-00000073-arc-domestic-71-nova-escalation"
       ],
       "beats": [
         {
@@ -16162,6 +16345,17 @@
           "changeSincePrevious": "이 국면이 새로 시작됐다.",
           "nextDeadlineAt": "3026-07-23T18:00:00.000Z",
           "eventId": "tick-00000071-arc-domestic-71-nova-trigger"
+        },
+        {
+          "id": "arc-domestic-71-nova-beat-2",
+          "tick": 73,
+          "occurredAt": "3026-07-23T16:13:52.941Z",
+          "stage": "escalation",
+          "title": "코레이아 공화국 연정 일부, 위기예산 수정 없으면 표결 불참",
+          "summary": "연정 의원들이 연료 보조금의 종료 조건과 의회 감사권을 요구하며 표결 불참을 경고했다.",
+          "changeSincePrevious": "직전 판의 ‘코레이아 공화국 정부, 연료·물가 위기예산안 제출’ 이후 연정 의원들이 연료 보조금의 종료 조건과 의회 감사권을 요구하며 표결 불참을 경고했다.",
+          "nextDeadlineAt": "3026-07-24T00:00:00.000Z",
+          "eventId": "tick-00000073-arc-domestic-71-nova-escalation"
         }
       ],
       "visual": {
@@ -16180,11 +16374,11 @@
       "participantNationIds": [
         "orion"
       ],
-      "stage": "first-report",
+      "stage": "replication",
       "reportedAtTick": 71,
-      "nextReviewTick": 73,
-      "updatedAt": "3026-07-23T12:00:00.000Z",
-      "resultSummary": "최초 발표가 접수됐으며 아직 국가 정책이나 산업 수치에는 반영되지 않았다."
+      "nextReviewTick": 75,
+      "updatedAt": "3026-07-23T18:00:00.000Z",
+      "resultSummary": "서로 다른 연구기관 두 곳이 원자료와 시험 장치를 넘겨받아 독립 재현에 착수했다."
     },
     {
       "id": "tick-00000072-nova-serano-semiconductor-news-validation",
@@ -16198,6 +16392,20 @@
       "reportedAtTick": 72,
       "nextReviewTick": 74,
       "updatedAt": "3026-07-23T15:00:00.000Z",
+      "resultSummary": "최초 발표가 접수됐으며 아직 국가 정책이나 산업 수치에는 반영되지 않았다."
+    },
+    {
+      "id": "tick-00000073-vesper-frontier-orbital-news-validation",
+      "sourceEventId": "tick-00000073-vesper-frontier-orbital-news",
+      "category": "space",
+      "title": "프런티어 오비털, 재사용 궤도수송선 2단 회수 시험",
+      "participantNationIds": [
+        "vesper"
+      ],
+      "stage": "first-report",
+      "reportedAtTick": 73,
+      "nextReviewTick": 75,
+      "updatedAt": "3026-07-23T18:00:00.000Z",
       "resultSummary": "최초 발표가 접수됐으며 아직 국가 정책이나 산업 수치에는 반영되지 않았다."
     }
   ]
