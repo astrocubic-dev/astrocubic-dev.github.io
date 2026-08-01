@@ -15,7 +15,7 @@
     ],
     "oceanCoverage": 71
   },
-  "featuredNationId": "helion",
+  "featuredNationId": "nova",
   "nations": [
     {
       "id": "nova",
@@ -122,15 +122,12 @@
         "changeSincePreviousTick": -0.09,
         "resourceBasisKo": "물·얼음에서 전기분해한 수소·산소 추진제와 합성 메탄을 국내 정제·회수하고, 부족분은 궤도 교역로로 들여옵니다."
       },
-      "active": false,
+      "active": true,
       "lifecycle": {
-        "phase": "unified",
+        "phase": "stable",
         "originNationId": "nova",
         "parentNationIds": [],
-        "successorNationIds": [
-          "union-nova-vesper-139"
-        ],
-        "absorbedIntoNationId": "union-nova-vesper-139",
+        "successorNationIds": [],
         "stabilityScore": 68,
         "legitimacyScore": 80.5,
         "cohesionScore": 58
@@ -241,15 +238,12 @@
         "changeSincePreviousTick": -0.09,
         "resourceBasisKo": "물·얼음에서 전기분해한 수소·산소 추진제와 합성 메탄을 국내 정제·회수하고, 부족분은 궤도 교역로로 들여옵니다."
       },
-      "active": false,
+      "active": true,
       "lifecycle": {
-        "phase": "unified",
+        "phase": "stable",
         "originNationId": "vesper",
         "parentNationIds": [],
-        "successorNationIds": [
-          "union-nova-vesper-139"
-        ],
-        "absorbedIntoNationId": "union-nova-vesper-139",
+        "successorNationIds": [],
         "stabilityScore": 67.7,
         "legitimacyScore": 79.6,
         "cohesionScore": 61.9
@@ -690,7 +684,7 @@
         "suppliers": [
           {
             "nationId": "helion",
-            "sharePercent": 41,
+            "sharePercent": 43,
             "routeStatus": "원활"
           },
           {
@@ -699,9 +693,9 @@
             "routeStatus": "주의"
           },
           {
-            "nationId": "union-nova-vesper-139",
-            "sharePercent": 2,
-            "routeStatus": "제한"
+            "nationId": "nova",
+            "sharePercent": 0,
+            "routeStatus": "봉쇄"
           }
         ],
         "wholesalePricePerKg": 13.3,
@@ -949,125 +943,6 @@
         "stabilityScore": 64.6,
         "legitimacyScore": 77.9,
         "cohesionScore": 57.1
-      }
-    },
-    {
-      "id": "union-nova-vesper-139",
-      "slug": "union-nova-vesper-139",
-      "nameKo": "대한민국·미국 연합국",
-      "nameNative": "Union of Republic of Korea and United States",
-      "capitalKo": "워싱턴 D.C.",
-      "color": "#647f93",
-      "currencyCode": "UUS",
-      "currencyNameKo": "연합 솔라",
-      "newspaperNameKo": "연합데일리",
-      "newspaperNative": "Union Daily",
-      "newspaperMottoKo": "합의는 기록으로 완성된다",
-      "newspaperTaglineKo": "두 국가의 제도와 시민을 하나의 기록에 담습니다.",
-      "newspaperEditionLabelKo": "창간판",
-      "pressTheme": "federal",
-      "eraNameKo": "연합력",
-      "systemFoundedAt": "3026-08-01T00:00:00.000Z",
-      "legislatureNameKo": "연합의회",
-      "governmentForm": "연방 의원내각제",
-      "ideology": "자유민주주의와 시장경제와 자유민주주의와 시장경제의 연합헌정",
-      "technologyProfile": "AI 반도체, 배터리, 조선, 원자력, AI, 반도체 설계, 항공우주, 바이오",
-      "populationMillions": 99.6,
-      "metrics": {
-        "approval": 62,
-        "inflation": 4.5,
-        "unemployment": 5.18,
-        "gdpIndex": 100.58,
-        "currencyPerSolar": 4.17,
-        "currencyDelta": -0.69,
-        "reserves": 0,
-        "debtRatio": 49.28,
-        "coalitionSeats": 419,
-        "totalSeats": 780,
-        "militaryReadiness": 54.84,
-        "orbitalFuelDays": 26.5,
-        "publicAnxiety": 34
-      },
-      "purchasingPower": {
-        "currencyCode": "UUS",
-        "currencyNameKo": "연합 솔라",
-        "solarPerLocalUnit": 0.24,
-        "referenceItems": [
-          {
-            "id": "transit",
-            "labelKo": "수도권 대중교통",
-            "unitKo": "1회",
-            "priceLocal": 1.14,
-            "amountForOneUnit": 0.88
-          },
-          {
-            "id": "bread",
-            "labelKo": "식빵",
-            "unitKo": "1개",
-            "priceLocal": 0.96,
-            "amountForOneUnit": 1.04
-          },
-          {
-            "id": "meal",
-            "labelKo": "보통 식사",
-            "unitKo": "1끼",
-            "priceLocal": 5.04,
-            "amountForOneUnit": 0.2
-          },
-          {
-            "id": "electricity",
-            "labelKo": "가정용 전력",
-            "unitKo": "1 kWh",
-            "priceLocal": 0.18,
-            "amountForOneUnit": 5.6
-          },
-          {
-            "id": "orbital-fuel",
-            "labelKo": "궤도 추진제 도매",
-            "unitKo": "1 kg",
-            "priceLocal": 10.51,
-            "amountForOneUnit": 0.1
-          }
-        ]
-      },
-      "orbitalFuelSupply": {
-        "nationId": "union-nova-vesper-139",
-        "domesticPercent": 38,
-        "recoveryPercent": 14,
-        "importPercent": 48,
-        "suppliers": [
-          {
-            "nationId": "aster",
-            "sharePercent": 19,
-            "routeStatus": "원활"
-          },
-          {
-            "nationId": "marevia",
-            "sharePercent": 15,
-            "routeStatus": "원활"
-          },
-          {
-            "nationId": "helion",
-            "sharePercent": 14,
-            "routeStatus": "주의"
-          }
-        ],
-        "wholesalePricePerKg": 10.51,
-        "changeSincePreviousTick": 0,
-        "resourceBasisKo": "물·얼음에서 전기분해한 수소·산소 추진제와 합성 메탄을 국내 정제·회수하고, 부족분은 궤도 교역로로 들여옵니다."
-      },
-      "active": true,
-      "lifecycle": {
-        "phase": "integrating",
-        "originNationId": "vesper",
-        "parentNationIds": [
-          "nova",
-          "vesper"
-        ],
-        "successorNationIds": [],
-        "stabilityScore": 58.3,
-        "legitimacyScore": 62,
-        "cohesionScore": 53
       }
     }
   ],
@@ -1519,105 +1394,44 @@
       "tradeDependency": 40,
       "militaryTension": 3,
       "treaty": "trade"
-    },
-    {
-      "fromNationId": "union-nova-vesper-139",
-      "toNationId": "helion",
-      "trust": 38.1,
-      "tradeDependency": 79.4,
-      "militaryTension": 57.2,
-      "treaty": "none"
-    },
-    {
-      "fromNationId": "helion",
-      "toNationId": "union-nova-vesper-139",
-      "trust": 36.5,
-      "tradeDependency": 79,
-      "militaryTension": 58.5,
-      "treaty": "none"
-    },
-    {
-      "fromNationId": "union-nova-vesper-139",
-      "toNationId": "aster",
-      "trust": 84,
-      "tradeDependency": 58.5,
-      "militaryTension": 4.5,
-      "treaty": "none"
-    },
-    {
-      "fromNationId": "aster",
-      "toNationId": "union-nova-vesper-139",
-      "trust": 87.4,
-      "tradeDependency": 59.3,
-      "militaryTension": 1.8,
-      "treaty": "none"
-    },
-    {
-      "fromNationId": "union-nova-vesper-139",
-      "toNationId": "marevia",
-      "trust": 77,
-      "tradeDependency": 45,
-      "militaryTension": 5,
-      "treaty": "none"
-    },
-    {
-      "fromNationId": "marevia",
-      "toNationId": "union-nova-vesper-139",
-      "trust": 77,
-      "tradeDependency": 45,
-      "militaryTension": 5,
-      "treaty": "none"
-    },
-    {
-      "fromNationId": "union-nova-vesper-139",
-      "toNationId": "karsk",
-      "trust": 15,
-      "tradeDependency": 16,
-      "militaryTension": 76.5,
-      "treaty": "none"
-    },
-    {
-      "fromNationId": "karsk",
-      "toNationId": "union-nova-vesper-139",
-      "trust": 15,
-      "tradeDependency": 16,
-      "militaryTension": 76.5,
-      "treaty": "none"
-    },
-    {
-      "fromNationId": "union-nova-vesper-139",
-      "toNationId": "eiren",
-      "trust": 73,
-      "tradeDependency": 39,
-      "militaryTension": 4.5,
-      "treaty": "none"
-    },
-    {
-      "fromNationId": "eiren",
-      "toNationId": "union-nova-vesper-139",
-      "trust": 74.1,
-      "tradeDependency": 39.3,
-      "militaryTension": 3.6,
-      "treaty": "none"
-    },
-    {
-      "fromNationId": "union-nova-vesper-139",
-      "toNationId": "orion",
-      "trust": 78.4,
-      "tradeDependency": 37.9,
-      "militaryTension": 6.7,
-      "treaty": "none"
-    },
-    {
-      "fromNationId": "orion",
-      "toNationId": "union-nova-vesper-139",
-      "trust": 80.4,
-      "tradeDependency": 38.5,
-      "militaryTension": 5.4,
-      "treaty": "none"
     }
   ],
   "events": [
+    {
+      "id": "tick-00000138-event-9",
+      "tickId": "tick-00000138",
+      "occurredAt": "3026-07-31T19:31:38.182Z",
+      "nationIds": [
+        "vesper",
+        "helion"
+      ],
+      "category": "diplomacy",
+      "title": "미국, 중국에 48시간 내 실무회담 제안",
+      "summary": "엘라 슈타인 지역 대표 의원은 중국에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다. 중국의 답변을 받은 뒤 워싱턴 D.C. 외교회관에서 예비접촉 대표와 의제를 공개한다.",
+      "severity": 60,
+      "status": "active",
+      "visibility": "public",
+      "sourceActionIds": [
+        "tick-00000138-vesper-action-4"
+      ],
+      "metricChanges": {
+        "approval": 0.89,
+        "publicAnxiety": -0.99
+      },
+      "actorAgentId": "vesper-agent-06",
+      "actorName": "엘라 슈타인",
+      "actorTitle": "지역 대표 의원",
+      "locationKo": "워싱턴 D.C.",
+      "targetNationId": "helion",
+      "objective": "중국과의 군사적 긴장을 낮추고 민간 궤도선의 안전통항 조건을 확정하는 것",
+      "announcedMeasure": "중국에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다",
+      "publicQuote": "상대의 안보 우려를 확인하되 민간 수송 중단을 협상의 수단으로 삼아서는 안 된다",
+      "nextStep": "중국의 답변을 받은 뒤 워싱턴 D.C. 외교회관에서 예비접촉 대표와 의제를 공개한다",
+      "backgroundFactIds": [
+        "tick-00000138-vesper-external-signal-fact"
+      ],
+      "counterpartResponse": "중국 측의 공식 답변은 기사 마감 시각까지 공개되지 않았다"
+    },
     {
       "id": "tick-00000138-event-10",
       "tickId": "tick-00000138",
@@ -4104,34 +3918,113 @@
       ],
       "storyArcId": "arc-regional-136-karsk-orion",
       "storyArcBeatId": "arc-regional-136-karsk-orion-beat-2"
-    },
-    {
-      "id": "tick-00000139-lifecycle-union-nova-vesper-139-nova-vesper",
-      "tickId": "tick-00000139",
-      "occurredAt": "3026-07-31T22:31:04.615Z",
-      "nationIds": [
-        "union-nova-vesper-139",
-        "nova",
-        "vesper"
-      ],
-      "category": "politics",
-      "title": "대한민국·미국 연합국 출범",
-      "summary": "대한민국과 미국의 주민 승인과 양국 의회 비준이 완료돼 대한민국·미국 연합국이 출범했다.",
-      "severity": 90,
-      "status": "active",
-      "visibility": "public",
-      "sourceActionIds": [],
-      "metricChanges": {},
-      "actorName": "국제 국가승계위원회",
-      "actorTitle": "국가 지위 공동검증단",
-      "locationKo": "국제 중립회의장",
-      "objective": "높은 상호 신뢰와 교역 통합을 단일 헌정 질서로 전환하는 것",
-      "announcedMeasure": "대한민국과 미국의 주민 승인과 양국 의회 비준이 완료돼 대한민국·미국 연합국이 출범했다.",
-      "publicQuote": "국가의 지위 변경은 단일 선언이 아니라 주민 승인, 행정 승계, 국제 검증 기록으로 확정한다",
-      "nextStep": "60일 안에 연합의회 선거와 통합 예산, 공동 외교지휘 체계를 확정한다"
     }
   ],
   "editions": [
+    {
+      "id": "nova-daily-100",
+      "nationId": "nova",
+      "publishedAt": "3026-07-27T03:00:00.000Z",
+      "mastheadKo": "서울타임스",
+      "mastheadNative": "Seoul Times",
+      "editionType": "daily",
+      "leadHeadline": "국제 기술회의, 공개표준안 표결 시작…정부 대응과 일정 주목",
+      "articles": [
+        {
+          "id": "nova-tick-00000098-arc-civilization-90-tick-00000078-eiren-alpine-precision-news-validation-decision-article-1",
+          "headline": "국제 기술회의, 공개표준안 표결 시작…정부 대응과 일정 주목",
+          "deck": "안전 핵심부 공개·제조 공정 보호안 표결에 들어선 국제 기술회의에서 대한민국의 기술 경쟁력과 표준 확보가 관건으로 부상했다.",
+          "body": "국제 기술회의 국제표준심의회는 세계 표준시 7월 27일 오전 3:08 베른 국제검증소에서 안전 회로와 시험 규격을 공개하고 생산 공정은 기한부 면허로 보호하는 안을 표결에 부쳤다. 정부는 검증된 기술의 안전 기준과 이용 권한을 국제 합의로 확정하는 것을 이번 조치의 핵심 과제로 삼고 있다.\n\n국제 기술회의는 \"독점과 무상 공개 사이에서 안전을 공유하고 혁신의 비용을 보상하는 선을 찾았다\"라고 밝혔다. 대한민국은 차세대 우주 관측·AI 산업의 공급망과 기술 접근권을 바꿀 수 있는 결정에 직접 관여한 상태다.\n\n다음 일정은 12시간 안에 참여국과 기업이 서명 여부를 공개한다. 과학계는 공개 회로도와 반복 실험 자료를 검토한 뒤 성능·전력 수치를 독립적으로 재현해야 한다고 밝혔다.",
+          "category": "science",
+          "sourceEventIds": [
+            "tick-00000098-arc-civilization-90-tick-00000078-eiren-alpine-precision-news-validation-decision"
+          ],
+          "brief": {
+            "whatHappened": "국제 기술회의, 공개표준안 표결 착수.",
+            "whyItMatters": "이 결정은 차세대 우주 관측·AI 산업의 공급망과 기술 접근권을 바꿀 수 있다.",
+            "sinceLastEdition": "직전 판의 ‘실용시험 생산권 경쟁…공개 설계와 독점 면허안 맞서’ 이후 기술회의가 안전 핵심부는 공개하고 제조 공정은 기업별로 보호하는 절충안을 표결에 부쳤다.",
+            "nextDeadline": "12시간 안에 참여국과 기업이 서명 여부를 공개한다",
+            "arcLabel": "선택 · 3번째 전개"
+          },
+          "storyArcId": "arc-civilization-90-tick-00000078-eiren-alpine-precision-news-validation",
+          "storyArcBeatId": "arc-civilization-90-tick-00000078-eiren-alpine-precision-news-validation-beat-3",
+          "adultAnalysis": "심층 분석: . 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+        },
+        {
+          "id": "nova-tick-00000096-oasi-discovery-article-2",
+          "headline": "국제 우주항공연구원, 무꼬리 소천체에서 미약한 가스 분출…'암흑혜성' 후보",
+          "deck": "근지구 소천체의 궤도가 중력만으로 설명되는 경로에서 벗어났고 장시간 합성영상에서 희미한 가스 분출 방향이 확인됐다.",
+          "body": "국제 우주항공연구원 공동관측심의회는 세계 표준시 7월 26일 오후 10:47 스위스 베른 국제관측센터에서 근지구 소천체의 궤도가 중력만으로 설명되는 경로에서 벗어났고 장시간 합성영상에서 희미한 가스 분출 방향이 확인됐다고 발표했다.\n\n발표와 함께 확인된 관측·실험 기록은 다음과 같다. 국제 우주항공연구원은 근지구 소천체의 궤도가 중력만으로 설명되는 경로에서 벗어났고 장시간 합성영상에서 희미한 가스 분출 방향이 확인됐다고 발표했다.\n\n정부는 관측 결과와 불확실성을 세계 전역의 연구기관과 시민에게 동시에 공개하는 것을 이번 조치의 핵심 과제로 제시했다. 국제 우주항공연구원은 “위험 경보가 아니라 분류가 달라질 수 있다는 관측 결과다”라고 말했다.\n\n연구진이 밝힌 한계는 현재 계산으로 세계 충돌 위험은 없으며 분출 성분도 아직 확인되지 않았다.\n\n다음 일정은 행성방위망이 다음 근접 시기에 분광 관측을 실시하고 궤도 오차 범위를 매주 갱신한다. 과학계는 원자료 공개와 다른 관측망의 독립 검증이 뒤따라야 한다고 강조했다. 서울타임스는 발표 내용이 실제 일정과 기록으로 확인되는지 계속 점검한다.",
+          "category": "space",
+          "sourceEventIds": [
+            "tick-00000096-oasi-discovery"
+          ],
+          "brief": {
+            "whatHappened": "국제 우주항공연구원, 무꼬리 소천체에서 미약한 가스 분출…'암흑혜성' 후보.",
+            "whyItMatters": "위성 통신과 궤도 물류, 우주 운항 안전에 영향을 줍니다.",
+            "sinceLastEdition": "이번 판에서 처음 확인된 사건입니다.",
+            "nextDeadline": "행성방위망이 다음 근접 시기에 분광 관측을 실시하고 궤도 오차 범위를 매주 갱신한다"
+          },
+          "adultAnalysis": "심층 분석: . 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+        },
+        {
+          "id": "nova-tick-00000100-aic-discovery-article-3",
+          "headline": "국제 AI연구원, 빛으로 학습하는 광학 AI 가속기 첫 시연",
+          "deck": "메모리 소자와 광학 회로를 한 장의 칩에 올린 실험기가 빛의 세기와 파장을 조절하며 손글씨 분류 규칙을 현장에서 학습했다.",
+          "body": "국제 AI연구원 연구검증위원회는 세계 표준시 7월 27일 오전 11:15 대한민국 세라노 계산과학구에서 메모리 소자와 광학 회로를 한 장의 칩에 올린 실험기가 빛의 세기와 파장을 조절하며 손글씨 분류 규칙을 현장에서 학습했다고 발표했다.\n\n발표와 함께 확인된 관측·실험 기록은 다음과 같다. 국제 AI연구원은 메모리 소자와 광학 회로를 한 장의 칩에 올린 실험기가 빛의 세기와 파장을 조절하며 손글씨 분류 규칙을 현장에서 학습했다고 발표했다.\n\n정부는 AI 반도체와 차세대 컴퓨팅 기술의 성능·전력·한계를 시민과 연구기관이 함께 검증하게 하는 것을 이번 조치의 핵심 과제로 제시했다. 국제 AI연구원은 “빛이 답만 계산한 것이 아니라 틀린 답을 되짚어 회로의 가중치를 고쳤다는 점이 핵심이다”라고 말했다.\n\n연구진이 밝힌 한계는 실험 문제의 규모가 작고 광원 흔들림과 소자 편차가 커 대형 연산기로 확대할 수 있는지는 확인되지 않았다.\n\n다음 일정은 공개 시험실에서 온도를 달리한 재현 실험과 전자식 AI 가속기와의 전력 비교를 실시한다. 과학계는 공개 회로도와 반복 실험 자료를 검토한 뒤 성능·전력 수치를 독립적으로 재현해야 한다고 밝혔다. 서울타임스는 발표 내용이 실제 일정과 기록으로 확인되는지 계속 점검한다.",
+          "category": "science",
+          "sourceEventIds": [
+            "tick-00000100-aic-discovery"
+          ],
+          "brief": {
+            "whatHappened": "국제 AI연구원, 빛으로 학습하는 광학 AI 가속기 첫 시연.",
+            "whyItMatters": "검증에 성공하면 산업 기술과 연구 투자의 방향이 달라질 수 있습니다.",
+            "sinceLastEdition": "이번 판에서 처음 확인된 사건입니다.",
+            "nextDeadline": "공개 시험실에서 온도를 달리한 재현 실험과 전자식 AI 가속기와의 전력 비교를 실시한다"
+          },
+          "adultAnalysis": "심층 분석: . 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+        },
+        {
+          "id": "nova-tick-00000097-prisma-economic-report-article-4",
+          "headline": "프리즘 경제관측소, 대한민국 경기 '정체' 진단",
+          "deck": "프리즘 경제관측소는 대한민국 경기를 '정체' 국면으로 진단했다.",
+          "body": "프리즘 경제관측소 수석 경제관측관은 세계 표준시 7월 27일 오전 1:34 서울 프리즘 관측관에서 5개 분석실이 일일회의를 열어 경기 진단을 '정체' 단계로 정하고 위험 요인별 기여도를 공개했다.\n\n이번 조치의 배경에는 다음 공개 사건이 있다. 소행성 연료 채굴선의 귀환 일정이 지연됐다. 국제 AI연구원은 서로 다른 파장에 반응하는 이미지 센서 배열이 별도의 영상 전송 없이 센서 칩에서 구름과 연기 신호를 구분했다고 발표했다. 세라노 반도체가 저전력 AI 메모리 시제품 240개를 대학과 중소 장비업체의 공동 시험망에 공급하기로 했다. 세레스 해 연안의 공습과 미사일 공격이 이어지자 대한민국 정부가 자국 선박의 위험 해역 통과를 제한했다.\n\n정부는 대한민국 경제의 단기 위험을 수치와 사건 기록으로 분리해 시민과 정책 담당자에게 설명하는 것을 이번 조치의 핵심 과제로 제시했다. 프리즘 경제관측소는 “가장 큰 상승 요인은 대외·궤도 위험이며 단일 수치보다 42.9~74.7의 추정 범위를 함께 봐야 한다”라고 말했다.\n\n다음 일정은 다음 날 오전 3시 전일 전망 오차와 새 경제·외교 사건을 다시 검토한다. 의회와 시민사회는 책임 있는 공개 대응을 촉구했다. 서울타임스는 발표 내용이 실제 일정과 기록으로 확인되는지 계속 점검한다.",
+          "category": "economy",
+          "sourceEventIds": [
+            "tick-00000097-prisma-economic-report"
+          ],
+          "brief": {
+            "whatHappened": "프리즘 경제관측소, 대한민국 경기 '정체' 진단.",
+            "whyItMatters": "물가·일자리·환율과 기업 활동에 영향을 줄 수 있습니다.",
+            "sinceLastEdition": "이번 판에서 처음 확인된 사건입니다.",
+            "nextDeadline": "다음 날 오전 3시 전일 전망 오차와 새 경제·외교 사건을 다시 검토한다"
+          },
+          "adultAnalysis": "심층 분석: . 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
+        }
+      ],
+      "factIds": [
+        "tick-00000090-fact-aic-discovery",
+        "tick-00000091-fact-politics",
+        "tick-00000092-fact-aic-discovery",
+        "tick-00000092-fact-tick-00000084-aic-discovery-validation-replication",
+        "tick-00000092-arc-civilization-90-tick-00000078-eiren-alpine-precision-news-validation-trigger-fact",
+        "tick-00000094-fact-aic-discovery",
+        "tick-00000094-fact-tick-00000080-nova-serano-semiconductor-news-validation-validated",
+        "tick-00000095-arc-civilization-90-tick-00000078-eiren-alpine-precision-news-validation-escalation-fact",
+        "tick-00000096-fact-space",
+        "tick-00000096-fact-oasi-discovery",
+        "tick-00000096-fact-aic-discovery",
+        "tick-00000096-fact-national-industry",
+        "tick-00000097-nova-external-signal-fact",
+        "tick-00000097-fact-prisma-nowcast",
+        "tick-00000098-fact-aic-discovery",
+        "tick-00000098-fact-tick-00000088-nova-serano-semiconductor-news-validation-replication",
+        "tick-00000098-arc-civilization-90-tick-00000078-eiren-alpine-precision-news-validation-decision-fact",
+        "tick-00000099-fact-diplomacy",
+        "tick-00000099-arc-domestic-97-nova-trigger-fact",
+        "tick-00000100-fact-aic-discovery"
+      ]
+    },
     {
       "id": "vesper-daily-100",
       "nationId": "vesper",
@@ -20685,35 +20578,6 @@
         "tick-00000137-arc-regional-136-karsk-orion-trigger-fact",
         "tick-00000138-fact-aic-discovery"
       ]
-    },
-    {
-      "id": "union-nova-vesper-139-emergency-139",
-      "nationId": "union-nova-vesper-139",
-      "publishedAt": "3026-08-01T00:00:00.000Z",
-      "mastheadKo": "연합데일리",
-      "mastheadNative": "Union Daily",
-      "editionType": "emergency",
-      "leadHeadline": "대한민국·미국 연합국 출범",
-      "articles": [
-        {
-          "id": "union-nova-vesper-139-tick-00000139-lifecycle-union-nova-vesper-139-nova-vesper-article-1",
-          "headline": "대한민국·미국 연합국 출범",
-          "deck": "대한민국과 미국의 주민 승인과 양국 의회 비준이 완료돼 대한민국·미국 연합국이 출범했다.",
-          "body": "국제 국가승계위원회 국가 지위 공동검증단은 세계 표준시 8월 1일 오전 7:31 국제 중립회의장에서 대한민국과 미국의 주민 승인과 양국 의회 비준이 완료돼 대한민국·미국 연합국이 출범했다.\n\n이번 조치의 목적은 높은 상호 신뢰와 교역 통합을 단일 헌정 질서로 전환하는 것이다. 국제 국가승계위원회는 “국가의 지위 변경은 단일 선언이 아니라 주민 승인, 행정 승계, 국제 검증 기록으로 확정한다”라고 말했다.\n\n관련 표결과 정부 조치가 당분간 멈추거나 늦어질 수 있다. 공개 기록이 나오면 책임자와 다음 결정 시점이 분명해진다. 60일 안에 연합의회 선거와 통합 예산, 공동 외교지휘 체계를 확정한다.",
-          "category": "politics",
-          "sourceEventIds": [
-            "tick-00000139-lifecycle-union-nova-vesper-139-nova-vesper"
-          ],
-          "brief": {
-            "whatHappened": "대한민국과 미국의 주민 승인과 양국 의회 비준이 완료돼 대한민국·미국 연합국이 출범했다.",
-            "whyItMatters": "관련 표결과 정부 조치가 당분간 멈추거나 늦어질 수 있다. 공개 기록이 나오면 책임자와 다음 결정 시점이 분명해진다.",
-            "sinceLastEdition": "이전 판 이후 대한민국과 미국의 주민 승인과 양국 의회 비준이 완료돼 대한민국·미국 연합국이 출범했다는 사실이 새로 확인됐다.",
-            "nextDeadline": "60일 안에 연합의회 선거와 통합 예산, 공동 외교지휘 체계를 확정한다"
-          },
-          "adultAnalysis": "심층 분석: . 장기적으로 동맹 구조와 국내 정치의 상호작용을 관찰할 필요가 있다."
-        }
-      ],
-      "factIds": []
     }
   ],
   "worldEditorials": [
@@ -21145,6 +21009,60 @@
     }
   ],
   "cityScenes": [
+    {
+      "nationId": "eiren",
+      "date": "3026-07-28",
+      "imagePath": "/images/capital-eiren.png",
+      "alt": "베른의 1960년대 아날로그 미래 수도 전경",
+      "prompt": "베른, 스위스, analog-future alternate history city. neutral alpine lakeside city, mediation halls, medical campuses, optical-crystal laboratories, rescue docks and radio relays. 제약, 정밀기계, 금융, 의료기술, orbital spacecraft and tracking infrastructure imagined through 1960s engineering. current events: 스위스, 추가 대응 표결 24시간 유보, 스위스, 추가 대응 표결 24시간 유보, 스위스, 하루 두 차례 위기 합동브리핑. world time: 3026-07-28T21:00:00.000Z. cinematic editorial realism, no text, no logo, no real flag, no graphic violence, 16:9",
+      "generated": false,
+      "hotspots": [
+        {
+          "id": "eiren-alliance-council",
+          "label": "스위스평의회",
+          "category": "politics",
+          "x": 47,
+          "y": 43,
+          "status": "active",
+          "updatedAt": "3026-07-28T20:40:43.636Z",
+          "eventId": "tick-00000114-event-31",
+          "summary": "레온 엘리아 대표 언론사 편집국은 추가 군사·경제 조치의 표결을 24시간 유보하고 관계 부처의 합동 상황보고를 받기로 했다. 합동 보고가 끝나는 즉시 의회 대표단과 대응 수위를 다시 협의한다."
+        },
+        {
+          "id": "eiren-alpine-science",
+          "label": "알파인 정밀과학재단",
+          "category": "science",
+          "x": 69,
+          "y": 23,
+          "status": "active",
+          "updatedAt": "3026-07-28T19:42:32.727Z",
+          "eventId": "tick-00000114-aic-discovery",
+          "summary": "연구진이 4천96개의 저항변화 메모리 소자를 격자로 연결해 데이터를 저장한 자리에서 곧바로 행렬 계산을 수행하는 AI 가속기를 공개했다. 기억장치와 연산장치 사이를 오가는 전력을 줄여 소형 관측기와 이동식 번역기의 인공지능 처리를 가볍게 할 가능성이 제시됐다."
+        },
+        {
+          "id": "eiren-mediation-finance",
+          "label": "중재금융원",
+          "category": "diplomacy",
+          "x": 76,
+          "y": 57,
+          "status": "watch",
+          "updatedAt": "3026-07-28T17:19:12.000Z",
+          "eventId": "tick-00000113-event-35",
+          "summary": "테오 테온 국방부·우주사령부는 러시아에 48시간 안에 외교·궤도 실무회담을 열고 검문 절차와 민간선박 통과 명단을 공동 검증하자고 제안하기로 했다. 러시아의 답변을 받은 뒤 베른 외교회관에서 예비접촉 대표와 의제를 공개한다."
+        },
+        {
+          "id": "eiren-medical-air",
+          "label": "의료항공센터",
+          "category": "society",
+          "x": 23,
+          "y": 67,
+          "status": "active",
+          "updatedAt": "3026-07-28T20:18:54.545Z",
+          "eventId": "tick-00000114-event-34",
+          "summary": "셀레네 다몬 노동·시민연대는 매일 오전과 저녁 두 차례 합동 브리핑을 열어 수송·물가·안보 현황을 공개하기로 했다. 첫 합동 브리핑은 이날 오후 베른 중앙기록관에서 열린다."
+        }
+      ]
+    },
     {
       "nationId": "orion",
       "date": "3026-07-28",
@@ -22767,57 +22685,6 @@
           "status": "normal",
           "updatedAt": "3026-08-01T00:00:00.000Z",
           "summary": "항로방위본부은 정상 운영 중이며 새로 공개된 특이사항이 없습니다."
-        }
-      ]
-    },
-    {
-      "nationId": "union-nova-vesper-139",
-      "date": "3026-08-01",
-      "imagePath": "/images/capital-vesper.png",
-      "alt": "워싱턴 D.C.의 1960년대 아날로그 미래 수도 전경",
-      "prompt": "워싱턴 D.C., 대한민국·미국 연합국, analog-future alternate history city. cold alpine industrial metropolis, specialty-alloy mills, heavy machine works, radio-electronics towers, federal ministry blocks and freight rail. AI 반도체, 배터리, 조선, 원자력, AI, 반도체 설계, 항공우주, 바이오, orbital spacecraft and tracking infrastructure imagined through 1960s engineering. current events: 대한민국·미국 연합국 출범. world time: 3026-08-01T00:00:00.000Z. cinematic editorial realism, no text, no logo, no real flag, no graphic violence, 16:9",
-      "generated": false,
-      "hotspots": [
-        {
-          "id": "union-nova-vesper-139-federal-hall",
-          "label": "미국의회",
-          "category": "politics",
-          "x": 45,
-          "y": 43,
-          "status": "active",
-          "updatedAt": "3026-07-31T22:31:04.615Z",
-          "eventId": "tick-00000139-lifecycle-union-nova-vesper-139-nova-vesper",
-          "summary": "대한민국과 미국의 주민 승인과 양국 의회 비준이 완료돼 대한민국·미국 연합국이 출범했다."
-        },
-        {
-          "id": "union-nova-vesper-139-frontier-orbital",
-          "label": "프런티어 오비털",
-          "category": "space",
-          "x": 72,
-          "y": 23,
-          "status": "normal",
-          "updatedAt": "3026-08-01T00:00:00.000Z",
-          "summary": "프런티어 오비털은 정상 운영 중이며 새로 공개된 특이사항이 없습니다."
-        },
-        {
-          "id": "union-nova-vesper-139-industry-board",
-          "label": "첨단제조 거래소",
-          "category": "economy",
-          "x": 76,
-          "y": 58,
-          "status": "normal",
-          "updatedAt": "3026-08-01T00:00:00.000Z",
-          "summary": "첨단제조 거래소은 정상 운영 중이며 새로 공개된 특이사항이 없습니다."
-        },
-        {
-          "id": "union-nova-vesper-139-polar-command",
-          "label": "극지수송 사령부",
-          "category": "security",
-          "x": 23,
-          "y": 66,
-          "status": "normal",
-          "updatedAt": "3026-08-01T00:00:00.000Z",
-          "summary": "극지수송 사령부은 정상 운영 중이며 새로 공개된 특이사항이 없습니다."
         }
       ]
     }
@@ -27228,140 +27095,6 @@
         "tick-00000136-event-40",
         "tick-00000136-oasi-discovery",
         "tick-00000136-aic-discovery"
-      ]
-    },
-    {
-      "id": "union-nova-vesper-139-unification-139",
-      "nationId": "union-nova-vesper-139",
-      "tick": 139,
-      "occurredAt": "3026-08-01T00:00:00.000Z",
-      "kind": "unification",
-      "title": "대한민국·미국 연합국, 통일국가 출범",
-      "summary": "대한민국과 미국의 주민 승인과 양국 의회 비준이 완료돼 대한민국·미국 연합국이 출범했다.",
-      "powerScore": 58.9,
-      "sourceEventIds": [
-        "tick-00000139-lifecycle-union-nova-vesper-139-nova-vesper"
-      ]
-    },
-    {
-      "id": "nova-unified-139",
-      "nationId": "nova",
-      "tick": 139,
-      "occurredAt": "3026-08-01T00:00:00.000Z",
-      "kind": "unification",
-      "title": "대한민국, 대한민국·미국 연합국에 통합",
-      "summary": "대한민국과 미국의 주민 승인과 양국 의회 비준이 완료돼 대한민국·미국 연합국이 출범했다.",
-      "powerScore": 66.4,
-      "sourceEventIds": [
-        "tick-00000139-lifecycle-union-nova-vesper-139-nova-vesper"
-      ]
-    },
-    {
-      "id": "vesper-unified-139",
-      "nationId": "vesper",
-      "tick": 139,
-      "occurredAt": "3026-08-01T00:00:00.000Z",
-      "kind": "unification",
-      "title": "미국, 대한민국·미국 연합국에 통합",
-      "summary": "대한민국과 미국의 주민 승인과 양국 의회 비준이 완료돼 대한민국·미국 연합국이 출범했다.",
-      "powerScore": 64.5,
-      "sourceEventIds": [
-        "tick-00000139-lifecycle-union-nova-vesper-139-nova-vesper"
-      ]
-    },
-    {
-      "id": "union-nova-vesper-139-founding-origin",
-      "nationId": "union-nova-vesper-139",
-      "tick": 0,
-      "occurredAt": "3026-08-01T00:00:00.000Z",
-      "kind": "founding",
-      "title": "대한민국·미국 연합국, 현 체제 수립",
-      "summary": "연방 의원내각제 체제가 성립하며 국제질서에 참여했다.",
-      "powerScore": 58.9,
-      "sourceEventIds": []
-    },
-    {
-      "id": "union-nova-vesper-139-tick-00000139-lifecycle-union-nova-vesper-139-nova-vesper-crisis",
-      "nationId": "union-nova-vesper-139",
-      "tick": 139,
-      "occurredAt": "3026-07-31T22:31:04.615Z",
-      "kind": "crisis",
-      "title": "대한민국·미국 연합국, 국가적 위기 진입",
-      "summary": "대한민국과 미국의 주민 승인과 양국 의회 비준이 완료돼 대한민국·미국 연합국이 출범했다.",
-      "powerScore": 58.9,
-      "sourceEventIds": [
-        "tick-00000139-lifecycle-union-nova-vesper-139-nova-vesper"
-      ]
-    },
-    {
-      "id": "nova-tick-00000139-lifecycle-union-nova-vesper-139-nova-vesper-crisis",
-      "nationId": "nova",
-      "tick": 139,
-      "occurredAt": "3026-07-31T22:31:04.615Z",
-      "kind": "crisis",
-      "title": "대한민국, 국가적 위기 진입",
-      "summary": "대한민국과 미국의 주민 승인과 양국 의회 비준이 완료돼 대한민국·미국 연합국이 출범했다.",
-      "powerScore": 66.4,
-      "sourceEventIds": [
-        "tick-00000139-lifecycle-union-nova-vesper-139-nova-vesper"
-      ]
-    },
-    {
-      "id": "vesper-tick-00000139-lifecycle-union-nova-vesper-139-nova-vesper-crisis",
-      "nationId": "vesper",
-      "tick": 139,
-      "occurredAt": "3026-07-31T22:31:04.615Z",
-      "kind": "crisis",
-      "title": "미국, 국가적 위기 진입",
-      "summary": "대한민국과 미국의 주민 승인과 양국 의회 비준이 완료돼 대한민국·미국 연합국이 출범했다.",
-      "powerScore": 64.5,
-      "sourceEventIds": [
-        "tick-00000139-lifecycle-union-nova-vesper-139-nova-vesper"
-      ]
-    },
-    {
-      "id": "nova-collapse-139",
-      "nationId": "nova",
-      "tick": 139,
-      "occurredAt": "3026-08-01T00:00:00.000Z",
-      "kind": "collapse",
-      "title": "대한민국 체제 붕괴",
-      "summary": "국가 활동 상태가 중단됐다.",
-      "powerScore": 66.4,
-      "sourceEventIds": [
-        "tick-00000139-nova-daily-138-media-impact",
-        "tick-00000139-event-1",
-        "tick-00000139-event-2",
-        "tick-00000139-event-3",
-        "tick-00000139-event-4",
-        "tick-00000139-event-5",
-        "tick-00000139-event-17",
-        "tick-00000139-event-32",
-        "tick-00000139-event-37",
-        "tick-00000139-tick-00000124-aic-discovery-validation-replication",
-        "tick-00000139-lifecycle-union-nova-vesper-139-nova-vesper"
-      ]
-    },
-    {
-      "id": "vesper-collapse-139",
-      "nationId": "vesper",
-      "tick": 139,
-      "occurredAt": "3026-08-01T00:00:00.000Z",
-      "kind": "collapse",
-      "title": "미국 체제 붕괴",
-      "summary": "국가 활동 상태가 중단됐다.",
-      "powerScore": 64.5,
-      "sourceEventIds": [
-        "tick-00000139-vesper-daily-138-media-impact",
-        "tick-00000139-event-2",
-        "tick-00000139-event-6",
-        "tick-00000139-event-7",
-        "tick-00000139-event-8",
-        "tick-00000139-event-9",
-        "tick-00000139-event-10",
-        "tick-00000139-event-18",
-        "tick-00000139-tick-00000124-aic-discovery-validation-replication",
-        "tick-00000139-lifecycle-union-nova-vesper-139-nova-vesper"
       ]
     }
   ],
@@ -39676,25 +39409,6 @@
         "gdpIndex": 89.96,
         "inflation": 4.5,
         "unemployment": 5.8
-      }
-    },
-    {
-      "nationId": "union-nova-vesper-139",
-      "tick": 139,
-      "recordedAt": "3026-08-01T00:00:00.000Z",
-      "powerScore": 58.9,
-      "stabilityScore": 58.3,
-      "legitimacyScore": 62,
-      "cohesionScore": 53,
-      "indicators": {
-        "approval": 62,
-        "publicAnxiety": 34,
-        "currencyPerSolar": 4.17,
-        "currencyDelta": -0.69,
-        "orbitalFuelDays": 26.5,
-        "gdpIndex": 100.58,
-        "inflation": 4.5,
-        "unemployment": 5.18
       }
     }
   ],
